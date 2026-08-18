@@ -1,0 +1,68 @@
+/* LOS ALTHEN — epub_style.css */
+
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1em;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 28em;
+  padding: 0 1em;
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.6em;
+  font-weight: bold;
+  text-align: center;
+  margin: 1.2em 0 0.8em 0;
+}
+
+h2 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin: 1.4em 0 0.6em 0;
+}
+
+h3 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.1em;
+  font-weight: bold;
+  font-style: italic;
+  margin: 1.2em 0 0.5em 0;
+}
+
+p {
+  margin: 0 0 0.9em 0;
+  text-align: justify;
+  text-indent: 1.4em;
+}
+
+p:first-of-type {
+  text-indent: 0;
+}
+
+hr {
+  border: none;
+  text-align: center;
+  margin: 1.2em 0;
+}
+
+hr::after {
+  content: "* * *";
+  letter-spacing: 0.4em;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+body > section > header > h2 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}

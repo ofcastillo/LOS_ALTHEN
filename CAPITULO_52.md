@@ -1,0 +1,55 @@
+# LOS ALTHEN
+## Libro 3 — LA HERENCIA
+### Capítulo 14 — La herencia del viento
+
+---
+
+De todas las herencias, la del viento fue la que más tardó en entenderse: no se dejaba guardar.
+
+Durante meses, la humanidad había ido heredando la manera de los que llegaron: había heredado los nombres, las manos, la memoria, la duda, la llegada, el tiempo, el lugar, el silencio, la semilla, la herida, el alba, la tierra, el fuego, el agua. Todo lo que heredaba se podía tocar de alguna manera: la tierra se tocaba sembrándola, el fuego se tocaba mirándolo, el agua se tocaba bebiéndola, el tiempo se tocaba habitándolo. Pero había una herencia que no se dejaba tocar, y era la que la humanidad no sabía cómo recibir: la herencia del viento.
+
+No se sabía bien qué era. Los archivos de los primeros la mencionan — decían los que los habían leído — con una palabra que no se entendía del todo, que era a la vez sonido, y paso, y aliento, y cómo la nave se había abierto al cruzar la distancia, y cómo llegaban las noticias de un extremo a otro del valle, y la manera — sobre todo — en que se pasaban las cosas que no se podían agarrar. Pero nadie sabía cómo se heredaba el viento. La tierra se siembra; el fuego se enseña; el agua se comparte. ¿Cómo se hereda el viento? ¿Cómo se pasa lo que no se puede tocar, no porque sea una manera, sino porque es un paso? El viento no se sembraba, no se enseñaba, no se compartía: el viento se pasaba. Y la humanidad, que ya había heredado todo lo demás, se atascaba en esto: en cómo heredar un paso.
+
+Y la respuesta — como todas las respuestas del valle — llegó sin buscarla, de la mano de algo que no se podía tocar.
+
+Había en el valle una costumbre que venía de los primeros y que la humanidad había heredado sin entenderla del todo: la costumbre del silbo. Cuando alguien quería avisar de algo — del paso del que venía, de un peligro, de una alegría, de una visita — silbaba. Y el silbo viajaba. No cansaba al que lo silbaba: el silbo no se llevaba en la boca, no pesaba en las manos, no se gastaba al darse — el silbo se pasaba y seguía, íntegro, del que lo silbaba al que lo oía, y del que lo oía al que venía detrás, y así, de silbo en silbo, de boca en boca, la noticia cruzaba los campos y los valles y los pueblos, viajando no encima de las cosas sino entre ellas, movida por lo que los primeros llamaban el viento — el viento de las noticias, el viento que pasa lo que no se puede tocar.
+
+Y la humanidad, que llevaba meses intentando heredar el viento con maneras, comprendió por fin, una tarde, lo que había que comprender: con una costumbre.
+
+Fue Teresa la que lo vio. Teresa, la que había contestado a la señal, la que llevaba años oyendo todo, la que sabía que hay herencias que no se reciben con las manos sino con el oído. Estaba en la loma, con el valle abajo, con el silbo de alguien que venía entrando — el silbo de llegada, el de siempre, el que se pasaba en el valle desde antes de que hubiera historia — y al oírlo, se quedó quieta un momento, con el viento en la cara, y comprendió lo que llevaban meses sin comprender:
+
+—El viento no se hereda con las manos —dijo, para el que quisiera oírla, para el círculo, para la gente que se iba reuniendo—. Se hereda con el oído. El viento es lo que se pasa oyendo: el silbo, la noticia, el canto, la palabra que viene de lejos y llega sin manos. Ellos lo sabían: por eso sembraron el silbo. El silbo es la herencia del viento. Porque el silbo no se agarra, no pesa, no se gasta, no se guarda — y sin embargo se pasa. Y al pasarse, pasa lo que no se puede tocar: pasa la noticia, pasa la alegría, pasa la prisa, pasa el miedo, pasa la llegada. El silbo es el viento hecho herencia. Y el modo de heredar el viento es silbar — y oír. Aprender a pasar lo que no se toca, oyéndolo, y a recibirlo oyéndolo.
+
+La tarde del descubrimiento, el círculo se sentó en la loma y se hizo la pregunta que había que hacerse: ¿cómo se hereda lo que no se puede tocar? Y la respuesta surgió de la propia noche: se hereda pasándolo. Se hereda silbando. Se hereda contando. Se hereda oyendo. Porque hay cosas que no viajan en las manos: viajan en el viento. Y las cosas que viajan en el viento — comprendió la tarde entera, con el viento en la cara, con el silbo de llegada todavía sonando en el valle— son las que no se pueden quitar, porque no están en ningún sitio: están entre. Están en el paso de una boca a un oído. Están en la distancia que cruza una noticia. Están en el modo de pasar lo que no se toca, de uno a otro, sin que nadie pueda detenerlo.
+
+Y fue así como la humanidad heredó por fin el viento: no tomándolo, sino pasándolo. Heredar el viento era aprender a ser lo que lo pasa: era aprender a silbar, a contar, a oír, a recibir lo que llega sin manos y a pasarlo sin manos. Era aprender que hay herencias que no se guardan — que se viajan. Y que el que hereda el viento es el que lo pasa: el que oye un silbo y lo silba más lejos, el que recibe una noticia y la pasa, el que escucha un canto viejo y lo suelta al viento para el que viene detrás.
+
+---
+
+Y esa noche, en la loma, la humanidad entera se heredó el viento.
+
+No hubo ceremonia. No hubo documento. Hubo lo que siempre había habido en el valle, desde antes de que hubiera historia: hubo un silbo. Se levantó alguien del círculo y silbó — el silbo de la herencia, el que se pasaba desde los primeros, el que cruzaba los valles — y otro lo oyó, y lo repitió, y otro más lejos, y otro más allá, y la loma entera se fue llenando de ecos, de silbo en silbo, de boca en boca, de oído en oído, hasta que el viento entero del valle fue una sola noticia pasándose — la noticia de que la herencia del viento por fin se había heredado, no tomándola sino pasándola.
+
+Y al heredarla, comprendieron — en el valle, en la noche, con el viento, con los ecos — la última lección de los que vinieron de lejos: que la herencia entera, toda, era herencia del viento. Que la pregunta se pasa de boca en boca; que la duda se pasa de oído en oído; que el silencio se pasa entre; que la memoria se pasa en la canción; que la llegada se pasa en la mano abierta — pero que todo, todo, viaja en el viento: en el paso de uno a otro, en la distancia que cruza lo que no se toca, en el modo de pasar lo que no se agarra. Los primeros habían sembrado la herencia entera en el viento, para que no se pudiera robar, ni guardar, ni encerrar — porque lo que viaja en el viento no está en ningún sitio, y lo que no está en ningún sitio no se puede quitar: solo se puede pasar.
+
+Y comprendieron también — mientras los silbos se iban apagando sobre la loma, mientras el viento seguía, pasando lo que no se toca — que la herencia del viento se acabaría solo si dejara de haber paso: porque mientras hubiera una boca que silbara y un oído que oyera, el paso seguiría, y el viento seguiría pasando lo que no se puede tocar, de generación en generación, de valle en valle, de mundo en mundo, como había venido pasando desde que los primeros sembraron el silbo, esperando no que la humanidad lo heredara, sino que aprendiera a pasarlo.
+
+El viento no se guarda.
+Se pasa.
+Y el que lo pasa — lo supo el valle, esa noche, con los ecos apagándose— es el heredero.
+
+Y así, en el valle, silbo a silbo, la herencia del viento se sumó a las demás herencias, y la humanidad comprendió que ya tenía la heredad entera de los que llegaron: tenía los nombres, y las manos, y la memoria, y la duda, y la llegada, y el tiempo, y el lugar, y el silencio, y la semilla, y la herida, y el alba, y la tierra, y el fuego, y el agua, y el viento — y que todas, todas, eran una sola herencia: la herencia de lo que se pasa. La herencia de lo que no se toca. La herencia del paso mismo, del viento, del entre — la que los primeros habían sembrado para que se hiciera suya, no guardándola sino pasándola, de boca en boca, de oído en oído, de generación en generación.
+
+Y mientras la loma se quedaba en silencio, con el viento pasando, con los ecos del silbo todavía temblando en la noche, la herencia entera del valle siguió pasándose, sola, como se pasa el viento — sin manos, sin papeles, sin llaves — viva, entre, viajando, de quien la silba a quien la oye, y de quien la oye al que vendrá a oírla, hasta el final de los silbos.
+
+---
+
+Y esa noche, cuando la loma se fue quedando a oscuras y los últimos ecos se apagaron sobre el valle, la gente no se fue. Se quedó en grupos, pequeños, como se quedaba la gente cuando acababa de heredarse algo — no para hablar de lo heredado, que no se habla, sino para estar un rato más alrededor de lo que había pasado entre ellos. Y algunos, al quedarse, se pusieron a silbar bajito, sin darse cuenta, no para avisar de nada — no había nada que avisar — sino porque el silbo se les había quedado dentro, y el silbo, cuando se hereda, pide ser pasado otra vez, como el agua pide correr y el fuego pide luz. Silbaban bajito, aisladamente, sin esperar respuesta; y a otros se les respondía desde la cercanía, silbo a silbo, sin concierto, y el valle se fue llenando de una música mínima, de preguntas que no pedían fin, de pasos que no llegaban a ninguna parte y que sin embargo lo atravesaban todo.
+
+Marcos, que oía desde la loma, con la vieja costumbre del arqueólogo de oír lo que no se dice, comprendió que estaba oyendo lo que los primeros habían enseñado sin enseñarlo: que la herencia del viento era una manera de estar pasando siempre, antes que una noticia que se pasa una vez. Que el silbo no avisaba: acompañaba. Y que esa era la forma más honda de la herencia: no la que se entrega un día, sino la que se lleva dentro, y que sale sola — en un silbo bajito, en una canción tarareada, en una pregunta hecha en voz baja antes de dormir — sin necesidad de que nadie la convoque.
+
+Y entonces, en la oscuridad de la loma, alguien silbó el silbo de la llegada — el de siempre, el viejo, el que se oía en el valle desde antes de que hubiera historia — y todos callaron de golpe. El silbo se pasó, intacto, de boca en boca, hasta el otro extremo del valle, donde una casa encendió su luz. Y nadie supo por qué esa casa encendió su luz a esa hora. Pero la casa encendió su luz como enciende la luz un silbo: porque el silbo no avisa solo de quien llega. El silbo avisa de que hay alguien oyendo. Y al heredar el viento, heredaron también eso: la certidumbre de que siempre hay alguien oyendo, de que siempre hay una boca dispuesta a pasar lo que le llega, de que el paso nunca se interrumpe del todo mientras haya un oído despierto.
+
+La loma volvió al silencio suave de las herencias recién recibidas. Y en ese silencio, con la luz de la casa lejana encendida como única respuesta, la herencia del viento quedó completada — no como una cosa que se había recibido, sino como una manera que se había reconocido: la de estar oyendo, la de estar pasando, la de estar entre. El modo de los primeros, sembrado en el silbo, aprendida por fin no mandándola sino pasándola, del mismo modo en que el viento pasa lo que no se toca, sin manos, sin papeles, sin llaves — de oído en oído, hasta el final de los silbos.
+
+*Continuará en el Capítulo 15 — La herencia de la hoguera y del regreso.*
