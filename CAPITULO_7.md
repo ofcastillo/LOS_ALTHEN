@@ -26,7 +26,7 @@ Eran 144 letras. Un fragmento de ADN de 144 pares de bases, escondido en una reg
 
 —Lo sé —dijo Valeria, y su voz sonó rara, porque no sonaba como la voz de una científica que ha encontrado un resultado imposible: sonaba como la voz de una científica que ha encontrado un resultado imposible *dos veces*—. Por eso te lo estoy enseñando a ti. Porque no me atrevo a enseñárselo a nadie más.
 
-Diego se quedó mirando la pantalla un rato largo.
+Diego miró la pantalla un rato largo.
 
 —¿Y qué es? —dijo, al fin—. ¿Qué son las 144 letras?
 
@@ -62,7 +62,7 @@ Y en el centro exacto de la estructura, rodeado de simetría, había una secuenc
 
 Era un mensaje.
 
-Valeria se quedó mirando la pantalla, con el corazón golpeándole en las sienes. Había pasado de «esto es imposible» a «esto es un mensaje» sin pasar por ningún sitio intermedio, y el salto la había dejado sin aliento.
+Valeria miró la pantalla, con el corazón golpeándole en las sienes. Había pasado de «esto es imposible» a «esto es un mensaje» sin pasar por ningún sitio intermedio, y el salto la había dejado sin aliento.
 
 No le contó nada a nadie esa noche. Se quedó sentada en la cocina, con la taza de café fría, mirando las 144 letras que habían estado dentro de ella, dentro de todos, desde antes de que existiera la palabra «humano».
 
@@ -176,7 +176,7 @@ Sonó más clara.
 
 Como si la cueva la estuviera escuchando.
 
-Marcos se quedó inmóvil, con la linterna temblándole, mirando a Valeria.
+Marcos permaneció inmóvil, con la linterna temblándole, mirando a Valeria.
 
 —Vuelve a silbarla —dijo.
 
@@ -184,7 +184,7 @@ Marcos se quedó inmóvil, con la linterna temblándole, mirando a Valeria.
 
 —Sí puedes —dijo Marcos, quebrado—. Vuelve a silbarla.
 
-Valeria cerró los ojos. Se quedó en silencio, en la oscuridad, en el frío de la cueva, con el sonido de la melodía dentro de la cabeza.
+Valeria cerró los ojos. Permaneció en silencio, en la oscuridad, en el frío de la cueva, con el sonido de la melodía dentro de la cabeza.
 
 Y volvió a silbarla.
 

@@ -38,7 +38,7 @@ Una niña del valle, una de las que más preguntas hacía, se le acercó una tar
 
 —Es de todas —dijo Lyra—. Es de este río, y del mar que no he visto, y de la nave, y del valle, y de la canción que me sale cuando miro las dos cosas a la vez. Y esa canción, hija, no la canta nadie solo. La canta el que se queda en el medio. Y quedarse en el medio, es estar en el único sitio desde el que se ve el mundo entero.
 
-La niña se quedó mirándola, con los ojos grandes, con las palabras de Lyra girándole dentro, sin entender del todo, entendiendo mucho.
+La niña la miró, con los ojos grandes, con las palabras de Lyra girándole dentro, sin entender del todo, entendiendo mucho.
 
 —¿Y tú te quedas en el medio? —preguntó.
 
@@ -76,7 +76,7 @@ No se lo dijo a nadie. No pidió consejo. Se quedó mirando el río, mucho tiemp
 
 —¿Te vas? —le preguntó Aldor, desde atrás, como quien ya conoce las despedidas.
 
-Lyra no se volvió. Se quedó mirando el río y la noche, con la melodía dentro, con la pregunta que le dolía.
+Lyra no se volvió. Miró el río y la noche, con la melodía dentro, con la pregunta que le dolía.
 
 —No sé —dijo—. Nunca lo he sabido. Era la única cosa que no podía cantar: no saber si te vas o te quedas cuando no tienes ningún sitio al que llamar casa.
 
@@ -84,7 +84,7 @@ Lyra no se volvió. Se quedó mirando el río y la noche, con la melodía dentro
 
 —¿Y tú cuál es? —preguntó Lyra, con una rareza que no quiso nombrar.
 
-Aldor se quedó mucho tiempo en silencio, con las manos en el agua, como siempre.
+Aldor permaneció mucho tiempo en silencio, con las manos en el agua, como siempre.
 
 —El mío —dijo, al fin— era Vaelen. Y lo olvidé. Y ahora mi sitio es este río, y esta tierra, y estos niños. No me eligieron: me eligió el tiempo. Llevo tanto tiempo aquí que ya no sé si estoy plantado o enterrado, y las dos cosas me sirven, porque las dos me quedan. Y sé que tu sitio, Lyra, no es ningún lugar con nombre. Tu sitio es el medio. Y el medio no se encuentra: se es. Y tú ya lo eres. Tú no tienes que irte a ningún sitio para ser del medio: tú eres del medio donde estés. La nave es del medio. Pero tú, que naciste en la nave, eres del medio del mundo, y el medio del mundo no está en ninguna parte. Está en ti.
 
@@ -94,7 +94,7 @@ Lyra miró el río durante mucho tiempo. Las palabras de Aldor le entraban despa
 
 —Se sabe —dijo Aldor— porque cuando lo sabes, dejas de buscar. Y tú has dejado de buscar, Lyra, antes de saberlo. Llevas años sin buscar ningún sitio: cantando, sosteniendo, estando en el medio de todos. Dejaste de buscar hace tanto tiempo que ni siquiera te acordabas de que buscabas. Y eso, hija, es lo único que hay que saber: que el que deja de buscar, ya ha encontrado. Que el sitio no estaba en ningún mapa: estaba en ti, y era el sitio desde el que sostenías a los demás sin pedir nada a cambio.
 
-Lyra se quedó en silencio, con la noche encima, con el río sonando, con la verdad de Aldor entrándole despacio, como entra el agua en la tierra.
+Lyra permaneció en silencio, con la noche encima, con el río sonando, con la verdad de Aldor entrándole despacio, como entra el agua en la tierra.
 
 —Entonces —dijo, al fin, con la voz que ya no llevaba la soledad, que sonaba como sonaba cuando cantaba—, no tengo que irme. No tengo que elegir. No tengo que buscar. Lo único que tengo que hacer es lo que he hecho toda la vida, sin darme cuenta de que era hogar: quedarme en el medio, cantar, sostener, y ser el paso.
 
@@ -108,7 +108,7 @@ No partió, y comprendió que no había estado a punto de partir: había estado 
 
 No se fue esa noche. No se fue nunca.
 
-Se quedó en el valle, cantando, sosteniendo, estando en el medio. Y con los años, los que llegaban de los dos lados la buscaban como se busca a los que sostienen: para que les nombrara lo que sentían, para que les cantara la canción que les faltaba, para que les diera la voz que no tenían. Y Lyra se quedó, año tras año, en el medio, cantando las dos canciones, la del mar y la del río, hasta que el mar y el río se le juntaron en una sola agua, hasta que dejó de saber cuál era cuál, hasta que la frontera se le disolvió para siempre.
+Permaneció en el valle, cantando, sosteniendo, estando en el medio. Y con los años, los que llegaban de los dos lados la buscaban como se busca a los que sostienen: para que les nombrara lo que sentían, para que les cantara la canción que les faltaba, para que les diera la voz que no tenían. Y Lyra se quedó, año tras año, en el medio, cantando las dos canciones, la del mar y la del río, hasta que el mar y el río se le juntaron en una sola agua, hasta que dejó de saber cuál era cuál, hasta que la frontera se le disolvió para siempre.
 
 —¿Y tú de dónde eres? —le preguntaba la gente, a veces, como se lo preguntaban a todos los que se quedaban.
 
@@ -142,6 +142,6 @@ Eso era el paso.
 
 Eso era la tierra de en medio, que no está en ningún lugar y que sin embargo está en el corazón de todos los que la transitan.
 
-Y sigue estando, hoy, en la canción de los que se despiden y se quedan, en la que nombra los dos lados a la vez, en la que se canta cuando alguien no sabe si va o se queda — la canción que les enseña a los que buscan un hogar que el hogar se hace viviendo, y no se encuentra en ningún mapa.
+Y muchos años después, alguien que volvía al valle se detuvo al oír, entre el silbido del río y el silbido del mar, una canción con las dos aguas dentro — y no supo si la cantaba alguien vivo o la cantaba el valle entero, y esperó junto a la orilla hasta que la canción terminó, sin atreverse a preguntar de quién era.
 
 *Continuará en el Capítulo 14 — La casa que no se eligió.*

@@ -116,7 +116,17 @@ El hombre con el auricular no respondió. Hizo un gesto con la cabeza, y dos de 
 
 Los cuatro escaparon.
 
-No fue un escape limpio. Fue un escape a pedazos, con Amara corriendo con Mara en brazos por calles que no conocía, con Valeria detrás, con Marcos abriendo puertas de verjas y portales que no eran de nadie, con Ivo cerrando las salidas detrás de ellos con la eficacia de quien ha pasado la vida escapando de gente que lo buscaba.
+No fue un escape limpio. Fue un escape a pedazos.
+
+Amara corrió con Mara en brazos por calles que no conocía, calles con nombres que no había leído nunca, calles que olían a fritanga y a humedad. Corría sin mirar atrás, porque mirar atrás era devolverse, y llevaba a la niña apretada contra el pecho, y la niña no lloraba, no gritaba, llevaba la mejilla pegada al cuello de su madre y el papel de la espiral aplastado entre las dos, sin decir nada.
+
+—No mires atrás, cariño —dijo Amara, sin aliento.
+
+Valeria corría detrás, con la mochila golpeándole la espalda, contando las esquinas como contaba los pasajes, leyendo los nombres de las calles como se leen las notas al pie. No sabía dónde estaban. Sabía que no había que saberlo, lo que no se sabía no se podía decir, ni bajo presión.
+
+Marcos iba delante, abriendo puertas que no eran de nadie: una verja que cedía con el hombro, un portal de obra sin llave, un trastero que olía a años de nadie. Entraba, sujetaba la puerta, los dejaba pasar, y la cerraba detrás, como quien cose un camino y va guardando la aguja.
+
+Ivo iba el último, cerrando la calle detrás de ellos con la eficacia de quien ha pasado la vida escapando de gente que lo buscaba. Ellos cruzaban y él no cruzaba; ellos doblaban la esquina y él se quedaba un segundo, la mano en un portal ajeno, mirando el coche que no se había movido; y los alcanzaba cuando ya era otro el que podía seguirlos, si es que alguien los seguía.
 
 Llegaron a un piso franco que Ivo tenía desde hacía años, un piso sin nombre, sin contrato, sin rastro, donde guardaba las cosas que no podía tener en casa. Un piso con una ventana que daba a un patio, con una cocina sin usar, con un sofá que olía a años de nadie.
 

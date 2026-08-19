@@ -168,21 +168,11 @@ Aldor se acercó, despacio, con la lentitud de los viejos, y puso su mano vieja 
 
 —Ahora sí —dijo Aldor—. Ahora sí que has llegado.
 
-—¿Adónde? —preguntó Vex.
-
-—A casa —dijo Aldor—. A la única casa que no se elige, hijo, sino que se llega a ser. A la que construyes con las palmas abiertas, tendido hacia el que llega. A la que no está en ningún mapa porque no se encuentra: se es.
-
 Vex miró el valle, el río, la tierra, los niños que corrían.
 
-Y comprendió que la División, para él, se había resuelto.
-
-No había elegido entre dos hogares. Había elegido ser el puente entre los dos. Había dado el mar a los que partían, y había abierto las manos al valle, y había dejado de preguntarse de dónde era, porque había descubierto que de dónde es uno importa menos que hacia dónde está tendido.
-
-El que es la mano tendida, del único sitio que es, es del sitio donde el que viene lo pueda tomar.
-
-Y Vex, con las manos abiertas a los lados, en medio de la explanada del valle, era eso. Eso, y nada más. Y eso, comprendió, era más que nada: era todo.
-
 Los que se habían ido ya no estaban. Los que se habían quedado estaban a su alrededor. El mar estaba repartido. El valle estaba entero.
+
+Y Vex, el que había llegado a reclamar, el que había tardado dos años en bajar la mano, se quedó de pie, con las palmas abiertas, tendido hacia el mundo, ignorando que el gesto que acababa de hacer era el gesto que iban a repetir, siglos después, los humanos del valle delante de la misma mano de piedra, cuando llegara la hora de responder a la señal.
 
 Y Vex, el que había llegado a reclamar, el que había tardado dos años en bajar la mano, se quedó de pie, con las palmas abiertas, tendido hacia el mundo, ignorando que el gesto que acababa de hacer era el gesto que iban a repetir, siglos después, los humanos del valle delante de la misma mano de piedra, cuando llegara la hora de responder a la señal.
 

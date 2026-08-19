@@ -76,10 +76,14 @@ La que los Mayores habían sembrado sin saber que era una semilla.
 
 La que los que se quedaron habían pasado durante siglos sin saber que era una llave.
 
+Y años después, cuando la nave ya era noticia vieja y el valle ya era sitio, el mundo quiso hacer con la canción lo que hacía con todo lo demás: guardarla. Vinieron a la loma con grabadoras y con papeles pautados y con musicólogos, y dijeron que los nombres estaban torcidos y que había que corregirlos, que Veda habría de decirse Veda y Aldor Aldor, que la historia había que escribirla bien. Y la vieja que guardaba la melodía — nieta de la nieta de Mea — se sentó delante de los que venían a fijarla y dijo:
+
+—Si la transcriben, la matan. Esto que oyen va vivo porque cada boca lo corrompe un poco, y ese corromperse a lo largo de siglos es la vida misma. Ustedes quieren dejarla exacta, firmada. Y lo exacto se fija, y lo fijado se acaba. Los nombres que quieren corregir están torcidos por las bocas que los pasaron; escribirlos bien es borrar a los que los dijeron. Hay cosas, señores, que se guardan justamente porque no se escriben. Y esta es la primera.
+
+Los musicólogos, que entendían de notas y no de bocas, se fueron sin entender del todo. Y la canción siguió pasándose, torcida y viva, como seguía el valle entero: sin dejarse fijar, sin dejarse guardar, extendiéndose en las bocas de los que la cantaban.
+
 La herencia de la memoria.
 
-No era un recuerdo: era una manera.
-
-Y la manera — como la canción, como el pueblo, como la herencia entera — seguía extendiéndose, sin saberse, sin custodiar, sin poderse perder, pasando de los que la vivieron a los que llegaban, hasta volverse la vida misma de los que vienen.
+Y esa noche, la vieja no transcribió nada: cantó la canción entera, de principio a fin, delante de la puerta, mirando el valle oscuro, y al terminar se quedó un rato callada, con las manos sobre el delantal, oyendo cómo la melodía seguía sonando sola, en el aire, por los siglos que llevaba dentro.
 
 *Continuará en el Capítulo 4 — La herencia de la duda.*

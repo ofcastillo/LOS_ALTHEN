@@ -17,7 +17,7 @@ CSS_PATH = os.path.join(BASE_DIR, "epub_style.css")
 LIBROS = [
     {"book": "LIBRO I", "name": "LA SEMILLA", "start": 1, "end": 19, "safe": "La_Semilla"},
     {"book": "LIBRO II", "name": "LA DIVISIÓN", "start": 20, "end": 38, "safe": "La_Division"},
-    {"book": "LIBRO III", "name": "LA HERENCIA", "start": 39, "end": 57, "safe": "La_Herencia"}
+    {"book": "LIBRO III", "name": "LA HERENCIA", "start": 39, "end": 53, "safe": "La_Herencia"}
 ]
 
 

@@ -202,24 +202,14 @@ No era una puerta que se abre.
 
 Era una mano que baja.
 
-Y todos comprendieron, al mismo tiempo, sin que nadie lo dijera, lo que significaba una mano que baja: que ya no había que mirar al cielo esperando. Que los que habían prometido volver, volvían. Y que la mano, bajada, no se quedaba ofrecida para siempre: se quedaba ofrecida el tiempo que fuera necesario, esperando, como la había esperado la señal, a que alguien la tomara.
-
 —¿La tomamos? —preguntó Valeria, en voz baja.
 
 Nadie respondió.
-
-Porque todos sabían que tomar la mano no era la decisión difícil. La decisión difícil era qué iba a pasar después, quién la iba a tomar, y qué se llevaría, y qué se perdería, y qué dos hogares iban a tener que elegir los que la tomaran.
 
 La mano baja no preguntaba si estaban listos.
 
 La mano baja, simplemente, estaba ahí. Tendida. A la espera.
 
 Y el círculo, de pie delante de ella, con la luna encima, con el río sonando, con la señal allá arriba respondiendo, se quedó mirándola, sin atreverse todavía, sabiendo que la primera mano que se tendiera al mismo tiempo hacia la mano baja sería la primera respuesta de la humanidad.
-
-Y que la respuesta no se podía dar a la ligera.
-
-Porque la respuesta era, a la vez, la elección que la División había estado esperando miles de años.
-
-La de decir: mi casa es este mundo. Y la de decir: mi casa también es el otro.
 
 *Continuará en el Capítulo 5 — La mano que se tiende.*

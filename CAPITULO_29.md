@@ -66,7 +66,7 @@ Mara pensó mucho tiempo.
 
 —Se quiere con la escucha —dijo, al fin, con la voz que le salía sola, la del Archivo—. Se quiere oyendo. El hogar que no puedes pisar, lo puedes oír. Lo llevas en cómo te lo contaron, y en cómo lo cuentas tú, y en cómo lo van a oír los que vengan después. El hogar que no se puede pisar se convierte en voz, sin perderse. Y la voz, cuando se pasa de mano en mano, se vuelve camino. Y el camino, joven, es el que une los dos hogares. Se recorre, más que se pisa. Y recorrerlo, es querer a los dos a la vez.
 
-La joven se quedó mirando el río durante mucho tiempo, con las palabras de Mara dentro, con la melodía sonando en algún sitio que no se podía señalar.
+La joven miró el río durante mucho tiempo, con las palabras de Mara dentro, con la melodía sonando en algún sitio que no se podía señalar.
 
 —¿Y tú —preguntó—, de dónde eres?
 
@@ -78,7 +78,7 @@ La joven la miró largo rato. Y entonces, sin decir nada, le tendió la palma ab
 
 Mara le tendió la suya.
 
-Y las dos se quedaron así, palma contra palma, en la orilla del río, sin mirarse, sin decirse nada, con el agua pasando, con el otoño pasando, con la guarda misma pasando de una a otra.
+Y así, palma contra palma, en la orilla del río, sin mirarse, sin decirse nada, con el agua pasando, con el otoño pasando, con la guarda misma pasando de una a otra, estuvieron las dos un largo rato.
 
 ---
 
@@ -86,11 +86,11 @@ Esa noche, Mara fue a ver la vieja casa de los registros.
 
 Nadie sabía ya qué había dentro. La casa de Veda había quedado cerrada durante siglos, cubierta de hiedra, olvidada, hasta que alguien — no se supo quién — la había encontrado, y la había abierto, y había encontrado lo que la vieja había guardado: las semillas, las palabras, los dibujos, los nombres, los métodos, los registros de todo lo que se podía medir. No saquearon la casa. No se llevaron nada. La dejaron como estaba, y con el tiempo la casa se convirtió en lo que había sido siempre: un sitio donde se puede entrar a mirar las cosas que la vieja guardó, a condición de no querer guardarlas tú.
 
-Mara entró. Se quedó en medio de la habitación, con los estantes alrededor, con la luz de la tarde entrando por la ventana, con el polvo flotando en la luz.
+Mara entró y se detuvo en medio de la habitación, con los estantes alrededor, con la luz de la tarde entrando por la ventana, con el polvo flotando en la luz.
 
 No tocó nada.
 
-Se quedó mirando los estantes durante mucho tiempo, los registros de lo que se podía medir, las semillas, las palabras, los nombres.
+Miró los estantes durante mucho tiempo, los registros de lo que se podía medir, las semillas, las palabras, los nombres.
 
 Y comprendió — con la comprensión que no se mide, con la que le había enseñado la noche de la guarda, la tarde con la joven de la nave, la mañana con la mano baja — que la casa de los registros no era su herencia.
 
@@ -106,7 +106,7 @@ Y se detuvo en la puerta, mirando el valle, con la noche cayendo, con la mano ba
 
 —No soy la heredera de la guarda —dijo, en voz baja, para ella, para la vieja Veda que ya no estaba, para Tolina, para todos los que habían guardado—. Soy la que sigue soltando. Soy la heredera de la suelta. Heredé de los que guardaron la custodia de no guardar. Y eso, que me lo entregaron los que más guardaron, es lo único que no se puede medir, lo único que no se puede archivar, lo único que no se puede poseer.
 
-Y se quedó ahí, en la puerta de la casa de los registros, con el valle delante, con la heredad de la suelta dentro, sin advertir que detrás de ella, silenciosa, estaba la joven de la nave, que había venido a buscarla, y que la había oído, y que guardaría, ella también, esa noche, en el sitio que la guarda deja abierto para que entren los que van a seguir soltando.
+Y desde la puerta de la casa de los registros, con el valle delante, con la heredad de la suelta dentro, sin advertir que detrás de ella, silenciosa, estaba la joven de la nave, que había venido a buscarla, y que la había oído, y que guardaría, ella también, esa noche, en el sitio que la guarda deja abierto para que entren los que van a seguir soltando.
 
 ---
 
@@ -126,15 +126,15 @@ Mara miró la mano baja, la espiral, la estrella, el valle.
 
 —No sé si en el valle —dijo Mara—. No sé si en un sitio. Creo que la guarda no se queda en un sitio. Se queda en el paso. Y el paso, Valeria, no está en ningún mapa: está entre. Está entre los que vienen y los que se quedan, entre el mar y el río, entre la señal y la mano. Y yo, que soy de los dos lados, voy a estar en el entre. No sé cómo se hará. Pero llevo toda la vida estando en el entre, sin saber cómo se llamaba. Ahora sé cómo se llama: se llama la guarda.
 
-Los cinco se quedaron mirándola. Y Tolina, que estaba detrás, con Elna a su lado, sonrió con la sonrisa de los que han esperado tanto que ya no les importa esperar.
+Los cinco la miraron. Y Tolina, que estaba detrás, con Elna a su lado, sonrió con la sonrisa de los que han esperado tanto que ya no les importa esperar.
 
 —Ahora sí —dijo Tolina, con la voz quebrada—. Ahora sí que has entendido lo que vine a entregar. No traía un tesoro, Mara: traía la guarda. Y la guarda, al fin, tiene guardiana. No una: una que va a cuidar que haya muchas. Porque la heredera de la guarda no es la que guarda: es la que enseña a guardar, y enseña a soltar, y pasa la manera, y hace que la custodia no se quede en una sola mano, y que el paso se quede abierto.
 
-Se quedaron en silencio, los siete, delante de la mano baja, con la estrella encendida arriba, con la pregunta de los dos hogares viva entre todos, con la heredera de la guarda en el centro, sin sospechar todavía todo lo que iba a tener que soltar, y soltar, y soltar, para mantener abierto el paso que los que partieron y los que se quedaron habían construido con manos entregadas, con manos que no guardaban, con manos que se tendían.
+Los siete, delante de la mano baja, con la estrella encendida arriba, con la pregunta de los dos hogares viva entre todos, con la heredera de la guarda en el centro, callaron, sin sospechar todavía todo lo que iba a tener que soltar, y soltar, y soltar, para mantener abierto el paso que los que partieron y los que se quedaron habían construido con manos entregadas, con manos que no guardaban, con manos que se tendían.
 
 ---
 
-Esa noche, Mara se quedó sola en el valle, junto a la mano baja.
+Esa noche, Mara estuvo sola en el valle, junto a la mano baja.
 
 No había luna. El cielo estaba lleno de estrellas, y entre ellas, quieta, blanca, la estrella de la señal, la que los del valle llamaban la Cueva, la que ya no parpadeaba porque no era un faro: era un camino.
 
@@ -142,7 +142,7 @@ Mara se sentó en la tierra, delante de la mano, con las manos abiertas sobre la
 
 —No voy a guardar nada —dijo, en voz baja, a la mano, a la estrella, a la noche, a todos los que vendrían después—. Voy a estar en el medio. Voy a ser el sitio. Y el sitio, quien lo es, lo habita. Y habitarlo, me da miedo, porque no sé si voy a ser suficiente. Pero llevo toda la vida oyendo el Archivo, y el Archivo no me ha pedido nunca que sea suficiente: me ha pedido que escuche. Y escuchar, ahora lo sé, es la guarda. Escuchar a los dos lados, sin tachar a ninguno, manteniendo abierto el paso.
 
-Se quedó en silencio, con el cielo encima, con la mano baja delante, con la heredad de la suelta dentro.
+Calló, con el cielo encima, con la mano baja delante, con la heredad de la suelta dentro.
 
 —Seré el sitio —dijo, por fin, sin temblor—. Hasta que el sitio no me necesite. Y cuando el sitio no me necesite, me iré de él, y dejaré el sitio abierto, para que lo ocupen otros. Porque la guarda, ahora lo sé, se deja. Es suelta. Es abrir el paso para que por él pasen los que vienen, y avisarse de que el paso se queda abierto aunque la que lo cuidaba se marche.
 

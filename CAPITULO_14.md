@@ -6,7 +6,7 @@
 
 La cueva vacía se veía más grande sin la mano.
 
-Los cuatro se quedaron en la entrada, después de que los coches negros se perdieran a lo lejos, mirando el agujero que había quedado en la pared del fondo, el sitio donde había estado la palma abierta de piedra, el sitio donde había estado la espiral roja. No era un agujero bonito. Era un agujero con los bordes rotos, con el polvo de la sierra todavía en el suelo, con el olor del metal en el aire.
+Los cuatro permanecieron en la entrada, después de que los coches negros se perdieran a lo lejos, mirando el agujero que había quedado en la pared del fondo, el sitio donde había estado la palma abierta de piedra, el sitio donde había estado la espiral roja. No era un agujero bonito. Era un agujero con los bordes rotos, con el polvo de la sierra todavía en el suelo, con el olor del metal en el aire.
 
 —Se la han llevado con una sierra —dijo Marcos, ronco, con las manos temblándole—. Doce mil años en la pared, y se la han llevado con una sierra, como quien se lleva un cenicero de un hotel.
 
@@ -26,7 +26,7 @@ Marcos calló. El río cantaba. El valle estaba en paz, como si nada hubiera pas
 
 —¿Y a dónde vamos? —dijo Amara—. Nos han quitado todo. Los datos, las grabaciones, la piedra, la cueva. ¿A dónde vamos?
 
-Ivo se quedó mirando el valle, el río, el agujero de la cueva, la línea del horizonte donde los coches negros habían desaparecido.
+Ivo miró el valle, el río, el agujero de la cueva, la línea del horizonte donde los coches negros habían desaparecido.
 
 —Vamos a donde va la pregunta —dijo—. Vamos a la única parte que no han podido llevarse. Vamos a casa de Amara. Vamos al sótano de las grabaciones. Y vamos a hacer lo único que sabemos hacer: hacernos preguntas.
 
@@ -92,7 +92,7 @@ Mara miró a los cuatro, uno por uno, con la mirada limpia y quieta de los niño
 
 —Que no importa —dijo Mara, con la naturalidad de quien dice una cosa obvia—. La piedra era solo un recordatorio. Como la servilleta. Como las grabaciones. Son recordatorios. Y los recordatorios se pueden perder. Pero lo que recuerdan, no.
 
-Los cuatro se quedaron mirando a la niña, en el silencio del sótano, entre las cajas de grabaciones.
+Los cuatro miraron a la niña, en el silencio del sótano, entre las cajas de grabaciones.
 
 —¿Y qué es lo que recuerda la piedra? —preguntó Ivo, con un tono raro, el del que está a punto de entender algo.
 
@@ -124,7 +124,7 @@ Mara lo miró. Y con una sonrisa que no era de niña, que era de algo mucho más
 
 —Entonces —dijo Mara, con la lógica perfecta de los niños—, ya está todo bien. Vertex se llevó la piedra. Pero nosotros tenemos la puerta. Y la puerta, a diferencia de la piedra, no se puede llevar.
 
-Los cuatro se quedaron mirando a la niña, a la que había entrado en el sótano a la una de la mañana, a la que había dicho lo que ninguno de ellos había sabido decir, a la que llevaba la melodía dentro desde antes de nacer.
+Los cuatro miraron a la niña, a la que había entrado en el sótano a la una de la mañana, a la que había dicho lo que ninguno de ellos había sabido decir, a la que llevaba la melodía dentro desde antes de nacer.
 
 —¿Y qué hacemos ahora con la puerta? —dijo Valeria, al fin, bajando el tono.
 

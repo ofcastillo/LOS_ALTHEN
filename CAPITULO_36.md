@@ -42,7 +42,7 @@ El que respondió fue un joven de la nave, de los que habían nacido a bordo, de
 
 —Importa —dijo— si al final nos vamos a reconocer. Si vas a reconocerme a mí cuando me cruce por tu calle sin saber que soy de otro mundo, y si yo te voy a reconocer a ti cuando me cruces por la mía sin saber que eres de este. Todo lo demás — señaló en dirección a los micrófonos, a las cámaras, a los titulares— es ruido. El encuentro se reconoce en una mirada, y eso no se firma en un documento. Y eso, señor, no se puede poner en la portada.
 
-El periodista viejo se quedó con la frase dentro, con el joven que la había dicho, con la mirada del joven, con la certeza de que acababa de oír lo que llevaba toda la vida buscando a ciegas. Y no publicó la frase. No porque no fuera buena: porque era demasiado buena para un titular. Porque le daba la razón a quien le había dicho que la verdad no cabe en la portada.
+El periodista viejo se llevó la frase dentro, con el joven que la había dicho, con la mirada del joven, con la certeza de que acababa de oír lo que llevaba toda la vida buscando a ciegas. Y no publicó la frase. No porque no fuera buena: porque era demasiado buena para un titular. Porque le daba la razón a quien le había dicho que la verdad no cabe en la portada.
 
 ---
 
@@ -108,19 +108,19 @@ Esa tarde, en el valle, la última pieza de Valeria, la que no tenía titular, s
 
 —Se viven —dijo, a su lado, una mujer del valle, una de las que no salían en los periódicos, una de las que habían estado sentadas en la explanada el día en que iban a cortar la flor—. Se viven, y se pasan de mano en mano, como se pasa el silbo, como se pasan las preguntas. Y cuando se pasan de mano en mano, no hay titular que las recoja: no hace falta. Se recogen viviéndolas. Y eso, hijo, es el único periódico que nunca va a quebrar.
 
-El periodista joven se quedó con las palabras dentro, con la mujer al lado, con la flor delante, con la verdad sin titular delante de él, entera, viva, esperando.
+El periodista joven se llevó las palabras dentro, con la mujer al lado, con la flor delante, con la verdad sin titular delante de él, entera, viva, esperando.
 
 Y comprendió que había llegado al valle a cubrir una noticia, y que se iba a quedar a vivir un modo. Y que la manera, que no se podía publicar, era la única noticia que importaba.
 
 Esa noche no escribió nada.
 
-Se quedó en el valle, delante de la flor, mirando el cielo, con la nave arriba, con la gente alrededor, y le escribió, sin papel, a la única persona que las noticias se escriben para siempre: a sí mismo, dentro de cincuenta años.
+Permaneció en el valle, delante de la flor, mirando el cielo, con la nave arriba, con la gente alrededor, y le escribió, sin papel, a la única persona que las noticias se escriben para siempre: a sí mismo, dentro de cincuenta años.
 
 Y lo que le escribió fue esto, y no lo publicó nunca, y no hacía falta:
 
 *«El día que llegué al valle, creí que venía a contar la historia. Y la historia me contó a mí. No era un titular. Era un modo. Y la manera me dejó entrar. Y ahora sé que el modo se habita, más que se escribe. Y que habitarla es la única noticia que valía la pena. La única que no se publica. La única que vive.»*
 
-Y se quedó, delante de la flor de dos colores, en el valle, con la verdad sin titular dentro, viva, esperando.
+Y permaneció, delante de la flor de dos colores, en el valle, con la verdad sin titular dentro, viva, esperando.
 
 Y no la tituló nunca.
 

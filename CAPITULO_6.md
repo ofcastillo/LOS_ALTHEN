@@ -4,9 +4,9 @@
 
 ---
 
-Los que se quedaron no tuvieron una fiesta de despedida. No tuvieron nada que despedir, porque no se iban a ningún sitio. Se quedaron, y quedarse, descubrieron, era la forma más silenciosa de desaparecer.
+No hubo fiesta de despedida para los que se quedaron. No tuvieron nada que despedir, porque no se iban a ningún sitio. Se quedaron, y quedarse, descubrieron, era la forma más silenciosa de desaparecer.
 
-Porque los que se quedaron no siguieron siendo Ysann.
+Porque los que eligieron quedarse no siguieron siendo Ysann.
 
 Siguieron siendo lo que cada uno eligió ser: los que enseñaban, los que guardaban, los que cantaban, los que dudaban. Pero el nombre, la lengua, el recuerdo del mar plateado y del peso del aire — todo eso se fue diluyendo, generación tras generación, como se diluye una gota de tinta en un río que no se detiene.
 
@@ -42,7 +42,7 @@ Aldor la miró, y comprendió que Lyra no estaba perdiendo la memoria: estaba ga
 
 —Entonces —dijo Lyra, con una sonrisa limpia, sin sombras—, ya no tengo que buscar el puerto. Porque estoy en el puerto. Y no sabía que se podía estar en el puerto.
 
-Aldor no dijo nada. Se quedó mirando el río, mirando a Lyra, mirando el mundo que habían elegido y que los estaba eligiendo a ellos. Y sintió, con una claridad dolorosa y agradecida, que Lyra ya no era de Vaelen.
+Aldor no dijo nada. Miró el río, miró a Lyra, miró el mundo que habían elegido y que los estaba eligiendo a ellos. Y sintió, con una claridad dolorosa y agradecida, que Lyra ya no era de Vaelen.
 
 Era de aquí.
 
@@ -70,7 +70,7 @@ Aldor miró los pedazos del cuenco, miró a su hijo, y dijo, con la suavidad má
 
 —Entonces —dijo Aldor—, no estás vacío. Estás lleno de cosas que no has contado porque no te habías dado cuenta de que ya eran tuyas. El cuenco de Vaelen se rompió. Pero tú no eres el cuenco, hijo. Tú eres lo que cabe en todos los cuencos a la vez. Y lo que cabe en ti ya no cabe en un cuenco.
 
-Vex se quedó mirando los pedazos de barro, y luego el cielo, y luego el valle, y luego las manos de su padre, que eran viejas y estaban quietas y estaban esperando.
+Vex miró los pedazos de barro, y luego el cielo, y luego el valle, y luego las manos de su padre, que eran viejas y estaban quietas y estaban esperando.
 
 —¿Y qué hago con los pedazos? —preguntó.
 
@@ -134,11 +134,11 @@ Y contó, al final, lo que había aprendido.
 
 —¿Y eso —preguntó Vex, a punto de llorar y sin querer—, es perder o es ganar?
 
-Aldor se quedó pensando mucho tiempo. El río cantaba. Las estrellas estaban quietas. Los niños del valle dormían.
+Aldor pensó mucho tiempo. El río cantaba. Las estrellas estaban quietas. Los niños del valle dormían.
 
 —No lo sé, hijo —dijo, al fin—. Pero he llegado a una edad en la que ya no me importa la diferencia. Perder y ganar son la misma cosa cuando lo que pierdes se convierte en lo que ganas. Perdí Vaelen. Gané este río. Perdí la lengua. Gané el modo de preguntar. Perdí el recuerdo. Y no sé si al final me quedará algo, pero sé que lo que me quede, será de aquí.
 
-Vex se quedó mirando el río, y luego miró su propio reflejo en el agua, y vio en él, por primera vez, no al hijo que había venido a reclamar, sino al hombre que había decidido quedarse.
+Vex miró el río, y luego miró su propio reflejo en el agua, y vio en él, por primera vez, no al hijo que había venido a reclamar, sino al hombre que había decidido quedarse.
 
 —Padre —dijo—. Voy a hacerte una pregunta. Y quiero que me la contestes como me la contestabas cuando era niño, sin adornos, sin consuelo. La pregunta es: si supieras que todo esto, este valle, este río, estos niños, esta manera de preguntar, si supieras que todo esto se va a perder algún día, como se perdió Vaelen, como se perdió la lengua, como se pierde todo… ¿habrías venido igual?
 

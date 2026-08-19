@@ -136,11 +136,29 @@ El valle enmudeció.
 
 Ardal no respondió. No podía. Se quedó mirando a la niña, a la que estaba arrodillada delante de él, a la que le había hecho la pregunta que nadie le había hecho en cincuenta años, y sintió que algo, en el centro de su pecho, se abría, y que lo que se abría no era la mano: era él.
 
-—¿Quién soy? —repitió, como quien dice una palabra que no reconoce—. ¿Quién soy… cuando nadie me mira?
+Y entonces Ardal se rió.
 
-No hubo respuesta. No había respuesta. Solo la pregunta, flotando en el aire del valle, delante de la mano vacía, delante de la cueva vacía, delante del hombre que había pasado toda su vida llenándose de respuestas para no tener que oír esa pregunta.
+Fue una risa seca, rota, la del que sabe que algo le ha rozado y no quiere llamarlo por su nombre. Se enderezó en el asiento, se ajustó el abrigo, se pasó la mano por el pelo.
 
-Y entonces, la mano de piedra se movió.
+—¿Esa es la gran pregunta? —dijo, y el tono de dueño volvió a su garganta como vuelve la voz a quienes la han fingido durante cincuenta años—. ¿Eso es todo lo que la mano tenía que decir? ¿Una pregunta de niños? Pensé que me traían un tesoro, y me traen un proverbio.
+
+Se volvió hacia sus hombres.
+
+—¡Tómenla! —gritó, y por un instante la orden sonó como habían sonado todas las órdenes de su vida—. ¡Llévensela! ¡Llévense a la niña y llévense la mano! ¡Esta noche se termina el circo!
+
+Los hombres con auriculares no se movieron.
+
+Fue la primera vez en cincuenta años que una orden de Ardal no se cumplía. No por desobediencia: por desconcierto. Los hombres habían oído la pregunta igual que él. Y la orden, que siempre había sido un muro, se les deshizo en la mano como una hoja.
+
+—¡He dicho que tomen a la niña! —repitió Ardal, y la voz se le rompió en la segunda vuelta, en el punto exacto donde cincuenta años de autoridad no tenían más repuesto—. ¡Tómenla!
+
+—Nadie va a tomar a la niña —dijo Mara, todavía de rodillas, en voz baja—. Usted lo sabe. Ya lo sabe. La pregunta no se obedece. La pregunta se hace. Y usted acaba de hacérsela dos veces.
+
+Ardal se quedó mirando a la niña. Y entonces, en un movimiento que nadie esperaba, dejó de mirarla y se plantó delante de la mano de piedra, con la nariz a un palmo de la espiral.
+
+—¡Abre! —le gritó a la mano, con las manos sobre la piedra—. ¡Ábrete! ¡Muéstrame lo que hay dentro! ¡Dámelo! ¡Yo soy el doctor Ardal! ¡Llevo cincuenta años esperándote! ¡No puedes estar vacía para mí!
+
+Y la mano de piedra se movió.
 
 No se abrió. No se cerró. Se movió. La palma, que llevaba doce mil años mirando al cielo, se giró, lentamente, hasta quedar de frente a Ardal. Como si la mano hubiera estado esperando, toda su vida, a que alguien hiciera esa pregunta. Y al girarse, la espiral de la palma brilló un instante, roja, cálida, y en el brillo, Ardal vio lo que había estado buscando durante cincuenta años.
 

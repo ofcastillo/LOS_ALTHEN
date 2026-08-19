@@ -40,6 +40,8 @@ La comisión se retiró a deliberar, con sus discursos y sus protocolos y sus ca
 
 Ninguno de los dos entendía nada. Porque los dos venían del mismo sitio: los dos venían a buscar el envase, y los dos confundían la herencia con la cosa.
 
+Y en esa deliberación, a los dos bandos les nació una tercera idea, la que acabaría por gustarles a los dos: que quizá la herencia no necesitaba ni una puerta que se abriera ni una puerta que se sellara, porque tenía términos más dóciles. Necesitaba un nombre. Necesitaba que la herencia tuviera un heredero — un heredero oficial, con acta, con sueldo, con archivo, con calendario de entregas, con un ministerio que lo respaldara —, alguien a quien la humanidad pudiera señalar y decir ahí está, ese guarda lo nuestro, ese contesta por ello. Depositarlo todo en una sola persona, para que la herencia dejara de ser de todos, que era lo incómodo, y pasara a ser de uno, que era lo administrable. La comisión no se daba cuenta de que pensaba la herencia como se piensa una tenencia: nombrar a alguien que la custodie no es heredarla, es asignarla. Pero eso lo averiguaría en el propio valle, al buscar al heredero, y al toparse con lo que no tenía nombre a quién ponerle.
+
 ---
 
 La comisión volvió al valle al día siguiente, con las dos decisiones redactadas, para leérselas al círculo. Los que querían abrir: abrirían el Archivo, tomarían la mano y la semilla y los amplios registros que decían que había dentro, y se llevarían todo a un gran edificio donde la humanidad entera pudiera verlo, protegido, sellado, asegurado. Los que querían cerrar: cerrarían la puerta de la cueva, la sellarían con la tecnología de los que no tienen tecnología que se parezca, y prohibirían que se volviera a hablar de ello, para que la humanidad siguiera durmiendo el sueño de los que no saben.
@@ -104,10 +106,8 @@ Primero fue una flor.
 
 Luego un pequeño campo.
 
-Hoy, ya, era un valle entero de flores de dos colores, creciendo sin llaves, sin custodios, sin que nadie pudiera tomarlo, porque no era una cosa: era una manera.
+Hoy, ya, era un valle entero de flores de dos colores, creciendo sin llaves, sin custodios, sin que nadie pudiera tomarlo.
 
-Y la manera —lo sabía ya el círculo, lo sabía ya la joven de la comisión, lo sabían todos los que se habían sentado alguna vez—, seguía extendiéndose, sola, paciente, imparable, de palma tendida en palma tendida, más allá de las comisiones y de los sellos y de los calendarios.
-
-La herencia de los Althen se extiende como se extienden las manos que la pasan, abiertas, sin bóveda que la encierre — y así, de palma en palma, seguía creciendo más allá de los sellos y de los calendarios.
+Y esa noche, la joven de la comisión apagó la lámpara del acta y salió a la calle. Anduvo sin rumbo, con las manos vacías, y al pasar junto a una reja vio, en la grieta del asfalto, una flor de dos colores — y se detuvo delante de ella, sin saber si reír o llorar, hasta que la luz de la mañana la encontró todavía allí, arrodillada, con la flor abierta entre dos grietas, creciendo sin permiso.
 
 *Continuará en el Capítulo 3 — La herencia de la memoria.*

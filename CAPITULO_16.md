@@ -72,7 +72,7 @@ No hablaron de planes. No había planes. Hablaron de Mara. Amara, sobre todo, ha
 
 —¿Y cómo se hace eso? —dijo Marcos.
 
-Ivo se quedó mirando la espiral de la servilleta.
+Ivo miró la espiral de la servilleta.
 
 —Se hace —dijo, al fin— sembrando. Se hace que la niña sea una entre millones. Se hace que la melodía esté tan extendida, que la voz de una niña no se distinga de la voz de todas. Vertex está buscando una llave. Nosotros vamos a convertir la llave en un llavero entero. Vamos a hacer que millones de personas canten la melodía, para que la voz de Mara sea una entre millones, y que Vertex no pueda decir cuál es.
 
@@ -118,7 +118,7 @@ Elías lo miró. Y entonces, despacio, sacó el lápiz del bolsillo y lo puso so
 
 —La de la mano —dijo Elías—. La grabaron anoche, en el laboratorio, cuando por primera vez la mano no se limitó a vibrar. Anoche, Ardal consiguió que la mano hiciera algo que no había hecho en doce mil años.
 
-Los cuatro se quedaron inmóviles.
+Los cuatro no se movieron.
 
 —¿Qué hizo? —dijo Marcos, ronco.
 
@@ -126,7 +126,7 @@ Elías cerró los ojos, como si la imagen le pesara todavía.
 
 —No se abrió —dijo—. Y esa es la parte que le costó a Ardal y a todos. Anoche, la mano se movió, y no se quedó solo vibrando. Respondió a la melodía que le cantó uno de los técnicos, sin pregunta, solo con la música, y se movió: un poco, solo un poco, unos segundos. La espiral de la palma brilló, roja, cálida, y la mano se movió como si la melodía la hubiera tocado. Y cuando se movió… —Elías se detuvo, y el silencio del sótano se llenó de algo que ninguno de los cuatro había oído antes—. Ardal ordenó que esperaran a que se abriera. La tuvieron delante toda la noche. Y no se abrió. No salió nada de dentro. No salió nada porque no hay dentro. La mano no tiene dentro: la mano devuelve. Y eso fue lo que a Ardal no le entró en la cabeza.
 
-Los cuatro se quedaron mirándolo.
+Los cuatro lo miraron.
 
 —¿Vacía? —dijo Valeria.
 
@@ -140,7 +140,7 @@ Ivo miró la espiral de la servilleta, el lápiz de memoria, a Elías, a los tre
 
 —¿Y qué hay dentro de la mano? —dijo Amara, apenas audible.
 
-Ivo se quedó mirándola, y luego a los tres, y luego el lápiz de memoria, y luego, muy despacio, dijo:
+Ivo la miró, y luego a los tres, y luego el lápiz de memoria, y luego, muy despacio, dijo:
 
 —No lo sé. Pero si la mano responde a los que llegan con la pregunta, y no se le movió a Vertex porque no llevaba ninguna… entonces lo que la mano devuelve no se ha entregado. Se ha guardado. Está esperando. Y si Ardal consigue que la niña la haga moverse con la pregunta de verdad, lo que devuelve se entregará. Y Ardal estará delante cuando se entregue.
 
@@ -156,7 +156,7 @@ Ivo calló, mirando la espiral.
 
 —¿Y cómo estaremos allí? —dijo Valeria.
 
-Ivo se quedó mirando el lápiz de memoria.
+Ivo miró el lápiz de memoria.
 
 —Elías nos ha dado lo que necesitábamos —dijo—. Las secuencias, los análisis, los informes. Y una sola verdad que Vertex no sabe que ha dejado escapar: que la mano responde. Y que cuando responde, todos los que están delante pueden oír.
 
@@ -170,7 +170,7 @@ Y en el silencio, desde la habitación de arriba, se oyó la voz de Mara, dormid
 
 La misma melodía. La que hacía responder a la mano. La que estaba en las trescientas lenguas. La que Elías había oído a las tres de la mañana y que lo había hecho desertar.
 
-Los cinco se quedaron inmóviles, escuchando.
+Los cinco no se movieron, escuchando.
 
 —Ella ya está dentro —dijo Amara, rota—. Ella ya está dentro de la mano. Ella no necesita que la mano responda para estar. Ella ya está dentro. Vertex va a buscarla para que le diga lo que hay dentro. Y ella no le va a poder decir nada. Porque lo que hay dentro se vive, en vez de decirse.
 

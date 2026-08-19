@@ -30,7 +30,7 @@ Pidieron que se cortara la flor. Pidieron que se sellara la nave. Pidieron que s
 
 No lo decían con odio. Lo decían con miedo. Y el miedo, cuando pide, no pide mal: pide certeza. Pide que le digan que va a estar bien. Pide que le digan que lo suyo no se va a perder. Y los que pedían, no pedían contra la flor: pedían a favor de ellos mismos, a favor de su tierra, a favor del modo de saber quiénes eran.
 
-El valle se quedó en medio. Como siempre. Como siempre habían estado los que sostienen.
+El valle quedó en medio. Como siempre. Como siempre habían estado los que sostienen.
 
 ---
 
@@ -54,7 +54,7 @@ Callaron, los cuatro, con la flor girando, con el valle, con la tarde, con la pr
 
 —La semilla de los dos mundos —dijo Mara— no da una flor. Da campo. Una flor se puede cortar. Un campo, no. Un campo es más grande que el que quiera cortarlo. Un campo se extiende, y echa raíces, y cuando el que quiere cortar llega, descubre que el campo ya es suyo también, y que cortarlo es cortarse.
 
-Se quedaron mirando la flor, al borde del río, girando, pequeña, sola, tierna.
+Todos miraron la flor, al borde del río, girando, pequeña, sola, tierna.
 
 —¿Y cómo se hace un campo de una flor? —preguntó Valeria, con la emoción quebrada.
 
@@ -78,7 +78,7 @@ Llegaron con sus máquinas, con sus permisos, con su certeza de que iban a corta
 
 —Nadie se lo impide —dijo una mujer, desde el suelo, sin levantarse, con la voz tranquila—. Corten la flor. Pero tendrán que pasar por encima de nosotros, y tendrán que pasar todas las noches, porque cada noche va a haber alguien aquí. Y no les vamos a hacer nada. Solo vamos a estar. Y ustedes, que tienen permiso para cortar, no tienen permiso para estar. Y eso, al final, es más fuerte que el permiso.
 
-El que mandaba se quedó mirando el campo de gente, la flor en el centro, la luz de la mañana.
+El que mandaba miró el campo de gente, la flor en el centro, la luz de la mañana.
 
 No la cortó.
 
@@ -110,15 +110,15 @@ Esa tarde, delante de la flor, con la gente sentada alrededor, con el valle en c
 
 —Da mucho miedo —dijo Mara—. Pero es el único miedo que vale la pena tener: el que se tiene sabiendo que estás sembrando. El otro miedo, el que se tiene cortando lo que no entiendes, ese no vale la pena. Ese miedo no siembra nada. Ese miedo solo desierta.
 
-Se quedaron mirando la flor, con la tarde entrando, con la gente sentada alrededor, con el valle callado.
+Todos miraron la flor, con la tarde entrando, con la gente sentada alrededor, con el valle callado.
 
 —La pregunta de los dos hogares —dijo Tolina, bajando el tono—. La que la División dejó, la que trajimos, la que el mundo entero se está haciendo ahora. ¿Alguna vez la vas a responder del todo?
 
-Mara se quedó mirando la flor de dos colores, girando bajito, plata y verde, mar y río, juntos.
+Mara miró la flor de dos colores, girando bajito, plata y verde, mar y río, juntos.
 
 —No —dijo, al fin, con la voz que era ya la voz de la guarda, la voz de las que llevan mucho tiempo de paso—. No la voy a responder del todo. Las preguntas de los dos mundos se habitan, más que se responden. Y habitarla, Tolina, es vivir de los dos lados sin tachar a ninguno, y sembrar en cada lado lo que aprendiste en el otro, y dejar que el miedo pase por el medio sin que te siembre a ti la duda. La pregunta de los dos hogares no tiene respuesta: tiene campo. Y el campo, Tolina, se siembra, se cuida, se habita, y no se contesta.
 
-Tolina se quedó mirándola, y comprendió que la heredera de la guarda había entendido la cosa más difícil de la División: que algunas preguntas no se responden porque están hechas para ser vividas, y que el que las vive, las contesta mejor que el que las responde.
+Tolina la miró, y comprendió que la heredera de la guarda había entendido la cosa más difícil de la División: que algunas preguntas no se responden porque están hechas para ser vividas, y que el que las vive, las contesta mejor que el que las responde.
 
 ---
 

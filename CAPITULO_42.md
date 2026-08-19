@@ -40,6 +40,12 @@ El anciano se quedó con la duda dentro, nueva, viva, distinta: una duda que ya 
 
 Porque la duda que dejaron los primeros no era la duda que te aísla: era la duda que te junta. Era la duda que todos iban compartiendo al hacerse las preguntas juntos. Era la duda del círculo, la duda de las palmas abiertas, la duda que se hacía en voz alta para que el otro la hiciera con uno. Y esa duda — comprendió por fin el mundo, al ver a Ivo, al ver al anciano, al ver al círculo sentándose otra vez en el jardín con las manos abiertas — no era una falta: era una herencia. Era lo que los primeros dejaron plantado para que la verdad no se convirtiera en dogma. Era lo que les faltaba a todas las civilizaciones que habían muerto de certeza. Era la llave — no la que abre una puerta, sino la que impide que se cierre.
 
+Y en ese punto, cuando la duda era ya la respuesta del mundo, llegó la exigencia que el mundo entero estaba esperando, la que le ponía precio a todo: vino la comisión con un plazo. Dijo que la semilla debía salir del valle, que había que custodiar la flor en un edificio con clima y con guardias, que había que entregar muestras, que había que firmar actas, que el jardín debía abrirse a los visitantes con horario y con guías. Y para que la oferta pareciera justa, la comisión dijo además qué pasaría con la herencia cuando todo eso se hiciera: la heredaría un nombre. Nombró, allí mismo, delante de la plaza, a la heredera oficial del legado — a la que creían suya, a la que esperaban que dijera que sí —. Y la nombrada, que era una de las jardineras del paso, la más joven de todas, Yara, la que tenía en las manos la misma tierra que la flor, escuchó su nombre delante de todos, con el mundo mirándola, y se quedó un momento quieta. Y cuando la comisión le preguntó si aceptaba, ella no contestó lo que esperaban.
+
+—Yo no soy la heredera —dijo—. No hay heredera. Yo soy de las que abren las manos y pasan lo que reciben. Si ustedes me nombran, me convierten en guardiana; y la guardiana guarda, y lo guardado se acaba. Yo quiero seguir siendo de las que no guardan nada: solo paso lo que me dieron, y lo paso abierto, para que siga. Lo que ustedes traen tiene una cerradura, y yo no quiero ser la llave de ninguna cerradura. Quiero seguir siendo una mano.
+
+La plaza se quedó en silencio. La comisión también. Nunca habían visto negarse a alguien a quien le ofrecían un título, un edificio, un salario, un nombre que pasaría a la historia de la investigación. Y la negativa — comprendió la plaza, al verla a ella, al ver a las otras jardineras asintiendo a su lado — era la heredad misma hecha persona: la de los que reciben para pasar, y que no quieren tener, porque tener obliga a guardar, y lo que se guarda se encierra, y lo que se encierra se muere. La dejaron nombrada y sin heredera a la vez, con el acta firmada que ella no había firmado, con el edificio que no se iba a llenar, con la cerradura sin llave. Y esa noche, al sentarse en el jardín, las manos se abrieron como siempre, sin título, sin acta, sin guardián: se abrieron y pasaron.
+
 ---
 
 Y esa noche, en el jardín, el mundo — que había venido a pedir pruebas — hizo lo que hacían los que recibían la herencia: se sentó. Las manos se abrieron. Las preguntas se hicieron. Y en las preguntas, la humanidad entera, por fin, dejó de buscar que le dieran la verdad para empezar a habitar la que tenía, dudosa, viva, sembrada.
@@ -70,4 +76,4 @@ Quien duda, siembra.
 
 Y quien siembra, hereda la Tierra.
 
-*Continuará en el Capítulo 5 — La herencia de la llegada.*
+*Continuará en el Capítulo 5 — La herencia del tiempo.*

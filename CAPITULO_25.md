@@ -136,22 +136,6 @@ Ivo no respondió. Se quedó mirando la estrella, y después la mano baja, y des
 
 —No —dijo Mara, sin mirarlo, tranquila—. No está terminando. Está empezando.
 
-—¿Qué está empezando? —preguntó Ivo.
-
-Mara se quedó mirando la mano de piedra, y después la estrella, y después a los miles que se estaban yendo, bajando la mano, volviendo a la vida de cada uno, y dijo, con la voz que llevaba usando toda la vida para decir las cosas que no se dicen:
-
-—Lo que se encendió hoy no fue la señal, Ivo. Fue el camino. Los que se fueron dijeron que volverían cuando estuviéramos listos. Y hoy hemos bajado la mano. Hemos mostrado que estamos listos. Y el faro, del otro lado, lo ha visto. Ahora, el camino está encendido. Y los que esperaban, van a venir.
-
-—¿Cuándo? —preguntó Ivo.
-
-—No lo sé —dijo Mara—. No lo dice la señal. La señal dice que el camino está encendido, y que el que lo recorra, llegará. Y que no vamos a poder apagarlo, Ivo. Se ha encendido, y ya no se apaga. Va a encender, de ahora en adelante, cada vez que alguien baje la mano hacia otra persona, cada vez que alguien tienda su mano hacia quien espera. Eso es el camino que ellos nos enseñaron: no se anda con los pies. Se anda con las palmas abiertas.
-
-Ivo se quedó mirando a la niña, a la que había oído el Archivo desde pequeña, a la que había nombrado al círculo dormida, y comprendió, con un escalofrío, que llevaba años esperando la respuesta de una civilización entera, y que la respuesta había sido tan simple que nadie la había visto: la señal no se contesta. La señal se enciende.
-
-Y se enciende cuando te tiendes hacia el que espera.
-
----
-
 Esa noche, el valle quedó vacío.
 
 La gente se fue, despacio, cada uno a su vida, y el valle quedó con los cinco, con Mara, con la mano baja en su mesa, con el río sonando, con la estrella todavía encendida en lo alto, en el cielo ya oscuro, brillando como no había brillado ninguna estrella que se conociera.
@@ -176,6 +160,6 @@ Miraba la estrella con la misma mirada que se mira una casa cuando sabes que vas
 
 La estrella brillaba. La mano estaba baja. El valle estaba callado.
 
-Y en el silencio, el mundo entero, con el camino encendido, esperaba — con una manera nueva de esperar, la de quien espera algo que va a cambiar la manera de esperar.
+Y en el silencio, el mundo entero, con el camino encendido, esperaba — y en cada casa, en cada ventana, una mano levantada hacia el cielo, como quien saluda a quien se va, hasta que se hizo de madrugada.
 
 *Continuará en el Capítulo 7 — Los que van a venir.*

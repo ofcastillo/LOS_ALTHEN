@@ -80,7 +80,7 @@ Una noche, en una de las casas del valle, una niña pequeña le preguntó a su m
 
 —Mamá —dijo la niña—. ¿Por qué silbamos siempre esa canción?
 
-La madre se quedó pensando. Y le salió la respuesta que le había salido a todas las madres, la que se pasaba de mano en mano sin nombre, la que no explicaba nada y que sin embargo lo explicaba todo.
+La madre pensó. Y le salió la respuesta que le había salido a todas las madres, la que se pasaba de mano en mano sin nombre, la que no explicaba nada y que sin embargo lo explicaba todo.
 
 —Porque es la canción de aquí —dijo.
 
@@ -96,7 +96,7 @@ La niña la silbó. Las cinco notas. Le salió perfecta, sin que nadie se la hub
 
 —¿Ves? —dijo la madre—. Así se sabe que es de todos. Porque te ha salido sin aprender.
 
-La niña se quedó mirando las notas que le habían salido, como si las mirara en el aire. Y entonces, con la seriedad de las niñas que están descubriendo algo grande, dijo:
+La niña miró las notas que le habían salido, como si las mirara en el aire. Y entonces, con la seriedad de las niñas que están descubriendo algo grande, dijo:
 
 —Entonces, cuando yo sea vieja, se la voy a silbar a los niños. Y ellos la van a recordar. Y ellos se la van a silbar a los otros. Y así nunca se acaba. ¿Verdad, mamá?
 
@@ -146,11 +146,11 @@ No sabía qué había pasado. No sabía por qué la cueva se había abierto. No 
 
 No sabía que estaba repitiendo la enseñanza de la vieja Veda, la que había guardado todo y había aprendido a soltar. No sabía que esa frase había llegado hasta ella pasando de mano en mano, sin nombre, como había llegado el silbo, como habían llegado las preguntas.
 
-Se quedó un momento mirando la noche. El cielo estaba lleno de estrellas. Entre ellas, una brillaba distinta: la que los de más tarde llamarían la señal, la Cueva, la que se encendería del todo mucho después, cuando las manos de la Tierra la respondieran.
+Miró la noche un momento. El cielo estaba lleno de estrellas. Entre ellas, una brillaba distinta: la que los de más tarde llamarían la señal, la Cueva, la que se encendería del todo mucho después, cuando las manos de la Tierra la respondieran.
 
 La vieja Odra no la vio encenderse. La vieja Odra no podía ver lo que iba a pasar. La vieja Odra solo podía ver lo que había pasado toda su vida: el valle, el río, los niños, el silbo.
 
-Y se quedó así, sentada a la puerta, enfrente del valle, silbando bajito, sin sospechar que estaba silbando la llave, ignorando que estaba manteniendo abierto el paso, ignorando también que las notas que le salían de la boca desde que tenía memoria eran el puente por el que, algún día, pasarían los que partieron para volver, y los que llegaron para quedarse, y los que estaban de los dos lados a la vez, y los que iban a tender la mano hacia una mano de piedra baja que un día los esperaría.
+Y permaneció así, sentada a la puerta, enfrente del valle, silbando bajito, sin sospechar que estaba silbando la llave, ignorando que estaba manteniendo abierto el paso, ignorando también que las notas que le salían de la boca desde que tenía memoria eran el puente por el que, algún día, pasarían los que partieron para volver, y los que llegaron para quedarse, y los que estaban de los dos lados a la vez, y los que iban a tender la mano hacia una mano de piedra baja que un día los esperaría.
 
 Silbó bajito, toda la noche, mirando la noche, la tierra, los niños dormidos.
 

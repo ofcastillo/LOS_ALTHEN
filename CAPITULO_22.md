@@ -54,7 +54,7 @@ Veda calló. Y cuando habló, su voz era la de alguien que acaba de encontrarse 
 
 Esa noche, Vex no durmió.
 
-Se quedó despierto, mirando las estrellas desde la puerta de su casa, y por fin no miró las estrellas para compararlas con las de Vaelen. Las miró como las miraba Aldor: como se miran las estrellas de un lugar que ya es el tuyo, sin pedirles que sean de otro sitio.
+Despierto, mirando las estrellas desde la puerta de su casa, y por fin no miró las estrellas para compararlas con las de Vaelen. Las miró como las miraba Aldor: como se miran las estrellas de un lugar que ya es el tuyo, sin pedirles que sean de otro sitio.
 
 —¿No duermes? —dijo Lyra, desde el umbral de la casa de al lado, soñolienta.
 
@@ -76,7 +76,7 @@ Callaron, los dos, mirando las estrellas que no eran de ningún mundo que hubier
 
 —¿Tú eres de aquí o de allá? —preguntó Vex, devolviéndole la pregunta, ya sin rabia ni prisa.
 
-Lyra se quedó pensando mucho tiempo. Las estrellas giraban. El valle dormía.
+Lyra pensó mucho tiempo. Las estrellas giraban. El valle dormía.
 
 —No sé —dijo, al fin—. Pero sé que hay un sitio donde no me miran. Y creo que eso es lo que quiere decir tener un hogar: un sitio donde no te miran como a un extraño, un sitio donde puedes preguntar sin que te miren.
 
@@ -108,11 +108,11 @@ Vex se sentó junto a Aldor, al borde del río, y se lo dijo sin decirle nada:
 
 —¿Y qué elegiste tú? —preguntó Vex.
 
-Aldor se quedó mirando el agua. El agua pasaba. El agua no se llevaba nada.
+Aldor miró el agua. El agua pasaba. El agua no se llevaba nada.
 
 —Yo elegí quedarme —dijo—. Y no sé si fue porque quería o porque ya no tenía fuerza para irme. Llevo tanto tiempo aquí, Vex, que ya no sé si estoy plantado o si estoy enterrado. Y hay días en que me siento plantado, y hay días en que me siento enterrado. Y no sé si esa diferencia existe de verdad o si la inventé yo para poder dormir. Pero esta noche, mirando el agua, creo que da igual. Plantado o enterrado, estoy aquí. Y aquí es donde elijo seguir.
 
-Vex se quedó mirando a su padre, al hombre que había convencido a su pueblo de partir, al hombre que ahora era un viejo que ya no recordaba la lengua de su pueblo, y comprendió que Aldor no había elegido quedarse: había sido elegido por el lugar. Y que ser elegido por un lugar, cuando se lleva tanto tiempo, es lo mismo que elegirlo.
+Vex miró a su padre, al hombre que había convencido a su pueblo de partir, al hombre que ahora era un viejo que ya no recordaba la lengua de su pueblo, y comprendió que Aldor no había elegido quedarse: había sido elegido por el lugar. Y que ser elegido por un lugar, cuando se lleva tanto tiempo, es lo mismo que elegirlo.
 
 ---
 
@@ -138,7 +138,7 @@ Y Sorne se despidió de Vex.
 
 —Entonces —dijo Sorne—, quizá tu elección no era esta. Quizá tu elección era mayor. Quizá te quedaste para contarlo, para que los que no vimos el mar supiéramos que el mar que soñamos si existe. Para que yo pudiera irme sin miedo a estar buscando un sueño.
 
-Vex se quedó mirando a Sorne, al joven que se iba tras un mar que no había visto, y sintió el peso de lo que había hecho sin saberlo: no se había quedado solo para sí. Se había quedado para ellos.
+Vex miró a Sorne, al joven que se iba tras un mar que no había visto, y sintió el peso de lo que había hecho sin saberlo: no se había quedado solo para sí. Se había quedado para ellos.
 
 —Ve —dijo Vex—. Busca el mar. Y si lo encuentras, cuéntale que aquí hay un hombre que lo recuerda de verdad, y que no pudo volver, y que no sabe si eso fue cobardía o fue amor.
 
@@ -172,8 +172,8 @@ Aldor lo miró. Y no respondió. No porque no supiera. Sino porque aquella respu
 
 El fuego chisporroteó. El valle enmudeció.
 
-Y Vex se quedó así, con el gesto partido, con las dos palmas abiertas en dos direcciones, con dos mundos dentro, esperando, sin darse cuenta, a que el gesto se resolviera solo.
+Y Vex se mantuvo así, con el gesto partido, con las dos palmas abiertas en dos direcciones, con dos mundos dentro, esperando, sin darse cuenta, a que el gesto se resolviera solo.
 
-Y así se quedó, con el gesto partido, con las dos palmas abiertas en dos direcciones — y los días, uno tras otro, le fueron cerrando las manos, despacio, hasta dejarle solo la que tenía que quedar abierta.
+Y así permaneció, con el gesto partido, con las dos palmas abiertas en dos direcciones — y los días, uno tras otro, le fueron cerrando las manos, despacio, hasta dejarle solo la que tenía que quedar abierta.
 
 *Continuará en el Capítulo 4 — La mano que baja.*

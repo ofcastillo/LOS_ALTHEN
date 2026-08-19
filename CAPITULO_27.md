@@ -158,12 +158,6 @@ Tolina se volvió hacia ella. Y con la voz que era la de los dos lados a la vez,
 
 Callaron, los cinco, la niña, y la mujer que había cruzado la distancia, delante de la mano baja, con la estrella encendida arriba, con la pregunta viva entre todos.
 
-Y Mara, que llevaba tanto tiempo sabiendo sin saber, comprendió que la pregunta que Tolina acababa de decir en voz alta era la pregunta que el Libro de la División llevaba esperando hacerle al mundo.
-
-Amas dos hogares. No puedes quedarte en ambos.
-
-Y no hay manera de que nadie te lo diga, sino la voz de todos los que los vivieron.
-
 Y ahí estaba Tolina, sentada delante de la mano, viva, recibida, de los dos lados a la vez, contando la única cosa que la señal no decía: qué se siente llegar a un sitio que te esperaba y descubrir que el sitio de donde venías sigue dentro.
 
 El mito, los mitos, todos los mitos de todos los pueblos de la Tierra, tenían por fin cuerpo.

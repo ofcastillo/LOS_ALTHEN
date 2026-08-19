@@ -26,7 +26,7 @@ Se acomodó. El jardín se calló. Y la pregunta de los dos hogares se abrió co
 
 »Los que se quedaron, por los que aún no lo saben, fueron los que no subieron a la nave. ¿Por qué se quedaron? Por mil motivos, que son uno solo: porque ya eran de aquí. No fueron menos valientes que los que se fueron, ni más cobardes. Fueron simplemente los que, al hacer la pregunta de los dos hogares, la contestaron quedándose. Y los que se fueron, la contestaron yéndose. Y ambos tenían razón, y ambos tenían razón al mismo tiempo, porque la pregunta era demasiado grande para una sola respuesta, y por eso la pregunta dividió.
 
-»Los que se fueron se llevaron la nave, la semilla, la canción del paso, y el encargo de volver cuando los que quedaban estuvieran listos. Y los que se quedaron se llevaron la tierra, el valle, la melodía, y la costumbre. Los que se fueron guardaron la memoria en la nave. Y los que se quedaron guardaron la memoria en la tierra, sin darse cuenta de que la guardaban, de la única manera en que se guarda una memoria de verdad: viviéndola. Porque veréis,, los que se quedaron no escribieron. No grabaron. No registraron. Lo único que hicieron fue vivir del modo que les habían enseñado: las preguntas de cada noche, el silbo de la llegada, la costumbre de la puerta. Y la memoria, sin que nadie la guardara, se guardó sola, en los gestos, en las costumbres, en los silbos, en las preguntas.
+»Los que se fueron se llevaron la nave, la semilla, la canción del paso, y el encargo de volver cuando los que quedaban estuvieran listos. Y los que se quedaron se llevaron la tierra, el valle, la melodía, y la costumbre. Los que se fueron guardaron la memoria en la nave. Y los que se quedaron guardaron la memoria en la tierra, sin darse cuenta de que la guardaban, de la única manera en que se guarda una memoria de verdad: viviéndola. Porque veréis, los que se quedaron no escribieron. No grabaron. No registraron. Lo único que hicieron fue vivir del modo que les habían enseñado: las preguntas de cada noche, el silbo de la llegada, la costumbre de la puerta. Y la memoria, sin que nadie la guardara, se guardó sola, en los gestos, en las costumbres, en los silbos, en las preguntas.
 
 »Y así pasó el tiempo. Los que se quedaron fueron pasando de mano en mano la manera, de la abuela a la hija, de la hija a la nieta, sin darse cuenta de que guardaban un legado: creían que simplemente vivían. Los que se fueron viajaron, y el viaje, por el otro modo de andar el tiempo, se les hizo eterno: para los que se fueron, la espera fue de una vida, y para los que se quedaron, de milenios. Y cuando la nave, por fin, llegó, los que se fueron bajaron buscando un pueblo, y encontraron una costumbre. Buscando a los que habían dejado, encontraron a los que habían continuado. Buscando unas preguntas, las encontraron, hechas carne en esta tierra, pasadas de mano en mano sin nombre durante milenios.
 
@@ -72,23 +72,12 @@ Y mientras la luz se iba, la flor de los dos colores, cerrada ya para la noche, 
 
 Dos mundos se abrieron a la misma pregunta.
 
-Y hoy, la pregunta se hace con ustedes.
+Y la pregunta, una vez hecha, no se quedó en el jardín. Se fue con los que partieron, y se quedó con los que se quedaron, y desde entonces se hace en todos los lados, en todos los idiomas, en todos los silencios: se hace donde hay dos hogares, porque donde hay dos hogares hay pregunta.
 
-Porque este libro se comparte, más que se lee. Y la pregunta de los dos hogares, la que dividió a un pueblo y la que volvió a unirlos sentados en círculo, es nuestra, y no de los personajes. Es suya. Es de quien la haga hoy, y de quien la haga mañana, y de quien la haga con un nombre propio en las manos.
-
-La División no terminó. No termina. Se comparte.
-
-**Ustedes, que han llegado hasta el final de este libro, tienen también dos hogares: el que eligieron, y el que los eligió. El que dejaron, y el que los espera. El que cargan, y el que los carga. Y no tienen que elegir. Tienen que sentarse, dejar las palmas abiertas, y compartir la pregunta con el que tengan delante.**
-
-**¿Quién soy?**
-**¿De dónde vengo?**
-**¿Qué he aprendido?**
-**¿Y si me equivoco?**
+Y donde se hace, se comparte. Porque la pregunta de los dos hogares, la que dividió a un pueblo y la que volvió a unirlos sentados en círculo, no se contesta: se comparte. Y compartirla es esto: sentarse juntos, dejar las palmas abiertas, y saber que el que elige un hogar no deja el otro: que el otro se viene con él.
 
 Las cuatro preguntas no se contestan solas. Se contestan compartidas.
 
-Y hoy, la pregunta es de los dos hogares.
-
-**¿Cuál es el suyo?**
+Y la noche terminó como terminaban las noches en el valle: la flor de los dos colores cerró los pétalos despacio, las últimas palmas se fueron abriendo el camino a casa, el río bajó el sonido, y el jardín quedó a oscuras, con la semilla guardada dentro, esperando el día.
 
 *Fin del Libro 2 — La División.*

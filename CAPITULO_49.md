@@ -1,56 +1,103 @@
 # LOS ALTHEN
 ## Libro 3 — LA HERENCIA
-### Capítulo 11 — La herencia de la tierra
+### Capítulo 11 — La herencia del agua
 
 ---
 
-Hubo, entre los que vinieron de lejos, una familia que no heredó de su mundo ninguna cosa que pudiera llevarse.
+En el pueblo de la fuente no se heredaba casi nada con escrituras.
 
-Era una cosa que les costaba decir, porque no era una historia triste: era una historia cierta, y las historias ciertas a veces tardan en volverse historias que se cuentan. Vinieron con lo puesto — con la nave, con la semilla, con las preguntas, con la manera. Pero no vinieron con tierra. Un mundo entero les quedó atrás, y de ese mundo se llevaron la semilla, y ni un puñado de suelo, que era la única manera de llevarse un mundo sin llevarse el mundo. La Tierra, en cambio, la Tierra se les dio entera — no en papeles, que los papeles llegaron siglos después, sino en manos: se les dio para que la sembraran, para que la cuidaran, para que la hicieran suya de la única manera en que se hace suya una tierra: amándola. Y esa familia, la que no había heredado tierra de su mundo, fue la primera del valle en hacer suya la tierra del otro.
+La fuente — la del común, la del nacimiento, la que había brotado desde antes de que hubiera pueblo — era de todos. No había papeles que dijeran de quién era el agua, porque el agua era anterior a los papeles y anterior a los pueblos y anterior a los nombres: el agua era de la tierra, y la tierra era de todos, y el que heredaba la tierra heredaba el agua, y como la tierra se heredaba — según decían los viejos — no con escrituras sino con manos, el agua también. Pero en el pueblo de la fuente se heredaba otra cosa, más pequeña y más honda que el agua misma, y era esta: se heredaba el modo de cuidarla.
 
-No fue de golpe. Fue como son estas cosas en los que vienen de lejos: despacio, con las manos, con el tiempo. El primero de la familia que puso las manos en la tierra del valle — el que bajó de la nave, tiempo atrás, a sembrar la semilla — no se quedó a vivir ahí: se quedó a sembrar. Y al sembrar, hizo lo que hacen los que siembran: bajó las rodillas a la tierra, la tocó con las manos, la miró de cerca, la tuvo que conocer — su textura, su humedad, su manera de darse o de negarse. Y algo se le fue pasando, de la tierra a las manos, sin que él lo notara. Lo que los primeros llamaban, en su lengua, *el conocimiento de la tierra*: la cosa que no se aprende con los oídos sino con las manos, la que solo se sabe después de haber sembrado y de haber esperado y de haber perdido y de haber vuelto a sembrar. Los que venían de un mundo sin estaciones — de un mundo en que el cielo no cambiaba — descubrieron en la Tierra la única riqueza que no se lleva: la estación. Descubrieron que la tierra da y quita, que espera, que se niega, que se entrega, que tiene ritmo y memoria y paciencia, y que no hay manera de llevársela: hay manera de heredarla, que es otra cosa.
+El agua no se cuidaba con llaves ni con candados. Se cuidaba con reglas que no estaban escritas en ninguna parte y que sin embargo todo el pueblo sabía de memoria, porque se las habían enseñado — los mayores a los pequeños, los pequeños a los que llegaban — desde antes de que hubiera memoria. Reglas como: *al agua no se le vuelve la espalda.* *Al agua no se le habla de prisa.* *Al agua se le deja su paso: no se la encierra del todo, porque el agua encerrada se pudre.* *El agua se comparte antes de guardarse: el que llega bebe primero.* Eran reglas de agua, de las que no se escriben porque si se escribieran se volverían ley, y las leyes se pueden torcer y olvidar, mientras que las reglas de agua — las que se pasan con la boca, con la mano, con el gesto — no: las reglas de agua son como el agua, que no se puede retener del todo, y que por eso llega siempre, a todas partes, a todos los tiempos.
 
-—No podemos llevarnos la tierra —dijo el sembrador, una noche, contándoselo a los suyos, con las manos todavía sucias, con la certeza recién aprendida—. Es lo único de este mundo que no se puede llevar. Pero no hace falta llevarla. La tierra se hereda sembrándola. El que siembra una tierra, la hace suya de una manera que no cabe en la nave: cabe en las manos. La tierra se hereda con trabajo, no con papeles. Y el trabajo —dijo, mirándose las manos— se queda con uno. La tierra se queda. Y uno se lleva el conocimiento de la tierra, que es la única herencia que este mundo da y que no se puede robar.
+Los viejos del pueblo de la fuente contaban que esas reglas las habían traído los que vinieron de lejos. No las habían escrito: las habían vivido, y al vivirlas las habían dejado — como se dejan las cosas que se viven: sin darse cuenta, quedándose. Venían de un mundo donde el agua era otra cosa — un mundo viejo, donde el agua se había medido, retenido, repartido con leyes y con máquinas, y donde ese medirla tanto la había secado, de una manera que no se veía pero se sentía: la habían dejado sin manera. Y al llegar a la Tierra, al pueblo que luego fue el de la fuente, encontraron un agua distinta: un agua que brotaba, que corría, que se compartía, que tenía manera. Y al encontrarla, la trataron con el respeto de los que saben lo que es perder una cosa: la trataron de modo que no volviera a perderse. Le hicieron el gesto del agua. Y el gesto del agua — el de no volverle la espalda, el de no hablarla de prisa, el de dejarle su paso, el de compartirla antes de guardarla — se quedó en el pueblo de la fuente como se quedan los gestos que se viven: pasándose.
 
-Los suyos no lo entendieron del todo, al principio. Pero lo entendieron despacio, como se entienden estas cosas: con las manos. Y empezaron a sembrar. Sembraron la loma. Sembraron la orilla. Sembraron donde la tierra se dejaba y donde se negaba. Aprendieron a leerla — a leer el suelo como se lee un gesto, a saber cuándo iba a llover por cómo la tierra lo esperaba, a saber qué surco iba a darse y qué surco iba a esperar. Y con los años, en el valle, esa familia fue haciendo algo que no se hacía con la nave ni con la semilla: fueron haciendo la tierra.
-
-Porque la tierra, comprendieron, no se deja heredar parada: la tierra se hace. El valle que encontraron los primeros — el pedregal, el monte bajo, la orilla brava — no era el valle que quedó. Lo fueron haciendo, generación tras generación, con las manos, con el agua, con el cuidado. Le quitaron piedras y se las llevaron a los caminos. Le abrieron surcos donde no los había. Le dieron agua donde el año era seco. Y la tierra, que al principio se negaba, se fue dando — como se da lo que se cuida: de a poco, para siempre. Y el valle, el de los que llegaron y se quedaron, se volvió — al cabo de las generaciones — un valle conocido: un valle donde cada surco era de alguien, donde cada árbol había sido sembrado por una mano, donde cada pedazo de tierra tenía nombre y memoria y manera.
-
-Y así, de generación en generación, la familia fue heredando la tierra.
-
-Se la heredaban unos a otros con el gesto, y no con papeles. El que pasaba la tierra al que venía le pasaba no el terreno — que a fin de cuentas era de todos, del valle, del mundo — sino el conocimiento de la tierra: le enseñaba a leer el surco, a conocer la piedra, a saber qué siembra daba en qué loma, a amar el valle con las manos. Le pasaba las manos. Y las manos — comprendió la familia, al cabo de las generaciones— eran la herencia de la tierra. No heredaban la tierra: heredaban la manera de heredarla. Heredaban el amor que hace suya una tierra. Y esa era la herencia que los primeros, los que no habían podido llevar su mundo, habían aprendido en la Tierra: que no se lleva la tierra en la nave, que se la hereda con las manos.
+Y por eso, en el pueblo de la fuente, la herencia del agua era el modo de estar con el agua, más que el agua misma.
 
 ---
 
-Hubo una tarde, muchos años después, en que ese entendimiento se puso por fin en palabras. Fue una tarde de siembra, una de las últimas del año, y la familia estaba toda en la loma — la abuela, los hijos, los nietos, los que habían nacido ya en el valle y los que habían venido de la llanura — sembrando el surco grande, el que había sembrado el primero de la familia, el que se sembraba desde antes de que hubiera historia. Sembraban, y al sembrar se pasaban las semillas de mano en mano, y de mano en mano se pasaban también las preguntas, y entre las preguntas, una, nueva, se le formó al nieto más pequeño, el que sujetaba el cuenco de las semillas, el que acababa de aprender a sembrar:
+Hubo una sequía, una vez, de las que no se olvidan.
 
-—Abuela —dijo—. ¿De quién es la tierra?
+Duró tres años. El río bajó hasta casi dejarse ver el fondo; los arroyos se quedaron secos, blancos, como caminos viejos; las lomas se volvieron amarillas; y solo la fuente — la del nacimiento, la del común — siguió brotando, cada vez más despacio, pero brotando, como si en el fondo de la tierra supiera que de ella dependía todo el pueblo. Los del pueblo de la fuente la cuidaron como nunca. Redujeron el agua de todo menos de la fuente. Hicieron turnos para vigilarla — no para impedir que nadie bebiera, sino para velarla, para asegurarse de que el agua, que era de todos, se repartiera entre todos —. Y en el segundo año de la sequía, cuando el agua escaseó de verdad, ocurrió lo que ocurre en los pueblos de fuente cuando escasea el agua: ocurrió la prueba de la herencia.
 
-La abuela se quedó un momento sin contestar, con las manos sucias, con el sol de la tarde, con la loma sembrada a medias. Y contestó con la voz con que se contestan las preguntas que llevan toda la vida esperando:
+Un viajero llegó al pueblo, muerto de sed. Venía de más allá de las lomas, donde la sequía había sido peor, y no traía nada: ni agua, ni familia, ni nombre. Llegó al borde del pueblo, vio la fuente, y se lanzó a ella — sin preguntar, sin esperar, con la sed de los que ya no pueden esperar — y un joven del pueblo lo detuvo, con la mano puesta, sin violencia:
 
-—De nadie —dijo—. Y de todos. La tierra no es de los que tienen papeles: la tierra es de los que la hacen. Este surco que estamos sembrando, hijo, es del mundo. Pero lo que hacemos con él — sembrar, cuidar, esperar, volver — eso, hijo, es nuestro. Eso se hereda. Eso es lo que heredamos nosotros de los que llegaron: no heredamos la tierra, porque la tierra no se puede heredar — la tierra se habita y se hace. Heredamos el modo de hacer la tierra. Heredamos las manos. Y las manos, hijo, son la única herencia que no se puede quitar ni robar ni gastar: las manos se pasan, y la tierra se queda hecha por las manos que la amaron.
+—Primero —dijo el joven—. La regla del agua.
 
-—¿Y entonces —dijo el nieto, mirando el surco—, la tierra es nuestra?
+El viajero se quedó mirándolo, con la sed, con la rabia de los que van a beber y los detienen.
 
-—La tierra —dijo la abuela, mirándolo, con la voz que ya sabía de estas cosas— es de los que la siembran. Y es por eso que es de todos: porque todos pueden sembrarla. No la hacemos menos de ellos por hacerla nuestra: la hacemos más. Los que venían de lejos no vinieron a quitar la tierra a nadie: vinieron a aprender a sembrarla. Y al sembrarla, la hicieron suya de la única manera en que se hace suya una tierra: amándola. Y al amarla, la heredaron. Y al heredarla, la pasaron. Y al pasarla, la hicieron de todos — porque la tierra que se ama se comparte, y se comparte sembrando. La tierra es del que la siembra. La tierra es del que la hace.
+—¿Qué regla? —dijo.
 
-El nieto se quedó con las palabras dentro, con el cuenco en las manos, con la loma, con el sol de la tarde. Y esa noche, al cabo de la siembra, cuando la familia bajaba de la loma con las manos sucias, con la noche encima, con las estrellas, el nieto se quedó un momento detrás, mirando el surco sembrado, y puso las manos en la tierra, y la tierra — la honda, la que habían hecho generaciones de manos — se le dio como se da lo que se ha esperado mucho: sin palabras.
+—El que llega bebe primero —dijo el joven—. Pero no de golpe. El agua no se bebe de golpe: el agua se agradece. Si bebes de golpe, no sabes lo que has bebido, y la fuente lo nota. Primero bebe despacio, y al beber, piensa de dónde viene —dijo el joven, y le hizo el gesto, el de los primeros, el que se pasaba en el pueblo de la fuente desde antes de que hubiera memoria—: al agua no se le vuelve la espalda. Mírala. Agradécele. Y luego bebe.
 
-Y el nieto comprendió, en esa tarde, sin que nadie se lo explicara, la herencia entera de la tierra: comprendió que lo que habían heredado los primeros no era un pedazo de suelo, sino un modo de estar en él. Comprendió que la Tierra no se hereda tomándola: se hereda sembrándola. Comprendió que el primer sembrador, el que bajó de la nave y tocó la tierra del valle con las manos, no le dejó a la familia ninguna escritura: le dejó el conocimiento de la tierra — el modo de leerla, de cuidarla, de hacerla suya amándola. Y comprendió que esa herencia — la única que no se puede robar, ni vender, ni gastar — era la que habían venido a buscar a la Tierra: la única riqueza que no se lleva, la que se hereda sembrando, la que se queda hecha en la tierra cuando las manos se van.
+El viajero no entendió. Pero la sed pudo más que la prisa, y se agachó, y miró el agua de la fuente, y sin darse cuenta de que estaba haciendo lo que hacían en ese pueblo desde antes de que hubiera memoria, se inclinó despacio, agradeció — sin saber a quién — la cosa que estaba a punto de beber, y bebió despacio, con la fuente mirándolo, con el pueblo entero alrededor, con la sequía encima, con la herencia del agua visitándolo, como lo había hecho siempre con los que llegaban.
 
-Y a la mañana siguiente, el nieto fue a la loma antes que nadie, y se sentó al borde del surco, y dijo, en voz baja, a la tierra que sus manos — recién — empezaban a conocer:
+Y el viajero, al levantarse, con el agua ya dentro, con la sed ya apagada, miró el agua de la fuente y dijo, con la voz rara de los que acaban de recibir algo que no sabían que se podía recibir:
 
-—Yo te voy a hacer. Como te hicieron. Te voy a sembrar, te voy a cuidar, te voy a esperar. Y cuando pase mis manos a otro, te habré hecho tuya, como la hicieron ellos.
+—He bebido agua toda mi vida. Y nunca la había visto.
 
-Y la tierra, la honda, la que habían hecho generaciones de manos que vinieron de otro mundo a sembrar — la que se había dado despacio, de a poco, para siempre, a los que la amaron — se quedó, callada, esperando, como esperan las tierras: sembrada, hecha, heredada, viva.
+El joven no dijo nada. El pueblo tampoco. Y el viajero se quedó en el pueblo de la fuente — no se sabe si días, si años —, y cuando se fue, se llevó la regla del agua, la que no estaba escrita, la que se pasaba con la boca y con la mano: se llevó el gesto. Y por otros valles, al cabo de los años, se contó que un sediento había llegado a un pueblo y había visto el agua, aún limpia y clara, y que desde entonces en esos valles se decía, cuando llegaba la sequía, la regla del agua: *al agua no se le vuelve la espalda.* Y se la pasaban con la boca, con la mano, así, sin reconocer que era la herencia de los primeros — la que habían sembrado, en el pueblo de la fuente, hace tantos siglos, no como ley sino como gesto.
 
-Porque la herencia de la tierra es el acto de sembrarla, antes que el suelo que la recibe.
+---
 
+El tercer año de la sequía, el último, fue el año de la prueba mayor.
 
-Y ese acto — empezado hace tantas generaciones por manos que vinieron de otro mundo, pasándose de mano en mano, de surco en surco, de siembra en siembra — seguía, esa mañana, vivo, en las manos del que apenas empezaba a sembrar, dispuesto a pasar, y a pasar, y a pasar, hasta que la tierra de este mundo se supiera, por fin, una tierra heredada por todos los que la siembran.
+Llegaron al pueblo de la fuente los que venían huyendo de la sequía grande, la del otro lado de las lomas — los que no tenían ya ni pueblo ni fuente. Llegaron muchos, de golpe, con los niños, con los ancianos, con el ganado apenas vivo, con la última agua en los cántaros casi vacíos. Llegaron como se llegaba en los tiempos malos: sin nada, pidiendo de lo que no había. Y el pueblo de la fuente, que tenía el agua justa, la de la fuente que iba quedando cada vez más despacio, se encontró delante de la decisión de las decisiones: repartir el agua que les quedaba — y arriesgarse a quedarse sin ella, ellos y los que llegaban — o guardar el agua para los suyos — y dejar que los que llegaban murieran de sed a las puertas de la fuente, con el agua a un paso.
 
-Y el que sembraba se levantó, esa mañana, con las manos llenas de tierra, sin pedir título ni firma, y siguió sembrando, generación tras generación, sin que ninguna escritura dijera que el campo era suyo — porque la tierra no tenía dueño.
+Fue la vieja de la fuente la que resolvió la duda. No con un discurso: con una pregunta.
 
-Y lo sembrado — lo que los primeros sembraron, y lo que sembraron los que vinieron después, y lo que se sembrará — es la herencia que no se gasta: la que hace de un mundo un hogar, la que hace de la tierra, al fin, de todos.
+—¿De quién es el agua? —preguntó, delante de todos, de los del pueblo y de los que llegaban, con la sequía encima, con la fuente sonando al fondo.
 
-*Continuará en el Capítulo 12 — La herencia del fuego.*
+—De todos —dijeron los del pueblo, con la voz aprendida, con la regla que no se había escrito nunca.
+
+—Y los que llegan —dijo la vieja—, ¿son todos?
+
+Se quedaron callados. Y la vieja dijo, con la voz de las que han vivido muchas sequías, la que sabía que la sequía de tres años no era nada junto a la sequía de tres generaciones, la que sabía que el agua de la fuente no se heredaba con escrituras sino con el gesto:
+
+—Los que llegaron —dijo— nos enseñaron la regla del agua, y la regla dice que el que llega bebe primero. No dice que el que llega sea del pueblo. Dice que el agua es del que llega, del mismo modo que es del que está. El agua, cuando se guarda para quedársela, se vuelve otra cosa — ya no es agua, es cerrojo. El agua de verdad es la que se da. Y si hoy guardamos el agua para quedárnosla, habremos matado la herencia — porque la herencia del agua se llama la manera, y la manera es otra cosa que el agua. Y la manera dice: comparte antes de guardar. Reparte el agua, que la fuente nos dará la que haga falta. El agua que se da se multiplica, donde no se ve — nunca se pierde. El que comparte su agua se queda sin miedo, y eso vale más que quedarse con agua. Y sin miedo —dijo la vieja—, el agua alcanza.
+
+Y ese día, en el pueblo de la fuente, se repartió el agua. Se repartió entre todos — los del pueblo y los que llegaban, los ancianos y los niños, el ganado lo justo — y se repartió con el gesto aprendido: despacio, mirando, agradeciendo, compartiendo antes de guardar. Y al repartirla, se comprendió — en el pueblo de la fuente, en el año tercero de la sequía — lo que la herencia del agua había venido diciendo desde antes de que hubiera memoria: que el agua alcanza cuando se comparte. Que la fuente no dio más agua porque la repartieron — la fuente sigue siendo la misma fuente, la que brota en el fondo de la tierra desentendida de leyes ni de repartos — pero que al repartirla, el que la repartía ya no tenía sed: no tenía miedo. Y el miedo — comprendieron — era la sequía verdadera. El miedo era el que secaba los pozos, el que encerraba el agua, el que mataba los pueblos de fuente en cuanto llegaba el año malo. Y la manera que habían heredado de los primeros — el gesto de compartir antes de guardar — era, simplemente, la forma de no tener miedo.
+
+Esa noche, al caer la sequía — porque la lluvia volvió esa misma noche, al tercer año, como vuelven las lluvias cuando ya no se las espera, dando al pueblo que había repartido lo que le quedaba — la fuente volvió a llenarse. No por milagro: porque la tierra, que hacía tres años no daba, se dio de golpe, con el agua del cielo, con los arroyos devolviéndose, con el río creciendo —. Y el pueblo de la fuente, y los que habían llegado, se quedaron mirando la lluvia, con las manos abiertas, con la heredad entera, recién vivida: la que no se hereda con el agua, que se da y se recibe, sino con la manera de estar con el agua — la de no volverle la espalda, la de no hablarla de prisa, la de dejarle su paso, la de compartirla antes de guardarla. La manera de los que llegaron. La que cruzó de un mundo a otro, de un pueblo a otro, de una sequía a otra, pasándose de boca en boca, de mano en mano, sin papeles, sin leyes, sin escrituras — viva, como el agua, que no se retiene del todo y por eso llega siempre.
+
+---
+
+Y por eso, todavía hoy, en los pueblos que descienden del de la fuente, se dice cuando llueve lo que se decía desde antes de que hubiera memoria, la regla que no está escrita en ninguna parte y que sin embargo se sabe de memoria:
+
+*El agua es de los que la dan.*
+
+*Al agua no se le vuelve la espalda.*
+
+*Y el que comparte su agua, no se queda sin agua: se queda sin miedo.*
+
+Y los que lo dicen ya no saben de qué valles vinieron esas palabras, ni de qué mundo las trajeron los que las trajeron, ni de qué fuente brotaron primero: lo dicen porque se hereda, como se hereda el agua — no con escrituras, sino con el gesto. La herencia del agua se pasa por la forma, que no se gasta, y no por el agua, que se da y se gasta. Y la manera es como el agua, que no se puede encerrar del todo, y que por eso — vendrá con las sequías, vendrá con los viajeros, vendrá con los que llegan — llega siempre, a todos los pueblos que la comparten, en el momento en que la reparten.
+
+El agua no se hereda con las manos que la retienen.
+
+Se hereda con las manos que la dan.
+
+Y las manos que la dan — lo sabe el pueblo de la fuente, desde antes de que hubiera memoria — se quedan sin miedo, y no secas.
+
+Y en la fuente, esa noche, un sediento llegó con las manos abiertas, y el agua le alcanzó, y él alcanzó a otro, y así, de mano en mano, sin miedo, la noche entera el agua llegó a todos.
+
+—¿Y si el mundo la encierra? —preguntó Valeria, que había aprendido a callar y que sin embargo, esa noche, en el pueblo de la fuente, habló—. He visto los planos que traen: el pantano, la llave, los medidores, el turno de riego impreso en un papel. Dicen que es para que el agua alcance a todos. Y yo he visto cómo se encierra el agua en los libros del mundo: se encierra para repartirla, y se reparte con llaves, y las llaves las guarda quien puede abrirlas. ¿Y si nos convencemos y les entregamos la fuente? ¿Qué le damos al mundo cuando le damos la llave?
+
+Ivo, que dudaba de todo, hasta de la fuente, contestó con la duda de quien ha aprendido a dudar en círculo:
+
+—Si no se la entregamos, el mundo la encierra igual. No nos va a pedir permiso: pedirá el agua con sus medidores y nosotros le diremos que el agua no se mide, y el mundo contestará que todo se mide, y dentro de diez años la fuente tendrá su llave sin que nadie sepa cómo. Negarse es bonito y no sirve para nada —dijo—. Lo que hay que decidir no es si el mundo la encierra, sino qué hacemos mientras tanto.
+
+Y Amara, la que sentía antes de entender, la que había leído los archivos de los primeros, se sentó al borde de la fuente y dijo lo que le salía de adentro:
+
+—Los primeros no lucharon contra el mundo que medía el agua: lo dejaron. Se fueron del mundo que la medía y vinieron a buscar un agua que tuviera manera. Aquí la encontraron —dijo—. Y lo que sembraron aquí no fue una ley contra otras leyes: fue una fuente. Una fuente no compite con una llave. La fuente se deja; la llave se da. Y el día que el mundo quiera llave, que la ponga él, en su mundo, con su papel. Nosotros seguiremos con la fuente, y la fuente seguirá dando agua a los que llegan, medida o no, mientras haya brazo que la reparta. No es que le ganemos al mundo; es que no jugamos su partida.
+
+La vieja de la fuente, que había oído todo callada, con la paciencia con que se oyen estas cosas en los pueblos de fuente, levantó la cabeza y dijo, con la calma de las que han repartido el agua en todas las sequías:
+
+—Repartidla hoy, antes de que la encierren. Eso es todo. Repartidla entre los que llegan, abundantemente, con la regla: el que llega bebe primero. El mundo puede venir mañana con sus medidores; el agua ya estará en los que la bebieron, y una agua bebida no se mide. Lo que se da a tiempo no se puede encerrar después. Y cuando el mundo venga a pedir llaves —dijo, y se levantó—, se encontrará con que el agua de esta fuente no cabe en un papel: cabe en la gente. Id a llamar a los que llegan. Repartidla toda.
+
+Y por eso, en los años de la custodia, cuando la comisión vino a proponer el embalse, el pueblo de la fuente escuchó la propuesta, y los viejos miraron a la comisión con la paciencia con que se mira a los que no han oído la regla del agua, y dijeron:
+
+—El agua encerrada se pudre. Siempre se ha dicho en este pueblo, y se dirá: el agua que se guarda deja de ser agua. Al agua se le deja su paso, y se la comparte antes de guardarla; y el que la encierra para tenerla, se queda con un estanque, y pierde la fuente. Así que no hace falta que la custodien. La fuente ya tiene su custodia, y la tiene desde antes de que hubiera pueblo: la tiene la regla, que no está escrita y que no se pudre. La regla es el agua.
+
+La comisión no entendió. La comisión solo entendía lo que se podía medir, y la regla no se medía. Y la comisión se fue sin el agua, y la fuente siguió brotando, y el pueblo siguió compartiéndola antes de guardarla, y cuando esos visitantes se fueron, contó por los valles que el agua de la fuente no se la pudieron llevar — porque el agua, como la heredad, se da, y no se entrega.
+
+*Continuará en el Capítulo 12 — El viento, la hoguera y el regreso.*

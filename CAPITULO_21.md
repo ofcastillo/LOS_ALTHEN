@@ -68,7 +68,7 @@ Y entonces, porque Teresa había crecido en un país donde los niños silbaban u
 
 Se quitó los auriculares.
 
-Se quedó un momento sentada, con los auriculares en la mano, con la luz de la pantalla iluminándole la cara.
+Permaneció un momento sentada, con los auriculares en la mano, con la luz de la pantalla iluminándole la cara.
 
 Y le cantó la melodía al silencio de la sala, en voz baja, las cinco notas, por costumbre.
 
@@ -76,7 +76,7 @@ Y en los auriculares, en la segunda vuelta, la señal la siguió.
 
 No la repitió. No la transcribió. La siguió. Como si la señal, al oír la melodía, hubiera dejado de ser una señal y se hubiera convertido en otra cosa: en una conversación. Como si alguien, del otro lado, hubiera estado escuchando, sin distinguir de qué lado del silencio estaba el que iba a hablar.
 
-Teresa se quedó inmóvil. No gritó. No llamó a nadie. Se quedó sentada, con los auriculares en la mano, con la melodía en la boca, con la señal en los altavoces, siguiéndola, nota a nota, hasta el final.
+Teresa no se movió. No gritó. No llamó a nadie. Se quedó sentada, con los auriculares en la mano, con la melodía en la boca, con la señal en los altavoces, siguiéndola, nota a nota, hasta el final.
 
 Y cuando terminó, cuando la melodía terminó y la señal terminó con ella, el observatorio enmudeció.
 
@@ -88,7 +88,7 @@ La señal no había durado seis minutos. Había durado exactamente lo que duraba
 
 No llamó.
 
-Se quedó sentada, con la señal grabada, con la grabación en el ordenador, con el corazón latiendo como nunca le había latido.
+Siguió sentada, con la señal grabada, con la grabación en el ordenador, con el corazón latiendo como nunca le había latido.
 
 Porque acababa de comprender algo que no podía probar y que sin embargo era tan cierto como la luz de la pantalla.
 
@@ -98,7 +98,7 @@ Había sido la señal la que la había encontrado a ella.
 
 La señal llevaba años llegando, llegando siempre, llegando a todos los observatorios del mundo, esperando. Y hoy había encontrado a alguien que sabía cantarle la vuelta.
 
-Teresa se quedó mirando los altavoces, como si pudiera ver al que la estaba escuchando.
+Teresa miró los altavoces, como si pudiera ver al que la estaba escuchando.
 
 Y en el silencio del observatorio, con la grabación girando, con la melodía todavía en el aire, comprendió que la voz que llevaban toda la vida esperando oír no había venido a ser oída.
 
@@ -142,25 +142,19 @@ Siguió en su mesa, con la palma al cielo, con la espiral girando bajo la luz. N
 
 Pero esa noche, una niña del valle, nieta de la vieja Odra, que tenía la misma costumbre de su abuela de silbar por cumplir la costumbre, se sentó delante de la mano, como hacía su abuela, y silbó la melodía. Las cinco notas. La dejó sonando un rato, en el silencio del valle, bajo las estrellas.
 
-Y al terminar, se quedó un momento con la cabeza levantada, mirando el cielo.
+Y al terminar, permaneció un momento con la cabeza levantada, mirando el cielo.
 
 —¿Vas a venir de verdad? —dijo, en voz baja, al cielo, a la señal, a los que habían prometido volver, a todos los que habían esperado—. ¿Vas a venir de verdad, o solo vas a seguir mandando la canción para que nadie se olvide de ti?
 
 No hubo respuesta. La señal no podía responder. La señal era una grabación: enviaba siempre lo mismo, desde hacía miles de años, como un faro que no sabe cuántos barcos llegan.
 
-Y sin embargo, la niña se quedó mirando el cielo durante mucho rato, como si esperara algo más.
+Y sin embargo, la niña miró el cielo durante mucho rato, como si esperara algo más.
 
 Y cuando se levantó, cuando volvió a su casa, cuando se acostó con el silbido todavía en los labios, la mano de piedra, detrás de ella, en el silencio del valle, hizo lo que no había hecho nunca.
 
 No se movió.
 
 Pero la espiral de la palma, que había estado girando bajo el sol y la lluvia durante miles de años, en aquel momento, en el silencio de la noche, con el silbido de la niña todavía en el aire, pareció detenerse.
-
-Como si la mano, como el observatorio, como el mundo entero, estuviera esperando.
-
-No a la señal.
-
-A que los humanos respondieran.
 
 ---
 
@@ -194,6 +188,6 @@ Esperando que alguien le diga qué hacer con la pregunta.
 
 Sin saber que nadie va a decírselo.
 
-Sin saber que esa es, precisamente, la única respuesta que se puede dar.
+Y en las cocinas de la Tierra, aquella noche, la gente siguió poniendo la mesa y dejando una silla vacía, y al apagar la luz miró por la ventana el punto del cielo donde la señal había ardido — igual que un niño mira el espejo de la espiral, sin decir nada, hasta que se le hace de noche.
 
 *Continuará en el Capítulo 3 — Los que eligieron.*

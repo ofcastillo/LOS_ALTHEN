@@ -180,37 +180,27 @@ No hay señales que indiquen el camino al valle. No hay carteles. No hay mapa. Y
 
 ---
 
-Y ahora, usted.
-
-Que ha llegado hasta aquí. Que ha leído esta historia hasta el final. Que se ha preguntado, alguna vez, en algún momento, qué hacía en el lugar donde está, o qué quería de verdad, o quién es cuando nadie lo mira.
-
-La mano, ahora mismo, le está devolviendo lo que usted lleva.
-
-No hay tesoro al final de este libro. No hay respuesta. No hay secreto que se revele con una última palabra. Hay, como siempre ha habido, solo una cosa. La misma que ha estado ahí desde el principio, desde la primera página, desde la primera melodía, desde la primera semilla.
+Y al final, el valle no da a los que llegan la respuesta que vienen a buscar. No hay tesoro al final del valle. No hay respuesta. No hay secreto que se revele con una última palabra. Hay, como siempre ha habido, una sola cosa. La misma que ha estado ahí desde el principio, desde la primera página, desde la primera melodía, desde la primera semilla.
 
 La pregunta.
 
-Y no es una pregunta que yo pueda hacer por usted. Porque las preguntas se hacen por uno, y no por otro. Se hacen en el lugar donde no llegan las respuestas que los demás nos dan. Se hacen cuando se está solo, o cuando se está rodeado, que da igual, porque la pregunta se hace adentro.
+Y no es una pregunta que la mano pueda hacer por el que llega. Porque las preguntas se hacen por uno, y no por otro. Se hacen en el lugar donde no llegan las respuestas que los demás nos dan. Se hacen cuando se está solo, o cuando se está rodeado, que da igual, porque la pregunta se hace adentro.
 
-Así que no le voy a dar la pregunta.
+Así que la mano no da la pregunta.
 
-Le voy a dar lo único que puedo darle: el lugar. El silencio. El momento, que es ahora, en que termina la historia y empieza lo que usted hace con ella.
+Da lo único que puede dar: el lugar. El silencio. El momento, que es el de la llegada, en que termina el camino y empieza lo que el que llega hace con lo que lleva dentro.
 
-Tómese el tiempo que necesite.
+Y el que llega se toma el tiempo que necesita. Y cuando está listo, cuando nadie lo está mirando, cuando no hay nadie más que él y lo que lleva dentro, se pregunta, en voz baja o sin voz, lo que ya se venía preguntando a oscuras. Nadie le dice cuál es.
 
-Y cuando esté listo, cuando nadie lo esté mirando, cuando no haya nadie más que usted y lo que lleva dentro, pregúntese, en voz baja o sin voz, lo que ya se ha estado preguntando a oscuras.
-
-No le voy a decir cuál es.
-
-Solo le digo una cosa, y es lo único que vale la pena decir al final de una historia de sembradores:
+Solo hay una cosa que vale la pena decir al final de un camino de sembradores, y es esta:
 
 *La pregunta no se contesta. Se vive.*
 
-Y mientras usted la viva, no estará solo.
+Y mientras se vive, no se está solo.
 
 Porque en algún valle, en algún lugar que no está en ningún mapa, hay una mano de piedra con la palma abierta. Y en la palma, en el centro exacto del espejo, ya no hay un reflejo.
 
-Hay su pregunta. Y esa pregunta se queda, y espera, como espera la brasa debajo de la ceniza. Y un día, cuando usted menos lo espere, se enciende sola.
+Hay la pregunta del que llegó. Y esa pregunta se queda, y espera, como espera la brasa debajo de la ceniza. Y un día, cuando menos se espera, se enciende sola.
 
 *Fin del Libro 1 — La Semilla.*
 

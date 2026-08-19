@@ -48,7 +48,7 @@ No había elegido el valle: había llegado, como llega todo el mundo, por unas c
 
 Esa noche, Amara no durmió.
 
-Se quedó en la cocina, con una taza de café que se le enfriaba, mirando el campo negro, la nave arriba, la estrella encendida, pensando en la pregunta que su hija le había hecho sin querer: la pregunta de los dos hogares, aplicada a su propia puerta.
+Permaneció en la cocina, con una taza de café que se le enfriaba, mirando el campo negro, la nave arriba, la estrella encendida, pensando en la pregunta que su hija le había hecho sin querer: la pregunta de los dos hogares, aplicada a su propia puerta.
 
 Le había pasado la vida entera sin elegir.
 
@@ -84,7 +84,7 @@ Callaron. El café humeaba. La nave, arriba, brillaba en la luz de la mañana.
 
 —Yo elegí quedarme —dijo Ivo, con el registro de sus tiempos de periodista, de cuando afirmaba sin dudar—. Yo sí. Y elegir, cuando lo haces, te sale caro: te marca, te obliga, te quita el derecho a lamentarte. Elegí quedarme, y he pagado, desde entonces, el precio de haber elegido.
 
-—Y yo —dijo Marcos, tranquilo— he pasado toda la vida sin elegir nada mayor que esta tienda. Y no sé si eso fue elección o dejarme estar. Y ahora, sentado aquí, no sé si estar en esta cocina, con los que estoy, es lo que elegí o lo que me quedó.
+—Y yo —dijo Marcos, tranquilo— he pasado toda la vida sin elegir nada mayor que esta excavación. Y no sé si eso fue elección o dejarme estar. Y ahora, sentado aquí, no sé si estar en esta cocina, con los que estoy, es lo que elegí o lo que me quedó.
 
 Amara los miró, y comprendió que estaban todos en la misma duda, en la misma cocina, en la misma vida, con la misma pregunta de los dos hogares delante, sin respuesta a la vista.
 
@@ -134,17 +134,17 @@ Amara miró a su hija, a la niña que había oído el Archivo, que había subido
 
 —Es —dijo Mara—. Es. Más que una respuesta o una pregunta, es una manera de estar. Y la manera de estar, mamá, se habita, no se pregunta. Y tú la has habitado toda la vida, sin saber cómo se llamaba. Y ahora lo sabes.
 
-Se quedaron así, las dos, en la puerta de la cocina, con la comprensión entre ellas, con la casa que no existía elegida y que sin embargo estaba siendo elegida cada mañana, con el valle, con la nave, con la vida entera, con la pregunta de los dos hogares por fin respondida para la que no había elegido.
+Permanecieron así, las dos, en la puerta de la cocina, con la comprensión entre ellas, con la casa que no existía elegida y que sin embargo estaba siendo elegida cada mañana, con el valle, con la nave, con la vida entera, con la pregunta de los dos hogares por fin respondida para la que no había elegido.
 
 ---
 
-Esa noche, Amara se quedó en la cocina, sola, con una taza de café, mirando el campo negro, la nave arriba, la estrella encendida.
+Esa noche, Amara permaneció en la cocina, sola, con una taza de café, mirando el campo negro, la nave arriba, la estrella encendida.
 
 Ya no tenía la duda. La duda se le había ido por la mañana, en la cocina, cuando lo había entendido.
 
 Lo que tenía era otra cosa. Una cosa que no sabía cómo se llamaba y que sin embargo era más grande que la duda, más quieta que la pregunta, más suya que cualquier sitio que hubiera llamado suyo nunca.
 
-Cerró los ojos. Se quedó un momento así, con la noche dentro, con la vida entera detrás.
+Cerró los ojos. Permaneció un momento así, con la noche dentro, con la vida entera detrás.
 
 Y cuando los abrió, miró la casa. La miró como se mira una casa que no elegiste y que sin embargo es tuya, no porque la hayas elegido, sino porque la has habitado. La miró, y comprendió, con una paz que no conocía, que la casa que no se eligió es la casa que se elige todos los días.
 
@@ -156,10 +156,10 @@ Amara se detuvo un momento en la cocina, con la noche, con la nave, con su casa.
 
 Y no se fue.
 
-Se quedó.
+Permaneció en su sitio.
 
 Eligió quedarse una vez más, como había elegido mil veces, sin saber que elegía.
 
-Y sintió, al quedarse, que la elección, la callada, la de todos los días, le pesaba menos que nunca: porque ya sabía que era una elección.
+Y sintió, al quedarse, que la elección, la callada, la de todos los días, le pesaba menos que nunca. Encendió el fuego de la cocina, puso la olla del caldo y se sentó delante de la lumbre a esperar el hervor: y cuando el vapor empezó a subir, Amara estaba todavía allí, en su sitio, eligiendo la misma casa, sin que nadie pudiera decirlo.
 
 *Continuará en el Capítulo 15 — El regreso de los dos lados.*

@@ -116,7 +116,7 @@ Y Vex comprendió que no había promesa. Que nunca había habido una promesa que
 
 —De la culpa de haber esperado —dijo Vex—. De la culpa de haberme quedado cuando podía haberme ido. De la culpa de haber creído que quedarse era lo que me pedías. De la culpa de haberte esperado a ti cuando tú no me esperabas a mí.
 
-Aldor se quedó mirando las estrellas durante mucho tiempo. Y cuando habló, no habló como el padre que había partido sin su hijo. Habló como el viejo que ya no recordaba Vaelen y que sin embargo, en ese momento, la recordaba como nunca la había recordado.
+Aldor miró las estrellas durante mucho tiempo. Y cuando habló, no habló como el padre que había partido sin su hijo. Habló como el viejo que ya no recordaba Vaelen y que sin embargo, en ese momento, la recordaba como nunca la había recordado.
 
 —Hijo —dijo—. No te puedo decir que no te dejé. No te puedo decir que no me fui. No me acuerdo de cómo me fui, pero me fui, y si me fui sin ti, algo de lo que me llevé fue tuyo. Pero te voy a decir una cosa que aprendí aquí, en este valle, en este río, en estos años de olvidar: las culpas no se reparten. Las culpas se cargan, o se dejan. Y tú has estado cargando la mía desde hace años, hijo, sin que yo supiera que la llevaba. Déjala. No es tuya. Es mía, si es de alguien, y yo ya no la puedo cargar porque ya no sé dónde está el sitio donde se cargaba.
 
@@ -132,7 +132,7 @@ Aldor se quedó mirando las estrellas durante mucho tiempo. Y cuando habló, no 
 
 Pasaron los días. Vex no se fue.
 
-No se fue, y no sabía si se quedaba por elección o porque no tenía a dónde ir, y descubrió, con el tiempo, que eran la misma cosa. Se quedó en el valle, en la casa junto al río, en la vida de los que se quedan, y aprendió las palabras de la Tierra como había aprendido las de Vaelen, y las aprendió, primero, con la rabia de los que se ven obligados, y después, sin darse cuenta, con la paz de los que ya no necesitan irse.
+No se fue, y no sabía si el quedarse era por elección o porque no tenía a dónde ir, y descubrió, con el tiempo, que eran la misma cosa. Vivió en el valle, en la casa junto al río, en la vida de los que se quedan, y aprendió las palabras de la Tierra como había aprendido las de Vaelen, y las aprendió, primero, con la rabia de los que se ven obligados, y después, sin darse cuenta, con la paz de los que ya no necesitan irse.
 
 Una tarde, estaba sentado junto al río, mirando el agua, y Aldor se sentó a su lado, como hacían los viejos del valle cuando querían hablar sin decir que querían hablar.
 
@@ -150,11 +150,11 @@ Una tarde, estaba sentado junto al río, mirando el agua, y Aldor se sentó a su
 
 —Se elige —dijo Aldor—. Y la elección, hijo, no es elegir uno y olvidar el otro. La elección es elegir uno y llevarse el otro dentro. Nadie que haya querido de verdad dos hogares deja de quererlos por elegir uno. Los lleva los dos. Y los lleva los dos, cargando la distancia, cargando la ausencia, cargando el amor que no se puede estar en dos sitios a la vez.
 
-Vex se quedó mirando el río durante mucho tiempo.
+Vex miró el río durante mucho tiempo.
 
 —¿Y tú —dijo, por fin—, de qué lado estás? ¿Eres de los que miran hacia delante, o de los que miran a los dos lados?
 
-Aldor se quedó pensando. Y cuando respondió, su voz era la de un hombre que ya no tenía prisa por decidir, porque ya había decidido.
+Aldor pensó, y su respuesta no llegó con prisa: era la de un hombre que ya había decidido.
 
 —Yo soy de los que miran a los dos lados —dijo—. Miré a Vaelen hasta que se me acabó la memoria de mirarla. Y ahora miro a este valle, y a este río, y a estos niños, y a ti, hijo, que has llegado de un lugar que ya no recuerdo pero que debo haber querido mucho, porque de haberlo querido me acuerdo.
 
@@ -162,7 +162,7 @@ Aldor se quedó pensando. Y cuando respondió, su voz era la de un hombre que ya
 
 —No es una traición —dijo Aldor—. Es una elección. Y la elección, cuando es de verdad, no traiciona a nadie. Traicionar es no elegir. Traicionar es quedarse en la mitad, sin irse ni quedarse, sin querer a ninguno de los dos del todo. El que elige, hijo, traiciona a todos menos a sí mismo. Y a veces, ser fiel a uno mismo es lo único que se puede ser.
 
-Vex se quedó con esas palabras, con el río corriendo, con el valle viviendo, con su padre a su lado, viejo, de la Tierra, olvidando Vaelen.
+Vex guardó esas palabras, con el río corriendo, con el valle viviendo, con su padre a su lado, viejo, de la Tierra, olvidando Vaelen.
 
 ---
 
@@ -178,13 +178,13 @@ No lo llamó por el nombre de Vaelen. No lo llamó «hijo» con la memoria. Lo l
 
 —Vex —dijo Aldor, desde la puerta de su casa, mirando el río—. Mañana, cuando salga el sol, ven conmigo a la orilla. Te voy a enseñar a mirar el agua. Es lo único que sé hacer ya. Mirar el agua, y enseñar a mirarla. Y de lo que se aprende mirando el agua, hijo, se puede vivir el resto de la vida.
 
-Y Vex se quedó solo, a la orilla del río, con la noche encima, con el valle durmiendo, con las estrellas que no eran las de Vaelen, con la rabia que había traído de un mundo y que ya no sabía en qué mundo dejarla.
+Y Vex, solo, a la orilla del río, con la noche encima, con el valle durmiendo, con las estrellas que no eran las de Vaelen, con la rabia que había traído de un mundo y que ya no sabía en qué mundo dejarla.
 
 No se abrazaron.
 
 Pero algo, esa noche, se cerró en el pecho de Vex. Algo que había estado abierto durante años, durante el viaje, durante toda la espera. Algo que no se cerró con un abrazo. Algo que se cerró solo, como se cierran las cosas que ya no necesitan estar abiertas.
 
-Y Vex se quedó mirando el agua, como su padre le había enseñado que se miraba el agua, y descubrió, sin darse cuenta, que ya estaba mirándola como se mira cuando se está aprendiendo a quedarse.
+Y Vex miró el agua, como su padre le había enseñado que se miraba el agua, y descubrió, sin darse cuenta, que ya estaba mirándola como se mira cuando se está aprendiendo a quedarse.
 
 No había venido a quedarse.
 

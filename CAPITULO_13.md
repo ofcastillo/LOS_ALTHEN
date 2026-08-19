@@ -6,7 +6,7 @@
 
 El hombre del diamante no dijo nada al principio.
 
-Se quedó en la entrada de la cueva, mirando la luz de la espiral que había salido por la boca y que todavía flotaba en el aire del amanecer, una luz que no era artificial y que sin embargo lo cegaba. Luego la luz se apagó, como se apaga todo lo que no se alimenta, y el valle quedó en la luz gris y fría de la mañana.
+Permaneció en la entrada de la cueva, mirando la luz de la espiral que había salido por la boca y que todavía flotaba en el aire del amanecer, una luz que no era artificial y que sin embargo lo cegaba. Luego la luz se apagó, como se apaga todo lo que no se alimenta, y el valle quedó en la luz gris y fría de la mañana.
 
 Y entonces habló.
 
@@ -128,7 +128,7 @@ No lo interrogaron en la sala. Lo llevaron a la cueva. Ardal lo acompañó en pe
 
 —Lleva usted treinta años excavando esta cueva —dijo Ardal, en la penumbra—. Treinta años. Yo llevo cincuenta buscando esta cueva. Usted ha dormido en esta entrada. Yo he soñado con esta cueva sin imaginar que existía. Y ahora que la tenemos delante, los dos, en el fondo, le voy a hacer una pregunta que sé que usted no se ha atrevido a hacerse nunca: ¿por qué la abrió usted? ¿Por qué no la protegió? ¿Por qué, después de treinta años, la abrió usted y no yo?
 
-Marcos se quedó mirando la mano de piedra, con la espiral roja, con la palma abierta que entregaba.
+Marcos miró la mano de piedra, con la espiral roja, con la palma abierta que entregaba.
 
 —Porque llevaba treinta años guardándola —dijo, al fin—. Y el guardián me dijo que la cueva se entrega, y no se guarda. Se entrega a cualquiera que llegue con la pregunta. Y ustedes no traen preguntas. Traen respuestas. Y las respuestas no abren esta cueva.
 
@@ -156,7 +156,7 @@ No lo llevaron a ninguna parte. Lo dejaron en la entrada de la cueva, solo, con 
 
 —¿Y qué me va a decir? —dijo Ardal.
 
-Ivo se quedó mirando el río, el valle, la cueva abierta detrás de ellos, la línea de coches negros, el amanecer que se había convertido en mañana.
+Ivo miró el río, el valle, la cueva abierta detrás de ellos, la línea de coches negros, el amanecer que se había convertido en mañana.
 
 —Le voy a decir —dijo— que la cueva ya está abierta. Y que las puertas abiertas no se vuelven a cerrar. Puede llevarse la piedra. Puede llevarse los datos. Puede llevarse la cueva entera, si quiere, piedra por piedra. Pero lo que abrió la puerta no estaba en la cueva. Estaba en nosotros. Y usted no puede llevarse lo que está en nosotros, porque no sabe ni cómo se ve.
 
@@ -174,7 +174,7 @@ Y cuando terminaron, cuando los coches negros estuvieron cargados y la cueva que
 
 —Se lo agradezco —dijo—. Han hecho el trabajo de cincuenta años en tres días. La cueva ya no volverá a cerrarse, porque ya no hay nada que cerrar. Y lo que hay que guardar, lo guardaremos nosotros.
 
-Los cuatro se quedaron en la entrada, mirando los coches negros que se alejaban por el camino del valle, llevándose la piedra, los datos, la mano, la espiral.
+Los cuatro permanecieron en la entrada, mirando los coches negros que se alejaban por el camino del valle, llevándose la piedra, los datos, la mano, la espiral.
 
 No dijeron nada. No hacía falta.
 
@@ -184,7 +184,7 @@ No dijeron nada. No hacía falta.
 
 —¿La melodía? —dijo Valeria—. ¿La tenemos todavía?
 
-Ivo se quedó mirando el valle, el río, el sitio vacío donde había estado la cueva, donde había estado la mano, donde había estado todo.
+Ivo miró el valle, el río, el sitio vacío donde había estado la cueva, donde había estado la mano, donde había estado todo.
 
 —Claro que la tenemos —dijo—. No la llevábamos en la cueva. La llevábamos en la sangre, en los oídos, en el modo de hacer las preguntas. La vieja del valle tenía razón: la cueva solo habla con los que llegan con la pregunta hecha. Y la pregunta no se la llevaron los coches negros. La pregunta se queda. La pregunta es nuestra. La pregunta es de la humanidad, y ya está sembrada.
 
@@ -194,7 +194,7 @@ Ivo calló un momento. Y luego, con la voz del que por fin ha entendido algo que
 
 —Que la usen. Que la abran. Que intenten. Y cuando lo hagan, descubrirán lo que descubrimos nosotros: que la puerta no se abre con lo que se roba. Se abre con lo que se pregunta. Y las preguntas, Marcos, no se pueden robar.
 
-Y los cuatro se quedaron en la entrada de la cueva vacía, mirando el valle, con los coches negros perdiéndose a lo lejos, con el río que cantaba sin permiso, con la melodía sonando dentro.
+Y los cuatro permanecieron en la entrada de la cueva vacía, mirando el valle, con los coches negros perdiéndose a lo lejos, con el río que cantaba sin permiso, con la melodía sonando dentro.
 
 Sin saber que, a kilómetros de allí, en un laboratorio de la fundación, un hombre con una piedra en la mano y una espiral tallada en la palma estaba a punto de descubrir que tenía todo lo que había buscado durante cincuenta años.
 

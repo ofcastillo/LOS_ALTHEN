@@ -30,7 +30,7 @@ Y Adra, al verlo, comprendió que no volvía al país de los recuerdos: volvía 
 
 —¿Y qué trae para darles? —preguntó la vieja.
 
-Adra se quedó mirando el valle, el río, las casas, la luz de la mañana, los niños que corrían.
+Adra miró el valle, el río, las casas, la luz de la mañana, los niños que corrían.
 
 —Traigo —dijo— la memoria. Traigo el mar. Traigo la plata. Traigo el silencio. Traigo todo lo que los que partimos nos llevamos, y que los que se quedaron regalaron a cambio de quedarse. Los que se quedaron dieron el recuerdo por la manera. Los que partimos guardamos el recuerdo. Y ahora ha llegado el momento de devolverlo: de traerles el recuerdo de vuelta, para que sepan de dónde viene lo que tienen.
 
@@ -40,13 +40,13 @@ La vieja la miró durante mucho rato. Y después, con la calma de las viejas que
 
 —Sé que puede —dijo Adra—. Por eso no he venido a hacerles la pregunta. He venido a devolverles la herencia. La herencia se entrega, más que se pregunta. Y la entrega, a los herederos que ya son de aquí entero, no les abre la pregunta: les cierra el sitio por donde la pregunta se metía. Los deja más enteros, no menos.
 
-La vieja se quedó pensando. El valle seguía con su mañana, con sus quesos y sus niños, ignorando que en medio había una mensajera de un mundo que no recordaba.
+La vieja pensó. El valle seguía con su mañana, con sus quesos y sus niños, ignorando que en medio había una mensajera de un mundo que no recordaba.
 
 —Entre —dijo la vieja, al fin—. Y si es verdad que trae la herencia, entréguela despacio. Los herederos están hechos de aquí. No los rompa.
 
 ---
 
-Adra se quedó tres días en el valle.
+Adra pasó tres días en el valle.
 
 No se apresuró. Los mensajeros que traen herencias no se apresuran: la herencia no se entrega en un momento, se va entregando, como se entrega la luz de un atardecer, despacio, para que dé tiempo a verla.
 
@@ -98,7 +98,7 @@ La vieja tomó la semilla. La tuvo un momento en la palma, con la desconfianza d
 
 Adra partió al atardecer, con la nave subiendo despacio, sin ruido, como había subido siempre.
 
-La vieja se quedó en la explanada, con la semilla en la mano, mirando la nave que se hacía pequeña, mirando el cielo donde se perdía, mirando el punto donde ya no estaba.
+La vieja permaneció en la explanada, con la semilla en la mano, mirando la nave que se hacía pequeña, mirando el cielo donde se perdía, mirando el punto donde ya no estaba.
 
 No supo qué hacer con la semilla. No se la dio a nadie. La guardó, con la desconfianza de las que guardan lo que no entienden, y se la pasó, antes de morir, a la hija de su hija, con una sola instrucción:
 
@@ -106,7 +106,7 @@ No supo qué hacer con la semilla. No se la dio a nadie. La guardó, con la desc
 
 Y la semilla pasó de mano en mano, de generación en generación, en el valle, como pasaba el silbo, como pasaban las preguntas: sin nombre, sin dueño, sin que nadie supiera lo que era. Pasó por las manos de los que se quedaron, de los que heredaron, de los que cuidaron la heredad, que era la herencia de los dos mundos.
 
-Y pasó, generaciones y generaciones después, por las manos de una mujer llamada Odra, la que silbaba, la que guardaba la casa de los registros, la que se sentaba delante de la cueva donde dormía la llave del mundo.
+Y pasó, generaciones y generaciones después, por las manos de una mujer que llevaba el nombre de la abuela de las historias — la que había abierto la cueva con una melodía y había muerto con el epitafio *Los que no se van* —, y que era su nieta: la heredera de la guarda sin nombre, la que había mantenido el silbo y las preguntas como se mantiene un fuego, la que guardaba la casa de los registros, la que se sentaba delante de la cueva donde dormía la llave del mundo.
 
 Odra la tuvo un momento, en la palma, con la luz del valle encima, y la guardó, con la desconfianza de las que guardan lo que no entienden, y siguió silbando, y siguió guardando, y siguió siendo de aquí entero, con la semilla de Vaelen al cuello sin conocerla, la que los que partieron habían devuelto, la que se plantaría el día en que los dos mundos se juntaran de verdad.
 
@@ -140,11 +140,11 @@ Esa noche, Odra, la nieta, se quedó mirando la flor, al borde del río, con la 
 
 —No lo entiendo del todo —dijo, en voz baja, a la flor—. Pero lo sé de otra manera. Lo sé de cómo se saben las cosas que se guardan a oscuras. Lo sé de cómo se saben las cosas que pasan de mano en mano, sin nombre, sin dueño, y que un día, cuando llega su momento, aparecen, y florecen, y no piden permiso.
 
-Se quedó mirando la flor durante mucho rato. La flor brillaba bajito, plata y verde, con la luz de la noche, con la luz de los dos mundos, con la luz del paso.
+Miró la flor durante mucho rato. La flor brillaba bajito, plata y verde, con la luz de la noche, con la luz de los dos mundos, con la luz del paso.
 
 —Los que partieron —dijo— no volvieron para llevarse nada. Volvieron para devolver lo que se llevaron. Volvieron a devolver la semilla, para que los dos mundos echaran raíces en los dos, para que el paso fuera, no una puerta que se cruza, sino una tierra que se habita. Y esa tierra, esa tierra de en medio, es la que estamos empezando a habitar, sin darnos cuenta, cuando dejamos que lo que partió vuelva, y que lo que volvió se quede, y que lo que es de dos lados a la vez crezca en la Tierra como crece esta flor.
 
-Y Odra se quedó ahí, de noche, mirando la flor de los dos colores, con el río cantando, con la semilla de Vaelen hecha planta, con la herencia de los que partieron hecha raíz, con el regreso de los dos lados hecho, por fin, de la única manera en que los regresos se cumplen de verdad:
+Y Odra permaneció ahí, de noche, mirando la flor de los dos colores, con el río cantando, con la semilla de Vaelen hecha planta, con la herencia de los que partieron hecha raíz, con el regreso de los dos lados hecho, por fin, de la única manera en que los regresos se cumplen de verdad:
 
 no volviendo a un sitio.
 

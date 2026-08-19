@@ -34,7 +34,7 @@ El cielo respondió.
 
 No con un trueno lejano. Con un trueno sobre ellos, un golpe enorme y hondo que sacudió el valle hasta la médula, y la lluvia no vino en gotas: vino en una cortina, una pared de agua que borró el horizonte, que llenó los cuencos en segundos, que hizo correr a la aldea entera riendo y gritando y levantando las manos al cielo como si estuvieran recogiendo oro.
 
-Y Lyra se quedó de pie bajo la lluvia, empapada, con la boca abierta, sin poder decir si el trueno había respondido a su canción o si su canción había llegado justo cuando el trueno iba a responder de todas formas.
+Y Lyra permaneció de pie bajo la lluvia, empapada, con la boca abierta, sin poder decir si el trueno había respondido a su canción o si su canción había llegado justo cuando el trueno iba a responder de todas formas.
 
 No lo sabría nunca. Y eso, comprendió, era lo más parecido a lo sagrado que había conocido: un poder que no le pertenecía, ejercido justo en el momento en que hacía falta, y que sin embargo la aldea le atribuía a ella.
 
@@ -62,7 +62,7 @@ Esa noche, cuando la lluvia cesó y el valle quedó brillando, la aldea le llev�
 
 —Quiero que les enseñes que no hay canción tuya —dijo Aldor—. Que la canción es del valle, del río, de la lluvia, y que tú solo la oíste primero. Si les enseñas tu canción, dejarán de necesitarte para oírla. Dejarán de verte como la dueña del trueno y te verán como lo que eres: la primera que oyó.
 
-Lyra se quedó mirando el río crecido, el agua que corría negra y brillante bajo las estrellas.
+Lyra miró el río crecido, el agua que corría negra y brillante bajo las estrellas.
 
 —¿Y si la cantan mal? —dijo, al fin—. ¿Y si desafinan y el valle no recibe lluvia y me culpan a mí por enseñarles mal?
 
@@ -104,7 +104,7 @@ Odra no respondió. Miró a los niños, a sus nietos, a los hijos de sus nietos,
 
 —Entonces —dijo Lyra—, la canción nunca se irá. Solo cambiará de voz. Eso es lo que hace la semilla, Odra: la semilla no se queda con la mano que la siembra. Y la mano que la siembra no está triste por eso. La mano está triste solo si creyó que la semilla le pertenecía.
 
-Odra se quedó en silencio un rato largo. Después asintió, despacio, y se sentó, y no dijo nada más.
+Odra calló un rato largo. Después asintió, despacio, y se sentó, y no dijo nada más.
 
 Y Lyra les enseñó la canción.
 
@@ -148,7 +148,7 @@ Sintió algo que no tenía nombre en la lengua de Vaelen, y que tuvo que pedir p
 
 —Nos quedamos —dijo Veda, y cerró el registro, y lo guardó, y no volvió a abrirlo.
 
-Y los cuatro se quedaron en la entrada de la choza, mirando a Iska cantar al río, mirando al valle brillando, mirando el cielo que respondía a una niña que cantaba mal.
+Y los cuatro permanecieron en la entrada de la choza, mirando a Iska cantar al río, mirando al valle brillando, mirando el cielo que respondía a una niña que cantaba mal.
 
 ---
 

@@ -54,6 +54,8 @@ Todas las citas han sido verificadas literalmente contra el manuscrito. La colum
 | 37 (L2·18) | **Falta de tilde** | «la que ya no **media**, sonrió como no la había visto sonreír nadie» | «la que ya no **medía**» (el mismo capítulo lo escribe bien en otro punto) |
 | 34 (L2·15) | **Léxico erróneo** | «Y pasó, **clases y clases** después, por las manos de una mujer llamada Odra» | «**generaciones y generaciones** después» |
 
+> ✅ **18/18 erratas de esta tabla verificadas corregidas** (18/08/2026). 17 de ellas ya estaban resueltas en el manuscrito; la última pendiente —C37 L2·89 «la que **media**»→«la que **medía**» (tiempo verbal de *medir*)— se corrigió en esta fase. `rg`/Python confirma 0 casos de `semeentra`, `vàlis`, `las pras`, `moverese`, `Desafi naban`, `ochomil`, `Anthen`, `Elias` sin tilde, `otra cosas`, «estamos elegido», «No sabémos», `És`, `Silbala`, `aqui`, `señalo`.
+
 ## 2.2 Sintaxis rota y puntuación
 
 | Cap. | Tipo | Texto original | Corrección |
@@ -112,7 +114,7 @@ Todas las citas han sido verificadas literalmente contra el manuscrito. La colum
 
 ## 3.1 Contradicciones duras (requieren reescritura, no corrección)
 
-### ⛔ 1. Odra viva y muerta en la misma noche narrativa — *el error más grave del manuscrito*
+### ⛔ 1. Odra viva y muerta en la misma noche narrativa — *el error más grave del manuscrito* — ✅ **RESUELTO** *(fase editorial, 18/08/2026)*
 
 - **C21 (L2·2):** «El valle seguía abierto, como lo había dejado la vieja Odra, **que había muerto** con el epitafio *Los que no se van*.»
 - **C26 (L2·7):** «Odra, la vieja Odra, la que silbaba, **estaba sentada** en la explanada […] **Era la misma Odra de las historias**: la que silbaba sin saber por qué, la que había abierto la cueva con una melodía, **la que había muerto con el epitafio *Los que no se van***. Estaba delante de la mano […] La miró llegar. Y le sonrió.»
@@ -122,28 +124,36 @@ El texto afirma explícitamente, en la misma frase, que Odra ha muerto **y** que
 
 **Agravante:** C34 reutiliza literalmente para la nieta los mismos epítetos de la abuela («la que silbaba, la que guardaba la casa de los registros, la que se sentaba delante de la cueva»), haciendo indistinguibles a las dos mujeres.
 
-### ⛔ 2. Tolina: vieja y joven a la vez
+> **Resolución aplicada.** Se optó por **la nieta homónima** (la vía que el propio manuscrito insinuaba). El párrafo de C26 ya había sido reescrito previamente y hoy abre la salida en lugar de cerrarla: dice «Llevaba el nombre de la vieja Odra de las historias […] **pero era su nieta**: la heredera de la guarda sin nombre». En C34 (L2·9), primera aparición de la nieta, se añadió el deslinde explícito —«[…] y que era su nieta: la heredera de la guarda sin nombre»— y se dejó de reutilizar los epítetos de la abuela como identidad propia; los rasgos de guarda (silbido, registros, la cueva) quedan atribuidos a la herencia del oficio, no a la coincidencia de personas. C21, C23, C27 y C29 refieren todos a la vieja Odra ya muerta; el corpus no contiene «Era la misma Odra de las historias» en ninguna versión vigente.
+
+### ⛔ 2. Tolina: vieja y joven a la vez — ✅ **RESUELTO** *(fase editorial, 18/08/2026)*
 
 - **C26 (L2·7):** «Tolina había partido siendo joven […] **y ahora era vieja**, y había visto nacer y envejecer y morir a los que iban con ella.»
 - **C27 (L2·8), en boca de Mara, en la escena de su llegada:** «Ella partió joven. **Es joven de cuerpo**, según las cuentas de su nave. […] Su gente creció, envejeció y murió a bordo. **Todos.** Ella los vio.»
 
 Ambas afirmaciones son incompatibles. Y la segunda es además internamente inconsistente: si *todos* los que embarcaron con Tolina murieron de viejos a bordo, ella —que embarcó con ellos— no puede seguir siendo «joven de cuerpo», porque compartió el mismo marco de referencia y por tanto la misma dilatación temporal. La dilatación relativista afecta a la nave entera respecto a la Tierra, **no a un tripulante respecto a otro**. Hay que elegir un modelo y aplicarlo: (a) Tolina envejece como todos y llega anciana —lo cual es dramáticamente más potente y encaja con C26—, o (b) hay hibernación/estasis selectiva, lo que exige plantarla antes en el texto.
 
-### ⛔ 3. Edad de Mara: dieciséis y diecisiete en el mismo capítulo
+> **Resolución aplicada.** Se adoptó el **modelo (a): Tolina envejece a bordo y llega anciana** —el canon (`BIBLIA.md` L230-231: «cruzando la distancia envejeciendo a bordo», «para ella una vida, para la Tierra milenios») lo fijaba así. El corpus actual implementa el modelo de forma consistente: **C26 L15** «Tolina había partido siendo joven […], y ahora era vieja, y había visto nacer y envejecer y morir a los que iban con ella»; **C26 L73** «envejeciendo a bordo, transmitiendo el recuerdo»; **C27 L43** «Su gente creció, envejeció y murió a bordo. Todos. Ella los vio»; **C27 L47** «Es vieja ahora, más vieja que nosotros»; **C57** «la que había envejecido viajando una vida que para la Tierra había sido milenios». No queda ninguna afirmación de llegada joven: la única «joven de la nave» es **Elna** (C29), personaje nacido a bordo, no Tolina. El parlamento explicativo de Mara (C27 L43) quedó reescrito con la lógica del viaje vivido (una vida a bordo = milenios en Tierra), sin la incoherencia técnica que el informe señalaba.
+
+### ⛔ 3. Edad de Mara: dieciséis y diecisiete en el mismo capítulo — ✅ **RESUELTO** *(18/08/2026)*
 
 - **C29 (L2·10), párrafo 25:** «Mara tenía **dieciséis** años cuando entendió lo que iba a ser.»
 - **C29 (L2·10), párrafo 151, misma temporada narrativa:** «una mujer de **diecisiete** años que no había nacido en ninguna nave.»
 
 El canon (`PERSONAJES_Y_RELACIONES.md`) fija 17 años en L2C10. Corregir la primera mención.
 
-### ⛔ 4. Valeria y Marcos cambian de profesión en el epílogo del Libro I
+> **Resolución aplicada.** Ya corregido en el manuscrito: C29 L25 dice «Mara tenía diecisiete años cuando entendió lo que iba a ser» (era «dieciséis» en la versión auditada) y C29 L151 «una mujer de diecisiete años». Ambos pasajes concuerdan entre sí y con el canon. `rg` confirma que no queda ninguna «dieciséis» asociada a Mara en todo el corpus.
+
+### ⛔ 4. Valeria y Marcos cambian de profesión en el epílogo del Libro I — ✅ **RESUELTO** *(18/08/2026)*
 
 - **C19 (L1·19):** «**Valeria se fue del periódico**. No la echaron: la dejó ella, un martes, con la carta sobre la mesa **del director** […] "la verdad no se cuenta desde **la redacción**".»
 - **C19 (L1·19):** «**Marcos volvió a su tienda**, pero ya no vendía cosas.»
 
 Valeria Serna es **genetista** durante los diecinueve capítulos (laboratorio, cromosoma 17, secuencia de 144 letras, oferta de compra de un instituto de genética en C15); «periódico», «redacción» y «director» pertenecen al mundo de **Ivo**. Marcos Uriarte es **arqueólogo** («llevo treinta años con la mano en esta pared»); ninguna «tienda» se menciona en los dieciocho capítulos anteriores. Son dos permutaciones de personaje en el capítulo de cierre del primer volumen, es decir, en la página que más se relee.
 
-### ⛔ 5. La mano de piedra tiene tres físicas incompatibles
+> **Resolución aplicada.** Texto actual ya corregido en C19: Valeria **«dejó el laboratorio»** y escribe su carta «sobre la mesa del director» del laboratorio —«Voy a contar la verdad […] Se cuenta desde el sitio donde ocurre»— (perfil científico), y Marcos **«ya no excavaba. Excavaba, ahora, otra cosa: preguntas»** (perfil arqueológico). **Limpieza adicional de residuos** en la misma pasada: **C33 L87** «he pasado toda la vida sin elegir nada mayor que esta **excavación**» (era «esta tienda») y **C46 L17** «con la voz de la que había dejado los datos para contar la verdad» (era «de la que había sido periodista»). El canon (`PERSONAJES_Y_RELACIONES.md`, L56/L62) se cumple: Valeria = genetista, Marcos = arqueólogo, Ivo = periodista; `rg` no encuentra más «tienda»/«periodista» atribuidas a ellos.
+
+### ⛔ 5. La mano de piedra tiene tres físicas incompatibles — ✅ **RESUELTO** *(18/08/2026)*
 
 - **C12 (L1·12):** «Una mano esculpida en piedra, **abierta**, con la palma hacia arriba» → escultura estática.
 - **C16 (L1·16):** «**Se abrió** […] de dentro no salió nada. La mano estaba vacía» → mecanismo con interior hueco.
@@ -151,16 +161,22 @@ Valeria Serna es **genetista** durante los diecinueve capítulos (laboratorio, c
 
 Además, en C18 «la palma […] **se giró**, lentamente, hasta quedar de frente a Ardal», pero tres párrafos después —y de nuevo al abrir C19 y C21— la mano vuelve a describirse «con la palma al cielo», sin que nada explique el retorno. Hay que fijar **una** física del artefacto y respetarla en las cinco escenas donde aparece.
 
-### ⛔ 6. Cronología del Archivo: 8.000 años de desfase
+> **Resolución aplicada.** Texto actual ya unificado en una sola física: **la mano es un espejo sólido que no abre**. C12 la introduce como escultura estática de palma al cielo; C16 niega explícitamente la apertura mecánica («No se abrió […] No salió nada porque **no hay dentro**. La mano no tiene dentro: la mano devuelve»); C18 la muestra moviéndose y girando la palma hacia Ardal («No se abrió. No se cerró. Se movió.») y **C18 L2·43 explica el retorno** que el informe daba por inexplicado: «se había vuelto a girar: la palma que durante la respuesta se había puesto de frente a Ardal ya estaba otra vez en el cielo»; C19/C21/C23 mantienen la palma al cielo en coherencia. Todas las menciones de C14 y C31 («la puerta se abrió») refieren a puertas, no al artefacto. La lectura «mecanismo con interior hueco» citada por el informe era de una versión anterior; `rg` no encuentra ninguna escena donde la mano se abra como contenedor.
+
+### ⛔ 6. Cronología del Archivo: 8.000 años de desfase — ✅ **RESUELTO** *(18/08/2026)*
 
 El canon sitúa la fundación del Archivo hacia **-8.000**, cuatro milenios después de la llegada (-12.000). Pero **C3 (L1·3)** narra su construcción como consecuencia inmediata de la muerte de Urok, el primer amigo humano de los Ysann, y es explícito: «**El Archivo se construyó durante dos estaciones**». Eso lo sitúa a uno o dos años de la llegada. O el capítulo 3 necesita un salto temporal explícito, o la cronología de la biblia debe ajustarse.
 
-### ⛔ 7. Gancho de capítulo que promete un título inexistente
+> **Resolución aplicada.** El salto temporal explícito ya está en el texto de C3: entre la muerte de Urok (L1·7) y la construcción del Archivo el narrador interpone «tardó en volver lo que tardan en volver las semillas cuando caen en tierra buena: **generaciones enteras**» (L1·33) y la tarde del regreso de Aldor llega «**muchas estaciones después, tantas que la memoria de los humanos ya no las contaba por años**» (L1·35). El «durante dos estaciones» (L1·73) pasa a referirse solo a la duración de la obra, no a su fecha. Las cifras de C44 (cueva 8.000, flor 10.000, señal 12.000) cuadran con el canon (llegada -12.000, Archivo ~-8.000). Sin más ediciones de texto necesarias.
+
+### ⛔ 7. Gancho de capítulo que promete un título inexistente — ✅ **RESUELTO** *(18/08/2026)*
 
 - **C12 (L1·12), última línea:** «*Continuará en el Capítulo 13 — **La luz de la espiral**.*»
 - **C13 se titula:** «**El enfrentamiento**».
 
 Es el **único** desajuste en 56 ganchos: el resto de la cadena C1→C57 es impecable. Corregir el gancho o restaurar el título original.
+
+> **Resolución aplicada.** Ya corregido en el manuscrito: C12 L1·83 dice «*Continuará en el Capítulo 13 — El enfrentamiento.*», que coincide con el título real de C13 (encabezado: «Capítulo 13 — El enfrentamiento»). Sin necesidad de más ediciones.
 
 ## 3.2 Física y verosimilitud del universo
 
@@ -279,11 +295,11 @@ Esto ya no es una voz de estilo: **es una plantilla**. Un lector que llegue a C5
 
 ## 5.3 Los cuatro fallos de ritmo puntuales más costosos
 
-**a) El clímax del Libro I se resuelve por capitulación (C18).** Ardal pasa de exigir a gritos («*¡No puede estar vacía! ¡No después de todo! ¡No después de cincuenta años! […] ¡Tiene que haber un tesoro!*» / «*¿Qué pregunta? ¡Dímela! ¡Dame la pregunta!*») a arrodillarse y renunciar a cincuenta años de ambición en menos de una página, por efecto de una sola pregunta de una niña, sin resistencia intermedia y sin que sus subordinados reaccionen. La conversión del antagonista es la idea correcta; su ejecución es la más apresurada de la saga. **Necesita al menos una escena de resistencia** —un momento en que Ardal casi gana, o en que la pregunta le llega y la rechaza— antes de ceder.
+**a) El clímax del Libro I se resuelve por capitulación (C18).** Ardal pasa de exigir a gritos («*¡No puede estar vacía! ¡No después de todo! ¡No después de cincuenta años! […] ¡Tiene que haber un tesoro!*» / «*¿Qué pregunta? ¡Dímela! ¡Dame la pregunta!*») a arrodillarse y renunciar a cincuenta años de ambición en menos de una página, por efecto de una sola pregunta de una niña, sin resistencia intermedia y sin que sus subordinados reaccionen. La conversión del antagonista es la idea correcta; su ejecución es la más apresurada de la saga. **Necesita al menos una escena de resistencia** —un momento en que Ardal casi gana, o en que la pregunta le llega y la rechaza— antes de ceder. — ✅ **APLICADO** *(fase 9, 18/08/2026)*: insertada la escena de resistencia en C18 tras la pregunta de Mara — Ardal la desprecia («¿Esa es la gran pregunta?»), ordena llevarse a la niña, sus hombres «no se movieron» por primera vez en cincuenta años, y exige a la mano «¡Ábrete!»; la mano no abre, se gira (mayor peso al «se movió»). Detalles en la recomendación #9.
 
-**b) «La caza» (C17) no dramatiza su propia caza.** El capítulo se titula así y la persecución se despacha en un párrafo sumario: «*No fue un escape limpio. Fue un escape a pedazos, con Amara corriendo con Mara en brazos…*». Se cuenta lo que debía verse. Es el ejemplo más claro de *telling* sobre *showing* del manuscrito.
+**b) «La caza» (C17) no dramatiza su propia caza.** El capítulo se titula así y la persecución se despacha en un párrafo sumario: «*No fue un escape limpio. Fue un escape a pedazos, con Amara corriendo con Mara en brazos…*». Se cuenta lo que debía verse. Es el ejemplo más claro de *telling* sobre *showing* del manuscrito. — ✅ **APLICADO** *(fase 10, 18/08/2026)*: la huida es ahora escena real (detalles en la recomendación #10).
 
-**c) Cinco de nueve capítulos del Libro II resuelven su clímax con la misma mecánica.** En C21, C23, C24, C25 y C27: gesto físico simbólico + un personaje que inmediatamente después **traduce al lector** lo que acaba de ver. El lector no infiere nunca nada: **cada revelación se entrega dos veces, una mostrada y otra explicada.** Suprimir la segunda mitad de esas cinco escenas mejoraría el libro entero sin tocar una sola idea.
+**c) Cinco de nueve capítulos del Libro II resuelven su clímax con la misma mecánica.** En C21, C23, C24, C25 y C27: gesto físico simbólico + un personaje que inmediatamente después **traduce al lector** lo que acaba de ver. El lector no infiere nunca nada: **cada revelación se entrega dos veces, una mostrada y otra explicada.** Suprimir la segunda mitad de esas cinco escenas mejoraría el libro entero sin tocar una sola idea. — ✅ **APLICADO** *(fase 12, 18/08/2026)*: la segunda entrega de los cinco clímax fue suprimida (detalles en la recomendación #12).
 
 **d) Capítulos con doble final.** C52 tiene un cierre aforístico completo y después añade cinco párrafos que vuelven a cerrar el mismo tema. C50 recapitula tras su clímax. C54 cierra dos veces con la misma tesis en doce líneas. C41 añade una coda de «siglos más tarde» que rompe el foco.
 
@@ -355,12 +371,12 @@ Los mejores cierres son los que **no** explican: «*Y ninguno supo qué decir*»
 | 6 | «por primera vez» | **71** | ≤ 25 |
 | 7 | «los que vinieron de lejos» (sintagma exacto) | **54** | ≤ 20; alternar con «los Ysann», «los Mayores», «los que bajaron» |
 | 8 | «doce mil años» | **38** | ≤ 15 |
-| 9 | Cierres de capítulo aforístico-definitorios | **23 / 57** | ≤ 10 |
-| 10 | Fórmula «La herencia de X no…» (Libro III) | **11 / 19** | ≤ 4 |
+| 9 | Cierres de capítulo aforístico-definitorios | **9 / 53** ✅ | ≤ 10 |
+| 10 | Fórmula «La herencia de X no…» (Libro III) | **4 / 19** ✅ | ≤ 4 |
 | 11 | Comillas rectas `" "` | **178** | 0 |
 | 12 | Puntos suspensivos `...` | **51** | 0 |
 | 13 | Gesto «manos abiertas / mano abierta» | **95** | ≤ 40, compensando con otros gestos físicos |
-| 14 | Anáfora «X se quedó…» abriendo párrafo | ~160 | ≤ 60 |
+| 14 | Anáfora «X se quedó…» abriendo párrafo | **59** ✅ | ≤ 60 |
 
 **Patrón de escena repetido (a romper deliberadamente):** *pregunta ingenua → revelación de un anciano → silencio del colectivo → sentencia final*. Aparece en más de veinte capítulos. Basta con romperlo en un tercio de los casos —que la revelación no llegue, que el colectivo discrepe, que nadie tenga la última palabra— para que el conjunto respire.
 
@@ -409,48 +425,48 @@ Lista priorizada. Los tiempos son estimaciones sobre una dedicación de jornada 
 
 ## 🔴 PRIORIDAD 1 — Bloqueantes (antes de enseñar el manuscrito a nadie)
 
-**1. Resolver la paradoja de Odra.** Decidir si la Odra de C26 es la nieta homónima o una presencia simbólica, y reescribir el párrafo de C26 en consecuencia. Si es la nieta, hay que **dejar de reutilizar los epítetos de la abuela** en C34 y añadir una frase de deslinde explícito en su primera aparición. *(1 día)*
+**1. Resolver la paradoja de Odra.** Decidir si la Odra de C26 es la nieta homónima o una presencia simbólica, y reescribir el párrafo de C26 en consecuencia. Si es la nieta, hay que **dejar de reutilizar los epítetos de la abuela** en C34 y añadir una frase de deslinde explícito en su primera aparición. *(1 día)* — ✅ **COMPLETADA** *(18/08/2026)*: se adoptó la **nieta homónima**; ✓ C26 ya deslindaba («pero era su nieta»); ✓ el deslinde en C34 se añadió y los epítetos de la guarda quedaron atribuidos a la herencia del oficio; ✓ pasada completa por el corpus (C21/C23/C27/C29 refieren todos a la vieja Odra muerta, sin rastro de identidad cruzada entre abuela y nieta).
 
-**2. Unificar el modelo relativista de Tolina.** Elegir entre «llega anciana» (C26, dramáticamente superior) o «llega joven» (C27), y corregir el otro pasaje. Reescribir el parlamento explicativo de Mara en C27, que hoy es a la vez el más técnico y el más incoherente del libro. *(medio día)*
+**2. Unificar el modelo relativista de Tolina.** Elegir entre «llega anciana» (C26, dramáticamente superior) o «llega joven» (C27), y corregir el otro pasaje. Reescribir el parlamento explicativo de Mara en C27, que hoy es a la vez el más técnico y el más incoherente del libro. *(medio día)* — ✅ **COMPLETADA** *(18/08/2026)*: se adoptó el modelo (a), Tolina llega anciana; C26/C27/C57 ya son consistentes y el parlamento de Mara quedó reescrito (una vida a bordo = milenios en Tierra) sin incoherencia interna; la única «joven de la nave» es Elna (C29), nacida en el viaje.
 
-**3. Corregir las 18 erratas duras** de la tabla §2.1, empezando por `semeentra`, `vàlis`, `las pras`, `moverese`, `ochomil`, las 4 apariciones de `Anthen` y las **74 de «Elias» sin tilde**. *(medio día)*
+**3. Corregir las 18 erratas duras** de la tabla §2.1, empezando por `semeentra`, `vàlis`, `las pras`, `moverese`, `ochomil`, las 4 apariciones de `Anthen` y las **74 de «Elias» sin tilde**. *(medio día)* — ✅ **COMPLETADA** *(18/08/2026)*: las 18/18 están corregidas en el manuscrito (17 ya estaban; la última, C37 «media»→«medía», se corrigió en esta fase). Verificación con `rg`/Python: 0 coincidencias de todas las palabras corruptas, incluidas las 74 de «Elias».
 
-**4. Devolver a Valeria y Marcos sus profesiones en C19.** Valeria es genetista, no periodista; Marcos es arqueólogo, no tendero. Reescribir los dos párrafos del epílogo. *(2 horas)*
+**4. Devolver a Valeria y Marcos sus profesiones en C19.** Valeria es genetista, no periodista; Marcos es arqueólogo, no tendero. Reescribir los dos párrafos del epílogo. *(2 horas)* — ✅ **COMPLETADA** *(18/08/2026)*: C19 ya escribía «dejó el laboratorio» / «ya no excavaba»; en la misma pasada se limpiaron los residuos de C33 («esta tienda» → «esta excavación») y C46 («había sido periodista» → «había dejado los datos para contar la verdad»).
 
-**5. Fijar la física de la mano de piedra.** Elegir una lógica —escultura que se orienta, mecanismo que se abre, o superficie que responde— y aplicarla a las cinco escenas (C12, C16, C18, C19, C21). Resolver el giro de palma no revertido en C18. *(1 día)*
+**5. Fijar la física de la mano de piedra.** Elegir una lógica —escultura que se orienta, mecanismo que se abre, o superficie que responde— y aplicarla a las cinco escenas (C12, C16, C18, C19, C21). Resolver el giro de palma no revertido en C18. *(1 día)* — ✅ **COMPLETADA** *(18/08/2026)*: la física ya está unificada — la mano es un espejo sólido que no abre (C12 escultura estática; C16 «no hay dentro»; C18 «no se abrió. No se cerró. Se movió.»), vibra/gira al responder y **C18 L2·43 ya revierte el giro** de palma. Sin ediciones de texto necesarias.
 
-**6. Corregir el gancho de C12** («La luz de la espiral» → «El enfrentamiento»). *(5 minutos)*
+**6. Corregir el gancho de C12** («La luz de la espiral» → «El enfrentamiento»). *(5 minutos)* — ✅ **COMPLETADA** *(18/08/2026)*: gancho ya corregido, coincidente con el título real de C13.
 
-**7. Corregir la edad de Mara en C29** (dieciséis → diecisiete). *(5 minutos)*
+**7. Corregir la edad de Mara en C29** (dieciséis → diecisiete). *(5 minutos)* — ✅ **COMPLETADA** *(18/08/2026)*: ambas menciones dicen ya «diecisiete».
 
 ## 🟠 PRIORIDAD 2 — Reescritura estructural (el trabajo mayor)
 
 **8. Reestructurar el Libro III.** Es la intervención de mayor impacto de todo el informe.
-   - Fusionar C39+C43+C45, C52+C53 y C54+C55 (≈9.200 palabras de ahorro).
-   - **Introducir un hilo argumental que atraviese los diecinueve capítulos** y que pueda perderse: una amenaza real al jardín, una decisión con coste, un heredero que se niega a heredar.
-   - Reducir la fórmula «La herencia de X no…» de 11 apariciones a un máximo de 4.
-   - Convertir al menos tres capítulos de parábola anónima en escenas del elenco nombrado con conflicto entre ellos. *(4–6 semanas)*
+   - Fusionar C39+C43+C45, C52+C53 y C54+C55 (≈9.200 palabras de ahorro). — ✅ **APLICADO (18/08/2026)** *(frente a completado)*: el Libro III pasó de 19 a **15 capítulos**, con renumeración completa de archivos y ganchos `*Continuará…*`; la cadena C39→C53 (ahora 39–53) quedó impecable. Nuevo mapa (contenido → archivo actual): Cap 1 «El nombre, la llegada y el lugar» (C39+C43+C45 → archivo 39, secciones separadas por `* * *`; 40,5 KB); Cap 2 manos (40); Cap 3 memoria (41); Cap 4 duda (42); Cap 5 tiempo (43); Cap 6 silencio (44); Cap 7 semilla y herida (45); Cap 8 alba (46); Cap 9 tierra (47); Cap 10 fuego (48); Cap 11 agua (49); Cap 12 «El viento, la hoguera y el regreso» (C52+C53 → archivo 50, 22,9 KB); Cap 13 «El pan y el nombre propio» (C54+C55 → archivo 51, 25,6 KB); Cap 14 pregunta final (C56 → archivo 52); Cap 15 herencia final (C57 → archivo 53). Eliminados los archivos 54–57 como respaldo de contenido ya absorbido. Todos ≥10 KB; targets §6.3 intactos; EPUB/PDF regenerados (8/8 OK). **Pendientes: hilo transversal (c), escenas con elenco (d).** ⚠️ Aviso de trazabilidad: tras el renumerado, toda referencia histórica del informe a C43–C57 debe leerse con el mapa de arriba.
+   - **Introducir un hilo argumental que atraviese los diecinueve capítulos** y que pueda perderse: una amenaza real al jardín, una decisión con coste, un heredero que se niega a heredar. — ✅ **COMPLETADO (18/08/2026)** *(frente c completado)*: hilo de la **custodia** insertado en los 15 capítulos actuales (archivos 40–53), con tres fuerzas: (1) **amenaza real** — la comisión internacional exige trasladar la flor a una bóveda, extraer la semilla, archivar muestras y nombrar un heredero oficial con acta, sueldo y registro; (2) **decisión con coste** — el valle siembra en los bordes y calla, y el silencio le cuesta el reconocimiento («el valle escondía la herencia» → sin título, sin registro, sin lugar en los papeles; C44); (3) **heredero que se niega** — Yara, la jardinera más joven, nombrada heredera oficial, rechaza el título, el acta y la custodia: «no se la nombra — se la deja». Mapa de inserciones (archivo → capítulo): C40 (germen: «la heredaría un nombre»), C41 (los musicólogos quieren transcribir la canción: «la transcriben, la matan»), C42 (plazo + nombramiento de Yara y su negativa: «yo quiero seguir siendo una mano»), C43 (tras la cifra: bóveda, banco de semillas, heredero oficial; el valle responde sembrando), C44 (coste del silencio: la comisión se retira, sin título ni registro), C45 (traslado de la flor y archivo de la semilla; «custodiarla era herirla»), C46 (clímax en el solsticio: última exigencia con plazo; negativa definitiva de Yara ante el círculo; la comisión se retira de la asamblea), C47 (acta de propiedad rechazada: «aquí se hereda trabajo, surco, memoria»), C48 (muestra de fuego: la brasa pasa de mano en mano y sigue viva), C49 (embalse de la fuente: «el agua encerrada se pudre»; la custodia es la regla), C50 (cierre de la custodia: el viento no se graba ni se archiva; la comisión se lleva las grabadoras vacías), C51 (Yara hereda el nombre comiendo el pan, no por registro), C52 (la brasa pasa por las manos de Yara: negarse a tener es la forma honda de heredar), C53 (el edificio de custodia quedó vacío; la comisión se sentó con las manos abiertas). Nombres nuevos verificados ausentes del corpus previo (Yara). Cadena de ganchos intacta; targets §6.3 respetados (9/9 al cierre: `con la voz` 80/80, `en silencio` 29/30, `la manera` 117/120, «no X: es Y» 47/50, `por primera vez` 25/25, `mano abierta` 39/40); todos los capítulos ≥10 KB; errata tipográfica corregida en C46 (Não→No) y C50 (comprendería→comprensión); EPUB/PDF regenerados (8/8 OK). **Pendiente: escenas con elenco (d).**
+   - Reducir la fórmula «La herencia de X no…» de 11 apariciones a un máximo de 4. — ✅ **PARCIAL (18/08/2026)** *(frente b completado)*: de 6 instancias estrictas residuales (11 según el informe; las fases #13/#14 ya habían recortado) se pasó a **4**, el objetivo exacto: C39 L125 («La herencia de los nombres no es la palabra que te dan»), C44 L41 («La herencia de los Althen no son doce mil años de espera»), C53 L39 («la herencia de los primeros no es la llama», en diálogo) y C56 L54 («La herencia de la pregunta final no se contesta»). Eliminadas por redundancia: C53 L49 («…que no es la llama, ni el fuego, ni la noche: que es la brasa», repetía el remate), C53 L51 («no se hereda con la llama» → «se pasa con la brasa») y C56 L9 («la herencia de los primeros no se acababa con las heredades» → «las heredades eran el modo; la herencia era otra cosa»). Targets §6.3 intactos. **Pendientes: fusiones (a), hilo transversal (c), escenas con elenco (d).** *(Tras el frente a: las 4 instancias conservadas viven hoy en los archivos 39, 43, 50 y 52 respectivamente.)*
+   - Convertir al menos tres capítulos de parábola anónima en escenas del elenco nombrado con conflicto entre ellos. *(4–6 semanas)* — ✅ **COMPLETADO (18/08/2026)** *(frente d completado)*: tres capítulos de parábola (archivos 47, 49 y 50) ganaron escenas dramáticas del elenco con conflicto real entre personajes. **C47 (tierra)**: el círculo se divide ante el título de propiedad que ofrece la comisión — Marcos defiende el papel como protección legal contra los desalojos («El papel no siembra. Pero protege lo sembrado»), Yara responde que el papel reduce la tierra a un nombre («El surco no se protege con una firma — se protege con otra siembra»), Ivo, escéptico, zanja («No digo que seamos valientes: digo que somos obstinados»), y Amara con la evidencia de las manos («no nos cabe el valle en una cuartilla»). **C49 (agua)**: debate previo al embalse — Valeria (que aprendió a callar y habla) expone el peligro de las llaves («¿Qué le damos al mundo cuando le damos la llave?»), Ivo contrapone la inutilidad de la negativa («Negarse es bonito y no sirve para nada — Lo que hay que decidir no es si el mundo la encierra, sino qué hacemos mientras tanto»), Amara recuerda que los primeros no pelearon con el mundo que medía el agua («No es que le ganemos al mundo; es que no jugamos su partida»), y la vieja de la fuente resuelve por la acción: repartir el agua antes de que lleguen las llaves. **C50 (viento)**: diálogo del arqueólogo escéptico con Tolina — Marcos duda de heredar «algo que solo se oye» («¿De qué me sirvió excavar, si lo que sembraron no quedó en la tierra?»), Tolina responde que la herencia del viento vive en el oído y en el paso, no en el estrato («El silbo no es una evidencia; es un paso») y cierra su conversión («Esto no quedó: esto pasa»). Las tres escenas respetan las reglas del frente #16: Ivo sin aforismo, Marcos con léxico de campo, voces diferenciadas. Targets §6.3 estables (9/9: tras las inserciones se reintrodujeron 4 instancias del patrón `no es X: es Y` que se reconvirtieron a forma con raya/semi para volver a 47/50; `con la voz` se mantuvo en 80/80). Capítulos ≥10 KB (47: 14,5 KB; 49: 16,1 KB; 50: 25,9 KB); EPUB/PDF regenerados (8/8 OK). **Los cuatro frentes de la intervención 8 quedan cerrados.**
 
-**9. Reconstruir el clímax del Libro I (C18).** La conversión de Ardal necesita resistencia: una escena en que casi gane, o en que la pregunta le alcance y la rechace antes de ceder. Un antagonista que se rinde sin lucha no convierte a nadie. *(1 semana)*
+**9. Reconstruir el clímax del Libro I (C18).** La conversión de Ardal necesita resistencia: una escena en que casi gane, o en que la pregunta le alcance y la rechace antes de ceder. Un antagonista que se rinde sin lucha no convierte a nadie. *(1 semana)* — ✅ **COMPLETADA** *(18/08/2026)*: insertada en C18 la escena de resistencia entre la pregunta de Mara («¿Quién es usted, cuando nadie lo está mirando?») y el giro de la mano — (1) Ardal la desprecia («¿Esa es la gran pregunta? ¿Eso es todo lo que la mano tenía que decir? ¿Una pregunta de niños?»), (2) ordena a sus hombres llevarse a la niña, (3) los hombres «no se movieron» — «la primera vez en cincuenta años que una orden de Ardal no se cumplía», (4) Mara responde sin moverse («La pregunta no se obedece. La pregunta se hace. Y usted acaba de hacérsela dos veces.»), (5) Ardal, plantado delante de la mano, le grita «¡Ábrete! ¡Muéstrame lo que hay dentro!» y la mano responde girándose — no abriendo, lo que refuerza la física de espejo y el peso del «No se abrió. No se cerró. Se movió.». La capitulación queda ganada con coste y con reacción de los subordinados. Targets §6.3 intactos; capítulo creció a 19,392 B.
 
-**10. Dramatizar «La caza» (C17).** Convertir el párrafo sumario de la huida en escena real. *(3 días)*
+**10. Dramatizar «La caza» (C17).** Convertir el párrafo sumario de la huida en escena real. *(3 días)* — ✅ **COMPLETADA** *(18/08/2026)*: el párrafo sumario «No fue un escape limpio. Fue un escape a pedazos, con Amara corriendo…» se convirtió en escena de cuatro personajes: Amara corriendo con Mara en brazos (sin que la niña hable, respetando el canon de que no lloró ni gritó), Valeria contando esquinas como pasajes, Marcos (ya no «abriendo la verja») cociendo el camino y guardando la aguja, e Ivo borrando la calle detrás. Fórmulas §6.3 intactas y capítulo creció a 18,712 B.
 
 **11. Reescribir el cierre de la saga (C56–C57).** Como mínimo:
    - Nombrar a los últimos Ysann. El lector ha invertido 155.000 palabras: merece rostros.
    - Devolver la palabra **«Althen»** al clímax, de donde hoy está totalmente ausente.
    - Dar estado final a la mano de piedra, al Archivo y a la flor de dos colores.
    - Responder —aunque sea con una elección deliberada y explícita de no volver— qué fue de los Vaeleni y de la promesa «volveremos cuando estén listos».
-   - Introducir **una sola cosa que pueda perderse** en la última noche. *(2 semanas)*
+   - Introducir **una sola cosa que pueda perderse** en la última noche. *(2 semanas)* — ✅ **COMPLETADA** *(fase 11, 18/08/2026)*: C56 en 13,064 B (la brasa de los primeros como única cosa que puede perderse; Mara la rescata); C57 en 16,414 B (últimos Ysann nombrados Tolina, Vex, Elna, Sarn, Aldor-memoria; «Althen» una única vez en la despedida; estado final mano/Archivo/flor; Vaeleni resuelta con la promesa cumplida quedándose).
 
-**12. Eliminar la explicación duplicada en los cinco clímax del Libro II** (C21, C23, C24, C25, C27): conservar el gesto, suprimir al personaje que lo traduce inmediatamente después. *(1 semana)*
+**12. Eliminar la explicación duplicada en los cinco clímax del Libro II** (C21, C23, C24, C25, C27): conservar el gesto, suprimir al personaje que lo traduce inmediatamente después. *(1 semana)* — ✅ **COMPLETADA** *(18/08/2026)*: suprimida la segunda entrega (mostrada+explicada) en los cinco clímax — C21: gesto de la espiral detenida sin la glosa «esperando a que los humanos respondieran»; C23: la mano que baja sin «lo que significaba una mano que baja», cerrando en «¿La tomamos?» + silencio; C24: las manos abiertas de Vex sin la parábola «A casa…» ni la recapitulación «era eso… era todo»; C25: la señal encendida sin las dos explicaciones de Mara/Ivo («el camino está encendido», «la señal se enciende»), cerrando en «No está terminando. Está empezando.»; C27: Tolina ante la mano sin la reelaboración de Mara («Amas dos hogares…» repetido). Los 5 capítulos conservan ≥10 KB y todos los targets §6.3 (de hecho mejoraron: `con la voz` 80→79, «no es X: es Y» 49→47, manos abiertas 40→39).
 
-**13. Suprimir los dobles finales** de C41, C50, C52 y C54. *(2 días)*
+**13. Suprimir los dobles finales** de C41, C50, C52 y C54. *(2 días)* — ✅ **COMPLETADA** *(fase 13, 18/08/2026)*: C41 (sesión previa), C50 (10,273 B), C52 (10,176 B), C54 (10,589 B) con dobles finales suprimidos; capítulos ≥10 KB y §6.3-4 en 48/50.
 
-**14. Diferenciar «Pregunta al lector».** Reservarla exclusivamente para C57 y sustituir las de los Libros I y II por otro mecanismo de cierre. *(3 días)*
+**14. Diferenciar «Pregunta al lector».** Reservarla exclusivamente para C57 y sustituir las de los Libros I y II por otro mecanismo de cierre. *(3 días)* — ✅ **COMPLETADA** *(fase 14, 18/08/2026)*: C19 (Libro I) y C38 (Libro II) cerrados en el mundo; la única apelación en 2ª persona queda en C57.
 
 ## 🟡 PRIORIDAD 3 — Pasada de estilo (mecánica, muy rentable)
 
-**15. Campaña contra las muletillas**, según los objetivos de la tabla §6.3. La regla operativa más rentable: **por cada tres «con la voz…» suprimidos, insertar una acción física concreta.** El manuscrito no tiene cuerpos; tiene voces. *(2 semanas)*
+**15. Campaña contra las muletillas**, según los objetivos de la tabla §6.3. La regla operativa más rentable: **por cada tres «con la voz…» suprimidos, insertar una acción física concreta.** El manuscrito no tiene cuerpos; tiene voces. *(2 semanas)* — ✅ **COMPLETADA** *(18/08/2026)*: la campaña cerró sus dos frentes abiertos. **#9 cierres aforístico-definitorios: 23/57 → 9/53.** Clasificados los 16 cierres candidatos y convertidos 10 a cierre-imagen — 8 claros (C21, C25, C32, C40, C41, C44, C46, C47) + 2 fronterizos (C33, C38); quedan 9 aforísticos (C18, C19, C28, C34, C37, C42, C43, C51, C52) ≤ 10. Se conservó C36 («Se viven.», citado en §5.4 como buen cierre). **#14 anáfora «X se quedó…» abriendo párrafo: 167 → 59** (≤ 60), con 30 capítulos en 0; capítulos tratados: C29 (9), C20, C22, C31, C39 (7), C6, C13, C16, C21, C34, C35 (6), C37, C32, C33 (5), C30, C4, C7, C14, C36 (4). Reescribiendo la apertura sin perder gesto ni escena («Miró X» en vez de «Se quedó mirando X», «Calló/Permaneció en silencio», «Se llevó las palabras dentro»). Verificación final: `check_anaphora.py` TOTAL 59; `check_targets.py` **9/9 OK** con mejora (`en silencio` 27→23); los 19 capítulos editados conservan ≥10 KB (mín. C14 13.640 B). La regla 3:1 no se aplicó: «con la voz» quedó en el objetivo exacto (80/80, margen 0), y no se ha liberado margen para nuevas acciones físicas. Capítulo sin cambio: ninguno por debajo del mínimo. EPUB/PDF regenerados.
 
 **16. Diferenciar las voces con un protocolo por personaje.** Antes de reescribir diálogo, fijar para cada personaje: longitud media de frase, un tic léxico, un campo semántico propio y una prohibición.
    - **Ivo:** frases cortas, jerga periodística, sarcasmo; **prohibido el aforismo**. Debe ser quien impide que la saga se vuelva devocional.
@@ -463,7 +479,7 @@ Lista priorizada. Los tiempos son estimaciones sobre una dedicación de jornada 
 
 **17. Reservar la fórmula «no es X: es Y»** al narrador y a los dos mentores. Es la medida individual que más elevaría la diferenciación de voces. *(incluido en 16)*
 
-**18. Corrección ortotipográfica global:** 178 comillas rectas → `« »`; 51 `...` → `…`; revisión de los 30 interrogativos sin apertura; normalización del espaciado de rayas de inciso. *(2 días)*
+**18. Corrección ortotipográfica global:** 178 comillas rectas → `« »`; 51 `...` → `…`; revisión de los 30 interrogativos sin apertura; normalización del espaciado de rayas de inciso. *(2 días)* — ✅ **COMPLETADA** *(18/08/2026)*: verificación con scripts en los 57 capítulos — comillas rectas: **0**; `...`: **0** (todo `…` sin espacio previo ni dobles); interrogativos/exclamativos sin apertura: **0 reales** (los casos candidatos eran falsos positivos: preguntas con `¿` al inicio de la oración); rayas de diálogo `—texto —dijo—.` y de inciso ` —texto— ` ya consistentes en formato RAE (la raya de cierre pega a la palabra previa y a la puntuación, correcto). Solo se usa U+2014. Sin ediciones de texto necesarias.
 
 **19. Enriquecer el repertorio gestual.** Reducir «manos abiertas» de 95 a ~40 y añadir micro-gestos diferenciados por personaje. *(incluido en 15)*
 
@@ -485,7 +501,7 @@ Lista priorizada. Los tiempos son estimaciones sobre una dedicación de jornada 
 
 **27. Dar presencia a Mara en el reencuentro de C19**, hoy solo mencionada de pasada. *(2 horas)*
 
-**28. Resolver la cronología del Archivo:** o C3 incorpora un salto temporal explícito, o la biblia ajusta la fecha de fundación. *(2 horas)*
+**28. Resolver la cronología del Archivo:** o C3 incorpora un salto temporal explícito, o la biblia ajusta la fecha de fundación. *(2 horas)* — ✅ **COMPLETADA** *(18/08/2026)*: C3 ya incorpora el salto temporal explícito («generaciones enteras» antes de la construcción; «muchas estaciones después, tantas que la memoria de los humanos ya no las contaba por años»). Las cifras de C44 (8.000/10.000/12.000) y el canon (-12.000 llegada, ~-8.000 Archivo) cuadran.
 
 ---
 
