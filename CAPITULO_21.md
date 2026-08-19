@@ -146,7 +146,7 @@ Y al terminar, permaneció un momento con la cabeza levantada, mirando el cielo.
 
 —¿Vas a venir de verdad? —dijo, en voz baja, al cielo, a la señal, a los que habían prometido volver, a todos los que habían esperado—. ¿Vas a venir de verdad, o solo vas a seguir mandando la canción para que nadie se olvide de ti?
 
-No hubo respuesta. La señal no podía responder. La señal era una grabación: enviaba siempre lo mismo, desde hacía miles de años, como un faro que no sabe cuántos barcos llegan.
+No hubo respuesta. La señal no contestó aquella noche. No era una grabación que repetía siempre lo mismo desde hacía miles de años: era una espera que, desde hacía miles de años, esperaba ser contestada. La niña había cantado la melodía, y la señal se había quedado escuchando. Pero aquella pregunta, la de si iban a venir de verdad, era de las que la señal no sabe contestar: contestarla era el turno del gesto. Y el gesto, esa noche, todavía no había llegado.
 
 Y sin embargo, la niña miró el cielo durante mucho rato, como si esperara algo más.
 

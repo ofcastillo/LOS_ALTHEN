@@ -90,7 +90,7 @@ El sótano calló. Y en el silencio, Amara miró a los tres, y dijo la cosa que 
 
 —¿No qué? —dijo Amara.
 
-—No vamos a dejar que Vertex tenga todo —dijo Ivo, levantándose—. Porque hay una cosa que Vertex no tiene, y que no va a tener nunca, y que es la única que importa. Vertex tiene la mano. Vertex va a tener la llave. Pero la llave, sin la pregunta, no responde. La llave hace responder a la mano, pero la mano solo devuelve a los que llegan con la pregunta hecha. Y Vertex no trae preguntas. Vertex trae respuestas. Y las respuestas, Amara, no hacen responder a la mano. La mano responde a la pregunta. Y la pregunta no se puede tomar de una niña: la pregunta se tiene que hacer. Y Vertex no sabe hacerla.
+—No vamos a dejar que Vertex tenga todo —dijo Ivo, levantándose—. Vertex tiene la mano, y va a tener la llave. Y de nada le servirá. La llave sin la pregunta no responde. Las respuestas no hacen responder a la mano: la mano responde a la pregunta. Y la pregunta no se puede tomar de una niña. Se tiene que hacer. Y Vertex no sabe hacerla.
 
 —¿Cómo puedes estar tan seguro? —dijo Elías, que llevaba un rato escuchando, con las manos en los bolsillos, con la pregunta todavía nueva dentro del pecho.
 
@@ -104,7 +104,7 @@ Elías no salió del sótano.
 
 No tenía a dónde ir. Tenía un lápiz de memoria con las grabaciones de la fundación, una pregunta nueva dentro del pecho, y el miedo de los que han desertado sin volver la vista atrás. Los cuatro le ofrecieron el sofá. Le ofrecieron las cajas. Le ofrecieron lo único que tenían: el círculo.
 
-—Puedes quedarte —dijo Ivo—. Pero tienes que saber lo que significa. No es un sitio. Es una manera de estar. Aquí no se te obedece, no se te sigue, no se te protege. Aquí se te pregunta. Y las preguntas, a veces, son más duras que las órdenes.
+—Puedes quedarte —dijo Ivo—. Pero tienes que saber lo que significa. Esto no tiene muros, Elías. Aquí no se te obedece, no se te sigue, no se te protege. Aquí se te pregunta. Y las preguntas, a veces, son más duras que las órdenes.
 
 —Lo sé —dijo Elías, con un tono extraño—. He vivido veinte años con órdenes. Quiero probar las preguntas.
 
@@ -180,7 +180,7 @@ Los cinco no se movieron, escuchando.
 
 Los cuatro miraron la espiral, la servilleta, el lápiz, el techo donde dormía la niña que cantaba.
 
-—Lo que hay dentro de la mano —dijo Ivo— es lo mismo que había dentro de la cueva, y lo mismo que había dentro de los Ysann cuando bajaron del cielo, y lo mismo que hay dentro de cada uno de nosotros cuando hacemos la pregunta. No es un tesoro. No es un poder. No es una respuesta. Es una manera de estar. Y una manera de estar, Elías, no se puede robar. Solo se puede elegir.
+—Lo que hay dentro de la mano —dijo Ivo— es lo mismo que había dentro de la cueva, y lo mismo que había dentro de los Ysann cuando bajaron del cielo, y lo mismo que hay dentro de cada uno de nosotros cuando hacemos la pregunta. Vertex lleva cincuenta años buscando un tesoro y no lo va a encontrar. No hay tesoro: hay una manera de estar. Y una manera de estar, Elías, no se puede robar. Solo se puede elegir.
 
 Y en el silencio del sótano, con la melodía de la niña sonando arriba, con el lápiz de memoria sobre la mesa, con la espiral dibujada en la servilleta, los cinco se quedaron mirando el centro del círculo, donde no había nada.
 

@@ -86,7 +86,7 @@ La abuela lo miró. Y el niño supo, por cómo lo miró, que había entendido al
 
 El niño volvió a quedarse pensando. Y en el silencio, con las estrellas encima, con el río pasando, se le hizo completa la idea que traía dentro, y la dijo, para ver si era cierta:
 
-—Abuela —dijo—. Si el nombre ya no es de ellos, porque se gastó pasando de boca en boca… entonces el nombre con que los llamemos nosotros, el de ahora, ya no es el nombre de ellos. Es el nombre nuestro. Es el nombre que nosotros les ponemos a los que nos sembraron. Y si mañana yo digo el nombre con mi boca, y de mi boca sale una manera que no es la tuya, esa ya no es suya: es mía. Es la herencia. Lo que nos dieron, contado por nosotros, a nuestra manera.
+—Abuela —dijo—. Si el nombre ya no es de ellos, porque se gastó pasando de boca en boca… entonces el nombre con que los llamemos nosotros, el de ahora, ya no es el nombre de ellos. Es el nombre nuestro. Es el nombre que nosotros les ponemos a los que nos sembraron. Y si mañana yo digo el nombre con mi boca, y de mi boca sale una manera que no es la tuya, esa ya es mía. Es la herencia. Lo que nos dieron, contado por nosotros, a nuestra manera.
 
 La abuela lo miró, y en sus ojos, que habían gastado tantos nombres, el niño vio una cosa que no supo nombrar entonces, pero que supo después: la abuela estaba viendo la herencia pasar de mano, la herencia viva, la herencia que empieza exactamente en el momento en que una mano la suelta.
 

@@ -70,7 +70,7 @@ Los cuatro callaron, en el sótano, entre las cajas, con la espiral de la servil
 
 —Eso es peligroso —dijo Amara—. Si la melodía está en todas partes, Vertex puede oírla también.
 
-—Vertex puede oírla —dijo Ivo—. Pero no puede usarla. Para usar la melodía hace falta el círculo. Y el círculo no se forma con una grabación. Se forma con cuatro personas que se sientan juntas y hacen la pregunta. Y eso, Amara, no se puede grabar. No se puede robar. No se puede poseer. Solo se puede hacer.
+—Vertex puede oírla —dijo Ivo—. Pero no puede usarla. Para usar la melodía hace falta el círculo. Y el círculo no se forma con una grabación. Se forma con cuatro personas que se sientan juntas y hacen la pregunta. Una grabación no se sienta. No pregunta. A eso, Amara, no se le puede robar nada. Solo se hace.
 
 ---
 
@@ -90,7 +90,7 @@ Mara miró a los cuatro, uno por uno, con la mirada limpia y quieta de los niño
 
 —¿Por la piedra? —dijo Valeria, con la mano en el cuello, donde ya no estaba la piedra, donde estaba el sitio vacío—. ¿Qué sabes tú de la piedra?
 
-—Que no importa —dijo Mara, con la naturalidad de quien dice una cosa obvia—. La piedra era solo un recordatorio. Como la servilleta. Como las grabaciones. Son recordatorios. Y los recordatorios se pueden perder. Pero lo que recuerdan, no.
+—Que no importa —dijo Mara, con la naturalidad de quien dice una cosa obvia—. La piedra era para acordarse. Como la servilleta. Como las grabaciones de mamá. Y si se pierde una grabación, no se pierde la canción, ¿verdad? Pues igual la piedra. Vertex se llevó la grabación. Pero la canción no la tiene.
 
 Los cuatro miraron a la niña, en el silencio del sótano, entre las cajas de grabaciones.
 
@@ -102,7 +102,7 @@ Mara se detuvo un momento, con la cabeza ladeada, como cuando oía la melodía e
 
 —¿Por qué «pobre Vertex»? —dijo Marcos, con la emoción quebrada.
 
-—Porque se llevó la piedra —dijo Mara, con una tristeza de adulta que no le pertenecía a su edad—. Y la piedra, sin la pregunta, no es nada. Es una piedra. Y él cree que tiene el tesoro, y no sabe que el tesoro se lo dejó aquí, en este sótano, con ustedes. Y él va a seguir buscando toda su vida, porque no sabe que lo que busca se encuentra preguntando, y no buscando.
+—Porque se llevó la piedra —dijo Mara, con una tristeza que le venía grande—. Y la piedra, sin la pregunta… —buscó las palabras— es una piedra. Nada más. Y él cree que se llevó el tesoro. Pero el tesoro se lo dejó aquí, en este sótano, con ustedes. —y señaló a los cuatro— Y él va a buscarlo toda la vida. Toda. Y no lo va a encontrar, porque busca con las manos, y esto no se coge con las manos. Se coge aquí. —se tocó el pecho—
 
 El sótano enmudeció. El río, a lo lejos, seguía cantando sin permiso.
 
@@ -122,7 +122,7 @@ Mara lo miró. Y con una sonrisa que no era de niña, que era de algo mucho más
 
 —No se cierran —dijo Ivo, ronco—. Las puertas abiertas no se vuelven a cerrar.
 
-—Entonces —dijo Mara, con la lógica perfecta de los niños—, ya está todo bien. Vertex se llevó la piedra. Pero nosotros tenemos la puerta. Y la puerta, a diferencia de la piedra, no se puede llevar.
+—Entonces —dijo Mara, con la lógica perfecta de los niños—, pues ya está todo bien. Vertex se llevó la piedra. Pero nosotros tenemos la puerta. Y una puerta no se la llevan, ¿no? Se abre. Y ya está.
 
 Los cuatro miraron a la niña, a la que había entrado en el sótano a la una de la mañana, a la que había dicho lo que ninguno de ellos había sabido decir, a la que llevaba la melodía dentro desde antes de nacer.
 
@@ -134,7 +134,7 @@ Mara se detuvo un momento, mirando la espiral de la servilleta, la misma espiral
 
 —¿Hasta que ya no haga falta? —dijo Ivo.
 
-—Hasta que todos sepan hacer la pregunta —dijo Mara—. Y entonces no hará falta puerta, ni piedra, ni cueva, ni nada. Porque la pregunta será de todos, y todos serán la puerta.
+—Hasta que todos sepan hacer la pregunta —dijo Mara—. Y entonces no hará falta nada de esto. Ni la puerta, ni la piedra, ni la cueva. Porque la pregunta ya no estará solo aquí, con ustedes. —se tocó el pecho— Estará en todos. Y cuando está en todos, todos saben abrir. Y si todos saben abrir… —y sonrió— pues la puerta ya está abierta para siempre. No hace falta guardarla.
 
 ---
 

@@ -168,7 +168,7 @@ Ivo asintió. Y en sus ojos ya no había cinismo ni prisa: había la calma de lo
 
 —¿Adónde? —preguntó Amara.
 
-—Al valle —dijo Ivo—. A la mano. Donde siempre hemos sabido que había que ir, aunque no supiéramos cuándo. Y esta es la noche. La mano va a bajar, Amara. Y los que la esperan, van a estar ahí. El resto, el que quiera, que llegue cuando pueda. Pero el círculo llega de noche, porque el círculo siempre ha llegado de noche.
+—Al valle —dijo Ivo—. A la mano. Donde siempre hemos sabido que había que ir, aunque no supiéramos cuándo. Y esta es la noche. La mano va a bajar, Amara. Y los que la esperan, van a estar ahí. El resto, el que quiera, que llegue cuando pueda. Pero el círculo llega de noche. Siempre lo ha hecho.
 
 Amara lo miró. Vio al Ivo de siempre y al Ivo de ahora, y no supo cuál era el de verdad, y comprendió que eran los dos.
 

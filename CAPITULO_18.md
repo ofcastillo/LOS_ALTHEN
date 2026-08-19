@@ -30,7 +30,7 @@ Ivo la miró. Y luego, con la voz que usaba cuando ya no quedaba más que la ver
 
 —¿Cómo puedes estar tan seguro? —dijo Amara.
 
-—Porque la mano no decide con poder —dijo Ivo—. Decide con pregunta. Y hay una sola cosa en este mundo que Vertex no tiene. Y es la pregunta.
+—Porque la mano no decide con poder —dijo Ivo—. Pregunta. Y hay una sola cosa en este mundo que Vertex no tiene. La pregunta.
 
 ---
 
@@ -212,7 +212,7 @@ Mara sonrió. Era una sonrisa que no era de triunfo. Era una sonrisa de reconoci
 
 —¿Y qué entrego? —dijo Ardal, con la garganta cerrada.
 
-—Nada —dijo Mara—. Solo la pregunta. Se la entrega a todo el que la necesite. Y la pregunta, cuando se entrega, no se pierde: se multiplica.
+—Nada —dijo Mara—. Solo la pregunta. Se la entrega a todo el que la necesite. Y la pregunta, cuando se entrega, se multiplica.
 
 ---
 

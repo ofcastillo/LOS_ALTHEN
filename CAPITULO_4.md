@@ -52,7 +52,7 @@ Esa noche, cuando la lluvia cesó y el valle quedó brillando, la aldea le llev�
 
 —Entonces —dijo Lyra—, ¿es culpa mía por cantar?
 
-—No —dijo Vex, que hasta entonces no había dicho nada, sentado en la orilla con las manos en el agua—. Es culpa del silencio. Si el cielo no hubiera respondido nunca, no habría mito. Pero el cielo responde, y responde cuando tú cantas, y eso es un hecho que no podemos deshacer cantando más suave. El mito ya está escrito, Lyra. Lo que puedes hacer no es borrarlo: es elegir qué mito va a ser.
+—No —dijo Vex, que hasta entonces no había dicho nada, sentado en la orilla con las manos en el agua—. Es culpa del silencio. Si el cielo no hubiera respondido nunca, no habría mito. Pero el cielo responde, y responde cuando tú cantas, y eso es un hecho que no podemos deshacer cantando más suave. El mito ya está escrito, Lyra. No puedes borrarlo: solo elegir qué mito va a ser.
 
 —¿Qué quieres decir?
 

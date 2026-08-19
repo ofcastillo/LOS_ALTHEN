@@ -56,7 +56,7 @@ Valeria escribió, aquellos meses, una sola pieza larga, la última que escribir
 
 *«El titular no nos cabe»*, decía la pieza.
 
-*«Y no es un fracaso. Es una señal. Cuando una verdad empieza a no caber en los titulares, es que ya no es noticia: es vida. Y la vida se habita, sin necesidad de encabezarla.*
+*«Y no es un fracaso. Es una señal. Cuando una verdad empieza a no caber en los titulares, es que ha dejado de ser noticia para convertirse en vida. Y la vida se habita, sin necesidad de encabezarla.*
 
 *Llevo años escribiendo sobre los que bajaron del cielo. Escribí el libro que se vendió de todo. Y ahora les digo a ustedes la única cosa que sé de verdad: no sé nada. No sé si se van a quedar. No sé si van a volver. No sé si la flor va a seguir o se va a secar. No sé si en cien años habrá un mundo o dos o ninguno. No sé nada.*
 
