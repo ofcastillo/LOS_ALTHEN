@@ -22,7 +22,7 @@ Se apoyó con ambas manos en la consola y dejó que el planeta lo mirara. Aldor 
 
 Sus manos se movían sobre la consola con la fluidez de quien no necesita mirar para saber lo que está tocando. Medía la salinidad del aire, el peso de la gravedad, la densidad de los campos magnéticos, el color exacto de la luz que atravesaba la ventana. Veda no miraba el planeta: lo desmontaba. Para ella, cada mundo era una pregunta que había que abrir por la fuerza para ver qué había dentro.
 
-—El planeta respira —repitió, y en el registro del viaje, su voz vaciló. —El aire es respirable para nuestros pulmones. La gravedad es más suave que en Vaelen. Nuestro cuerpo envejecerá aquí con la lentitud a la que estamos acostumbrados.
+—El planeta respira —repitió, y en el registro del viaje, su voz vaciló—. El aire es respirable para nuestros pulmones. La gravedad es más suave que en Vaelen. Nuestro cuerpo envejecerá aquí con la lentitud a la que estamos acostumbrados.
 
 Se detuvo.
 
@@ -30,7 +30,7 @@ Se detuvo.
 
 —Agua que se mueve —repitió Lyra con reverencia.
 
-—Agua líquida en la superficie —dijo Veda, y algo en su tono se quebró ligeramente, porque Veda era la científica, la exacta, la que jamás elevaba la voz, y sin embargo en aquella frase había una especie de llanto contenido. —Estamos en un mundo donde el agua corre libre por la superficie. No hay que derretirla. No hay que extraerla de la piedra. Corre. Canta, probablemente. No sé. No tengo instrumentos para medir si el agua canta.
+—Agua líquida en la superficie —dijo Veda, y algo en su tono se quebró ligeramente, porque Veda era la científica, la exacta, la que jamás elevaba la voz, y sin embargo en aquella frase había una especie de llanto contenido—. Estamos en un mundo donde el agua corre libre por la superficie. No hay que derretirla. No hay que extraerla de la piedra. Corre. Canta, probablemente. No sé. No tengo instrumentos para medir si el agua canta.
 
 Lyra se puso de pie y fue a la ventana. Los demás no la siguieron con el cuerpo, pero la siguieron con la atención, porque así era el grupo: uno miraba, y los otros miraban al que miraba.
 
@@ -50,7 +50,7 @@ Lyra tenía la palma abierta contra el cristal del visor, como si quisiera tocar
 
 —Significa generoso —dijo Aldor, y su voz salió más vieja de lo que pretendía.
 
-—Sé lo que significa —dijo Lyra, sin volverse. —Solo quería oírlo dicho en voz alta. Para ver si sonaba a mentira.
+—Sé lo que significa —dijo Lyra, sin volverse—. Solo quería oírlo dicho en voz alta. Para ver si sonaba a mentira.
 
 Vex estaba al fondo, apoyado contra el marco de la puerta, con los brazos cruzados. No miraba el planeta. Miraba a su padre. Llevaba años observándolo con la intensidad de quien estudia a un animal peligroso, aprendiendo sus gestos, sus silencios, sus maneras de esquivar las conversaciones importantes.
 

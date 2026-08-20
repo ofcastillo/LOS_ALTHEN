@@ -8,16 +8,20 @@ from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, PageBreak, HRFlowable
 )
 from reportlab.pdfgen import canvas
+from reportlab.platypus import (
+    SimpleDocTemplate, Paragraph, Spacer, PageBreak, HRFlowable, Image
+)
+from reportlab.lib.utils import ImageReader
 
-BASE_DIR = r"C:\Users\ocast\Desktop\proyectos\Escritorio\lonew"
+BASE_DIR = r"C:\Users\ocast\Desktop\proyectos\Escritorio\Althen"
 AUTHOR = "Clark Castle"
 SAGA_TITLE = "LOS ALTHEN"
 CSS_PATH = os.path.join(BASE_DIR, "epub_style.css")
 
 LIBROS = [
-    {"book": "LIBRO I", "name": "LA SEMILLA", "start": 1, "end": 19, "safe": "La_Semilla"},
-    {"book": "LIBRO II", "name": "LA DIVISIÓN", "start": 20, "end": 38, "safe": "La_Division"},
-    {"book": "LIBRO III", "name": "LA HERENCIA", "start": 39, "end": 53, "safe": "La_Herencia"}
+    {"book": "LIBRO I", "name": "LA SEMILLA", "start": 1, "end": 19, "safe": "La_Semilla", "cover": "portada_la_semilla.jpg"},
+    {"book": "LIBRO II", "name": "LA DIVISIÓN", "start": 20, "end": 38, "safe": "La_Division", "cover": "portada_la_division.jpg"},
+    {"book": "LIBRO III", "name": "LA HERENCIA", "start": 39, "end": 53, "safe": "La_Herencia", "cover": "portada_la_herencia.jpg"}
 ]
 
 
@@ -75,6 +79,11 @@ def build_epub(libro, libros, epub_path):
         ]
         if os.path.exists(CSS_PATH):
             cmd.append(f"--css={CSS_PATH}")
+        cover = libro.get("cover")
+        if cover:
+            cover_path = os.path.join(BASE_DIR, cover)
+            if os.path.exists(cover_path):
+                cmd.append(f"--epub-cover-image={cover_path}")
         result = subprocess.run(cmd, capture_output=True, text=True)
         if result.returncode == 0:
             print("[OK] EPUB: %s" % epub_path)
@@ -171,7 +180,20 @@ def build_single_pdf(tomo):
     )
 
     story = []
-    story.append(Spacer(1, 100))
+    cover_img = tomo.get("cover")
+    if cover_img:
+        cover_path = cover_img if os.path.isabs(cover_img) else os.path.join(BASE_DIR, cover_img)
+        if os.path.exists(cover_path):
+            try:
+                ir = ImageReader(cover_path)
+                iw, ih = ir.getSize()
+                max_w = 360
+                ratio = max_w / iw
+                story.append(Image(cover_path, width=max_w, height=ih * ratio))
+                story.append(Spacer(1, 30))
+            except Exception:
+                pass
+    story.append(Spacer(1, 60))
     story.append(Paragraph(tomo["saga"], style_cover_saga))
     story.append(Paragraph(tomo["short_title"], style_cover_title))
     story.append(HRFlowable(width="60%", thickness=2, color=colors.HexColor("#D4AF37"), spaceBefore=10, spaceAfter=20))
@@ -248,7 +270,8 @@ def build_pdfs():
             "files": libro_files(libro),
             "saga": SAGA_TITLE,
             "short_title": "%s: %s" % (libro["book"], libro["name"]),
-            "subtitle": ""
+            "subtitle": "",
+            "cover": libro.get("cover")
         }
         build_single_pdf(tomo)
 
@@ -260,7 +283,8 @@ def build_pdfs():
         "files": all_files,
         "saga": SAGA_TITLE,
         "short_title": "EDICIÓN COMPLETA",
-        "subtitle": "Los Tres Libros de la Heredad"
+        "subtitle": "Los Tres Libros de la Heredad",
+        "cover": LIBROS[0]["cover"]
     }
     build_single_pdf(tomo)
 

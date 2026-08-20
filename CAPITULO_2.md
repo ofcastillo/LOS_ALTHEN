@@ -18,7 +18,7 @@ Aquí el hambre era música.
 
 —La risa nerviosa es una válvula —dijo Vex, que estaba apoyado contra un árbol, a distancia, sin apartar los ojos del círculo de fuego—. He leído informes de otras especies. Cuando el miedo es demasiado grande, se convierte en risa, y el cuerpo se descarga. No significa que estén cómodos. Significa que están conteniendo un grito.
 
-—Qué manera tan bonita de mirar lo hermoso —dijo Lyra, y no era un reproche: era una constatación. —Tú siempre ves la grieta. Yo veo el vaso. Podríamos estar en desacuerdo toda la eternidad, y eso nos salvaría a los dos.
+—Qué manera tan bonita de mirar lo hermoso —dijo Lyra, y no era un reproche: era una constatación—. Tú siempre ves la grieta. Yo veo el vaso. Podríamos estar en desacuerdo toda la eternidad, y eso nos salvaría a los dos.
 
 —Nada nos va a salvar de nada —dijo Vex—. Estamos en un planeta extraño, rodeados de seres que podrían matarnos por malentendido, sin forma de volver a Vaelen aunque quisiéramos, y el primer gesto que hicimos fue acercarnos a su fuego como si fuéramos de la familia. Es hermoso. Es también una locura.
 
@@ -82,7 +82,7 @@ A la mañana siguiente ocurrió lo que Veda llevaba años prediciendo y nadie ha
 
 Los humanos vinieron a ellos en grupo. No el Anciano solo, sino el grupo entero: las mujeres, los niños, los jóvenes, hasta un perro flaco y desconfiado que olía el aire y los miraba con la cabeza ladeada. Traían cosas. Traían pellejos de agua, madera, piedras afiladas, semillas en un cuenco de barro, un hueso tallado. Lo ponían todo en el suelo, a los pies de los cuatro, como quien hace una ofrenda.
 
-—Adoración —dijo Veda, y la palabra sonó como una alarma. —He calculado la probabilidad durante la noche. Tenían todas las condiciones: seres de otro cielo, sin armas, que no piden nada, que se sientan junto al fuego y no comen. Es el perfil clásico de la divinidad. La adoración es estadísticamente inevitable. Debemos cortarla de raíz antes de que se consolide, o en veinte generaciones tendremos un culto que no podremos controlar.
+—Adoración —dijo Veda, y la palabra sonó como una alarma—. He calculado la probabilidad durante la noche. Tenían todas las condiciones: seres de otro cielo, sin armas, que no piden nada, que se sientan junto al fuego y no comen. Es el perfil clásico de la divinidad. La adoración es estadísticamente inevitable. Debemos cortarla de raíz antes de que se consolide, o en veinte generaciones tendremos un culto que no podremos controlar.
 
 —Yo no quiero controlar nada —dijo Aldor—. Y la adoración no se corta de raíz. Se honra, se devuelve, se transforma. Si nos ven como dioses, lo que tenemos que hacer es demostrarles cada día que no lo somos. Que sudamos. Que nos equivocamos. Que tenemos frío y miedo y que también nos reímos nerviosos. La divinidad no sobrevive a la intimidad.
 

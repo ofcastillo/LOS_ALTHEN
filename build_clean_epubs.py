@@ -4,7 +4,7 @@ import zipfile
 import re
 import tempfile
 
-BASE_DIR = r"C:\Users\ocast\Desktop\proyectos\Escritorio\lonew"
+BASE_DIR = r"C:\Users\ocast\Desktop\proyectos\Escritorio\Althen"
 STYLE_PATH = os.path.join(BASE_DIR, "epub_style.css")
 
 AUTHOR = "Clark Castle"
@@ -29,10 +29,14 @@ LIBROS = [
         "book": "LIBRO III",
         "name": "LA HERENCIA",
         "start": 39,
-        "end": 57,
-        "safe": "La_Herencia"
+        "end": 53,
+        "safe": "La_Herencia",
+        "cover": "portada_la_herencia.jpg"
     }
 ]
+
+LIBROS[0]["cover"] = "portada_la_semilla.jpg"
+LIBROS[1]["cover"] = "portada_la_division.jpg"
 
 
 def chapter_path(n):
@@ -76,7 +80,7 @@ def clean_epub_toc(epub_path):
             z.writestr(name, data)
 
 
-def build_with_pandoc(src_files, epub_path, title):
+def build_with_pandoc(src_files, epub_path, title, cover=None):
     cmd = [
         "pandoc",
         *src_files,
@@ -91,6 +95,10 @@ def build_with_pandoc(src_files, epub_path, title):
         "--toc",
         "--toc-depth=2"
     ]
+    if cover:
+        cover_path = cover if os.path.isabs(cover) else os.path.join(BASE_DIR, cover)
+        if os.path.exists(cover_path):
+            cmd.append(f"--epub-cover-image={cover_path}")
     return subprocess.run(cmd, capture_output=True, text=True)
 
 
@@ -128,7 +136,7 @@ for b in LIBROS:
 
     tmp, src_files = make_sources([b])
     full_title = "%s — %s: %s" % (SAGA_TITLE, b["book"], b["name"])
-    res = build_with_pandoc(src_files, epub_path, full_title)
+    res = build_with_pandoc(src_files, epub_path, full_title, b.get("cover"))
     import shutil
     shutil.rmtree(tmp, ignore_errors=True)
     if res.returncode == 0:
@@ -146,7 +154,7 @@ if os.path.exists(omnibus_path):
 
 tmp, src_files = make_sources(LIBROS)
 full_omni_title = "%s — Edición Completa (Trilogía)" % SAGA_TITLE
-res_omni = build_with_pandoc(src_files, omnibus_path, full_omni_title)
+res_omni = build_with_pandoc(src_files, omnibus_path, full_omni_title, LIBROS[0].get("cover"))
 import shutil
 shutil.rmtree(tmp, ignore_errors=True)
 if res_omni.returncode == 0:
