@@ -128,7 +128,7 @@ Elías cerró los ojos, como si la imagen le pesara todavía.
 
 Los cuatro lo miraron.
 
-—¿Vacía? —dijo Valeria.
+—¿Vacía? —dijo Valeria, y cerró los dedos en el aire, contando los vacíos como contaba las cifras de sus datos.
 
 —Vacía —dijo Elías—. La mano de piedra no se abrió, y están diciendo que es porque está vacía. Y Ardal, cuando vio que no se abría… —Elías hizo una pausa, buscando la manera de decirlo—. Ardal no se enfadó. Ardal sonrió. Y dijo que no estaba vacía. Que lo que había dentro no se podía ver con los ojos. Y que la niña, cuando la tuviera, le diría lo que había dentro.
 
@@ -138,7 +138,7 @@ Ivo miró la espiral de la servilleta, el lápiz de memoria, a Elías, a los tre
 
 —Entonces —dijo, despacio—, tenemos menos tiempo del que creíamos. Y Vertex cree que la mano se abre. Cree que está vacía. Y cree que la niña puede decirle lo que hay dentro. Y va a por ella. No para tomarla. Para vaciarla.
 
-—¿Y qué hay dentro de la mano? —dijo Amara, apenas audible.
+—¿Y qué hay dentro de la mano? —dijo Amara, apenas audible, con la yema del dedo tocando la espiral de la servilleta.
 
 Ivo la miró, y luego a los tres, y luego el lápiz de memoria, y luego, muy despacio, dijo:
 
