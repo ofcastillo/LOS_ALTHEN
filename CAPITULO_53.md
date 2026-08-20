@@ -1,4 +1,4 @@
-# LOS ALTHEN
+﻿# LOS ALTHEN
 ## Libro 3 — LA HERENCIA
 ### Capítulo 15 — La herencia final
 
@@ -50,7 +50,7 @@ El Archivo — el que solo se abría en grupo, el que había resistido al elegid
 
 Y la flor de dos colores, la del jardín del paso, la que había sido sembrada en el hueco de milenios de espera: quedó florecida, y siguió floreciendo. No se secó con la entrega. La entrega no la tocó: la heredad entera la había estado regando sin saberlo — con las preguntas, con las rondas, con los nombres dichos — y la flor, que había florecido en la herida, siguió floreciendo en la vida, abriéndose cada alba, cerrada cada noche, sin prisa, sin miedo, sin necesidad de que nadie la protegiera: siendo, que era lo que la siembra entera había venido a enseñar. Los que la veían florecer, los dos colores mezclados en un solo pétalo, no la miraban como un monumento: la miraban como se mira una cosa viva, que florece porque sí, porque es su tiempo, porque el que siembra se hace a un lado y deja que lo sembrado crezca.
 
-Y del gran edificio que el mundo había querido levantar para custodiar todo esto, no quedó nada que contar: quedó vacío, y vacío se fue quedando con los años, porque no había nada que ponerle dentro — la semilla se sembraba, la flor florecía, el Archivo se abría en grupo, la mano servía de asiento, y ninguna de esas cosas cupo jamás en una sala con clima y con guardias. Algunas veces, en las ciudades, se veían aún los planos de aquel edificio, en los ministerios, en los archivos; y los que los miraban, se reían con una risa que ya era de la heredad, porque al fin entendían que el mundo había estado a punto de construir una bóveda para guardar el viento. Y la comisión, la de las custodias, terminó haciendo lo que hacía toda la gente con la herencia: terminó sentándose — con Yara, con el círculo, con los que llegaban —, abriendo las manos, callando. Porque la heredad, que no se dejó nombrar, no se dejó tampoco guardar; y se entregó entera a los que renunciaron a custodiarla.
+Y del gran edificio que el mundo había querido levantar para custodiar todo esto, no quedó nada que contar: quedó vacío, y vacío se fue quedando con los años, porque no había nada que ponerle dentro — la semilla se sembraba, la flor florecía, el Archivo se abría en grupo, la mano servía de asiento, y ninguna de esas cosas cupo jamás en una sala con clima y con guardias. Algunas veces, en las ciudades, se veían aún los planos de aquel edificio, en los ministerios, en los archivos; y los que los miraban, se reían con una risa que ya era de la heredad, porque al fin entendían que el mundo había estado a punto de construir una bóveda para guardar el viento. Y la comisión, la de las custodias, terminó haciendo lo que hacía toda la gente con la herencia: terminó sentándose — con Sira, con el círculo, con los que llegaban —, abriendo las manos, callando. Porque la heredad, que no se dejó nombrar, no se dejó tampoco guardar; y se entregó entera a los que renunciaron a custodiarla.
 
 Porque así es la heredad final:
 
@@ -109,5 +109,4 @@ Y por eso, hoy, cuando se cierra este libro — el último de la siembra, la her
 
 *Fin del Libro 3 — La Herencia.*
 
-*Fin del Libro 3 — La Herencia.*
 *Fin de la saga LOS ALTHEN — Los que no se van.*

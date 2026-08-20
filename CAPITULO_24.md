@@ -174,6 +174,4 @@ Los que se habían ido ya no estaban. Los que se habían quedado estaban a su al
 
 Y Vex, el que había llegado a reclamar, el que había tardado dos años en bajar la mano, se quedó de pie, con las palmas abiertas, tendido hacia el mundo, ignorando que el gesto que acababa de hacer era el gesto que iban a repetir, siglos después, los humanos del valle delante de la misma mano de piedra, cuando llegara la hora de responder a la señal.
 
-Y Vex, el que había llegado a reclamar, el que había tardado dos años en bajar la mano, se quedó de pie, con las palmas abiertas, tendido hacia el mundo, ignorando que el gesto que acababa de hacer era el gesto que iban a repetir, siglos después, los humanos del valle delante de la misma mano de piedra, cuando llegara la hora de responder a la señal.
-
 *Continuará en el Capítulo 6 — La señal encendida.*

@@ -56,11 +56,11 @@ La que oyó la voz fue una becaria.
 
 Se llamaba Teresa, y tenía veintidós años, y acababa de terminar de estudiar y no sabía muy bien qué hacía allí, y esa noche, la de su turno más aburrido, con la antena apuntando a una zona del cielo de la que nadie esperaba nada, oyó algo.
 
-No era ruido. El ruido estaba en todas partes: el ruido, los técnicos lo filtraban, lo quitaban, lo ignoraban. Lo que oyó Teresa no era ruido. Era una estructura. Era algo que empezaba, y seguía, y terminaba, y volvía a empezar. Era, pensó, mientras se quitaba los auriculares y los volvía a poner, con el corazón acelerado, era lo que los que llevan toda la vida escuchando el cielo llevan toda la vida esperando oír sin atreverse a esperarlo.
+No era ruido. El ruido estaba en todas partes: el ruido, los técnicos lo filtraban, lo quitaban, lo ignoraban. Lo que oyó Teresa no era ruido. Era algo que empezaba, y seguía, y terminaba, y volvía a empezar. Era, pensó, mientras se quitaba los auriculares y los volvía a poner, con el corazón acelerado, era lo que los que llevan toda la vida escuchando el cielo llevan toda la vida esperando oír sin atreverse a esperarlo.
 
 Era una señal.
 
-No era natural. Los técnicos lo saben: las señales naturales tienen firma de natural — chirridos, chasquidos, el ruido de las estrellas que respiran. Lo que oyó Teresa no tenía firma de nada conocido. Tenía firma de diseño. Tenía la firma de algo que alguien había construido para que se oyera.
+No era natural. Los técnicos lo saben: lo natural suena a mundo — chirridos, chasquidos, el ruido de las estrellas que respiran. Lo que oyó Teresa no sonaba a nada de este mundo. Sonaba a algo que alguien había dejado, a propósito, para que se oyera: sonaba a voz, aunque todavía no fuera una voz.
 
 Duró seis minutos. Terminó. Volvió a empezar. Terminó. Volvió a empezar. Seis minutos, cada vez, igual, exacta, como un latido.
 

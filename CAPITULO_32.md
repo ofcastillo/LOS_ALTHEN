@@ -50,7 +50,7 @@ Y así fue como la que no era de ningún lado se convirtió en la que sostenía 
 
 No lo pidió. Nadie se lo pidió. Le salió, como le salían las canciones, sin que nadie se lo pidiera. Cuando los que querían partir se sentían culpables por querer partir, Lyra les cantaba la canción del mar, la que les recordaba que tener un hogar al que volver no era una traición. Cuando los que querían quedarse se sentían culpables por querer quedarse, Lyra les cantaba la canción del río, la que les recordaba que echar raíces no era rendirse. Y a los que no sabían qué querían, les cantaba las dos, seguidas, hasta que la frontera se disolvía, hasta que el mar y el río se oían como una sola agua.
 
-Vex se dio cuenta una noche. Vio a Lyra cantando para los que estaban listos para partir, y después para los que estaban listos para quedarse, y después para los que lloraban porque los amigos se separaban: unos elegían un lado y otras el otro, y comprendió, con un escalofrío, que la que no tenía patria era la única que podía sostener a todos los que tenían dos.
+Vex se dio cuenta una noche. Vio a Lyra cantando para los que estaban listos para partir, y después para los que estaban listos para quedarse, y después para los que lloraban porque los amigos se separaban: unos elegían un lado y otros el otro, y comprendió, con un escalofrío, que la que no tenía patria era la única que podía sostener a todos los que tenían dos.
 
 —Todos elegimos un lado —le dijo Vex, esa noche, quebrada la entereza—. Todos, tarde o temprano, elegimos. Y tú no eliges ninguno. Y por eso puedes sostenernos a todos. No tienes ningún lado, Lyra. Eres el centro.
 

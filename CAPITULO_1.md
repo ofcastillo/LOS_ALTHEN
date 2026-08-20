@@ -144,9 +144,7 @@ les puso nombre.
 
 —Los Althen —dijo, sin saber que estaba nombrando una era.
 
-Los Althen. Los que bajaron. Los que eligen.
-
-Ninguno de los cuatro lo corrigió. Aldor lo entendió a su manera, como se entienden las palabras nuevas: le pareció que aquel nombre sonaba a lo que ellos se llamaban a sí mismos en voz baja, los Ysann, los que eligen. No estaba seguro, y no preguntó. Había algo perfecto en el error. Y aquel niño, con la torpeza divina de la ignorancia, los había nombrado como se nombra a los que ya son de aquí, ignorando que esa noche acababa de ponerles encima una palabra que no era la suya, y que acabaría pesándoles más que la propia. Aún no lo sabían. Esa noche solo supieron que los habían nombrado al llegar, y que aquello, en cualquier idioma, era un buen comienzo.
+Ninguno de los cuatro lo corrigió. Aldor lo entendió a su manera, como se entienden las palabras nuevas: Los Althen. Los que bajaron. Los que eligen, se dijo, y le pareció que aquel nombre sonaba a lo que ellos se llamaban a sí mismos en voz baja, los Ysann. No estaba seguro, y no preguntó. Había algo perfecto en el error. Y aquel niño, con la torpeza divina de la ignorancia, los había nombrado como se nombra a los que ya son de aquí, ignorando que esa noche acababa de ponerles encima una palabra que no era la suya, y que acabaría pesándoles más que la propia. Aún no lo sabían. Esa noche solo supieron que los habían nombrado al llegar, y que aquello, en cualquier idioma, era un buen comienzo.
 
 Vex fue el primero en reír.
 

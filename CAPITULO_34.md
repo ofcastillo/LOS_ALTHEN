@@ -106,7 +106,7 @@ No supo qué hacer con la semilla. No se la dio a nadie. La guardó, con la desc
 
 Y la semilla pasó de mano en mano, de generación en generación, en el valle, como pasaba el silbo, como pasaban las preguntas: sin nombre, sin dueño, sin que nadie supiera lo que era. Pasó por las manos de los que se quedaron, de los que heredaron, de los que cuidaron la heredad, que era la herencia de los dos mundos.
 
-Y pasó, generaciones y generaciones después, por las manos de una mujer que llevaba el nombre de la abuela de las historias — la que había abierto la cueva con una melodía y había muerto con el epitafio *Los que no se van* —, y que era su nieta: la heredera de la guarda sin nombre, la que había mantenido el silbo y las preguntas como se mantiene un fuego, la que guardaba la casa de los registros, la que se sentaba delante de la cueva donde dormía la llave del mundo.
+Y un día, por fin, tras muchas manos y muchos años de espera, la semilla llegó a las manos de una mujer que llevaba el nombre de la guarda de las historias, la que las canciones recuerdan por el epitafio *Los que no se van*, y que era precisamente su nieta: la heredera de la guarda sin nombre, la que había mantenido el silbo y las preguntas como se mantiene un fuego, la que guardaba la casa de los registros, la que se sentaba delante de la cueva donde dormía la llave del mundo.
 
 Odra la tuvo un momento, en la palma, con la luz del valle encima, y la guardó, con la desconfianza de las que guardan lo que no entienden, y siguió silbando, y siguió guardando, y siguió siendo de aquí entero, con la semilla de Vaelen al cuello sin conocerla, la que los que partieron habían devuelto, la que se plantaría el día en que los dos mundos se juntaran de verdad.
 

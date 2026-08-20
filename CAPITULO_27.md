@@ -6,7 +6,7 @@
 
 Primero fue un rumor. Luego una fotografía. Luego la fotografía fue verificada. Luego hubo una segunda fotografía. Y luego, antes de que nadie hubiera podido decidir qué hacer con una cosa así, la cosa estaba ya en los cielos de todos, contada por todas partes, desmontando de una vez la última duda que quedaba.
 
-No era la señal. La señal era una luz, una frecuencia, un patrón; la señal se podía explicar como un fenómeno, por mucho que nadie creyera ya la explicación. Lo que apareció aquella mañana no se podía explicar como un fenómeno.
+No era la señal. La señal era una luz, un latido, una pregunta: la señal todavía se podía explicar como se explican las cosas, para que la gente se quedara tranquila. Lo que apareció aquella mañana no admitía explicación de ninguna clase: se veía, y al verlo, se lo comprendía, y lo comprendido era de los dos mundos a la vez.
 
 Era una nave.
 

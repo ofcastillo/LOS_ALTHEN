@@ -1,4 +1,4 @@
-# LOS ALTHEN
+﻿# LOS ALTHEN
 ## Libro 3 — LA HERENCIA
 ### Capítulo 8 — La herencia del alba
 
@@ -24,9 +24,9 @@ Fue Valeria quien puso en palabras lo que todos sentían, en voz baja, sin rompe
 
 ---
 
-Y en esa noche, la del solsticio, cuando la heredad entera estaba reunida y despierta, llegó al valle la última exigencia de la comisión, la que llevaba años esperando su momento. No venía con escoltas ni con papeles nuevos: venía con un plazo. Dijo que en el alba, cuando la noche terminara, la humanidad debía saber por fin si el valle aceptaba la custodia; que si no firmaba, el mundo entendería que se negaba, y que un valle que se niega a su propio mundo acababa por convertirse en un lugar al que no se llega. Dijo, una vez más, el nombre de la heredera oficial — Yara, la que habían nombrado, la que llevaba el título sin haberse sentado nunca a recibir nada — como si al decir el nombre de quien se niega le quitaran la fuerza de negarse.
+Y en esa noche, la del solsticio, cuando la heredad entera estaba reunida y despierta, llegó al valle la última exigencia de la comisión, la que llevaba años esperando su momento. No venía con escoltas ni con papeles nuevos: venía con un plazo. Dijo que en el alba, cuando la noche terminara, la humanidad debía saber por fin si el valle aceptaba la custodia; que si no firmaba, el mundo entendería que se negaba, y que un valle que se niega a su propio mundo acababa por convertirse en un lugar al que no se llega. Dijo, una vez más, el nombre de la heredera oficial — Sira, la que habían nombrado, la que llevaba el título sin haberse sentado nunca a recibir nada — como si al decir el nombre de quien se niega le quitaran la fuerza de negarse.
 
-Y Yara — la nombrada, la que la comisión había convertido en su espera — se levantó, delante del círculo, delante de Mara, delante de todos, y contestó con lo que no se contesta con palabras sino con la vida entera:
+Y Sira — la nombrada, la que la comisión había convertido en su espera — se levantó, delante del círculo, delante de Mara, delante de todos, y contestó con lo que no se contesta con palabras sino con la vida entera:
 
 —Yo no heredo por nombramiento —dijo—. Yo heredo lo que se hereda de verdad, que es lo que se recibe estando, compartiendo, sembrando, abriendo la mano. Y eso no se firma — se vive. Si me nombran heredera, me quitan la manera de heredar. Por eso, una vez más, y para que no tengan que volver a preguntarme: no. Ni por el título. Ni por el plazo. Ni por el alba. La heredad que ustedes quieren custodiar encerrándola en un edificio, dejó de estar en un edificio: está en la gente que la vive. Y a la gente que la vive, señores, no se la nombra — se la deja.
 

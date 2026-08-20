@@ -88,7 +88,7 @@ La aldea entera se conmocionó. Los niños aplaudieron. Los adultos murmuraron. 
 
 —No tengo poder —dijo Lyra—. Solo tengo una canción.
 
-—Pues no se la des a nadie —dijo Odra—. El que enseña su poder muere dos veces: una cuando lo enseña y otra cuando el discípulo lo supera. Yo he vivido ochenta inviernos. Lo he visto todo. El que guarda, sobrevive. El que da, desaparece.
+—Pues no se la des a nadie —dijo Odra—. El que enseña su poder muere dos veces: una cuando lo enseña y otra cuando el discípulo lo supera. Yo he vivido ochenta inviernos. Lo he visto todo. El que guarda sobrevive. El que da desaparece.
 
 Lyra miró a Odra, y en los ojos de Odra vio el miedo que la aldea entera llevaba dentro: el miedo a que los extranjeros se fueran, el miedo a que su conocimiento se fuera con ellos, el miedo a quedarse otra vez solos con el cielo mudo y el fuego apagado.
 

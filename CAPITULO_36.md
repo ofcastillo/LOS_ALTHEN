@@ -82,7 +82,7 @@ Algunos se quedaban un rato y se iban, sin terminar de entender qué habían vis
 
 —¿Qué cosa? —preguntaron.
 
-—— La cosa sin nombre —dijo Mara—. La que no se puede titular. La que se habita. La que crece donde los dos mundos se encuentran. El miedo no se va, pero ya no manda: convive. Y convivir con el miedo, sin que mande, es lo que hace la gente que aprende a sembrar con miedo. Se siembra con las manos que tiemblan. Se siembra de todas formas.
+—La cosa sin nombre —dijo Mara—. La que no se puede titular. La que se habita. La que crece donde los dos mundos se encuentran. El miedo no se va, pero ya no manda: convive. Y convivir con el miedo, sin que mande, es lo que hace la gente que aprende a sembrar con miedo. Se siembra con las manos que tiemblan. Se siembra de todas formas.
 
 ---
 

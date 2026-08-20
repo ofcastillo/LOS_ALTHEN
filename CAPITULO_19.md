@@ -52,7 +52,7 @@ No en el mal sentido. Desapareció como desaparecen los que ya no hacen falta en
 
 Solo una vez, meses después, recibieron una postal. No tenía remitente. Tenía una sola palabra escrita a mano, con letra apretada y segura:
 
-*Siembren.*
+*Sembrad.*
 
 Elías se quedó.
 

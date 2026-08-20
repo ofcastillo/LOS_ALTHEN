@@ -124,6 +124,10 @@ Callaron, los cuatro, a la orilla del río, con las cuatro preguntas contestadas
 
 Los cuatro callaron, con el río pasando, con las estrellas encima, con la pregunta de hoy dicha y vivida, con la noche cerrando sobre la orilla, sobre el valle, sobre la vida.
 
+—Y luego —dijo Aldor, en voz baja, como quien recuerda la parte que nunca se escribe— está la quinta. La que no se dice. La que se hace. Porque las cuatro preguntas solo sirven para acercarse a la orilla: la quinta es arrodillarse, y no se hace con palabras, se hace en silencio, decidir qué se va a ser con lo que se sabe y lo que se siente. El quinto paso no se dice: se hace. Y se hace solo, aunque se esté entre los cuatro, porque ninguno puede hacerlo por otro.
+
+Nadie respondió. Y en el silencio, cada uno hizo, por fin, la quinta pregunta, la de hoy, la que no se dice, la que se hace a la orilla del río, con las cuatro contestadas dentro y la vida entera por delante.
+
 Y no supieron que era la última noche.
 
 Pero la trataron como si lo fuera, porque se hicieron las preguntas de verdad, las cuatro, entre los cuatro, como nunca se las habían hecho.

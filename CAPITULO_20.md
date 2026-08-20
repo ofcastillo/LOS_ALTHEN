@@ -178,7 +178,7 @@ No lo llamó por el nombre de Vaelen. No lo llamó «hijo» con la memoria. Lo l
 
 —Vex —dijo Aldor, desde la puerta de su casa, mirando el río—. Mañana, cuando salga el sol, ven conmigo a la orilla. Te voy a enseñar a mirar el agua. Es lo único que sé hacer ya. Mirar el agua, y enseñar a mirarla. Y de lo que se aprende mirando el agua, hijo, se puede vivir el resto de la vida.
 
-Y Vex, solo, a la orilla del río, con la noche encima, con el valle durmiendo, con las estrellas que no eran las de Vaelen, con la rabia que había traído de un mundo y que ya no sabía en qué mundo dejarla.
+Y Vex se quedó solo, a la orilla del río, con la noche encima, con el valle durmiendo, con las estrellas que no eran las de Vaelen, con la rabia que había traído de un mundo y que ya no sabía en qué mundo dejarla.
 
 No se abrazaron.
 

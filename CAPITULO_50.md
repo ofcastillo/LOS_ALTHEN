@@ -102,7 +102,7 @@ La hoguera de esa noche se apagó al alba, como se apagaban todas. Pero la brasa
 
 Y esa noche en que se encendió la hoguera nueva, en un valle que ya no sabía de dónde venía la brasa, con la gente nueva sentada alrededor, con la gente vieja que aún la guardaba calladamente, con la brasa del centro aguantando — esa noche, otra vez, alguien volvió. Y al volver, se quedó fuera del círculo un momento, mirando el fuego, y se le llenó la mirada de los que comprenden que algo las ha estado esperando. Y el valle lo supo. Y le abrió el círculo. Y el regreso se encendió una vez más, con la brasa, con la heredad, con la herencia de la hoguera y del regreso: la brasa. Lo que aguanta. Lo que queda bajo la ceniza cuando todo lo demás se apaga, para encender, cuando llega el momento, el regreso de los que vuelven.
 
-Porque la herencia de los primeros, lo supo el valle esa noche con certeza, se pasa con la brasa, y la brasa no se enciende en ningún otro lado:
+Porque la herencia de los primeros, lo supo el valle esa noche con certeza, se pasa con la brasa. Y la brasa no se enciende en ningún otro lado.
 
 Y esa noche, al apagarse la hoguera, alguien del valle metió la mano en la ceniza, sacó la brasa aún viva, y se la pasó al que estaba al lado, y el que la recibió la guardó en un cuenco, para que aguantara — porque bajo la ceniza, intacta, la brasa esperaba la próxima noche de regreso, la de encender otra vez.
 

@@ -106,7 +106,7 @@ No fue en el valle.
 
 Fue en el cielo.
 
-Era de día. El cielo estaba limpio, azul, sin nubes, con el sol alto. Y sin embargo, una estrella apareció en el cielo de mediodía. No brilló sobre el valle: brilló sobre el valle y sobre el observatorio y sobre el mundo entero a la vez, porque no era una estrella del cielo: era una señal. La señal de Vaelen, la que llevaba miles de años sonando, la que Teresa había oído durante meses, la que los observatorios del mundo habían grabado hasta aprenderla de memoria, apareció en el cielo de mediodía como una estrella que no estaba y que se encendía por primera vez.
+Era de día. El cielo estaba limpio, azul, sin nubes, con el sol alto. Y sin embargo, una estrella apareció en el cielo de mediodía. No brillaba como brillan las estrellas: brillaba como se enciende lo que se espera. Y quien la miró, la vio: la vieron en el valle, la vieron desde el observatorio, la vieron desde cada ventana del mundo, cada uno desde su sitio, como se ven las cosas que llevan mucho esperándose, que se ven desde muchas partes a la vez porque no están en un lugar del cielo: están en el sitio exacto de donde cada uno la esperaba. No era una estrella del cielo: era una señal. La señal de Vaelen, la que llevaba miles de años sonando, la que Teresa había oído durante meses, la que los observatorios del mundo habían grabado hasta aprenderla de memoria, apareció en el cielo de mediodía como una estrella que no estaba y que se encendía por primera vez.
 
 No se encendió sola.
 

@@ -50,7 +50,7 @@ Los cuatro callaron.
 
 —¿A buscar a quién? —dijo Amara, quebrada, sabiendo ya la respuesta.
 
-—A la niña —dijo Elías—. A la que canta dormida. Ha estado tres semanas estudiando los datos, las grabaciones, las canciones, y ha llegado a la misma conclusión a la que llegaron ustedes: que la melodía está viva en una persona. Y que esa persona es la llave. Y que la llave, cuando la tengas, hace responder a la mano.
+—A la niña —dijo Elías—. A la que canta dormida. Ha estado tres semanas estudiando los datos, las grabaciones, las canciones, y ha llegado a la misma conclusión a la que llegasteis vosotros: que la melodía está viva en una persona. Y que esa persona es la llave. Y que la llave, cuando la tengas, hace responder a la mano.
 
 Amara se levantó de golpe. La silla cayó al suelo. Y el sótano de las grabaciones se llenó, como no se llenaba en mucho tiempo, del miedo más antiguo que existe.
 

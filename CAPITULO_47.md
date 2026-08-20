@@ -1,4 +1,4 @@
-# LOS ALTHEN
+﻿# LOS ALTHEN
 ## Libro 3 — LA HERENCIA
 ### Capítulo 9 — La herencia de la tierra
 
@@ -59,7 +59,7 @@ Marcos fue el primero en hablar: era el que más papeles había pisado en su vid
 
 —Firmemos el papel —dijo—. El papel no siembra. Pero protege lo sembrado. Yo he visto lo que hace el mundo con lo que no está escrito: lo decide él.
 
-Y Yara le contestó con la calma de quien ha aprendido de la tierra, con las palabras que se le habían ido haciendo al lado de la flor:
+Y Sira le contestó con la calma de quien ha aprendido de la tierra, con las palabras que se le habían ido haciendo al lado de la flor:
 
 —El papel protege lo que cabe en un papel. Y esto no cabe. Si firmamos, dejamos escrito que la tierra es de alguien, y el día que quede escrito, la tierra habrá dejado de ser de todos para ser de un nombre. Ustedes, los de afuera, creen siempre que proteger es escribir; nosotros aprendimos que proteger es sembrar. El surco no se protege con una firma — se protege con otra siembra. Y si el mundo viene con máquinas, le sembramos. Y si viene con papeles, le sembramos. Es lo único que sabemos.
 
@@ -71,10 +71,10 @@ Amara, que escuchaba con las manos, con la intuición antes que con la conclusi�
 
 —Cuando amasamos el pan no firmamos. Cuando sembramos no firmamos. Cuando nos decimos los nombres no firmamos. No es que estemos contra los papeles; es que se nos quedan pequeños. Miren —dijo, y mostró la palma—: no nos cabe el valle en una cuartilla.
 
-Y cuando la comisión, en los años de la custodia, le llevó a Yara el acta que la hacía — ella, solo ella, la más joven de las jardineras — propietaria oficial de la tierra del valle, como parte del trato que le había ofrecido al nombrarla heredera, Yara la leyó despacio, sobre la mesa de la casa del río, y luego la dejó a un lado, sin firmarla, y dijo, con la voz de quien ya ha aprendido que la tierra se hereda de otra manera:
+Y cuando la comisión, en los años de la custodia, le llevó a Sira el acta que la hacía — ella, solo ella, la más joven de las jardineras — propietaria oficial de la tierra del valle, como parte del trato que le había ofrecido al nombrarla heredera, Sira la leyó despacio, sobre la mesa de la casa del río, y luego la dejó a un lado, sin firmarla, y dijo, con la voz de quien ya ha aprendido que la tierra se hereda de otra manera:
 
 —La tierra del valle ya tiene dueño, y no cabe en un acta. La tiene el que la siembra, y el que la siembra no la tiene para quedársela: la tiene para pasarla, con las manos, al que viene. Si yo firmara esto, la tierra dejaría de ser de todos para ser mía, y el día en que la tierra es de uno solo, ese día deja de ser tierra: es propiedad. Aquí no se hereda propiedad — se hereda trabajo, surco, memoria. A ustedes les han enseñado que heredar es quedarse con lo que se heredó. Nosotros heredamos de otra manera — dijo, dejando el acta a un lado —: heredamos para entregar. Así que no la firmo. Y no lo digo como quien se niega a algo grande: lo digo como quien ya lo tiene todo.
 
-Y la comisión recogió el acta sin firmarla. De vuelta a la ciudad, esa tarde, la joven del vuelo guardó la hoja sin sello en un cajón, y al cabo de los años, cuando el río del valle se llevó los sellos y los títulos, el cajón quedó vacío de actas y lleno de tierra — y la joven, que ya era vieja, lo abría de vez en cuando, olía el surco de Yara y lo cerraba sin decir nada.
+Y la comisión recogió el acta sin firmarla. De vuelta a la ciudad, esa tarde, la joven del vuelo guardó la hoja sin sello en un cajón, y al cabo de los años, cuando el río del valle se llevó los sellos y los títulos, el cajón quedó vacío de actas y lleno de tierra — y la joven, que ya era vieja, lo abría de vez en cuando, olía el surco de Sira y lo cerraba sin decir nada.
 
 *Continuará en el Capítulo 10 — La herencia del fuego.*

@@ -138,6 +138,22 @@ Elías calló un momento. Y cuando habló, su voz tenía esa calma rara que le h
 
 —Los relojes se paran porque no saben quién los viene a buscar —dijo Elías—. La mano se ha preparado, y no se ha parado. Cuando la señal llegó, la mano supo que la espera había terminado. Y yo también. He estado esperando a que me dijeran que la espera había terminado. Y ahora me lo dices tú. Y la espera, Amara, me ha caído bien: me ha dado tiempo para aprender a no tener prisa. Y ahora que no tengo prisa, puedo ir.
 
+Y esa noche, cuando colgó, Elías se quedó un momento en la relojería.
+
+Con el teléfono apagado en la mano, con la noche del pueblo fuera, abrió el cajón de la mesa donde llevaba años guardando lo que no sabía cómo soltar: las copias del lápiz de memoria, las grabaciones que había robado de Vertex, los informes que había escrito durante veinte años en la fundación. El archivo del círculo. El último archivo de los Althen que quedaba en el mundo sobre papel, sobre plástico, sobre datos.
+
+Elías lo miró, y supo que tenía razón Amara, y razón la mano, y razón la niña que cantaba dormida.
+
+Había pasado veinte años fabricando archivos. Y los archivos, ahora lo sabía, no guardaban nada: se guardaban, se encerraban, se inventariaban, y el inventario era el orden en que se olvidaban. Vertex no había robado conocimiento: había robado archivos, y los archivos robados no pesan más que un lápiz que ya no sirve. La melodía no estaba en los archivos. La melodía estaba en la niña.
+
+Y ahora la mano iba a bajar para todos.
+
+—Y ya no tengo que guardar nada —dijo, en voz baja, para él, para el cajón, para los veinte años.
+
+No tiró el cajón. No lo quemó. Lo dejó cerrado, como se deja lo que ya se ha soltado: lo que ya no es de nadie no hace falta destruirlo, basta con no guardarlo más. Y esa noche, Elías, que había dedicado su vida a que nada se perdiera, comprendió que había algo más difícil que no perder nada: dejar que lo que vale se pierda, para que siga vivo en los que lo recogen.
+
+Y salió a la calle, hacia el valle, sin llevarse el cajón.
+
 ---
 
 Faltaba uno.

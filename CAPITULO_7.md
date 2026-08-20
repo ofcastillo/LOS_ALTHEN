@@ -148,7 +148,7 @@ Valeria miró a la vieja, a sus ojos claros, a su manera de hablar de la cueva c
 
 Valeria no supo qué responder. Se quedó mirando el valle, el río, la colina con la cueva invisible, la aldea de cuatro casas donde una vieja llamada Odra hablaba de su bisabuela como si la bisabuela hubiera estado viva ayer.
 
-—¿Cuánto tiempo llevan aquí su familia? —preguntó, sin él mismo saber por qué.
+—¿Cuánto tiempo lleva aquí su familia? —preguntó, sin saber ella misma por qué.
 
 —Mucho —dijo Odra—. Muchísimo. Antes de los romanos. Antes de los celtas. Antes de los nombres. Antes de los nombres de los nombres. Y siempre hemos guardado la cueva. No sabemos por qué. Es una de esas cosas que se heredan sin explicación, como el gesto de sembrar o el modo de silbar. Mi abuela silbaba. Yo silbo. No sé por qué. La cueva tampoco sé por qué.
 

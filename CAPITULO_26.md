@@ -24,7 +24,9 @@ No era una estrella. Las estrellas llevan ahí miles de millones de años y no s
 
 —Porque la señal encendida es la respuesta —dijo Tolina—. No la respuesta de alguien que ha enviado un mensaje. La respuesta de alguien que ha tendido la mano. Y la mano tendida, joven, es la única cosa que se ve desde aquí. Es la única que cruza la distancia.
 
-La nave cambió de rumbo esa misma noche. Se dirigió hacia la luz. Y en la nave, durante los días siguientes, no se habló de otra cosa: del camino encendido, de la mano tendida, de los que esperaban al otro lado, de la promesa que por fin se cumplía, de la llegada.
+La nave cambió de rumbo esa misma noche. Se dirigió hacia la luz. Y nadie lo llamó renuncia, aunque todos lo sintieron como un adiós a algo que ya no hacía falta: llevaban tantas generaciones buscando el camino de vuelta a Vaelen que, al ver el faro encendido donde la respuesta llevaba siglos esperando, comprendieron de golpe lo que buscaban. No buscaban el mar de donde venían: buscaban el sitio donde alguien seguía esperándolos. Y aquella luz decía, con toda la claridad de una cosa que se espera, que el sitio existía.
+
+Y en la nave, durante los días siguientes, no se habló de otra cosa: del camino encendido, de la mano tendida, de los que esperaban al otro lado, de la promesa que por fin se cumplía, de la llegada.
 
 Tolina se sentó sola, junto a la ventana de la nave, a mirar la luz que se acercaba.
 
@@ -32,7 +34,7 @@ Y se puso a contar, una vez más, el recuerdo del mar.
 
 ---
 
-El viaje les llevó lo que les llevó: tiempo, que en el espacio es solo la medida del deseo de llegar.
+El viaje, en el tramo que faltaba, no se midió en días ni en meses. La señal quedó encendida, y mientras la nave cruzaba la distancia que separaba la última luz de la primera tierra, el que espera sabe que hay distancias que solo se cruzan envejeciendo: el viaje, en el espacio, es la medida del deseo de llegar. Y en la Tierra, mientras tanto, el valle no dejó de esperar. La estrella brilló tantas noches que el mundo se acostumbró a la luz, y la guarda siguió su modo de siempre: pasando de mano en mano, como se pasa un fuego. La vieja Odra, la que había abierto la cueva con una melodía, terminó sus días silbando, en paz, y su nieta — que había heredado su nombre, su silbo y el sitio delante de la mano — ocupó su lugar, y se hizo vieja esperando, y esperó tanto que ya no tuvo prisa en saludar: porque la espera, también, se hereda, como se hereda la mano, como se hereda el fuego.
 
 Cuando la luz se hizo grande, cuando dejó de ser un punto y se hizo una mancha, cuando la mancha se hizo un mundo, cuando el mundo se hizo la Tierra, Tolina comprendió que la historia que había oído toda su vida se volvía, por fin, para ella, una historia que se iba a vivir.
 

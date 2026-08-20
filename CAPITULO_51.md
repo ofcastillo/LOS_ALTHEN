@@ -1,4 +1,4 @@
-# LOS ALTHEN
+﻿# LOS ALTHEN
 ## Libro 3 — LA HERENCIA
 ### Capítulo 13 — El pan y el nombre propio
 
@@ -40,7 +40,7 @@ La más joven se quedó con eso dentro, con las manos enharinadas, con el horno 
 
 Y al hacerse la pregunta, la más joven sintió — con las manos todavía olorosas a pan, con la noche encima, con la heredad entera dentro — que la respuesta no hacía falta decirla: se la estaba comiendo desde hacía años, desde la primera vez que había comido del pan del valle, sin saber que comía la heredad. El pan no se heredaba por fuera: se heredaba por dentro, como se heredan las cosas que se comen, que ya no se pueden arrancar porque ya son parte de uno — la harina, la ronda, la heredad, los primeros, todo, todo, entrando por la boca con el pan de todos, haciendo cuerpo de los que comen el mismo pan.
 
-Y en esa misma reunión, estaba Yara. La de la comisión, la que había sido nombrada y que se había negado tantas veces: estaba sentada, recibiendo el pan, pasándolo, partiéndolo con las manos, sin acta, sin título, sin edificio. Y al recibir el pan de manos de la última de la reunión, Yara comprendió — con las manos llenas de la masa — lo que había estado buscando sin saberlo el mundo entero con sus custodias: que a ella, cuando se negó a ser la heredera de un documento, le habían dado la otra heredad, la que no se firmaba, la que se comía. Que su nombre, el que la comisión quería inscribir en sus registros, ya estaba inscrito en otra parte: en el pan, en la ronda, en los nombres que se decían de noche. Y que por eso, de todos los que aquel mundo había buscado para nombrar guardián de la heredad, el único que la guardaba de verdad era el que se había negado a guardarla: la que recibía el pan y lo pasaba, sin conservar nada, porque conservar lo que se recibe es quedárselo, y quedárselo es perderlo.
+Y en esa misma reunión, estaba Sira. La de la comisión, la que había sido nombrada y que se había negado tantas veces: estaba sentada, recibiendo el pan, pasándolo, partiéndolo con las manos, sin acta, sin título, sin edificio. Y al recibir el pan de manos de la última de la reunión, Sira comprendió — con las manos llenas de la masa — lo que había estado buscando sin saberlo el mundo entero con sus custodias: que a ella, cuando se negó a ser la heredera de un documento, le habían dado la otra heredad, la que no se firmaba, la que se comía. Que su nombre, el que la comisión quería inscribir en sus registros, ya estaba inscrito en otra parte: en el pan, en la ronda, en los nombres que se decían de noche. Y que por eso, de todos los que aquel mundo había buscado para nombrar guardián de la heredad, el único que la guardaba de verdad era el que se había negado a guardarla: la que recibía el pan y lo pasaba, sin conservar nada, porque conservar lo que se recibe es quedárselo, y quedárselo es perderlo.
 
 * * *
 

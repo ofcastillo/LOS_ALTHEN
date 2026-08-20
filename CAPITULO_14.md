@@ -98,11 +98,11 @@ Los cuatro miraron a la niña, en el silencio del sótano, entre las cajas de gr
 
 Mara se detuvo un momento, con la cabeza ladeada, como cuando oía la melodía escondida en las grabaciones de su madre.
 
-—Recuerda que no estamos solos —dijo, al fin—. Recuerda que alguien vino antes y dejó esto para nosotros, para que nosotros lo dejáramos para los que vengan después. Eso es lo que recuerda la piedra. Y eso no se puede robar, porque no está en la piedra. Está en el que la mira. Y yo la he mirado. Así que la tengo. Y ustedes la han mirado también. Así que la tienen también. Y Vertex la ha mirado, pero Vertex no tiene la pregunta, así que Vertex solo ha visto una piedra. Pobre Vertex.
+—Recuerda que no estamos solos —dijo, al fin—. Recuerda que alguien vino antes y dejó esto para nosotros, para que nosotros lo dejáramos para los que vengan después. Eso es lo que recuerda la piedra. Y eso no se puede robar, porque no está en la piedra. Está en el que la mira. Y yo la he mirado. Así que la tengo. Y vosotros la habéis mirado también. Así que la tenéis también. Y Vertex la ha mirado, pero Vertex no tiene la pregunta, así que Vertex solo ha visto una piedra. Pobre Vertex.
 
 —¿Por qué «pobre Vertex»? —dijo Marcos, con la emoción quebrada.
 
-—Porque se llevó la piedra —dijo Mara, con una tristeza que le venía grande—. Y la piedra, sin la pregunta… —buscó las palabras— es una piedra. Nada más. Y él cree que se llevó el tesoro. Pero el tesoro se lo dejó aquí, en este sótano, con ustedes. —y señaló a los cuatro— Y él va a buscarlo toda la vida. Toda. Y no lo va a encontrar, porque busca con las manos, y esto no se coge con las manos. Se coge aquí. —se tocó el pecho—
+—Porque se llevó la piedra —dijo Mara, con una tristeza que le venía grande—. Y la piedra, sin la pregunta… —buscó las palabras— es una piedra. Nada más. Y él cree que se llevó el tesoro. Pero el tesoro se lo dejó aquí, en este sótano, con vosotros. —y señaló a los cuatro— Y él va a buscarlo toda la vida. Toda. Y no lo va a encontrar, porque busca con las manos, y esto no se coge con las manos. Se coge aquí. —se tocó el pecho—
 
 El sótano enmudeció. El río, a lo lejos, seguía cantando sin permiso.
 
@@ -118,7 +118,7 @@ Mara se separó un poco, la miró, y dijo, con la misma naturalidad con que hab�
 
 Mara lo miró. Y con una sonrisa que no era de niña, que era de algo mucho más antiguo, dijo:
 
-—Para que ustedes la oyeran. Porque sin ustedes, la melodía es solo una canción. Y con ustedes, es una puerta. Y las puertas, cuando se abren, no se cierran. ¿Verdad?
+—Para que vosotros la oyerais. Porque sin vosotros, la melodía es solo una canción. Y con vosotros, es una puerta. Y las puertas, cuando se abren, no se cierran. ¿Verdad?
 
 —No se cierran —dijo Ivo, ronco—. Las puertas abiertas no se vuelven a cerrar.
 
@@ -134,7 +134,7 @@ Mara se detuvo un momento, mirando la espiral de la servilleta, la misma espiral
 
 —¿Hasta que ya no haga falta? —dijo Ivo.
 
-—Hasta que todos sepan hacer la pregunta —dijo Mara—. Y entonces no hará falta nada de esto. Ni la puerta, ni la piedra, ni la cueva. Porque la pregunta ya no estará solo aquí, con ustedes. —se tocó el pecho— Estará en todos. Y cuando está en todos, todos saben abrir. Y si todos saben abrir… —y sonrió— pues la puerta ya está abierta para siempre. No hace falta guardarla.
+—Hasta que todos sepan hacer la pregunta —dijo Mara—. Y entonces no hará falta nada de esto. Ni la puerta, ni la piedra, ni la cueva. Porque la pregunta ya no estará solo aquí, con vosotros. —se tocó el pecho— Estará en todos. Y cuando está en todos, todos saben abrir. Y si todos saben abrir… —y sonrió— pues la puerta ya está abierta para siempre. No hace falta guardarla.
 
 ---
 
