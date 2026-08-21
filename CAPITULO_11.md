@@ -84,7 +84,7 @@ La frase cayó en la sala como cae una piedra en el agua: sin ruido, pero movien
 
 —Despierta —dijo Alther—. No despierta en todos. Despierta en los que hacen la pregunta. Y la pregunta, cuando se hace de verdad, llama. No sé cómo explicarlo de otra manera. La pregunta llama. Y cuando la pregunta llama, los que la oyen se encuentran. Se encuentran por casualidad, se encuentran en un café, se encuentran en un valle, se encuentran en un cine abandonado. Y al encontrarse, sin saberlo, forman lo que los Ysann llamaban un *círculo*: un grupo de los que preguntan. Y el círculo es la única llave que abre la puerta.
 
-—Nosotros —dijo Marcos, con la emoción quebrada—. Nosotros somos el círculo.
+—Nosotros —dijo Marcos, y apretó los puños contra las rodillas—. Nosotros somos el círculo.
 
 —Vosotros —dijo Alther—. Los cuatro. El mismo número que los cuatro que bajaron. No es una coincidencia. Es la regla. La puerta no abre para uno. La puerta abre para el círculo. Porque el conocimiento que guarda se tiene que sostener entre varios, y no se puede poseer en soledad. El que lo posee solo, lo pierde. El que lo sostiene en círculo, lo conserva.
 

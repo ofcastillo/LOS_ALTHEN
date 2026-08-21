@@ -144,7 +144,7 @@ Mara se sentó en la tierra, delante de la mano, con las manos abiertas sobre la
 
 Calló, con el cielo encima, con la mano baja delante, con la heredad de la suelta dentro.
 
-—Seré el sitio —dijo, por fin, sin temblor—. Hasta que el sitio no me necesite. Y cuando el sitio no me necesite, me iré de él, y dejaré el sitio abierto, para que lo ocupen otros. Porque la guarda, ahora lo sé, se deja. Es suelta. Es abrir el paso para que por él pasen los que vienen, y avisarse de que el paso se queda abierto aunque la que lo cuidaba se marche.
+—Seré el sitio —dijo, por fin, sin apartar los ojos de la mano—. Hasta que el sitio no me necesite. Y cuando el sitio no me necesite, me iré de él, y dejaré el sitio abierto, para que lo ocupen otros. Porque la guarda, ahora lo sé, se deja. Es suelta. Es abrir el paso para que por él pasen los que vienen, y avisarse de que el paso se queda abierto aunque la que lo cuidaba se marche.
 
 Y las estrellas giraron. El río cantó, sin permiso. La mano baja se quedó baja, tendida, esperando.
 

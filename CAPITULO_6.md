@@ -38,7 +38,7 @@ No fue un olvido. Fue un traspaso. Dejó de soñar en el mar plateado que nunca 
 
 Aldor la miró, y comprendió que Lyra no estaba perdiendo la memoria: estaba ganando un mundo.
 
-—Sí —dijo, quebrado—. Todo es aquí.
+—Sí —dijo, y bajó los hombros, como quien deja caer una carga—. Todo es aquí.
 
 —Entonces —dijo Lyra, con una sonrisa limpia, sin sombras—, ya no tengo que buscar el puerto. Porque estoy en el puerto. Y no sabía que se podía estar en el puerto.
 

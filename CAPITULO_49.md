@@ -100,4 +100,4 @@ Y por eso, en los años de la custodia, cuando la comisión vino a proponer el e
 
 La comisión no entendió. La comisión solo entendía lo que se podía medir, y la regla no se medía. Y la comisión se fue sin el agua, y la fuente siguió brotando, y el pueblo siguió compartiéndola antes de guardarla, y cuando esos visitantes se fueron, contó por los valles que el agua de la fuente no se la pudieron llevar — porque el agua, como la heredad, se da, y no se entrega.
 
-*Continuará en el Capítulo 12 — El viento, la hoguera y el regreso.*
+*Continuará en el Capítulo 12 — La herencia del viento y de la brasa.*

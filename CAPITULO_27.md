@@ -68,7 +68,7 @@ Y miró a Mara.
 
 Tolina la miró. Y en su mirada, Amara vio pasar una vida entera: una vida en una nave, cruzando la soledad, transmitiendo un recuerdo de mano en mano, viendo envejecer y morir a todos los que empezaron el viaje, educando a los que nacieron a bordo para que siguieran el viaje, para que llegaran, para que cuando llegaran supieran por qué habían llegado.
 
-—Los que empezaron el viaje conmigo —dijo Tolina, sin temblor, porque había tenido muchos años para prepararla—, no llegaron. Los que nacieron en el viaje, llegaron algunos: mis hijos, mis nietos, los hijos de mis nietos. La nave era pequeña, y el viaje era largo, y hay vidas que no alcanzan. Es el modo de las distancias, de las que los que se quedan no saben: la medida de la espera no es la misma para el que espera y para el que viaja.
+—Los que empezaron el viaje conmigo —dijo Tolina, y miró el fuego un momento, porque había tenido muchos años para prepararla—, no llegaron. Los que nacieron en el viaje, llegaron algunos: mis hijos, mis nietos, los hijos de mis nietos. La nave era pequeña, y el viaje era largo, y hay vidas que no alcanzan. Es el modo de las distancias, de las que los que se quedan no saben: la medida de la espera no es la misma para el que espera y para el que viaja.
 
 —¿Y los que llegaron? —preguntó Ivo, con el lápiz quieto sobre la libreta.
 
@@ -92,7 +92,7 @@ Y en medio de todo, en el silencio que se hizo cuando Tolina terminó, Ivo hizo 
 
 Tolina miró el fuego durante mucho tiempo.
 
-—No lo sé —dijo, al fin, sin temblor, porque había decidido no tener miedo—. La señal encendida es el camino. El camino está abierto. Los que estaban listos para venir, vendrán cuando quieran venir. Los que no, no. No se puede forzar a nadie a cruzar una distancia que no está dispuesto a cruzar. Los que partimos no partimos todos a la vez. Volvemos como partimos: unos antes, unos después, unos nunca.
+—No lo sé —dijo, al fin, y se miró las manos, porque había decidido no tener miedo—. La señal encendida es el camino. El camino está abierto. Los que estaban listos para venir, vendrán cuando quieran venir. Los que no, no. No se puede forzar a nadie a cruzar una distancia que no está dispuesto a cruzar. Los que partimos no partimos todos a la vez. Volvemos como partimos: unos antes, unos después, unos nunca.
 
 —¿Nunca? —preguntó Valeria.
 
@@ -119,6 +119,8 @@ Tolina la miró, y en sus ojos brilló algo que llevaba mucho tiempo esperando b
 Los científicos no tardaron en llegar.
 
 No a la misma noche. A la misma noche no llegó nadie: el valle entero se quedó para ellos, para el encuentro, para el fuego, para la mano. Pero a la mañana siguiente, la meseta estaba llena: de científicos al amanecer, de investigadores, de gente que llevaba años estudiando la señal, la mano, el Archivo, la melodía, y que por fin tenía delante a alguien a quien preguntar.
+
+Entre ellos, aquella mañana, había unos pocos que no venían a preguntar: venían a inventariar. Llevaban carpetas y sellos y órdenes de registro, y pedían listas de lo que había en el valle, medidas, certificados, papeles que dijeran de quién era cada cosa. El círculo los dejó hacer, como dejaba hacer a todo el que llegaba con las manos abiertas; pero aquella mañana el valle vio por primera vez una manera de acercarse que no preguntaba: contaba. Y lo contado se anotaba, y lo anotado no preguntaba: esperaba, para poder ser reclamado.
 
 Preguntaron mucho. Tolina respondió lo que pudo y guardó lo que debía. Le preguntaron por la tecnología, y les dijo que no la habían traído. Le preguntaron por Vaelen, y les contó el mar, la plata, el silencio, cómo las preguntas se oían de tan claras. Le preguntaron por la División, y les dijo que eso no se explicaba con datos: se explicaba con la vida, y que la vida no se daba a los laboratorios. Y le preguntaron, al final, la pregunta que llevaban todos preparando:
 
@@ -159,11 +161,5 @@ Tolina se volvió hacia ella. Y con la voz que era la de los dos lados a la vez,
 Callaron, los cinco, la niña, y la mujer que había cruzado la distancia, delante de la mano baja, con la estrella encendida arriba, con la pregunta viva entre todos.
 
 Y ahí estaba Tolina, sentada delante de la mano, viva, recibida, de los dos lados a la vez, contando la única cosa que la señal no decía: qué se siente llegar a un sitio que te esperaba y descubrir que el sitio de donde venías sigue dentro.
-
-El mito, los mitos, todos los mitos de todos los pueblos de la Tierra, tenían por fin cuerpo.
-
-No exageraban.
-
-No habían exagerado nunca.
 
 *Continuará en el Capítulo 9 — La pregunta de los dos hogares.*

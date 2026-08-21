@@ -44,6 +44,14 @@ Y en esa deliberación, a los dos bandos les nació una tercera idea, la que aca
 
 ---
 
+Esa noche, antes de dormir, Mara se sentó un momento en la orilla del río y miró el agua, y se hizo en voz baja la pregunta que no se atrevía a hacer delante del círculo:
+
+—¿Y si no entienden? —preguntó—. ¿Y si se llevan el acta y no se llevan la pregunta?
+
+Y el río no respondió, como no respondía nunca, y sin embargo la pregunta, dicha en voz baja, le pesó un poco menos: porque las preguntas que se dicen en voz baja empiezan a compartirse.
+
+---
+
 La comisión volvió al valle al día siguiente, con las dos decisiones redactadas, para leérselas al círculo. Los que querían abrir: abrirían el Archivo, tomarían la mano y la semilla y los amplios registros que decían que había dentro, y se llevarían todo a un gran edificio donde la humanidad entera pudiera verlo, protegido, sellado, asegurado. Los que querían cerrar: cerrarían la puerta de la cueva, la sellarían con la tecnología de los que no tienen tecnología que se parezca, y prohibirían que se volviera a hablar de ello, para que la humanidad siguiera durmiendo el sueño de los que no saben.
 
 Y el círculo, delante de las dos decisiones, hizo lo que hacía el valle con las cosas grandes: no contestó. Se quedó callado. Y en ese silencio, la comisión comprendió que tampoco iba a recibir el sí ni el no. Iba a recibir lo que se recibía allí: una invitación.

@@ -108,6 +108,8 @@ Espejo del grupo Ysann: cuatro humanos que hoy, sin saberlo, repiten las funcion
 
 **El quinto personaje (opcional, recurrente):** **MARA, la niña** — la hija de Amara (o su sobrina), que "oye" el Archivo sin saber explicarlo. Los niños son la puerta: los Ysann dejaron el legado abierto a los que aún no han aprendido a no creer.
 
+**SIRA (Libro III) — La jardinera que se negó a heredar.** La comisión internacional la nombra heredera oficial del legado en C42; ella se niega, una y otra vez, y esa negativa — la herencia que se defiende negándose a ser custodiada — es el motor del Libro III (C45-C47). Es quien recibe la brasa de manos de Mara en C52: la que se negó a heredar el acta es la única que puede pasar la herencia entera.
+
 ---
 
 ## 6. EL RITUAL DE LA ELECCIÓN (el "ritual secreto" de la saga)
@@ -140,6 +142,7 @@ Este ritual aparece en los mitos como "el ritual secreto" que los humanos repiti
 ### Libro 3 — "LA HERENCIA"
 - **Línea pasada:** el legado ya sembrado; la memoria de los Ysann se vuelve mito, se distorsiona, se salva en los nombres.
 - **Línea presente:** la humanidad decide. Aceptar la herencia completa (y todo lo que implica) o cerrar el Archivo. Los que partieron regresan — o no.
+- **Eje del volumen:** la comisión nombra a **Sira**, la jardinera más joven, heredera oficial del legado; ella se niega. Su negativa (la herencia que se defiende negándose a ser custodiada) atraviesa C40-C52 y la convierte, al recibir la brasa, en la única heredera real.
 - **Pregunta final (Libro 3 / de la saga):** *"Somos lo que decidimos ser. Ya lo sabes. Ahora responde en silencio: hoy, ¿qué serás?"*
 
 ### Libros futuros (saga abierta)

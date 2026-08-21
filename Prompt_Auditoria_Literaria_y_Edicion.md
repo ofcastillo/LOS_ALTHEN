@@ -1,16 +1,3 @@
-# PROMPT MAESTRO DE AUDITORÍA LITERARIA Y CORRECCIÓN EDITORIAL
-## "Los Althen"
-
-Este prompt ha sido diseñado profesionalmente para ser utilizado en modelos de lenguaje avanzados (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro) con el fin de realizar una auditoría literaria, revisión técnica, corrección estilística y dictamen editorial exhaustivo de cada libro de la trilogía.
-
----
-
-### INSTRUCCIONES PARA EL USUARIO:
-Copia todo el texto dentro de la caja de prompt inferior y pégalo al inicio de la sesión con la IA, adjuntando el texto completo o capítulo(s) del libro a analizar.
-
----
-
-```markdown
 # INSTRUCCIONES DE AUDITORÍA EDITORIAL Y CRÍTICA LITERARIA EXPERTA
 
 ## ROL Y PERFIL PROFESIONAL
@@ -85,4 +72,4 @@ Presenta tu análisis estructurado rigurosamente bajo las siguientes secciones:
 ---
 
 Por favor, comienza analizando el texto proporcionado a continuación con el mayor nivel de rigor profesional.
-```
+

@@ -34,7 +34,7 @@ Y se puso a contar, una vez más, el recuerdo del mar.
 
 ---
 
-El viaje, en el tramo que faltaba, no se midió en días ni en meses. La señal quedó encendida, y mientras la nave cruzaba la distancia que separaba la última luz de la primera tierra, el que espera sabe que hay distancias que solo se cruzan envejeciendo: el viaje, en el espacio, es la medida del deseo de llegar. Y en la Tierra, mientras tanto, el valle no dejó de esperar. La estrella brilló tantas noches que el mundo se acostumbró a la luz, y la guarda siguió su modo de siempre: pasando de mano en mano, como se pasa un fuego. La vieja Odra, la que había abierto la cueva con una melodía, terminó sus días silbando, en paz, y su nieta — que había heredado su nombre, su silbo y el sitio delante de la mano — ocupó su lugar, y se hizo vieja esperando, y esperó tanto que ya no tuvo prisa en saludar: porque la espera, también, se hereda, como se hereda la mano, como se hereda el fuego.
+El viaje, en el tramo que faltaba, no se midió en días ni en meses. La señal quedó encendida, y mientras la nave cruzaba la distancia que separaba la última luz de la primera tierra, el que espera sabe que hay distancias que solo se cruzan envejeciendo: el viaje, en el espacio, es la medida del deseo de llegar. Y en la Tierra, mientras tanto, el valle no dejó de esperar. La estrella brilló durante años, tantos que el mundo se acostumbró a la luz, y la guarda siguió su modo de siempre: pasando de mano en mano, como se pasa un fuego. La vieja Odra, la que había abierto la cueva con una melodía, había terminado sus días silbando, en paz, años atrás, y su nieta — que había heredado su nombre, su silbo y el sitio delante de la mano — ocupaba su lugar desde entonces, ya con nieta propia, con la lentitud de las que han esperado toda una vida: porque la espera, también, se hereda, como se hereda la mano, como se hereda el fuego.
 
 Cuando la luz se hizo grande, cuando dejó de ser un punto y se hizo una mancha, cuando la mancha se hizo un mundo, cuando el mundo se hizo la Tierra, Tolina comprendió que la historia que había oído toda su vida se volvía, por fin, para ella, una historia que se iba a vivir.
 
@@ -64,7 +64,7 @@ Tolina se puso de pie, en la explanada, con la nave detrás, con su gente bajand
 
 No era el valle que Vex le había contado.
 
-No era, porque el valle no había dejado de vivir mientras ella viajaba. El río seguía, sí, pero el río es de los que siguen sin pedir permiso. Las casas no eran las de antes: eran más, y otras. Los niños no eran los de antes: eran otros, y más. La luz no era la de antes: era la de la estrella nueva que brillaba encima, la señal encendida, que había cambiado el cielo para siempre.
+No era, porque el valle no había dejado de vivir mientras ella viajaba. El río seguía, sí, pero el río es de los que siguen sin pedir permiso. Las casas no eran las de antes: eran más, y otras. Los niños eran otros, y más. Y la luz era la de la estrella nueva que brillaba encima, la señal encendida, que había cambiado el cielo para siempre.
 
 —¿Qué buscas? —preguntó una niña, acercándose, con la valentía de los que no saben qué es esperar.
 
@@ -100,7 +100,7 @@ Tolina miró a la niña, a la que se llamaba Odra como la que llevaba la custodi
 
 Odra, la guarda, la que silbaba, estaba sentada en la explanada, junto a la mano baja, con las piernas cortas colgando sobre la tierra, como tantas tardes. Llevaba el nombre de la vieja Odra de las historias — la que silbaba sin saber por qué, la que había abierto la cueva con una melodía, la que había muerto con el epitafio *Los que no se van* —, pero era su nieta: la heredera de la guarda sin nombre, la que había mantenido el silbo y las preguntas como se mantiene un fuego, la que guardaba la mano desde antes de que naciera la madre de la niña. Estaba delante de la mano, como estaban siempre las que la custodiaban, y no se levantó cuando Tolina llegó. La miró llegar. Y le sonrió, con la sonrisa de los que han esperado tanto que ya no tienen prisa en saludar.
 
-—Has tardado —dijo Odra, con el temple de los muy viejos, de las que ya están de vuelta de todo—. Pero has llegado. Y llegar, cuando se tarda tanto, es lo que importa.
+—Has tardado —dijo Odra, y tardó en contestar, y cuando contestó fue con las manos quietas sobre las rodillas, como las que ya no tienen nada que apretar—. Pero has llegado. Y llegar, cuando se tarda tanto, es lo que importa.
 
 —Me he perdido —dijo Tolina, y se miró las manos abiertas, sin reconocerlas—. No, no me he perdido. He hecho el viaje entero sin perderme. Pero al llegar no sé si estoy en el sitio.
 

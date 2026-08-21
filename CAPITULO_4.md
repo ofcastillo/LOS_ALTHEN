@@ -100,7 +100,7 @@ Lyra miró a Odra, y en los ojos de Odra vio el miedo que la aldea entera llevab
 
 Odra no respondió. Miró a los niños, a sus nietos, a los hijos de sus nietos, que la miraban a ella con la misma fe con que la aldea miraba a Lyra.
 
-—Los niños —dijo, al fin, con la quebrada certeza de quien se decide—. Los niños la tendrán.
+—Los niños —dijo, al fin, con la certeza de quien se decide—. Los niños la tendrán.
 
 —Entonces —dijo Lyra—, la canción nunca se irá. Solo cambiará de voz. Eso es lo que hace la semilla, Odra: la semilla no se queda con la mano que la siembra. Y la mano que la siembra no está triste por eso. La mano está triste solo si creyó que la semilla le pertenecía.
 

@@ -148,7 +148,7 @@ Los cuatro se quedaron mirando a la niña, en el silencio del piso franco, con l
 
 —¿Qué melodía? —dijo Amara, apenas audible—. ¿Quién te la cantó, cariño? ¿Cuándo?
 
-Mara se detuvo un momento, con la cabeza ladeada, como cuando oía la melodía escondida en las grabaciones de su madre.
+Mara se quedó un momento en silencio, con las manos quietas sobre la mesa, como quien espera a que la canción que lleva dentro le dé la primera nota.
 
 —Siempre —dijo—. Me la cantáis siempre. La cantáis sin saber que la cantáis. Mamá la canta cuando me peina. Ivo la canta cuando mira la ventana. Valeria la canta cuando aprieta la mano. Y Marcos la canta cuando está callado. Todos la cantáis. Todos la hemos cantado desde que nos encontramos. Y la melodía me ha contado que el hombre del diamante no puede llevarme lo que llevo dentro, porque lo que llevo dentro se deja, y no se lleva. Y que cuando me deje, se quedará donde tiene que estar.
 

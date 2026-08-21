@@ -138,6 +138,13 @@
 - **Ascenso formal:** en el cierre del Libro 1, tras quedarse en el pueblo, el círculo lo incorpora como quinto miembro (el texto hace explícita la regla no escrita: *el que llega con la pregunta hecha ya es del círculo*). Desde L2 en adelante es miembro fijo — "eran cinco: Amara, Valeria, Marcos, Ivo, Elías" (C21-29).
 - Es el puente que convierte al enemigo en testigo; su función en el grupo es la del que ha visto las dos orillas — la desconfianza sanada, el testigo del cruce.
 
+### SIRA — La que se negó a heredar (la heredera sin acta)
+- Jardinera del paso, la más joven de las jardineras del valle (Libro III; aparece en C42, C45, C46, C47, C51, C52, C53).
+- La comisión internacional la nombra heredera oficial del legado (C42); ella se niega, y sigue negándose durante todo el Libro III (C45-C47): "la heredad que se defiende negándose a ser custodiada".
+- Recibe la brasa de manos de **Mara** en C52: negarse a heredar, cuando la herencia es esta, es la forma más honda de heredar. Es la única heredera real del Libro III.
+- En C53 encabeza al círculo en la orilla y formula la única objeción de la última noche: que el mundo no diga que los que llegaron de lejos se fueron sin que nadie los quisiera guardar.
+- **Eco temático:** la heredad no se guarda, se pasa; el que se niega a quedársela es el único que puede pasarla entera.
+
 ### ARDAL (VERTEX) — El antagonista que se convierte
 - La corporación/el hombre del pin, el que amasa poder y conocimiento "para controlarlo".
 - Acapara la piedra, la mano y los datos, pero descubre que el tesoro era la pregunta (tiene "todo y nada").
@@ -201,6 +208,7 @@
 | **Elias → el círculo** | El desertor cruza del lado del enemigo y confirma que el centro es una manera, no un tesoro. |
 | **Ardal/Vertex → la mano** | El antagonista que quería poseer termina arrodillado frente a la mano; su conversión lo vuelve bibliotecario. |
 | **Teresa → la señal/Vaelen** | La primera voz humana que contesta al faro; su oído hereda el viento. |
+| **Sira → la comisión / la heredad** | La nombrada que se niega; su negativa vuelve acta en tierra. La heredad le responde pasándole la brasa (C52): el que se niega a quedársela es el único que puede pasarla entera. |
 
 ### Los mitos que dejan (eco de cada uno en nuestra memoria)
 - **Aldor** → el maestro, el dios padre. **Veda** → las "Vedas", las bibliotecas. **Lyra** → la musa, el canto y el trueno (*Los Maestros del Trueno*). **Vex** → el tramposo sagrado, Loki, el que miente para decir verdad.
@@ -212,6 +220,6 @@
 
 1. **Libro 1 (La Semilla):** los cuatro Ysann siembran; los cuatro humanos descubren; Alther entrega el testigo; Odra siembra la melodía; Mara funda el nombre; Ardal se convierte.
 2. **Libro 2 (La División):** el grupo se parte y se reencuentra — Sera parte, Sorne duda y parte, Vex sana con su padre, Tolina cruza, Adra vuelve, Odra recibe, Mara hereda la guarda; los dos hogares se comparten.
-3. **Libro 3 (La Herencia):** la herencia se reparte entre herederos anónimos (nombres, manos, memoria, duda, llegada, tiempo, lugar, silencio, semilla y herida, alba, tierra, fuego, agua, viento, hoguera, pan, nombre propio, pregunta final) hasta que no hay nada que heredar: solo vivirla. Los últimos Ysann se hacen a un lado y la heredad se vuelve vida.
+3. **Libro 3 (La Herencia):** la herencia se reparte entre herederos anónimos (nombres, manos, memoria, duda, llegada, tiempo, lugar, silencio, semilla y herida, alba, tierra, fuego, agua, viento, hoguera, pan, nombre propio, pregunta final) hasta que no hay nada que heredar: solo vivirla. La comisión intenta custodiar la herencia y nombra a **Sira** heredera oficial; su negativa es el eje del volumen (C42-C52). Los últimos Ysann se hacen a un lado y la heredad se vuelve vida.
 
 > **Pregunta final de la saga (a todos los personajes, y al lector):** *Somos lo que decidimos ser. Hoy, ¿qué vas a ser?*

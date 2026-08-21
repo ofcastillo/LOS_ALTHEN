@@ -154,7 +154,7 @@ Aldor, que estaba detrás, a unos pasos, no respondió de inmediato. Se quedó m
 
 —Como si hubiera estado toda la vida esperando —dijo Vex—. Sin saber que lo que esperaba no era que algo bajara. Sino que algo, dentro de mí, dejara de esperar.
 
-—Eso —dijo Aldor, con la voz quebrada de los que ven algo que llevaban esperando ver—. Eso es la elección, hijo. No es decidir. Es dejar de esperar. Es bajar la mano. Es entender que el sitio de donde vienes no está atrás: está dentro. Y que el que es la mano tendida, no necesita mirar al cielo ni a la tierra: necesita estar ahí, abierto, esperando que el que viene la tome.
+—Eso —dijo Aldor, con la voz quebrada de los que ven algo que llevaban esperando ver—. Eso, hijo. Eso.
 
 Vex miró el río, la explanada, el valle.
 

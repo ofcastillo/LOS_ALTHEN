@@ -62,7 +62,7 @@ No la rechazaban. No la negaban. Simplemente no la necesitaban. Los herederos, q
 
 —No es que no la quieran —dijo la vieja—. Es que ya la tienen de otra manera. La memoria que usted trae es una memoria que se acuerda. Ellos tienen una memoria que no se acuerda: una memoria que se vive. Usted recuerda Vaelen con la cabeza. Ellos son de aquí con el cuerpo. Y lo que se es con el cuerpo, hija, no necesita que le cuenten de dónde viene: necesita que lo dejen ser de donde es.
 
-—¿Entonces no traje nada? —dijo Adra, quebrada—. ¿Hice el viaje para nada? ¿Llegué para nada?
+—¿Entonces no traje nada? —dijo Adra, y las manos le cayeron a los costados—. ¿Hice el viaje para nada? ¿Llegué para nada?
 
 —No llegó para nada —dijo la vieja, y bajó la mirada al río, como las que no necesitan subir la voz—. Llegó para ver. Y lo que ha visto, hija, es la cosa más importante que se puede ver en la División: que no hace falta que los herederos se acuerden para que la herencia siga viva. La herencia está viva sin el recuerdo. Está viva en la manera. Y no necesita que nadie sepa de dónde viene: solo necesita que alguien la haga. Y la hacen, hija. La hacen cada noche, con las preguntas. La hacen cada mañana, con el silbo. La hacen sin saber que la hacen, y por eso la hacen para siempre.
 
@@ -90,6 +90,22 @@ La vieja la miró. La semilla brillaba en la mano de Adra, pequeña, quieta, esp
 
 La vieja tomó la semilla. La tuvo un momento en la palma, con la desconfianza de las viejas que no aceptan regalos que no entienden.
 
+Y entonces hizo lo que hacía con lo que no entendía: la devolvió.
+
+—No la quiero —dijo—. No la quiero para mí. Usted dice que es para los herederos, para un día que no sabe cuál será. Pero un regalo que no se puede entender, en el valle, se guarda como se guarda lo que da miedo: y lo que da miedo no se guarda, se devuelve. ¿Cómo sé que esto no es un lazo de los que partieron? ¿Cómo sé que no es una manera de tenernos atados a su memoria, para que cuando vuelvan nos encuentren esperando?
+
+Adra no respondió. No defendió la semilla. Se quedó callada, con la mano vacía, mirándola en la palma de la vieja, sin pedirla.
+
+—No se la pido —dijo, al fin—. Si no la quiere, no la quiere. Los que partimos no tenemos derecho a dejarles nada que ustedes no quieran recibir. Me la llevaré de vuelta. Y si el día llega y no hay semilla en la Tierra, pues no la habrá: será que la Tierra no la quiso, y eso también será una respuesta.
+
+Y se dio la vuelta, despacio, para irse.
+
+Y entonces, desde la puerta, sonó un silbo. Un silbo de niño, de los que cruzaban el valle al anochecer, el de siempre, el que se pasaba de boca en boca desde antes de que hubiera historia. Y la vieja, que llevaba toda la vida oyéndolo sin oírlo, lo oyó de pronto como se oye la llave de una casa que creías perdida.
+
+—Espere —dijo.
+
+Y la semilla quedó en su palma, y la guardó, con la desconfianza de las que guardan lo que no entienden.
+
 —¿Y si me equivoco al elegir al heredero? —preguntó.
 
 —No se equivoca —dijo Adra—. Los herederos se eligen con la manera, y no con la cabeza. Y la que ustedes tienen, se reconoce cuando se ve: la tiene el que hace las cosas de memoria, el que pasa la costumbre de memoria, el que se queda. El que se queda, es el heredero. Y ustedes, valle, son los que se quedaron. Ustedes son los herederos. Todos.
@@ -116,7 +132,7 @@ Llegó, mucho después, en el valle, cuando la señal se encendió, cuando las m
 
 Ese día, la semilla de Vaelen se plantó en la Tierra.
 
-La plantó Odra, la nieta de la vieja Odra, la niña que había preguntado por qué se silbaba la canción, la que había mantenido el silbo y las preguntas, la que era la heredera de la guarda sin nombre.
+La plantó Odra, la nieta de la vieja Odra, la que había heredado el silbo sin preguntarse por qué, como se hereda un fuego, la que había mantenido el silbo y las preguntas, la que era la heredera de la guarda sin nombre.
 
 La plantó al borde del valle, junto al río, donde la tierra era buena y el agua cantaba sin permiso.
 

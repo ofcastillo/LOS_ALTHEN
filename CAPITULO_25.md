@@ -56,7 +56,7 @@ Decidieron que el acto sería en el valle.
 
 Sería simple. No habría escenario. No habría discursos. No habría cámaras que lo hicieran oficial. Habría, simplemente, la mano de piedra, baja, tendida, esperando, y la gente que quisiera venir a tenderle su mano. Se anunciaría con una sola foto: la mano de piedra, baja, con el valle al fondo, y una fecha. Nada más. Que la gente entendiera, o no, que la respuesta no se enviaba: se hacía.
 
-Tardaron una semana en prepararlo. La semana más rara de la vida de los cinco, y no fue una exageración: fue la semana en que el mundo entero, que llevaba meses hablando de la señal, dejó de hablar y empezó a prepararse para el viaje. Se coordinó sin voz, como se coordinan las cosas que se hacen con fe: la gente se enteró, y enterarse, en ese momento, era lo mismo que decidir.
+Tardaron una semana en prepararlo. La semana más rara de la vida de los cinco — la semana en que el mundo entero, que llevaba meses hablando de la señal, dejó de hablar y empezó a prepararse para el viaje. Se coordinó sin voz, como se coordinan las cosas que se hacen con fe: la gente se enteró, y enterarse, en ese momento, era lo mismo que decidir.
 
 Llegaron un martes.
 

@@ -1,4 +1,4 @@
-﻿# LOS ALTHEN
+# LOS ALTHEN
 ## Libro 3 — LA HERENCIA
 ### Capítulo 4 — La herencia de la duda
 
@@ -59,6 +59,14 @@ Ivo, al final, cuando el jardín se iba quedando callado, se quedó un momento c
 —¿Murieron de certeza?
 
 —Se vaciaron de pregunta —dijo Mara—. Que es una manera de morir. Y nos sembraron la pregunta para que no muriéramos de lo mismo. Por eso no te vamos a dar pruebas, Ivo, ni a ti ni a nadie: te vamos a dar pregunta. Y pregunta, y pregunta. Y la última va a ser la que nos vamos a hacer cuando ya no quede nada que preguntar. Y esa — dijo Mara, con la autoridad de la heredera — será la que no se contesta.
+
+—¿Y si se equivocaron? —preguntó Ivo, en voz baja, y fue la pregunta que llevaba meses sin atreverse a hacer—. ¿Y si los que vinieron sembraron algo que no debían? ¿Y si la pregunta que nos dejaron era una semilla mala, y nos la plantaron sin saber lo que hacían? Nadie lo ha dicho nunca. Nadie ha dudado de ellos.
+
+Mara tardó en contestar. Y cuando contestó, su voz era la de alguien que se había hecho esa misma pregunta alguna noche, en voz baja, sin decírsela a nadie.
+
+—No lo sé —dijo—. No lo sé, Ivo. Y como no lo sé, no te lo voy a negar. Esa es la única pregunta que nadie se ha atrevido a hacer, y por eso es la única que vale la pena. Duda de ellos también. Es lo que habrían querido: los que siembran no piden que los crean, piden que los pregunten. Y si un día resulta que se equivocaron, la pregunta que nos dejaron servirá igual — porque sirve para dudar de todo, hasta de los que la sembraron.
+
+Ivo la miró, y comprendió que la herencia entera cabía en eso: en que la pregunta que se hacía esa noche era la misma que ellos se habrían hecho — y se la hacía un hombre, no un dios.
 
 Ivo se quedó con eso dentro, con la noche, con el jardín, con la duda nueva. Y en el silencio del valle, con el círculo dormido alrededor, con la flor de los dos colores cerrada sobre la noche, él entendió por fin la herencia entera: que no era para dar respuestas que habían venido. Vinieron a sembrar preguntas. Que la herencia no era una cosa que se toma. Era una duda que se lleva. Y que llevarla era la manera de estar vivo.
 

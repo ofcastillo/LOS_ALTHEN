@@ -50,7 +50,7 @@ Lo había guardado todo para que viviera. Y al guardarlo todo, lo había matado.
 
 Se levantó despacio. Fue a la puerta. Se quedó un momento con la mano en el marco, mirando los estantes, mirando su vida entera ordenada en ellos, y no supo — nunca había sabido — cómo se llamaba lo que sentía.
 
-—No los he guardado —dijo, en voz baja, con la emoción quebrada, a los estantes, a los archivos, a su vida entera—. Los he enterrado. Los he guardado a cómo se guarda lo muerto. Y estaban vivos, y yo los he matado para que no se perdieran.
+—No los he guardado —dijo, en voz baja, y recorrió los estantes con la mano, sin tocarlos, a los archivos, a su vida entera—. Los he enterrado. Los he guardado a cómo se guarda lo muerto. Y estaban vivos, y yo los he matado para que no se perdieran.
 
 Se quedó mirándolo mucho tiempo. Los estantes no respondieron. Los estantes no respiran.
 
@@ -87,6 +87,18 @@ Lyra la miró. Y en sus ojos, Veda vio lo que no se puede medir: la comprensión
 —¿Y si me equivoco? —preguntó Veda, y la mano quedó a media altura sobre la página, quieta—, la pregunta de siempre, la del método, la de su vida entera.
 
 —Entonces —dijo Lyra—, te equivocarás. Y te equivocarás sabiendo que elegiste, que soltaste, que viviste una vez sin archivar. Y eso, Veda, aunque la quieras medir, no entra en la medida: entra en el recuerdo. Y yo lo recordaré. Y eso será un registro. El único que vale.
+
+Y esa misma primavera, llegó la exigencia. Los que partían — los que se iban con la decisión de la División — mandaron a pedir los registros. Mandaron decir, con un mensajero, que la memoria de Vaelen, la que Veda había guardado toda su vida, les pertenecía: que debía volver con los que volvían, que guardarla en la Tierra era retenerla.
+
+Veda recibió el mensaje en la puerta de la casa de los archivos, con los estantes llenos detrás, con la mañana encima.
+
+—¿Y qué has respondido? —preguntó Lyra.
+
+—Que no —dijo Veda, y la palabra le costó más que ninguna otra de su vida—. Que no se llevan nada. Que lo que guardé lo vivieron aquí, y lo que se vivió aquí, aquí se queda. Y que si quieren memoria de Vaelen, que se lleven la que llevan dentro.
+
+Lyra la miró, y vio en ella, por primera vez, a la que ya no era la guardiana: a la que había elegido, y que por elegir estaba dispuesta a quedarse sola con lo que había elegido.
+
+—Les he dicho que no —repitió Veda, con el temblor de quien dice una cosa que no ha dicho nunca—. Por primera vez en mi vida he dicho que no a entregar lo que guardo. Y duele. Pero duele como duele lo que se elige, no como duele lo que se pierde.
 
 ---
 
@@ -134,7 +146,7 @@ Aldor miró a Veda, a la que había pasado la vida queriendo medir el mundo, a l
 
 Se resuelve aprendiendo a llevar los dos.
 
-Y que la pregunta de los dos hogares, la que todos los Ysann se hacían, la que los Terranos y los Vaeleni llevaban dentro, no tenía respuesta en ningún lado.
+Y que la pregunta de los dos hogares, la que todos los Ysann se hacían, la que los Terranos y los Vaeleni — los que se quedaron y los que partieron — llevaban dentro, no tenía respuesta en ningún lado.
 
 Porque no era una pregunta.
 

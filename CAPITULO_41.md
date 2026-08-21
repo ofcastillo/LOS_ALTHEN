@@ -20,7 +20,7 @@ Dejó de cantar un momento. Solo un momento. Y escuchó.
 
 Y en el borde de la lengua, en el sonido que hacía el pueblo junto, oyó lo que oyen los que escuchan: oyó que ahí dentro había alguien.
 
-Volvió al pueblo con la canción entera dentro, y esa noche no durmió. La canción le sonaba por dentro, vuelta y vuelta, y cada vez que daba la vuelta le parecía que un sonido se le aclaraba, como una piedra que se limpia en el agua. Ya no eran sílabas. Casi eran nombres — nombres gastados, redondeados, casi irreconocibles, pero nombres. Y ella, que no sabía por qué, que era solo una niña que escuchaba, que quizá lo único que tenía era el oído que le venía de otra que había tenido el oído, supo que la canción estaba diciendo los nombres de los Mayores, los que habían venido de lejos, los que habían sembrado la lluvia, o lo que sembraban, lo que sembraban.
+Volvió al pueblo con la canción entera dentro, y esa noche no durmió. La canción le sonaba por dentro, vuelta y vuelta, y cada vez que daba la vuelta le parecía que un sonido se le aclaraba, como una piedra que se limpia en el agua. Ya no eran sílabas. Casi eran nombres — nombres gastados, redondeados, casi irreconocibles, pero nombres. Y ella, que no sabía por qué, que era solo una niña que escuchaba, que quizá lo único que tenía era el oído que le venía de otra que había tenido el oído, supo que la canción estaba diciendo los nombres de los Mayores, los que habían venido de lejos, los que habían sembrado la lluvia, o lo que sembraban.
 
 Por la mañana se lo dijo a la que guardaba el pan, su abuela, que era la que más sabía de las cosas viejas del pueblo, aunque tampoco supiera el porqué.
 

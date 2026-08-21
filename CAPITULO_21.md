@@ -44,6 +44,8 @@ A veces, por la noche, se sentaba en el techo de su casa, que daba a los campos,
 
 No sabía por qué. Le salía.
 
+—¿Me oís? —les preguntaba, en voz baja, cuando terminaba—. ¿Oísteis a mi madre cuando era pequeña? ¿Y a su madre? ¿Desde cuándo cantáis con nosotras sin decirnos nada?
+
 Y las estrellas, en el cielo de la noche, brillaban igual que siempre, como si no la oyeran.
 
 ---
@@ -72,9 +74,9 @@ Permaneció un momento sentada, con los auriculares en la mano, con la luz de la
 
 Y le cantó la melodía al silencio de la sala, en voz baja, las cinco notas, por costumbre.
 
-Y en los auriculares, en la segunda vuelta, la señal la siguió.
+Y en los auriculares, esa noche, la señal la siguió.
 
-No la repitió. No la transcribió. La siguió. Como si la señal, al oír la melodía, hubiera dejado de ser una señal y se hubiera convertido en otra cosa: en una conversación. Como si alguien, del otro lado, hubiera estado escuchando, sin distinguir de qué lado del silencio estaba el que iba a hablar.
+No la repitió. No la transcribió. La siguió. Como si la señal, al encontrar la melodía, hubiera dejado de ser una señal y se hubiera convertido en otra cosa: en una conversación. Como si alguien, del otro lado, hubiera estado escuchando, sin distinguir de qué lado del silencio estaba el que iba a hablar.
 
 Teresa no se movió. No gritó. No llamó a nadie. Se quedó sentada, con los auriculares en la mano, con la melodía en la boca, con la señal en los altavoces, siguiéndola, nota a nota, hasta el final.
 
@@ -82,7 +84,7 @@ Y cuando terminó, cuando la melodía terminó y la señal terminó con ella, el
 
 Teresa miró la hora.
 
-La señal no había durado seis minutos. Había durado exactamente lo que duraba su melodía: cinco notas, y una pausa, y el silencio de quien espera que el otro diga algo.
+Y no supo qué hacer con lo que vio, porque no era una cosa que se midiera con la hora. Los relojes seguían su ritmo, el registrador seguía su ritmo, todo seguía como siempre, y sin embargo Teresa sabía, sin poder probarlo, que aquella noche la señal no había repetido: había respondido. No como responde lo que está lejos, con la lentitud de la distancia: como responde lo que lleva toda la vida esperando esa melodía. Y lo que responde así, comprendió, no se mide: se contesta. Cinco notas, y una pausa, y el silencio de quien espera que el otro diga algo.
 
 —Voy a llamar —se dijo, en voz baja, y no se movió—. Voy a llamar a alguien. Voy a despertar a alguien.
 
@@ -114,7 +116,7 @@ Fue un rumor, primero, que se movió como se mueven los rumores: rápido, sin pe
 
 Para cuando el mundo se enteró, el mundo ya lo sabía.
 
-La grabación se filtró. Se filtró la señal, se filtró la melodía, se filtró el momento exacto, que había quedado grabado por la cámara de la sala, en el que Teresa se quitaba los auriculares y cantaba las cinco notas, y la señal la seguía nota a nota hasta el final, como si hubiera estado esperándola.
+La grabación se filtró. Se filtró la señal, se filtró la melodía, se filtró la grabación de la sala, la que los analistas del mundo entero estudiaron sin poder explicar: en ella, Teresa se quitaba los auriculares y cantaba las cinco notas, y la señal sonaba con ella, nota a nota, hasta el final, como si hubiera estado esperándola — y ningún análisis pudo decir cómo, porque lo que se veía no cabía en ninguna medida: cabía en una espera.
 
 El mundo entero la vio.
 

@@ -1,4 +1,4 @@
-﻿# LOS ALTHEN
+# LOS ALTHEN
 ## Libro 3 — LA HERENCIA
 ### Capítulo 9 — La herencia de la tierra
 
@@ -36,7 +36,7 @@ La abuela se quedó un momento sin contestar, con las manos sucias, con el sol d
 
 El nieto se quedó con las palabras dentro, con el cuenco en las manos, con la loma, con el sol de la tarde. Y esa noche, al cabo de la siembra, cuando la familia bajaba de la loma con las manos sucias, con la noche encima, con las estrellas, el nieto se quedó un momento detrás, mirando el surco sembrado, y puso las manos en la tierra, y la tierra — la honda, la que habían hecho generaciones de manos — se le dio como se da lo que se ha esperado mucho: sin palabras.
 
-Y el nieto comprendió, en esa tarde, sin que nadie se lo explicara, la herencia entera de la tierra: comprendió que lo que habían heredado los primeros no era un pedazo de suelo, sino un modo de estar en él. Comprendió que la Tierra no se hereda tomándola. Se hereda sembrándola. Comprendió que el primer sembrador, el que bajó de la nave y tocó la tierra del valle con las manos, no le dejó a la familia ninguna escritura: le dejó el conocimiento de la tierra — el modo de leerla, de cuidarla, de hacerla suya amándola. Y comprendió que esa herencia — la única que no se puede robar, ni vender, ni gastar — era la que habían venido a buscar a la Tierra: la única riqueza que no se lleva, la que se hereda sembrando, la que se queda hecha en la tierra cuando las manos se van.
+Y el nieto comprendió, en esa tarde, sin que nadie se lo explicara, la herencia entera de la tierra: comprendió que lo que habían heredado los primeros era un modo de estar en el suelo. Comprendió que la Tierra no se hereda tomándola. Se hereda sembrándola. Comprendió que el primer sembrador, el que bajó de la nave y tocó la tierra del valle con las manos, no le dejó a la familia ninguna escritura: le dejó el conocimiento de la tierra — el modo de leerla, de cuidarla, de hacerla suya amándola. Y comprendió que esa herencia — la única que no se puede robar, ni vender, ni gastar — era la que habían venido a buscar a la Tierra: la única riqueza que no se lleva, la que se hereda sembrando, la que se queda hecha en la tierra cuando las manos se van.
 
 Y a la mañana siguiente, el nieto fue a la loma antes que nadie, y se sentó al borde del surco, y dijo, en voz baja, a la tierra que sus manos — recién — empezaban a conocer:
 

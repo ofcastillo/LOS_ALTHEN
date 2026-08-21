@@ -94,7 +94,7 @@ Mara miró a los cuatro, uno por uno, con la mirada limpia y quieta de los niño
 
 Los cuatro miraron a la niña, en el silencio del sótano, entre las cajas de grabaciones.
 
-—¿Y qué es lo que recuerda la piedra? —preguntó Ivo, con un tono raro, el del que está a punto de entender algo.
+—¿Y qué es lo que recuerda la piedra? —preguntó Ivo, y se quedó con la libreta a medio escribir, como quien está a punto de entender algo.
 
 Mara se detuvo un momento, con la cabeza ladeada, como cuando oía la melodía escondida en las grabaciones de su madre.
 
