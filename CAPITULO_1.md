@@ -82,7 +82,7 @@ Se detuvo. La nave se llenó de su voz, que era la voz de una generación entera
 
 Aldor se volvió entonces, y el tiempo entre los cuatro cambió como cambia la marea.
 
-Miró a su hijo. Al hijo que había dejado atrás en Vaelen cuando el niño aún no sabía elegir, cuando Aldor había tomado por él la decisión más grande de su vida — partir — y lo había dejado con la certeza de que el niño algún día lo entendería. Al hijo que no lo había entendido. Que lo había odiado. Que lo había seguido a través de cuarenta años de viaje y de silencio, no para reconciliarse, sino para mirarlo a los ojos y decirle: *ahora me toca a mí decidir.*
+Miró a su hijo. Al hijo que había dejado atrás en Vaelen cuando el niño aún no sabía elegir, cuando Aldor había tomado por él la decisión más grande de su vida — partir — y lo había dejado con la certeza de que el niño algún día lo entendería. Al hijo que no lo había entendido. Que lo había odiado. Que lo había seguido a través de cuarenta años de viaje y de silencio, sin buscar reconciliarse, para mirarlo a los ojos y decirle: *ahora me toca a mí decidir.*
 
 Aldor lo miró y dijo:
 

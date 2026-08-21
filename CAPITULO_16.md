@@ -48,7 +48,7 @@ Elías lo miró. Y en sus ojos, cansados de veinte años de no preguntar, los cu
 
 Los cuatro callaron.
 
-—¿A buscar a quién? —dijo Amara, quebrada, sabiendo ya la respuesta.
+—¿A buscar a quién? —dijo Amara, y se llevó la mano al pecho, sabiendo ya la respuesta.
 
 —A la niña —dijo Elías—. A la que canta dormida. Ha estado tres semanas estudiando los datos, las grabaciones, las canciones, y ha llegado a la misma conclusión a la que llegasteis vosotros: que la melodía está viva en una persona. Y que esa persona es la llave. Y que la llave, cuando la tengas, hace responder a la mano.
 
@@ -106,7 +106,7 @@ No tenía a dónde ir. Tenía un lápiz de memoria con las grabaciones de la fun
 
 —Puedes quedarte —dijo Ivo—. Pero tienes que saber lo que significa. Esto no tiene muros, Elías. Aquí no se te obedece, no se te sigue, no se te protege. Aquí se te pregunta. Y las preguntas, a veces, son más duras que las órdenes.
 
-—Lo sé —dijo Elías, con un tono extraño—. He vivido veinte años con órdenes. Quiero probar las preguntas.
+—Lo sé —dijo Elías, y bajó la mirada a sus propias manos, que llevaban veinte años obedeciendo—. He vivido veinte años con órdenes. Quiero probar las preguntas.
 
 —Entonces —dijo Ivo—, la primera pregunta es: ¿qué has traído en el lápiz de memoria?
 
@@ -174,7 +174,7 @@ Los cinco no se movieron, escuchando.
 
 —Ella ya está dentro —dijo Amara, rota—. Ella ya está dentro de la mano. Ella no necesita que la mano responda para estar. Ella ya está dentro. Vertex va a buscarla para que le diga lo que hay dentro. Y ella no le va a poder decir nada. Porque lo que hay dentro se vive, en vez de decirse.
 
-—Entonces —dijo Ivo, con un tono extraño—, Vertex va a descubrir que tiene la mano, la llave y todo el poder del mundo, y que no le sirve de nada. Porque la niña no puede darle lo que hay dentro. Lo que hay dentro no es un objeto. Es un círculo. Y un círculo no se da.
+—Entonces —dijo Ivo, y se detuvo, con la conclusión llegándole entera—, Vertex va a descubrir que tiene la mano, la llave y todo el poder del mundo, y que no le sirve de nada. Porque la niña no puede darle lo que hay dentro. Lo que hay dentro no es un objeto. Es un círculo. Y un círculo no se da.
 
 —¿Y qué es lo que hay dentro? —dijo Elías, con la novedad de los que acaban de empezar a preguntar.
 

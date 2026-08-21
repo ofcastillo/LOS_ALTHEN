@@ -42,7 +42,7 @@ La niña la miró, con los ojos grandes, con las palabras de Lyra girándole den
 
 —¿Y tú te quedas en el medio? —preguntó.
 
-—Me quedo —dijo Lyra—. Me quedo en el medio, y canto. Y el que se queda en el medio cantando, es el que sostiene a los que están eligiendo. Los que quieren irse, me oyen del lado del mar. Los que quieren quedarse, me oyen del lado del río. Y los que no saben qué quieren, me oyen de los dos lados a la vez. Y oír de los dos lados a la vez, hija, es el modo de acordar que no hay lado: hay paso.
+—Me quedo —dijo Lyra—. Me quedo en el medio, y canto. Y el que se queda en el medio cantando, es el que sostiene a los que están eligiendo. Los que quieren irse, me oyen del lado del mar. Los que quieren quedarse, me oyen del lado del río. Y los que no saben qué quieren, me oyen de los dos lados a la vez. Y oír de los dos lados a la vez, hija, es el modo de acordar que hay paso, y no lado.
 
 ---
 
@@ -52,7 +52,7 @@ No lo pidió. Nadie se lo pidió. Le salió, como le salían las canciones, sin 
 
 Vex se dio cuenta una noche. Vio a Lyra cantando para los que estaban listos para partir, y después para los que estaban listos para quedarse, y después para los que lloraban porque los amigos se separaban: unos elegían un lado y otros el otro, y comprendió, con un escalofrío, que la que no tenía patria era la única que podía sostener a todos los que tenían dos.
 
-—Todos elegimos un lado —le dijo Vex, esa noche, quebrada la entereza—. Todos, tarde o temprano, elegimos. Y tú no eliges ninguno. Y por eso puedes sostenernos a todos. No tienes ningún lado, Lyra. Eres el centro.
+—Todos elegimos un lado —le dijo Vex, esa noche, con los hombros por fin bajos—. Todos, tarde o temprano, elegimos. Y tú no eliges ninguno. Y por eso puedes sostenernos a todos. No tienes ningún lado, Lyra. Eres el centro.
 
 —El centro no elige —dijo Lyra—. Eso es lo que hace el centro: no elegir. Sostener. Y sostener, Vex, es más difícil que elegir. Elegir es cerrar una puerta. Sostener es tener las dos abiertas a la vez, sin que se cierre ninguna, y sin que el viento te lleve.
 
@@ -90,7 +90,7 @@ Aldor permaneció mucho tiempo en silencio, con las manos en el agua, como siemp
 
 Lyra miró el río durante mucho tiempo. Las palabras de Aldor le entraban despacio, como entra el agua en la tierra seca, sin hacer ruido.
 
-—¿Y cómo se sabe que el sitio está en uno? —preguntó, con la quebrada calma de quien ha buscado toda la vida un sitio para finalmente poder llamar casa.
+—¿Y cómo se sabe que el sitio está en uno? —preguntó, y posó la mano sobre el propio pecho, donde el sitio ya estaba—.
 
 —Se sabe —dijo Aldor— porque cuando lo sabes, dejas de buscar. Y tú has dejado de buscar, Lyra, antes de saberlo. Llevas años sin buscar ningún sitio: cantando, sosteniendo, estando en el medio de todos. Dejaste de buscar hace tanto tiempo que ni siquiera te acordabas de que buscabas. Y eso, hija, es lo único que hay que saber: que el que deja de buscar, ya ha encontrado. Que el sitio no estaba en ningún mapa: estaba en ti, y era el sitio desde el que sostenías a los demás sin pedir nada a cambio.
 

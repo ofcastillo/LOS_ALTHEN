@@ -16,7 +16,7 @@ Otro tituló: *«¿Invasión o regreso? La pregunta que divide al mundo.»*
 
 Otro tituló, con la falsa calma de los que no se atreven a preguntar: *«La ciencia no puede explicar la flor del encuentro.»*
 
-Y todos mintieron un poco, no porque quisieran mentir, sino porque no tenían manera de decir la verdad. La verdad no cabía en un titular. La verdad era que una flor de dos colores había crecido junto a un río porque una civilización había sembrado en la Tierra lo que aprendió de la Tierra, y que eso ya no se podía deshacer, y que el mundo entero estaba empezando a vivir una cosa que no tenía nombre en ningún idioma. Y esa verdad, que era una verdad de las que se viven, no se podía meter en un titular. Los titulares son para las noticias. Y aquello no era una noticia: era una manera.
+Y todos mintieron un poco, porque no tenían manera de decir la verdad: mintieron, más que quisieran, por la falta de manera. La verdad no cabía en un titular. La verdad era que una flor de dos colores había crecido junto a un río porque una civilización había sembrado en la Tierra lo que aprendió de la Tierra, y que eso ya no se podía deshacer, y que el mundo entero estaba empezando a vivir una cosa que no tenía nombre en ningún idioma. Y esa verdad, que era una verdad de las que se viven, no se podía meter en un titular. Los titulares son para las noticias. Y aquello no era una noticia: era una manera.
 
 Valeria lo sabía. Valeria, que había escrito el libro *La mano vacía*, que había contado la historia de la cueva, de la mano, de la niña, del círculo, de la pregunta, sabía desde el principio que la prensa no iba a dar la talla. No porque los periodistas fueran malos: porque eran periodistas. Y un periodista trabaja con lo que se puede decir, con lo que se puede verificar, con lo que cabe en un titular y en una entradilla y en un cierre. Y la verdad de los Althen — la verdad de que la manera no se puede escribir, de que el paso no se puede fotografiar, de que la flor de dos colores era solo la punta de algo que no se veía y que sin embargo era todo — esa verdad no cabía en el oficio.
 
@@ -24,7 +24,7 @@ Valeria lo sabía. Valeria, que había escrito el libro *La mano vacía*, que ha
 
 —Porque no hay artículo definitivo —dijo Valeria—. Lo que hay, es algo que se vive. Y lo que se vive, se sigue viviendo, más que se escribe. Yo escribí *La mano vacía* porque había que contarlo. Pero ahora, el que cuenta la historia no soy yo: es la flor. Y la flor no se lee. Se ve, y se está, y se habita.
 
-La entrevistadora, que había venido con sus treinta preguntas preparadas, se quedó sin pregunta. Y Valeria, que no había venido a dar una entrevista sino a no dar ninguna, se levantó, se despidió, y se fue al valle, a sentarse delante de la flor, como hacía cada tarde, porque la flor no preguntaba y por eso le contestaba.
+La entrevistadora, que había venido con sus treinta preguntas preparadas, se quedó sin pregunta. Y Valeria, que no había venido a dar una entrevista: había venido a no dar ninguna, se levantó, se despidió, y se fue al valle, a sentarse delante de la flor, como hacía cada tarde, porque la flor no preguntaba y por eso le contestaba.
 
 ---
 
@@ -90,9 +90,9 @@ Y el mundo siguió.
 
 Siguió con sus titulares, con sus noticias, con sus guerras y sus panes y sus domingos, pero ya no era del todo el mismo mundo: tenía un valle, y en el valle una flor, y junto a la flor una gente que se sentaba a hacer las preguntas que no tenían titulares. Y aunque la prensa nunca supo cubrir aquello, aunque no hubo ningún artículo que estuviera a la altura, el mundo entero supo, de una manera que no se puede publicar, que había pasado algo.
 
-Pasó que la pregunta de los dos hogares, la que llevaba miles de años esperando ser hecha, había salido por fin de los archivos y se había sentado en las mesas de las casas, en las sobremesas, en las preguntas de los niños: *¿quién eres? ¿de dónde vienes? ¿qué has aprendido? ¿y si te equivocas?* Y que esas preguntas, que parecían de siempre, se estaban empezando a hacer en todas partes, no porque un periódico las hubiera publicado, sino porque la gente las estaba recordando, como se recuerdan las canciones de todos.
+Pasó que la pregunta de los dos hogares, la que llevaba miles de años esperando ser hecha, había salido por fin de los archivos y se había sentado en las mesas de las casas, en las sobremesas, en las preguntas de los niños: *¿quién eres? ¿de dónde vienes? ¿qué has aprendido? ¿y si te equivocas?* Y que esas preguntas, que parecían de siempre, se estaban empezando a hacer en todas partes, no por un periódico: la gente las estaba recordando, como se recuerdan las canciones de todos.
 
-Y esa, comprendieron los del valle con el tiempo, era cómo la verdad de los dos mundos se iba a contar de verdad: no con titulares, sino con la costumbre. No con la prensa, sino con la siembra. No con la noticia, sino con la vida.
+Y esa, comprendieron los del valle con el tiempo, era cómo la verdad de los dos mundos se iba a contar de verdad: no con titulares: con la costumbre. No con la prensa: con la siembra. No con la noticia: con la vida.
 
 La prensa lo intentó. La prensa no pudo. Y la prensa, que fracasó en contar la noticia, hizo lo que hacen los que fracasan honradamente: dejó sitio. Dejó sitio para que la noticia se contara sola, sin ella, en las mesas, en los silbos, en las preguntas, en el modo.
 

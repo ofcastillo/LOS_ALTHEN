@@ -132,7 +132,7 @@ Ivo se quedó mirando el portátil, donde la melodía seguía expandiéndose, do
 
 —¿Y si la descubren? —dijo Valeria—. ¿Y si alguno de sus científicos canta la melodía y la piedra le responde?
 
-—Que la descubran —dijo Ivo, con una calma que sorprendió incluso a los otros—. Que la descubran. Porque si un científico de Vertex canta la melodía y la piedra le responde, ese científico habrá hecho la pregunta. Y el que hace la pregunta, Amara, ya no puede pertenecer a Vertex. Porque Vertex vive de respuestas. Y las preguntas, una vez hechas, se quedan dentro, y ya no hay vuelta atrás.
+—Que la descubran —dijo Ivo, y posó las dos manos sobre la mesa como quien ya no tiene prisa por recoger nada—. Que la descubran. Porque si un científico de Vertex canta la melodía y la piedra le responde, ese científico habrá hecho la pregunta. Y el que hace la pregunta, Amara, ya no puede pertenecer a Vertex. Porque Vertex vive de respuestas. Y las preguntas, una vez hechas, se quedan dentro, y ya no hay vuelta atrás.
 
 —¿Cómo puedes estar tan seguro? —dijo Marcos.
 

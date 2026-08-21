@@ -120,7 +120,7 @@ Se encontraron en la plaza, como se encuentran los que se han buscado sin buscar
 
 —Todas las semanas.
 
-Y se rieron, no porque fuera gracioso, sino porque era verdad, y porque la verdad, cuando se comparte, tiene esa cosa de reírse que no se puede explicar.
+Y se rieron, porque era verdad, y porque la verdad, cuando se comparte, tiene esa cosa de reírse que no se puede explicar.
 
 Valeria sacó del bolso una foto. No era de la mano. Era de la cueva, tomada al amanecer, con el sol entrando por la boca de la piedra como si la piedra estuviera respirando. La había tomado el día que se fueron, el último día que fueron todos juntos.
 
@@ -190,17 +190,15 @@ Así que la mano no da la pregunta.
 
 Da lo único que puede dar: el lugar. El silencio. El momento, que es el de la llegada, en que termina el camino y empieza lo que el que llega hace con lo que lleva dentro.
 
-Y el que llega se toma el tiempo que necesita. Y cuando está listo, cuando nadie lo está mirando, cuando no hay nadie más que él y lo que lleva dentro, se pregunta, en voz baja o sin voz, lo que ya se venía preguntando a oscuras. Nadie le dice cuál es.
+Y el que llega se toma el tiempo que necesita. Y cuando está listo, cuando nadie lo está mirando, cuando ya no queda más que él y lo que lleva dentro, se pregunta, en voz baja o sin voz, lo que ya se venía preguntando a oscuras. Nadie le dice cuál es.
 
-Solo hay una cosa que vale la pena decir al final de un camino de sembradores, y es esta:
+Solo hay una cosa que vale la pena decir al final de un camino de sembradores, y es esta: al que llega no se le da la respuesta. Se le da el lugar, y el lugar, con el tiempo, da la pregunta.
 
-*La pregunta no se contesta. Se vive.*
-
-Y mientras se vive, no se está solo.
+Y mientras se aguanta, no se está solo.
 
 Porque en algún valle, en algún lugar que no está en ningún mapa, hay una mano de piedra con la palma abierta. Y en la palma, en el centro exacto del espejo, ya no hay un reflejo.
 
-Hay la pregunta del que llegó. Y esa pregunta se queda, y espera, como espera la brasa debajo de la ceniza. Y un día, cuando menos se espera, se enciende sola.
+Hay la pregunta del que llegó. Y esa pregunta se queda, y espera, como espera la brasa debajo de la ceniza. Y un día, cuando menos se espera, se enciende sola — porque la pregunta, guardada, se ha ido haciendo vida, y la vida, cuando se deja estar, arde.
 
 *Fin del Libro 1 — La Semilla.*
 

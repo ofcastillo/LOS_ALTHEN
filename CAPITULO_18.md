@@ -42,7 +42,7 @@ La mano de piedra. Arrancada de su pared, transportada, colocada en el centro de
 
 Y delante de la mano, sentado en una silla, con las manos juntas sobre las rodillas, estaba Ardal.
 
-—Bienvenidos —dijo, sin levantarse, con la calma de los que han ganado sin pelear—. Llegan justo a tiempo. La mano los esperaba.
+—Bienvenidos —dijo, sin levantarse, con la palma apoyada en la mesa, como la de los que han ganado sin pelear—. Llegan justo a tiempo. La mano los esperaba.
 
 —La mano no espera a nadie —dijo Ivo, avanzando con los otros cuatro, con Amara agarrada a la mano de su hija, con Mara caminando callada, con la mirada limpia puesta en la mano—. La mano se entrega. Y usted, doctor, no está en condiciones de recibir.
 
@@ -52,13 +52,13 @@ Y delante de la mano, sentado en una silla, con las manos juntas sobre las rodil
 
 —¿Y qué cosa?
 
-—Una pregunta —dijo Ivo—. Una pregunta de verdad. Una de esas que no se hacen con la boca sino con la vida. Y usted, doctor, no ha hecho ninguna en cincuenta años. Ha hecho miles de respuestas. Ha coleccionado respuestas. Ha construido una vida entera alrededor de respuestas. Y las respuestas, doctor, no abren la mano.
+—Una pregunta —dijo Ivo—. Una pregunta de verdad. Una de esas que se hacen con la vida, no con la boca. Y usted, doctor, no ha hecho ninguna en cincuenta años. Ha hecho miles de respuestas. Ha coleccionado respuestas. Ha construido una vida entera alrededor de respuestas. Y las respuestas, doctor, no abren la mano.
 
 Ardal lo miró. Y en su cara, algo se le movió. No era miedo. No era rabia. Era algo más parecido al asombro de quien descubre que el camino que ha recorrido toda su vida era el camino equivocado.
 
 —¿Y cómo sabe que no he hecho ninguna pregunta? —dijo, bajando el tono hasta casi nada.
 
-Ivo lo miró. Y con una calma que sorprendió a los propios que lo acompañaban, dijo:
+Ivo lo miró un momento, sin responder, con los dedos sobre la mesa, quietos. Y dijo, al fin:
 
 —Porque si la hubiera hecho, no necesitaría la mano. La mano es lo que se busca cuando no se tiene la pregunta. Y usted la tiene ahí, delante, como una respuesta. Y las respuestas, doctor, no abren nada. Solo las preguntas abren.
 
@@ -148,9 +148,17 @@ Se volvió hacia sus hombres.
 
 Los hombres con auriculares no se movieron.
 
-Fue la primera vez en cincuenta años que una orden de Ardal no se cumplía. No por desobediencia: por desconcierto. Los hombres habían oído la pregunta igual que él. Y la orden, que siempre había sido un muro, se les deshizo en la mano como una hoja.
+El de delante era el que siempre daba el primer paso. Dio un paso. Y se quedó a medio paso, con la mano a media altura, como si la pregunta de la niña le hubiera llegado por debajo de la orden.
+
+—Es una niña —dijo, sin mirar a Ardal, y fue la primera vez en cincuenta años que ese hombre oyó su propia voz delante de su jefe.
+
+Los demás lo miraron. Y no se movieron. La orden, que siempre había sido un muro, se les deshizo en la mano como una hoja.
 
 —¡He dicho que tomen a la niña! —repitió Ardal, y la voz se le rompió en la segunda vuelta, en el punto exacto donde cincuenta años de autoridad no tenían más repuesto—. ¡Tómenla!
+
+Y entonces Amara se movió. Fue la única de los cuatro que se movió. Dio un paso, se puso delante de la niña arrodillada, y abrió la mano hacia los hombres — la mano que había soltado la de su hija hacía un rato, la misma que llevaba años abriéndose para recoger lo que se caía.
+
+—Pase por encima de mí —dijo, con la voz de las que ya no negocian—. Pero no la toque.
 
 —Nadie va a tomar a la niña —dijo Mara, todavía de rodillas, en voz baja—. Usted lo sabe. Ya lo sabe. La pregunta no se obedece. La pregunta se hace. Y usted acaba de hacérsela dos veces.
 

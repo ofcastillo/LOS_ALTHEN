@@ -30,7 +30,7 @@ Veda lo miró así. Veda, la que guardaba todo, la científica, la que registrab
 
 —Cuéntame —dijo—. Cuéntame Vaelen. Tú la viste. Tú naciste allí. Tú la pisaste. Los demás la contamos de oídas, y ya no sabemos si la estamos contando de verdad o si la estamos inventando. Yo registro todo, y no puedo registrar lo que no sé si es verdad. Tú sabes. Cuéntame.
 
-Vex la miró. Hacía meses que no hablaba de Vaelen. Hablarla, había descubierto, era como destapar una herida que apenas empezaba a cerrarse. Pero Veda no le pedía un cuento: le pedía un registro. Y la mirada de Veda, la de la que guardaba todo para que no se perdiera nada, era una mirada que no se podía rechazar sin dejar a alguien a medias.
+Vex la miró. Hacía meses que no hablaba de Vaelen. Hablarla, había descubierto, era como destapar una herida que apenas empezaba a cerrarse. Pero Veda no le pedía un cuento: le pedía un registro. Y la mirada de Veda, la de la que guardaba todo para que nada se perdiera, era una mirada que no se podía rechazar sin dejar a alguien a medias.
 
 —Vaelen —dijo Vex, y la palabra le salió despacio, como quien saca algo muy guardado y lo sostiene a la luz—. Vaelen es plateado. No como se dice: plateado de verdad. El mar es plata que se mueve. El cielo, de noche, es plata que parpadea. Los campos, cuando la luz cae de cierta manera, son plata que susurra. Todo el mundo es de un color que aquí no existe, que no se puede describir, que no se puede comparar con nada de este mundo. Y el silencio de Vaelen no es el silencio de aquí. Aquí el silencio está lleno de pájaros, de viento, de ríos, de insectos. El silencio de Vaelen es silencio de verdad: se oye, de tan silencioso que es. Y en ese silencio, las preguntas se oyen porque no hay nada que las tape. Por eso Vaelen se cansó de preguntar: porque las preguntas se oían demasiado, y acabaron siendo un ruido, y el ruido cansa.
 
@@ -48,7 +48,7 @@ Veda calló. Y cuando habló, su voz era la de alguien que acaba de encontrarse 
 
 —Yo guardo todo —dijo—. Guardo para no perder. Y tengo miedo de no haber guardado nunca un lugar que pueda amar de verdad. Tengo miedo de que lo único que yo guarde sean cosas, y de que las cosas no baste para tirar de mí.
 
-—A ti no te tira una cosa —dijo Vex—. A ti, como a todos nosotros, te tira lo que no puedes guardar. Y lo que no se puede guardar, Veda, es lo único que vale la pena.
+—A ti no te tira una cosa —dijo Vex—. A ti, como a todos nosotros, te tira lo que no puedes guardar. Y lo que no se puede guardar vale la pena, Veda; eso es lo único.
 
 ---
 
@@ -132,7 +132,7 @@ Sorne se fue, a la semana siguiente, con dos más. Se fueron despacio, sin nave,
 
 Y Sorne se despidió de Vex.
 
-—Tú sabes lo que yo sueño —dijo Sorne, quebrado—. Tú lo soñaste de verdad. Y pudiste haber ido con ellos. Y elegiste quedarte.
+—Tú sabes lo que yo sueño —dijo Sorne, y se llevó la mano al pecho, al lugar donde lo soñaba—. Tú lo soñaste de verdad. Y pudiste haber ido con ellos. Y elegiste quedarte.
 
 —No sé si elegí quedarme —dijo Vex—. No sé si elegí nada. Todavía no lo sé. Me quedé, y eso es todo lo que sé.
 

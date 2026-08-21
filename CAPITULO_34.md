@@ -6,7 +6,7 @@
 
 Volvieron a los años siguientes.
 
-No fue una invasión. No fue una flota. Fue, y esto los humanos del valle tardaron generaciones en comprenderlo, una costumbre: la costumbre de los que parten de volver a ver a los que se quedaron. Volvieron como habían partido, sin ruido, en naves pequeñas, de mensajero, de las que no estaban hechas para la guerra sino para el único viaje que importaba: el de alguien que tiene algo que decirle a alguien.
+No fue una invasión. No fue una flota. Fue, y esto los humanos del valle tardaron generaciones en comprenderlo, una costumbre: la costumbre de los que parten de volver a ver a los que se quedaron. Volvieron como habían partido, sin ruido, en naves pequeñas, de mensajero, de las que estaban hechas para el único viaje que importaba, no para la guerra: el de alguien que tiene algo que decirle a alguien.
 
 La primera vuelta fue una mujer que se llamaba **Adra**.
 
@@ -34,7 +34,7 @@ Adra miró el valle, el río, las casas, la luz de la mañana, los niños que co
 
 —Traigo —dijo— la memoria. Traigo el mar. Traigo la plata. Traigo el silencio. Traigo todo lo que los que partimos nos llevamos, y que los que se quedaron regalaron a cambio de quedarse. Los que se quedaron dieron el recuerdo por la manera. Los que partimos guardamos el recuerdo. Y ahora ha llegado el momento de devolverlo: de traerles el recuerdo de vuelta, para que sepan de dónde viene lo que tienen.
 
-La vieja la miró durante mucho rato. Y después, con la calma de las viejas que han visto muchas cosas, dijo:
+La vieja la miró durante mucho rato. Y después, con las manos apoyadas en las rodillas, como si sostuviera algo que solo ella podía sostener, dijo:
 
 —Si trae el recuerdo de vuelta, va a tener que ser muy cuidado. Porque los herederos ya no lo sufren. Ya son de aquí entero. Y si les trae el recuerdo de allá, va a abrirles la pregunta de los dos hogares, y la pregunta de los dos hogares, a los que ya son de aquí entero, no la puede responder nadie. Puede hacérsela daño.
 
@@ -64,7 +64,7 @@ No la rechazaban. No la negaban. Simplemente no la necesitaban. Los herederos, q
 
 —¿Entonces no traje nada? —dijo Adra, quebrada—. ¿Hice el viaje para nada? ¿Llegué para nada?
 
-—No llegó para nada —dijo la vieja, con la calma de las que saben—. Llegó para ver. Y lo que ha visto, hija, es la cosa más importante que se puede ver en la División: que no hace falta que los herederos se acuerden para que la herencia siga viva. La herencia está viva sin el recuerdo. Está viva en la manera. Y no necesita que nadie sepa de dónde viene: solo necesita que alguien la haga. Y la hacen, hija. La hacen cada noche, con las preguntas. La hacen cada mañana, con el silbo. La hacen sin saber que la hacen, y por eso la hacen para siempre.
+—No llegó para nada —dijo la vieja, y bajó la mirada al río, como las que no necesitan subir la voz—. Llegó para ver. Y lo que ha visto, hija, es la cosa más importante que se puede ver en la División: que no hace falta que los herederos se acuerden para que la herencia siga viva. La herencia está viva sin el recuerdo. Está viva en la manera. Y no necesita que nadie sepa de dónde viene: solo necesita que alguien la haga. Y la hacen, hija. La hacen cada noche, con las preguntas. La hacen cada mañana, con el silbo. La hacen sin saber que la hacen, y por eso la hacen para siempre.
 
 ---
 

@@ -10,7 +10,7 @@ Lo aprendió la mañana en que la aldea entera se despertó con el cielo negro y
 
 —¡Canta! —gritó Iska, con las manos abiertas hacia el cielo—. ¡Canta, Lyra, que el valle tiene sed!
 
-Y toda la aldea se reunió alrededor de Lyra, no con la adoración rígida de los primeros días, sino con la confianza de quien ha comprobado cien veces que un gesto funciona: expectantes, con los cuencos vacíos, con las bocas resecas.
+Y toda la aldea se reunió alrededor de Lyra, con la confianza de quien ha comprobado cien veces que un gesto funciona, y no con la adoración rígida de los primeros días: expectantes, con los cuencos vacíos, con las bocas resecas.
 
 Lyra miró el cielo negro, miró los cuencos, miró los rostros.
 
@@ -46,7 +46,7 @@ No lo sabría nunca. Y eso, comprendió, era lo más parecido a lo sagrado que h
 
 Esa noche, cuando la lluvia cesó y el valle quedó brillando, la aldea le llevó a Lyra lo mejor que tenía: fruta, pieles, un collar de dientes que había pertenecido a la madre de Iska, y un nombre nuevo. La llamaban ahora **la que trae la lluvia**, y también **la voz del trueno**, y las dos cosas le dolían de maneras distintas.
 
-—No quiero ser la voz del trueno —dijo Lyra, cuando estuvieron solos, los cuatro, a la orilla del río crecido—. Yo no controlo nada. El trueno no me escucha a mí: yo oigo el trueno, que es distinto. Yo canto porque tengo que cantar, como vosotros respiráis porque tenéis que respirar. Pero ellos me están convirtiendo en una diosa, y una diosa no puede equivocarse, y yo me equivoco. Canto desafinada cuando tengo miedo. Canto mal cuando estoy triste. Si me adoran, mi error no será un error: será un desastre del cielo. Seré responsable de la lluvia que no viene, de la sequía, de la muerte de sus cultivos. Y no podré decirles que no es culpa mía, porque hace dos estaciones que les enseño, sin querer, que sí lo es.
+—No quiero ser la voz del trueno —dijo Lyra, cuando estuvieron solos, los cuatro, a la orilla del río crecido—. Yo no controlo nada. El trueno no me escucha a mí: yo oigo el trueno, que es distinto. Yo canto porque tengo que cantar, como vosotros respiráis porque tenéis que respirar. Pero ellos me están convirtiendo en una diosa, y una diosa no puede equivocarse, y yo me equivoco. Canto desafinada cuando tengo miedo. Canto mal cuando estoy triste. Si me adoran, mi error será un desastre del cielo, y no un simple error. Seré responsable de la lluvia que no viene, de la sequía, de la muerte de sus cultivos. Y no podré decirles que no es culpa mía, porque hace dos estaciones que les enseño, sin querer, que sí lo es.
 
 —No se lo has enseñado tú —dijo Veda, con la precisión fría que usaba para proteger—. Se lo ha enseñado la coincidencia. La primera vez cantaste y tronó. La segunda cantaste y llovió. Tres coincidencias se convierten en ley para los seres que necesitan que el mundo tenga orden. Ellos no te han inventado a ti: te han inventado su propia seguridad. Necesitan que el cielo tenga una voz a la que poder pedirle, porque pedirle a un cielo mudo es insoportable.
 

@@ -138,7 +138,7 @@ Marcos calló. No había respuesta. No había respuesta porque Ardal había usad
 
 —Eso es lo que hace el mal —dijo Marcos, ronco—. No romper las reglas. Aprenderlas mejor que los demás.
 
-—No soy el mal —dijo Ardal, con una calma que helaba—. Soy el que llegó tarde. Y los que llegan tarde, señor Uriarte, tienen que trabajar el doble. Gracias por la lección. La usaré.
+—No soy el mal —dijo Ardal, en voz muy baja, con las manos quietas sobre las rodillas—. Soy el que llegó tarde. Y los que llegan tarde, señor Uriarte, tienen que trabajar el doble. Gracias por la lección. La usaré.
 
 ---
 

@@ -8,7 +8,7 @@ Ivo no creía en las historias. Creía en las pistas.
 
 Había pasado veinticinco años siendo periodista de investigación, y en esos veinticinco años había aprendido una sola cosa: las historias son lo que la gente te cuenta, pero las pistas son lo que la gente deja sin querer. Las historias mienten. Las pistas no. Las pistas son los agujeros que deja la verdad cuando alguien intenta taparla.
 
-Por eso, cuando su antiguo profesor de la facultad lo llamó un jueves por la noche, con un tono raro, y le dijo *«Ivo, hay una cueva en el oeste que no debería existir»*, Ivo no escuchó la historia. Escuchó la pista.
+Por eso, cuando su antiguo profesor de la facultad lo llamó un jueves por la noche, a una hora a la que Ramiro no llamaba nunca, y le dijo *«Ivo, hay una cueva en el oeste que no debería existir»*, Ivo no escuchó la historia. Escuchó la pista.
 
 —¿Cómo que no debería existir? —dijo Ivo, con el teléfono apoyado en el hombro, mientras abría el portátil con la otra mano.
 
@@ -36,7 +36,7 @@ Ivo se detuvo. Algo, en esa frase, le sonó a cuerda de reloj.
 
 —Gracias, Ramiro —dijo Ivo, y ya estaba de pie, con la mochila a medio preparar—. Te debo una.
 
-—No me debes nada —dijo Ramiro, con un tono raro—. Solo quiero que tengas cuidado. Hace años intenté interesarme por esa cueva y me pasó algo que nunca me he explicado. Empezaron a llamarme. A cualquier hora. No amenazas. Preguntas. Preguntas muy educadas sobre por qué me interesaba una cueva en el oeste. Y después de unas semanas, dejé de interesarme. No sé por qué lo dejé de hacer. Solo sé que lo dejé.
+—No me debes nada —dijo Ramiro, y hubo un silencio demasiado largo para una despedida—. Solo quiero que tengas cuidado. Hace años intenté interesarme por esa cueva y me pasó algo que nunca me he explicado. Empezaron a llamarme. A cualquier hora. No amenazas. Preguntas. Preguntas muy educadas sobre por qué me interesaba una cueva en el oeste. Y después de unas semanas, dejé de interesarme. No sé por qué lo dejé de hacer. Solo sé que lo dejé.
 
 —Te callaron —dijo Ivo.
 

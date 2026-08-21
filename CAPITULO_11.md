@@ -104,9 +104,9 @@ Ivo miró la piedra. La miró con los ojos del sabueso, buscando la trampa, busc
 
 —¿Y Vertex? —dijo, bajando el tono—. Vertex sabe que estuvimos en el café. Vertex nos vio. Vertex estuvo en tu valle, en mi universidad, en el laboratorio de Valeria. ¿Qué hacemos con Vertex? ¿Cómo protegemos la piedra de los que quieren usarla?
 
-Alther lo miró. Y en sus ojos, viejos como la cueva, Ivo vio algo que no esperaba: una calma que no era resignación, sino certeza.
+Alther lo miró. Y en sus ojos, viejos como la cueva, Ivo vio una calma de certeza, que no esperaba.
 
-—Vertex no sabe que sois vosotros —dijo—. Vertex sabe que algo se movió. Sabe que la cueva se abrió. Sabe que el hilo que llevaba once años tirando por fin se ha tensado. Pero no sabe quiénes sois. Y no lo va a saber, si el círculo hace lo que tiene que hacer: no esconderse, sino preguntar. Porque Vertex no puede seguir a una pregunta. Vertex puede seguir a la gente, pero no a una pregunta. La pregunta se mueve sin dejar huella. La pregunta no tiene teléfono. La pregunta no tiene dirección. La pregunta es invisible, y sin embargo mueve a la gente más que cualquier orden.
+—Vertex no sabe que sois vosotros —dijo—. Vertex sabe que algo se movió. Sabe que la cueva se abrió. Sabe que el hilo que llevaba once años tirando por fin se ha tensado. Pero no sabe quiénes sois. Y no lo va a saber, si el círculo hace lo que tiene que hacer: no esconderse — preguntar. Porque Vertex no puede seguir a una pregunta. Vertex puede seguir a la gente, pero no a una pregunta. La pregunta se mueve sin dejar huella. La pregunta no tiene teléfono. La pregunta no tiene dirección. La pregunta es invisible, y sin embargo mueve a la gente más que cualquier orden.
 
 —¿Y qué pregunta hacemos? —dijo Amara.
 

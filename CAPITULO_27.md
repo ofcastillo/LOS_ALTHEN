@@ -42,7 +42,7 @@ Mara miró el camino, el punto que venía acercándose, la figura que ya dibujab
 
 —Los que se fueron por el camino de Vaelen —dijo Mara, paciente, como quien explica algo que lleva sabiendo mucho tiempo—, no miden el tiempo como lo medimos nosotros: lo viven. Para ella, Ivo, el viaje ha durado lo que dura una vida. Para nosotros, el viaje ha durado miles de años. La distancia entre Vaelen y la Tierra se cruza viviéndola, y no de un salto, y ella la ha vivido entera, a bordo. Su gente creció, envejeció y murió a bordo. Todos. Ella los vio. Llevaba el recuerdo de Vex, y se lo fue pasando a los que iban naciendo a bordo, porque era lo único que tenían que traer.
 
-—¿Y esa mujer —preguntó Marcos, con un tono extraño—, es la misma que Vex conoció? ¿La misma que se llevó el mar?
+—¿Y esa mujer —preguntó Marcos, y dejó el cuaderno a medio escribir—, es la misma que Vex conoció? ¿La misma que se llevó el mar?
 
 —Es la misma —dijo Mara—. No ha cambiado. No ha envejecido como envejecen los que se quedan, en años de calendario y de mundo: ha envejecido como envejecen los que viajan, toda de una vez, en una sola vida a bordo. Es vieja ahora, más vieja que nosotros, aunque para ella el viaje no haya sido más largo que una vida. Y ha traído, en la vieja, el recuerdo más antiguo que existe de Vaelen. El que Vex le dio, dos veces.
 
@@ -70,7 +70,7 @@ Tolina la miró. Y en su mirada, Amara vio pasar una vida entera: una vida en un
 
 —Los que empezaron el viaje conmigo —dijo Tolina, sin temblor, porque había tenido muchos años para prepararla—, no llegaron. Los que nacieron en el viaje, llegaron algunos: mis hijos, mis nietos, los hijos de mis nietos. La nave era pequeña, y el viaje era largo, y hay vidas que no alcanzan. Es el modo de las distancias, de las que los que se quedan no saben: la medida de la espera no es la misma para el que espera y para el que viaja.
 
-—¿Y los que llegaron? —preguntó Ivo, con un tono extraño.
+—¿Y los que llegaron? —preguntó Ivo, con el lápiz quieto sobre la libreta.
 
 —Están bajando —dijo Tolina—. Están detrás de mí, en la nave, esperando. No bajan todos de golpe. Bajan los que están listos. Los que reconocen que han llegado a un sitio donde los esperaban. Los que no están listos, se quedan a bordo, esperando su señal, esperando su tiempo. Porque hay dos maneras de cruzar la distancia, y una es viajar. La otra es esperar a que la distancia te diga que puedes pasar. Yo he viajado. Ellas están viajando. Algunas, ya han llegado.
 
@@ -118,7 +118,7 @@ Tolina la miró, y en sus ojos brilló algo que llevaba mucho tiempo esperando b
 
 Los científicos no tardaron en llegar.
 
-No a la misma noche. A la misma noche no llegó nadie: el valle entero se quedó para ellos, para el encuentro, para el fuego, para la mano. Pero a la mañana siguiente, la meseta estaba llena: no de periodistas, aunque había de sobra, sino de científicos, de investigadores, de gente que llevaba años estudiando la señal, la mano, el Archivo, la melodía, y que por fin tenía delante a alguien a quien preguntar.
+No a la misma noche. A la misma noche no llegó nadie: el valle entero se quedó para ellos, para el encuentro, para el fuego, para la mano. Pero a la mañana siguiente, la meseta estaba llena: de científicos al amanecer, de investigadores, de gente que llevaba años estudiando la señal, la mano, el Archivo, la melodía, y que por fin tenía delante a alguien a quien preguntar.
 
 Preguntaron mucho. Tolina respondió lo que pudo y guardó lo que debía. Le preguntaron por la tecnología, y les dijo que no la habían traído. Le preguntaron por Vaelen, y les contó el mar, la plata, el silencio, cómo las preguntas se oían de tan claras. Le preguntaron por la División, y les dijo que eso no se explicaba con datos: se explicaba con la vida, y que la vida no se daba a los laboratorios. Y le preguntaron, al final, la pregunta que llevaban todos preparando:
 

@@ -100,7 +100,7 @@ Mara se detuvo un momento, con la cabeza ladeada, como cuando oía la melodía e
 
 —Recuerda que no estamos solos —dijo, al fin—. Recuerda que alguien vino antes y dejó esto para nosotros, para que nosotros lo dejáramos para los que vengan después. Eso es lo que recuerda la piedra. Y eso no se puede robar, porque no está en la piedra. Está en el que la mira. Y yo la he mirado. Así que la tengo. Y vosotros la habéis mirado también. Así que la tenéis también. Y Vertex la ha mirado, pero Vertex no tiene la pregunta, así que Vertex solo ha visto una piedra. Pobre Vertex.
 
-—¿Por qué «pobre Vertex»? —dijo Marcos, con la emoción quebrada.
+—¿Por qué «pobre Vertex»? —dijo Marcos, y bajó la mirada un momento, y al volver a levantar los ojos la pregunta ya era otra—.
 
 —Porque se llevó la piedra —dijo Mara, con una tristeza que le venía grande—. Y la piedra, sin la pregunta… —buscó las palabras— es una piedra. Nada más. Y él cree que se llevó el tesoro. Pero el tesoro se lo dejó aquí, en este sótano, con vosotros. —y señaló a los cuatro— Y él va a buscarlo toda la vida. Toda. Y no lo va a encontrar, porque busca con las manos, y esto no se coge con las manos. Se coge aquí. —se tocó el pecho—
 

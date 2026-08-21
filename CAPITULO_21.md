@@ -18,7 +18,7 @@ Y entonces, un martes, el valle dejó de ser un secreto.
 
 Lo dijo un pastor. Lo dijo en la radio del país, con una voz temblorosa que no volvió a ser igual después: había ido al valle, dijo, por curiosidad, y se había sentado delante de la mano, y había hecho la pregunta que llevaba toda la vida evitándose, y la mano, dijo, no le había dado ninguna respuesta, y por eso mismo le había dado la única respuesta que importaba: la certeza de que la respuesta no se da, se vive.
 
-—Vinieron a enseñarnos a preguntar —dijo el pastor, con la voz quebrada—. Y yo, que he pasado cuarenta años predicando respuestas, he descubierto que la verdadera fe no es tener respuestas. Es atreverse a hacer la pregunta.
+—Vinieron a enseñarnos a preguntar —dijo el pastor, y se le humedecieron los ojos delante del micrófono—. Y yo, que he pasado cuarenta años predicando respuestas, he descubierto que la verdadera fe no es tener respuestas. Es atreverse a hacer la pregunta.
 
 El país entero calló. Y después, el país entero habló.
 

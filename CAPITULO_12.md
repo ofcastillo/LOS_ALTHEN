@@ -58,7 +58,7 @@ Se tomó callado, como se toman las decisiones que se llevan años tomando sin d
 
 —Con lo que traemos —dijo Amara—. Con las cuatro cosas que nos dieron. Las letras. Las canciones. La piedra. Y la pregunta.
 
-—Y la melodía —dijo Ivo—. No olvides la melodía. La vieja la silbaba. Mi hija… —se corrigió, porque no era su hija, era la de Amara, pero hacía tiempo que los cuatro hablaban de Mara como si fuera de todos—. La niña la canta dormida. Está en nosotros. La tenemos dentro. Solo hay que sacarla.
+—Y la melodía —dijo Ivo—. No olvides la melodía. La vieja la silbaba. Mi hija… —se corrigió, porque era de Amara, y no suya, pero hacía tiempo que los cuatro hablaban de Mara como si fuera de todos—. La niña la canta dormida. Está en nosotros. La tenemos dentro. Solo hay que sacarla.
 
 —Entonces —dijo Marcos, con la mano en la pared—, saquémosla.
 
@@ -100,7 +100,7 @@ Era una mano que entregaba.
 
 La palma abierta no estaba esperando un regalo: estaba ofreciendo uno. Era la mano de Aldor, la mano del que llega con las manos vacías, la mano del que baja del cielo sin traer nada, la mano que enseña que el que llega con las manos vacías es el que puede recibir todo.
 
-—Es la mano —dijo Marcos, quebrado—. Es la mano de los que llegaron. La mano de los que no traían nada.
+—Es la mano —dijo Marcos, y alzó la palma hacia la piedra, como si la estuviera verificando—. Es la mano de los que llegaron. La mano de los que no traían nada.
 
 —Es la mano de todos los que llegan con las manos vacías —dijo Amara—. Es la mano de la pregunta. Es la mano de los que no saben y por eso pueden aprender.
 
@@ -158,7 +158,7 @@ Y en el momento en que la hicieron, en el centro de sus cuatro corazones a la ve
 
 No hizo falta más.
 
-Ivo dio un paso adelante, fuera de la cueva, delante de los tres, y le dijo al hombre del diamante, con la calma de quien por fin ha encontrado lo que buscaba:
+Ivo dio un paso adelante, fuera de la cueva, delante de los tres, y le dijo al hombre del diamante, apretando la mano contra el pecho donde había estado la espiral, con la firmeza de quien por fin ha encontrado lo que buscaba:
 
 —Bienvenidos al valle. Venís tarde para cerrarlo. La puerta ya está abierta. Y las puertas abiertas no se vuelven a cerrar.
 

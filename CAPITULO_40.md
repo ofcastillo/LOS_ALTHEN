@@ -70,7 +70,7 @@ Y a ella, que no sabía qué se hacía, se la sentó al lado Mara. Y sin que nad
 
 La noche cerró sobre el valle. Las estrellas salieron. El río pasó. Y alrededor de la flor de los dos colores, en el jardín, el mundo entero, que había venido a tomar posesión, estaba sentado sin hablar, con las palmas tendidas, haciéndose la única cosa que se pueden hacer las cosas sembradas: creciendo.
 
-Y en esa noche, la más joven de la comisión comprendió lo que la comisión entera no había podido comprender en tres años de discusiones: que el Archivo no contenía algo que se pudiera tomar; que el Archivo era una puerta que se extendía, y que solo se extendía para el que se acercaba con la palma abierta. A los que venían a tomar, se les quedaba cerrada — no por culpa, no por castigo, sino porque no se puede tomar lo que no es una cosa. A los que venían a participar, se les abría entera — y por eso los jardines del paso eran más grandes cada año, y por eso había gente que llegaba a cubrir una noticia y se quedaba a vivir, y por eso la flor, que los guardianes decían que debía cortarse para protegerla, era en realidad un campo.
+Y en esa noche, la más joven de la comisión comprendió lo que la comisión entera no había podido comprender en tres años de discusiones: que el Archivo no contenía algo que se pudiera tomar; que el Archivo era una puerta que se extendía, y que solo se extendía para el que se acercaba con la palma abierta. A los que venían a tomar, se les quedaba cerrada. No por culpa, no por castigo: porque no se puede tomar lo que no es una cosa. A los que venían a participar, se les abría entera — y por eso los jardines del paso eran más grandes cada año, y por eso había gente que llegaba a cubrir una noticia y se quedaba a vivir, y por eso la flor, que los guardianes decían que debía cortarse para protegerla, era en realidad un campo.
 
 Porque la herencia de los Althen se extiende, se entrega, se comparte — y no se abre ni se cierra.
 
@@ -82,7 +82,7 @@ A la mañana siguiente, la más joven de la comisión se despidió del círculo 
 
 —Mañana el mundo va a seguir discutiendo si se abre o se cierra. Yo no sé qué voy a poder decirles. Pero les voy a decir una cosa: ahí no hay nada para tomar. Hay algo para quedarse.
 
-Mara sonrió. Y no le contestó con palabras que fueran suyas sino con palabras que eran del valle, de la manera de los primeros, de la costumbre que no se había escrito nunca y que sin embargo seguía viva:
+Mara sonrió. Le salieron las palabras del valle, las de la manera de los primeros, las de la costumbre que no se había escrito nunca y que sin embargo seguía viva:
 
 —No hay nada para tomar —repitió—. Y hay todo para quedarse. Esa es la herencia. Por eso el mundo no sabe qué hacer con ella: porque los mundos van a recoger, y esto se siembra. Los mundos van a tomar con las manos cerradas, y esto se recibe con las palmas abiertas. Y hasta que el mundo no aprenda eso — sentarse, abrir las manos, crecer — no habrá comisión, ni ministerio, ni sala de gobierno, que pueda tocar el Archivo. No porque nosotros los negáramos. Porque el Archivo se niega solo, con lo que es: una manera. Y a las maneras, señorita, no se les entra. Se les participa.
 
@@ -92,13 +92,13 @@ La joven de la comisión salió del valle con las manos vacías, que era lo prim
 
 Y la abuela, que era vieja, que había oído de niña, de su propia abuela, que su familia venía de un valle donde se hacían preguntas todas las noches, la miró, y dijo, sin atinar por qué las decía, con la voz redonda de las cosas que se dicen de noche:
 
-—Dimos —dijo—. Por eso ya no es de ellos, sino nuestro. Eso es la herencia: lo que se da, deja de ser del que lo da. Y se vuelve del que lo recibe. Tú la has recibido esta noche. No te la han entregado: te has sentado, has abierto las manos, y ha pasado por ti. Y por eso, hija, ya es tuya. Para siempre. Aunque no puedas tomar nada de ella. Porque eso no se toma. Se viene con ella.
+—Dimos —dijo—. Y lo que se da deja de ser del que lo da. Se vuelve del que lo recibe. Tú la has recibido esta noche. No te la han entregado: te has sentado, has abierto las manos, y ha pasado por ti. Y por eso, hija, ya es tuya. Para siempre. Aunque no puedas tomar nada de ella. Porque eso no se toma. Se viene con ella.
 
 La joven se quedó mirando a su abuela, con las estrellas de la ciudad apagadas por la luz, con las palmas abiertas todavía, con la herencia — se acababa de dar cuenta — recién estrenada.
 
 —Es mía —dijo, casi sin voz.
 
-—Es tuya —dijo la abuela—. Y es de todos los que se sientan. Esa es la trampa preciosa de esta herencia: que no se divide al repartirse. Que mientras más se sientan, mientras más manos se abren, más crece y más es de todos. No hay que custodiar el jardín: hay que abrirse. No hay que guardar la semilla: hay que sembrarla. La herencia, la que nos enseñaron con la vida, es una sola cosa: que los tesoros no se guardan. Se comparten. Y que se comparten no repartiéndolos, sino viviéndolos. Sentándose. Abriendo las manos. Creciendo. Esa es toda la herencia — dijo la abuela, con el tono que ya era el de todas las abuelas—. Y es tan simple que los mundos no la ven, porque los mundos van con las manos llenas y cerradas, buscando cosas para tomar, cuando lo único que hay que hacer es vaciar las manos, abrirlas, y sentarse a crecer.
+—Es tuya —dijo la abuela—. Y es de todos los que se sientan. Esa es la trampa preciosa de esta herencia: que no se divide al repartirse. Que mientras más se sientan, mientras más manos se abren, más crece y más es de todos. El jardín se custodia abriéndose, no cerrándose. La semilla se guarda sembrándola, no escondiéndola. La herencia, la que nos enseñaron con la vida, es una sola cosa: que los tesoros no se guardan. Se comparten. Y se comparten viviéndolos. Sentándose. Abriendo las manos. Creciendo. Esa es toda la herencia — dijo la abuela, con el tono que ya era el de todas las abuelas—. Y es tan simple que los mundos no la ven, porque los mundos van con las manos llenas y cerradas, buscando cosas para tomar, cuando lo único que hay que hacer es vaciar las manos, abrirlas, y sentarse a crecer.
 
 Y mientras la abuela lo decía, en el valle, a cientos de kilómetros, el jardín del paso seguía creciendo, sin guardia, sin valla, sin inventario, sin llaves. Seguían llegando personas. Se sentaban. Abrían las manos. Se hacían las preguntas. Y la flor de los dos colores, que los ministerios seguían discutiendo si se abría o se cerraba, seguía, sin pedir permiso, extendiéndose.
 

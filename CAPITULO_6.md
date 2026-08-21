@@ -64,7 +64,7 @@ Una tarde, después de una tormenta, Vex estaba sentado en la puerta de su casa,
 
 Aldor miró los pedazos del cuenco, miró a su hijo, y dijo, con la suavidad más grande que había usado en su vida:
 
-—Nunca estás perdido, Vex. Estás elegido. Elegiste quedarte. Elegiste dejar que se te acabaran las palabras de Vaelen para aprender las de aquí. Y las palabras de aquí no se te acaban: se te llenan. Te llenan cada mañana, cada tarde, cada noche. ¿Cuántas palabras de aquí tienes? ¿Cuántas has aprendido de ellos, de la tierra, del río, de los niños? ¿Las has contado?
+—Nunca estás perdido, Vex. Estás elegido. Elegiste quedarte. Elegiste dejar que se te acabaran las palabras de Vaelen para aprender las de aquí. Y las palabras de aquí nunca se te acaban: se te llenan. Te llenan cada mañana, cada tarde, cada noche. ¿Cuántas palabras de aquí tienes? ¿Cuántas has aprendido de ellos, de la tierra, del río, de los niños? ¿Las has contado?
 
 —No —dijo Vex, ronco—. No las he contado.
 
@@ -120,7 +120,7 @@ Pasaron más años. Los cuatro fueron haciéndose más lentos, más silenciosos,
 
 —No —dijo Aldor, y la sorpresa le tembló en la voz—. No me duele. Me sorprende. Toda mi vida he sido el que recuerda. Y ahora, el que recuerda se está quedando sin recuerdos. Y en vez de vaciarme, me siento… lleno. Lleno de este lugar. Lleno de los niños que corren. Lleno del río. Lleno de vosotros. El sitio que ocupaban los recuerdos de Vaelen, se ha llenado de otra cosa. Y no sé cómo se llama esa cosa.
 
-—Se llama —dijo Veda, y le costó decirlo porque le costaba nombrar las cosas que no se podían medir—, se llama haber hecho de la Tierra tu hogar. Se llama haber llegado a ser de aquí. Se llama, Aldor, haber elegido y haber sido elegido.
+—Se llama —dijo Veda, y le costó decirlo porque le costaba poner nombre a cosas que se le escapaban a las palabras—, se llama haber hecho de la Tierra tu hogar. Se llama haber llegado a ser de aquí. Se llama, Aldor, haber elegido y haber sido elegido.
 
 Aldor la miró, y en sus ojos, Veda vio por última vez el mar plateado, y luego el río del valle, y luego, solo el río del valle.
 
@@ -130,7 +130,7 @@ Y esa noche, cuando los cuatro se sentaron junto al río, Aldor no contó ningun
 
 Y contó, al final, lo que había aprendido.
 
-—No somos los que bajaron del cielo —dijo Aldor, con la voz de los muy viejos, que ya no es una voz sino una brisa—. Somos los que se quedaron. Y los que se quedaron, al final, no recuerdan de dónde vienen. Recuerdan a dónde llegaron. Eso es todo. Eso es todo lo que hay que recordar.
+—No somos los que bajaron del cielo —dijo Aldor, con la voz de los muy viejos, que ya es una brisa—. Somos los que se quedaron. Y los que se quedaron, al final, no recuerdan de dónde vienen. Recuerdan a dónde llegaron. Eso es todo. Eso es todo lo que hay que recordar.
 
 —¿Y eso —preguntó Vex, a punto de llorar y sin querer—, es perder o es ganar?
 
@@ -168,7 +168,7 @@ La dejaron sembrada.
 
 Se sembró en el gesto de hacer fuego, en el modo de plantar, en la forma de nombrar las cosas, en la manera de preguntar a los niños, por la noche, antes de dormir: *¿quién eres? ¿qué sabes? ¿qué sientes? ¿y si te equivocas?* Los viejos del valle sembraron las preguntas sin darse cuenta de que estaban sembrando preguntas. Creían que estaban criando niños. Y criaron, sin saberlo, generaciones enteras de seres que se hacían preguntas, que no tenían miedo de no saber, que sabían que no eran lo que les habían contado sino lo que decidían ser.
 
-Y cuando los últimos viejos murieron — Aldor, el último, murió en primavera, junto al río, con las manos en el agua y una sonrisa que no era de despedida sino de llegada —, los humanos del valle no supieron que habían muerto los que bajaron del cielo.
+Y cuando los últimos viejos murieron — Aldor, el último, murió en primavera, junto al río, con las manos en el agua y una sonrisa de llegada, ya sin despedida —, los humanos del valle no supieron que habían muerto los que bajaron del cielo.
 
 Los humanos del valle lloraron a sus viejos.
 

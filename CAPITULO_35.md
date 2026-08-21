@@ -22,7 +22,7 @@ No todo el mundo. La flor del encuentro dividió a la gente como la había divid
 
 Pero había otros.
 
-Había los que miraban la flor y veían no un encuentro sino una mezcla. Veían en la flor de dos colores la prueba de que los mundos se estaban juntando, y juntarse, para ellos, era perderse: perder la tierra que era solo de aquí, perder el cielo que era solo de allá, perder el modo de saber quién era quién. Veían en la semilla de Vaelen no un regalo sino una invasión sin espadas: una invasión de raíces, de colores, de perfumes, de maneras, una invasión que empezaba en una flor y que no sabían dónde iba a acabar.
+Había los que miraban la flor y veían una mezcla, no un encuentro. Veían en la flor de dos colores la prueba de que los mundos se estaban juntando, y juntarse, para ellos, era perderse: perder la tierra que era solo de aquí, perder el cielo que era solo de allá, perder el modo de saber quién era quién. Veían en la semilla de Vaelen una invasión sin espadas, no un regalo: una invasión de raíces, de colores, de perfumes, de maneras, una invasión que empezaba en una flor y que no sabían dónde iba a acabar.
 
 Y esos otros fueron creciendo. Fueron muchos, y fueron creciendo, porque el miedo es contagioso, y porque el miedo, cuando lo comparten muchos, se convierte en una manera de saber quién eres: el que no tiene miedo, es del bando de los que no tienen miedo; y el que tiene miedo, es de los que tienen miedo, y los que tienen miedo se juntan, y los que se juntan, se fortalecen, y los que se fortalecen, piden.
 
@@ -50,13 +50,13 @@ Callaron, los cuatro, con la flor girando, con el valle, con la tarde, con la pr
 
 —Decidimos no estar en la discusión —dijo Mara—. Decidimos estar en la semilla. Los que discuten si cortar la flor se están preguntando si el miedo debe mandar. Y eso se decide viviendo, y no en una discusión. La semilla se defiende creciendo, y no discutiendo. Y si nosotros, los que estamos de los dos lados, seguimos creciendo, seguimos sembrando, seguimos siendo el paso sin pedir permiso, la flor se multiplica, y no se corta. Y los que la quieran cortar, se encontrarán con que ya no hay una flor: hay un campo.
 
-—¿Un campo? —repitió Elías, con un tono extraño.
+—¿Un campo? —repitió Elías, y volvió a mirar la flor, como si de pronto fuera otra cosa.
 
 —La semilla de los dos mundos —dijo Mara— no da una flor. Da campo. Una flor se puede cortar. Un campo, no. Un campo es más grande que el que quiera cortarlo. Un campo se extiende, y echa raíces, y cuando el que quiere cortar llega, descubre que el campo ya es suyo también, y que cortarlo es cortarse.
 
 Todos miraron la flor, al borde del río, girando, pequeña, sola, tierna.
 
-—¿Y cómo se hace un campo de una flor? —preguntó Valeria, con la emoción quebrada.
+—¿Y cómo se hace un campo de una flor? —preguntó Valeria, y se miró la palma, como si la respuesta pudiera caberle en la mano.
 
 —No se hace de una vez —dijo Mara—. Se hace sembrando. Y sembrar, Valeria, es lo que llevamos haciendo toda la vida, sin darnos cuenta de que era siembra: cuando enseñamos la melodía, cuando hacemos las preguntas, cuando tendemos la mano, cuando dejamos el sitio abierto. Cada vez que un niño aprende a silbar en su ciudad, cada vez que alguien hace las cuatro preguntas en su casa, cada vez que una mano se tiende hacia otra que espera, hay una semilla de los dos mundos echando raíces donde no se esperaba. La flor del valle es una. Pero las semillas ya están por todas partes. No nos han pedido permiso para cortarlas. No van a poder cortar un campo que no está en el valle: está en las casas.
 
@@ -66,9 +66,9 @@ Y así empezó, sin que nadie lo decretara, la siembra que el miedo no pudo dete
 
 No fue una campaña. No fue un movimiento. No fue nada que se anunciara. Fue, sencillamente, que la gente que había tendido la mano en el día del coro, la gente que había llorado cuando Tolina bajó, la gente que había visto la flor y no había podido dejar de mirarla, esa gente empezó a sembrar en sus casas, en sus pueblos, en sus ciudades, en sus vidas.
 
-Sembraban de la única manera que sabían: siendo de los dos mundos donde estaban. Enseñaban la melodía a sus hijos, no como una canción sino como una manera. Hacían las cuatro preguntas en las sobremesas, sin que notaran que repetían la costumbre de un valle de otro mundo. Tendían la mano a los que esperaban: a los que esperaban el autobús, a los que esperaban una noticia, a los que esperaban a alguien que no llegaba. Y cada gesto, sin que lo supieran, era una semilla del encuentro, una semilla de dos colores, echando raíces en la tierra que no le pedía permiso a nadie.
+Sembraban de la única manera que sabían: siendo de los dos mundos donde estaban. Enseñaban la melodía a sus hijos, como una manera, más que como una canción. Hacían las cuatro preguntas en las sobremesas, sin que notaran que repetían la costumbre de un valle de otro mundo. Tendían la mano a los que esperaban: a los que esperaban el autobús, a los que esperaban una noticia, a los que esperaban a alguien que no llegaba. Y cada gesto, sin que lo supieran, era una semilla del encuentro, una semilla de dos colores, echando raíces en la tierra que no le pedía permiso a nadie.
 
-El miedo vio la siembra. El miedo la vio crecer, y no supo cómo combatirla, porque no había nada que combatir: no había banderas, no había líderes, no había edificios, no había discursos. Había manos tendidas, preguntas hechas, melodías silbadas. Había campo. El miedo sabía cortar flores. No sabía cortar campos que no estaban en el valle sino en las casas, y que crecían con una semilla en cada ventana.
+El miedo vio la siembra. El miedo la vio crecer, y no supo cómo combatirla, porque no había nada que combatir: no había banderas, no había líderes, no había edificios, no había discursos. Había manos tendidas, preguntas hechas, melodías silbadas. Había campo. El miedo sabía cortar flores. No sabía cortar campos que estaban en las casas, y no solo en el valle, y que crecían con una semilla en cada ventana.
 
 Los que querían cortar la flor del valle llegaron una mañana, con orden de arrancarla.
 
@@ -92,11 +92,11 @@ Y fue entonces, con la flor a salvo, con la siembra en marcha, cuando el mundo c
 
 No significaba que los mundos se fundieran en uno. No significaba que se perdiera el de aquí ni que se perdiera el de allá. Significaba que había llegado el tiempo en que se podía ser de los dos a la vez, y que ser de los dos a la vez no era perderte: era ser más. Significaba que la pregunta de los dos hogares, la que la División había dejado a los Ysann y ahora al mundo entero, no se contestaba eligiendo un lado: se contestaba siendo el campo donde los dos lados siembran.
 
-Los Vaeleni lo comprendieron viendo a los humanos sentarse delante de la flor. Los humanos lo comprendieron viendo a los Vaeleni sentarse delante de la flor. Y los dos, delante de la flor de dos colores, comprendieron que la flor no era la respuesta: era la demostración. La demostración de algo que los dos llevaban dentro desde el principio, que la División había separado y que la semilla volvía a juntar.
+Los Vaeleni lo comprendieron viendo a los humanos sentarse delante de la flor. Los humanos lo comprendieron viendo a los Vaeleni sentarse delante de la flor. Y los dos, delante de la flor de dos colores, comprendieron que la flor era la demostración, más que la respuesta. La demostración de algo que los dos llevaban dentro desde el principio, que la División había separado y que la semilla volvía a juntar.
 
 Que los dos hogares no se pueden elegir: se pueden vivir.
 
-Y que vivirlos, no es estar en dos sitios a la vez. Es sembrar en uno lo que te llevaste de otro, y sembrar en el otro lo que te llevaste de este, hasta que los dos se encuentran, no en un mapa, sino en un campo.
+Y que vivirlos, no es estar en dos sitios a la vez. Es sembrar en uno lo que te llevaste de otro, y sembrar en el otro lo que te llevaste de este, hasta que los dos se encuentran, en un campo, no en un mapa.
 
 ---
 
@@ -126,7 +126,7 @@ La flor creció.
 
 Con los años, la flor del encuentro no dio más flores: dio campo. De la semilla de Vaelen, y de las semillas que los humanos de todos los pueblos llevaron, y de las que los Vaeleni trajeron a su vez, el valle y después el mundo entero se fueron llenando de plantas de dos colores, de jardines del encuentro, de flores que no eran de ningún mundo y de los dos a la vez. Y los jardines se llamaron, sin que nadie lo decidiera, jardines del paso, y en ellos se sentaba la gente a hacer las preguntas y a silbar la melodía, sin advertir que estaban manteniendo abierto lo que los que partieron y los que se quedaron habían sembrado.
 
-Y el miedo no desapareció. No desaparece nunca. Pero aprendió a convivir con la siembra: aprendió que no había nada que cortar, porque lo sembrado no estaba en un solo sitio, y que el mejor combate contra el miedo no era vencerlo sino sembrar al lado, despacio, sin ruido, hasta que el campo fuera más grande que el miedo.
+Y el miedo no desapareció. No desaparece nunca. Pero aprendió a convivir con la siembra: aprendió que no había nada que cortar, porque lo sembrado no estaba en un solo sitio, y que el mejor combate contra el miedo era sembrar al lado, despacio, sin ruido, más que vencerlo, hasta que el campo fuera más grande que el miedo.
 
 Y el campo, al final, fue más grande.
 

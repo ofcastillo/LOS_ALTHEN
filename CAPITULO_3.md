@@ -24,7 +24,7 @@ Vex, que hacía mucho tiempo que no encontraba placer en llevar la contraria, no
 
 —Van a necesitar algo —dijo, al fin—. Cuando seamos nosotros los que nos vayamos. Porque también nosotros vamos a irnos, aunque nos quedemos. No podemos estar aquí para siempre. La memoria no se sostiene con presencia. Se sostiene con algo que quede.
 
-Aldor lo miró, y vio a su hijo, al cabo de muchas estaciones, no como la herida que había dejado en Vaelen, sino como el hombre que había elegido quedarse.
+Aldor lo miró, y vio a su hijo, al cabo de muchas estaciones, como el hombre que había elegido quedarse, y no como la herida que había dejado en Vaelen.
 
 —Sí —dijo Aldor—. Algún día habrá que construir lo que nos sobreviva. Hoy no es todavía la hora. Hoy es la semilla.
 
@@ -44,7 +44,7 @@ Los cuatro se sentaron en la orilla, donde el agua seguía cantando sin permiso,
 
 Los tres miraron a Aldor, que seguía dibujando en la tierra.
 
-—Tiene que ser un lugar —dijo, al fin—. Un lugar donde el paisaje, el pigmento, el sonido y la memoria se junten. Un lugar que no se pueda adorar porque no sea una cosa, sino un cruce de caminos. Un lugar que solo abra cuando un grupo de ellos lo descifre en conjunto. Nadie solo puede abrirlo. Esa es la regla. El conocimiento se despierta en grupo, y no en uno.
+—Tiene que ser un lugar —dijo, al fin—. Un lugar donde el paisaje, el pigmento, el sonido y la memoria se junten. Un lugar que no se pueda adorar porque es un cruce de caminos, no una cosa que guardar. Un lugar que solo abra cuando un grupo de ellos lo descifre en conjunto. Nadie solo puede abrirlo. Esa es la regla. El conocimiento se despierta en grupo, y no en uno.
 
 —¿Por qué en grupo? —preguntó Veda, que necesitaba la razón antes que el gesto.
 
@@ -52,7 +52,7 @@ Los tres miraron a Aldor, que seguía dibujando en la tierra.
 
 —¿Y quién decide qué contiene? —preguntó Vex, con el filo de siempre, pero ya sin veneno.
 
-—Lo que llevamos aprendido —dijo Aldor—. Todo lo que la Tierra nos ha enseñado. Porque no olvides, hijo, que nosotros no vinimos a dejarles nuestro conocimiento. Vinimos a aprender, y hemos aprendido. Lo que dejaremos no será lo que sabíamos cuando bajamos de la nave. Será lo que la Tierra nos enseñó. El Archivo no será un regalo de nosotros: será un devolverles lo que ellos nos dieron.
+—Lo que llevamos aprendido —dijo Aldor—. Todo lo que la Tierra nos ha enseñado. Porque no olvides, hijo, que nosotros no vinimos a dejarles nuestro conocimiento. Vinimos a aprender, y hemos aprendido. Lo que dejaremos no será lo que sabíamos cuando bajamos de la nave. Será lo que la Tierra nos enseñó. El Archivo será un modo de devolverles lo que ellos nos dieron.
 
 —Un devolver —repitió Lyra, y la palabra le gustó—. Me gusta eso. No es un legado. Es una devolución. Ellos nos enseñaron a tener hambre y a sentir el frío y a llorar de felicidad. Nosotros les devolvemos eso guardado en un lugar que solo se abre entre varios.
 

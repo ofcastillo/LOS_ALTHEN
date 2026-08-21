@@ -28,7 +28,7 @@ Y esa persona estaba de pie en la acera, mirándolos.
 
 ---
 
-A la mañana siguiente, Ivo reunió a los otros tres en el mismo café. No porque fuera un buen sitio, sino porque era el sitio donde los habían visto, y quería que el hombre del pin, si volvía, los encontrara otra vez en el mismo lugar.
+A la mañana siguiente, Ivo reunió a los otros tres en el mismo café, el sitio donde los habían visto, por si el hombre del pin, al volver, los encontrara otra vez en el mismo lugar.
 
 —Quiere que lo veamos —dijo Ivo, poniendo la captura en la mesa—. Los que se esconden no se dejan fotografiar. Este se ha dejado. Así que no vamos a perseguirlo: vamos a esperar a que vuelva. Y si no vuelve, iremos a buscarle con las herramientas que tenemos.
 

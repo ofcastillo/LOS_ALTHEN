@@ -42,7 +42,7 @@ Amara no respondió. Miró a su hija, a la niña que había oído el Archivo, qu
 
 —No sé —dijo Mara—. Ni siquiera sé si voy a poder volver. Los que están arriba no han bajado en meses. No sé si me dejarán entrar. No sé si querrán verme. No sé nada.
 
-—Vuelves —dijo Amara, y no era una pregunta, era un hecho—. Vuelves, porque tú no eres de allá sino de la tierra de en medio, y la tierra de en medio se habita desde aquí. Vete a buscarles. Pero vuelve a casa, Mara. Vuelve al río. Vuelve al sitio. Vuelve, que para eso te lo dejo abierto.
+—Vuelves —dijo Amara, y era un hecho, no una pregunta—. Vuelves, porque tú eres de la tierra de en medio, y no de allá, y la tierra de en medio se habita desde aquí. Vete a buscarles. Pero vuelve a casa, Mara. Vuelve al río. Vuelve al sitio. Vuelve, que para eso te lo dejo abierto.
 
 Mara miró a su madre durante mucho rato.
 
@@ -84,13 +84,13 @@ Mara la miró, sin hablar. Y le salió la respuesta que le salían las verdades,
 
 —Porque yo no venía a salir —dijo—. Yo venía a entrar. Ustedes quieren bajar a un mundo que no conocen. Yo he subido a un mundo que no conocía. Los dos estábamos en la puerta, mirando hacia fuera. Pero los dos mirábamos hacia lados distintos: ustedes miraban hacia abajo, yo miraba hacia arriba. Y quien mira hacia dónde está lo que le da miedo, se queda mirando en vez de cruzar. Quien cruza, es el que ha entendido que la puerta sirve para pasar, venga de donde venga el que pasa.
 
-—¿Y usted es de esta tierra? —preguntó la mujer, con un tono extraño—. ¿De la tierra que está abajo, la que nosotros no podemos pisar?
+—¿Y usted es de esta tierra? —preguntó la mujer, y se asomó un poco más por la ventana, para mirarla mejor—. ¿De la tierra que está abajo, la que nosotros no podemos pisar?
 
 —Soy de abajo —dijo Mara—. Y soy de arriba, desde que tengo memoria. Soy de los dos lados. Y por eso he podido cruzar: porque para cruzar una puerta que separa dos mundos, hay que ser de los dos a la vez. Y yo lo soy. He venido no a bajarles a ustedes: he venido a estar aquí, con ustedes, donde ustedes están, para que sepan que no es tan difícil cruzar. Porque cruzar, cuando lo entiendes, es entrar a otro mundo llevándose el primero dentro.
 
 La mujer la miró largo rato. Y detrás de ella, los otros, los que estaban en las ventanas, se fueron acercando, despacio, como se acercan los que llevan mucho tiempo sin moverse, con la mirada de los que están viendo a alguien que hace lo que ellos no pueden hacer.
 
-—¿Nos enseñará? —preguntó uno, un hombre, el más joven, con la emoción quebrada.
+—¿Nos enseñará? —preguntó uno, un hombre, el más joven, y se apretó las manos delante del pecho.
 
 Mara miró la nave alrededor, las ventanas, el valle allá abajo, la luz, la gente que la miraba.
 
@@ -156,7 +156,7 @@ Mara bajó de la nave esa tarde.
 
 No la esperaban abajo. No hizo falta. Bajó por la rampa, con la luz de la tarde, con el valle delante, con la guarda entera dentro de ella, más clara de lo que había estado nunca.
 
-No trajo a todos. No era eso lo que había ido a hacer. Trajo una cosa, y una cosa era suficiente: la certeza de que la puerta se cruza estando, y no empujando. La certeza de que el que viene de los dos lados no es el que elige, sino el que es el sitio donde se encuentran. La certeza de que a los que están en la puerta se les espera, y a veces, si uno sabe, se sube a buscarles, y se sube no para traerlos, sino para ser, ellos, el suelo un momento.
+No trajo a todos. No era eso lo que había ido a hacer. Trajo una cosa, y una cosa era suficiente: la certeza de que la puerta se cruza estando, y no empujando. La certeza de que el que viene de los dos lados es el sitio donde se encuentran, más que el que elige. La certeza de que a los que están en la puerta se les espera, y a veces, si uno sabe, se sube a buscarles, y se sube para ser, ellos, el suelo un momento, no para traerlos.
 
 Permaneció un rato en la explanada, mirando la nave, mirando el valle, con el silbo del valle pasándole por dentro, con el río cantando sin permiso.
 
@@ -168,7 +168,7 @@ Permaneció un rato en la explanada, mirando la nave, mirando el valle, con el s
 
 Mara miró la nave un momento largo. La nave, arriba, con la luz de la tarde reflejándose en el metal, con los que todavía no bajaban asomados a las ventanas, mirando el valle, mirándola a ella.
 
-—Voy a quedarme —dijo—. Voy a quedarme a la puerta. No para impedir que crucen ni para apurarlos: para que sepan que la puerta no está vigilada para que no salgas, sino para que sepas que, cuando quieras, vas a poder entrar. La guarda, Elna, es quedarse a la puerta, no para cerrar, sino para abrir. Y yo soy la que se queda a la puerta, de los dos lados a la vez, para que los dos lados sepan que no hay lado: hay paso.
+—Voy a quedarme —dijo—. Voy a quedarme a la puerta. No para impedir que crucen ni para apurarlos: para que sepan que la puerta no está vigilada para impedir que salgas: está vigilada para que sepas que, cuando quieras, vas a poder entrar. La guarda, Elna, es quedarse a la puerta para abrir, no para cerrar. Y yo soy la que se queda a la puerta, de los dos lados a la vez, para que los dos lados sepan que no hay lado: hay paso.
 
 Estuvieron en silencio, las dos, en la explanada, con la nave arriba, con el valle alrededor, con la tarde cayendo, con la melodía de todos pasando de un lado a otro, sin nombre, sin dueño, manteniendo abierto lo que los que partieron y los que se quedaron habían construido, y que no era un muro ni un camino.
 

@@ -56,7 +56,7 @@ Decidieron que el acto sería en el valle.
 
 Sería simple. No habría escenario. No habría discursos. No habría cámaras que lo hicieran oficial. Habría, simplemente, la mano de piedra, baja, tendida, esperando, y la gente que quisiera venir a tenderle su mano. Se anunciaría con una sola foto: la mano de piedra, baja, con el valle al fondo, y una fecha. Nada más. Que la gente entendiera, o no, que la respuesta no se enviaba: se hacía.
 
-Tardaron una semana en prepararlo. La semana más rara de la vida de los cinco, y no fue una exageración: fue la semana en que el mundo entero, que llevaba meses hablando de la señal, dejó de hablar y empezó a prepararse para el viaje. Se coordinó sin voz, como se coordinan las cosas que se hacen con fe: no porque una orden las movilizara, sino porque la gente se enteró, y enterarse, en ese momento, era lo mismo que decidir.
+Tardaron una semana en prepararlo. La semana más rara de la vida de los cinco, y no fue una exageración: fue la semana en que el mundo entero, que llevaba meses hablando de la señal, dejó de hablar y empezó a prepararse para el viaje. Se coordinó sin voz, como se coordinan las cosas que se hacen con fe: la gente se enteró, y enterarse, en ese momento, era lo mismo que decidir.
 
 Llegaron un martes.
 
@@ -142,7 +142,7 @@ La gente se fue, despacio, cada uno a su vida, y el valle quedó con los cinco, 
 
 —¿Nos volveremos a reunir todos? —preguntó Elías, en voz baja, mirando la estrella.
 
-—No —dijo Ivo, con la voz quebrada—. No hace falta. Hoy hemos hecho el gesto. Y el gesto, cuando se hace, es de todos los que lo van a repetir, y ya no de uno. Y lo van a repetir mucha gente, Elías. A partir de hoy, cada mano tendida hacia alguien que espera, va a parecerse a esta tarde. Y nunca más va a haber una sola estrella. Va a haber muchas.
+—No —dijo Ivo, y se quedó mirando la estrella, sin apartar los ojos—. No hace falta. Hoy hemos hecho el gesto. Y el gesto, cuando se hace, es de todos los que lo van a repetir, y ya no de uno. Y lo van a repetir mucha gente, Elías. A partir de hoy, cada mano tendida hacia alguien que espera, va a parecerse a esta tarde. Y nunca más va a haber una sola estrella. Va a haber muchas.
 
 —¿Y a ellos? —preguntó Valeria—. ¿A los que esperaban? ¿Vamos a verlos? ¿Vamos a saber algo de ellos? ¿Van a venir de verdad?
 

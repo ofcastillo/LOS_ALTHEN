@@ -6,7 +6,7 @@
 
 El último domingo del año, el jardín de Mara estaba lleno.
 
-No había sido convocada nadie. No había pancarta ni portada ni titular. Y, sin embargo, estaban todos: la gente del valle venida de la ciudad, los jardineros del paso, los que habían visto la flor, los que habían cubierto la noticia y se habían quedado, los que habían oído el silbo hacía años y habían vuelto a oírlo en la plaza, los que quizá no creían del todo y habían venido igualmente, porque estar no cuesta creer, y los que sí creían y no habían necesitado venir porque ya estaban. Y en medio de todos, con la flor de los dos colores abierta al sol de invierno, el círculo completo: Amara, Ivo, Valeria, Marcos, el arqueólogo de las preguntas, Elías, el de los relojes, Teresa, la que había contestado a la señal, Elna, Sarn, Tolina, y la heredera de la guarda, Mara, que ya tenía dieciocho años y que se sentaba con ellos no como la niña que había sido sino como la jardinera que se había vuelto.
+No había sido convocada nadie. No había pancarta ni portada ni titular. Y, sin embargo, estaban todos: la gente del valle venida de la ciudad, los jardineros del paso, los que habían visto la flor, los que habían cubierto la noticia y se habían quedado, los que habían oído el silbo hacía años y habían vuelto a oírlo en la plaza, los que quizá no creían del todo y habían venido igualmente, porque estar no cuesta creer, y los que sí creían y no habían necesitado venir porque ya estaban. Y en medio de todos, con la flor de los dos colores abierta al sol de invierno, el círculo completo: Amara, Ivo, Valeria, Marcos, el arqueólogo de las preguntas, Elías, el de los relojes, Teresa, la que había contestado a la señal, Elna, Sarn, Tolina, y la heredera de la guarda, Mara, que ya tenía dieciocho años y que se sentaba con ellos como la jardinera que se había vuelto, y no como la niña que había sido.
 
 El jardín estaba lleno. Y no había ninguna razón visible: solo la costumbre, el modo, las preguntas. El primer domingo del año y el último, los del círculo se sentaban a la orilla del jardín, y no decían nada, y la gente venía. Así había sido desde la flor. Así era. Y ese último domingo del año, el del final del Libro de la División, el círculo se sentó como siempre, y la gente se fue acomodando, y el jardín se llenó, y el sol de invierno cayó sobre la flor de los dos colores, y la pregunta de los dos hogares, la que había dividido a un pueblo hacía milenios, flotó en el aire del valle sin necesidad de que nadie la dijera.
 
@@ -16,7 +16,7 @@ Fue Mara quien la dijo.
 
 Y Tolina, la que había cruzado el viaje de vuelta sin haber estado, la que había sido recibida por Odra a la orilla del paso, la que ahora callaba en el círculo y veía pasar el río de los días, se quedó un momento sin contestar, con la pregunta en el centro, con el jardín lleno, con la flor al sol.
 
-—La respuesta —dijo, al fin, con la serenidad de los que han viajado una vida y han encontrado el hogar al llegar— no se dice: se comparte. Por eso, en lugar de contestártela, voy a hacer lo que hacíamos en la nave cuando llegaba el momento de las cosas grandes: voy a contarla. Y la voy a contar como se contaban las cosas grandes entre los míos: no desde el principio, que es fácil, sino desde el final, que es donde se entiende.
+—La respuesta —dijo, al fin, con la serenidad de los que han viajado una vida y han encontrado el hogar al llegar— no se dice: se comparte. Por eso, en lugar de contestártela, voy a hacer lo que hacíamos en la nave cuando llegaba el momento de las cosas grandes: voy a contarla. Y la voy a contar como se contaban las cosas grandes entre los míos: desde el final, que es donde se entiende, y no desde el principio, que es fácil.
 
 Se acomodó. El jardín se calló. Y la pregunta de los dos hogares se abrió como la flor al sol.
 
@@ -75,8 +75,6 @@ Dos mundos se abrieron a la misma pregunta.
 Y la pregunta, una vez hecha, no se quedó en el jardín. Se fue con los que partieron, y se quedó con los que se quedaron, y desde entonces se hace en todos los lados, en todos los idiomas, en todos los silencios: se hace donde hay dos hogares, porque donde hay dos hogares hay pregunta.
 
 Y donde se hace, se comparte. Porque la pregunta de los dos hogares, la que dividió a un pueblo y la que volvió a unirlos sentados en círculo, no se contesta: se comparte. Y compartirla es esto: sentarse juntos, dejar las palmas abiertas, y saber que el que elige un hogar no deja el otro: que el otro se viene con él.
-
-Las cuatro preguntas no se contestan solas. Se contestan compartidas.
 
 Y la noche terminó como terminaban las noches en el valle: la flor de los dos colores cerró los pétalos despacio, las últimas palmas se fueron abriendo el camino a casa, el río bajó el sonido, y el jardín quedó a oscuras, con la semilla guardada dentro, esperando el día.
 

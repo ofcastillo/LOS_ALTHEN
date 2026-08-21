@@ -18,7 +18,7 @@ Aquí el hambre era música.
 
 —La risa nerviosa es una válvula —dijo Vex, que estaba apoyado contra un árbol, a distancia, sin apartar los ojos del círculo de fuego—. He leído informes de otras especies. Cuando el miedo es demasiado grande, se convierte en risa, y el cuerpo se descarga. No significa que estén cómodos. Significa que están conteniendo un grito.
 
-—Qué manera tan bonita de mirar lo hermoso —dijo Lyra, y no era un reproche: era una constatación—. Tú siempre ves la grieta. Yo veo el vaso. Podríamos estar en desacuerdo toda la eternidad, y eso nos salvaría a los dos.
+—Qué manera tan bonita de mirar lo hermoso —dijo Lyra, y era una constatación, no un reproche—. Tú siempre ves la grieta. Yo veo el vaso. Podríamos estar en desacuerdo toda la eternidad, y eso nos salvaría a los dos.
 
 —Nada nos va a salvar de nada —dijo Vex—. Estamos en un planeta extraño, rodeados de seres que podrían matarnos por malentendido, sin forma de volver a Vaelen aunque quisiéramos, y el primer gesto que hicimos fue acercarnos a su fuego como si fuéramos de la familia. Es hermoso. Es también una locura.
 
@@ -80,7 +80,7 @@ La primera noche terminó así: los cuatro sentados en la orilla, con las manos 
 
 A la mañana siguiente ocurrió lo que Veda llevaba años prediciendo y nadie había querido escuchar.
 
-Los humanos vinieron a ellos en grupo. No el Anciano solo, sino el grupo entero: las mujeres, los niños, los jóvenes, hasta un perro flaco y desconfiado que olía el aire y los miraba con la cabeza ladeada. Traían cosas. Traían pellejos de agua, madera, piedras afiladas, semillas en un cuenco de barro, un hueso tallado. Lo ponían todo en el suelo, a los pies de los cuatro, como quien hace una ofrenda.
+Los humanos vinieron a ellos en grupo. No solo el Anciano: el grupo entero, las mujeres, los niños, los jóvenes, hasta un perro flaco y desconfiado que olía el aire y los miraba con la cabeza ladeada. Traían cosas. Traían pellejos de agua, madera, piedras afiladas, semillas en un cuenco de barro, un hueso tallado. Lo ponían todo en el suelo, a los pies de los cuatro, como quien hace una ofrenda.
 
 —Adoración —dijo Veda, y la palabra sonó como una alarma—. He calculado la probabilidad durante la noche. Tenían todas las condiciones: seres de otro cielo, sin armas, que no piden nada, que se sientan junto al fuego y no comen. Es el perfil clásico de la divinidad. La adoración es estadísticamente inevitable. Debemos cortarla de raíz antes de que se consolide, o en veinte generaciones tendremos un culto que no podremos controlar.
 
@@ -102,7 +102,7 @@ Y Aldor hizo algo que ninguno de los otros esperaba. Señaló el cielo, señaló
 
 El Anciano lo observó durante un largo tiempo. Después se volvió hacia los suyos y pronunció una palabra corta, seca, que sonó como una orden. Los humanos recogieron las ofrendas del suelo y las volvieron a sus manos.
 
-No eran ofrendas. Eran regalos. Y el Anciano acababa de entender que aquel extranjero no era un dios: era alguien que quería quedarse a vivir, y en su mundo, a los que quieren quedarse a vivir se les daban cosas porque van a necesitarlas.
+No eran ofrendas. Eran regalos. Y el Anciano acababa de entender que aquel extranjero era un hombre que quería quedarse a vivir, no un dios, y en su mundo, a los que quieren quedarse a vivir se les daban cosas porque van a necesitarlas.
 
 —Voy a llorar —dijo Lyra, en voz baja.
 

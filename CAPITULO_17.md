@@ -18,7 +18,7 @@ No fue la voz de Mara la que los delató. Fue la de su madre. En una grabación 
 
 Vertex no necesitó más.
 
-—Tenemos la casa —dijo Ardal, mirando el informe, con la calma de los que han esperado cincuenta años y que por fin pueden empezar a cerrar la mano.
+—Tenemos la casa —dijo Ardal, mirando el informe, con los dedos recorriendo el mapa en espiral, como los que han esperado cincuenta años y que por fin pueden empezar a cerrar la mano.
 
 ---
 
@@ -176,7 +176,7 @@ Ivo miró la ventana, la calle vacía, la ciudad que seguía viva fuera, ajena, 
 
 —¿Y si no la encuentran? —dijo Amara, rota—. ¿Y si se cansan y la dejan en paz?
 
-—Entonces —dijo Ivo, con una calma que sorprendió incluso a los otros—, habremos sembrado igualmente. Y la siembra, Amara, es lo único que Vertex no puede recoger. La siembra crece sola. La siembra no necesita a nadie. La siembra solo necesita tierra, agua y tiempo.
+—Entonces —dijo Ivo, y cerró los ojos un instante, como quien se prepara para lo que ya no tiene remedio—, habremos sembrado igualmente. Y la siembra, Amara, es lo único que Vertex no puede recoger. La siembra crece sola. La siembra no necesita a nadie. La siembra solo necesita tierra, agua y tiempo.
 
 —¿Y nosotros? —dijo Marcos—. ¿Nosotros qué somos? ¿Tierra, agua o tiempo?
 
@@ -216,7 +216,7 @@ Mara levantó la vista del papel. Lo miró a los cuatro, con la mirada limpia de
 
 Los cuatro se quedaron mirando a la niña, en el silencio del piso franco, con la melodía sonando dentro, con la certeza nueva de que la niña había dicho la verdad entera sin medir lo que pesaba.
 
-—Entonces —dijo Ivo, con un tono extraño—, cuando Ardal la tenga delante y le pregunte qué hay dentro de la mano, ella le va a decir la verdad. Y la verdad va a ser que la mano está vacía porque ya lo entregó todo. Y Ardal, que ha pasado cincuenta años buscando lo que hay dentro… va a tener que decidir si la verdad le sirve o no.
+—Entonces —dijo Ivo, y dejó la libreta sobre la mesa, como quien se prepara para decir algo muy despacio—, cuando Ardal la tenga delante y le pregunte qué hay dentro de la mano, ella le va a decir la verdad. Y la verdad va a ser que la mano está vacía porque ya lo entregó todo. Y Ardal, que ha pasado cincuenta años buscando lo que hay dentro… va a tener que decidir si la verdad le sirve o no.
 
 —¿Y si no le sirve? —dijo Marcos.
 

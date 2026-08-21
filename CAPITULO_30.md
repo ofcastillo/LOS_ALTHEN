@@ -8,7 +8,7 @@ Cuando los cuatro murieron, no quedó nada escrito.
 
 No quedó ningún libro, ningún archivo, ningún registro con el nombre de la civilización que había venido a preguntar. Quedó, en cambio, algo que ninguno de ellos había planeado y que sin embargo era lo más exacto que habían sembrado: quedó la costumbre.
 
-Las costumbres no necesitan ser escritas. Las costumbres se pasan de mano en mano, de boca en boca, sin que nadie las decrete y sin que nadie sepa nunca quién las empezó. Las costumbres son las herederas silenciosas: sobreviven a los imperios, a las lenguas, a los nombres, a la memoria; sobreviven porque no necesitan que las recuerden, sino que las repitan.
+Las costumbres no necesitan ser escritas. Las costumbres se pasan de mano en mano, de boca en boca, sin que nadie las decrete y sin que nadie sepa nunca quién las empezó. Las costumbres son las herederas silenciosas: sobreviven a los imperios, a las lenguas, a los nombres, a la memoria; sobreviven porque las repiten más que porque las recuerden.
 
 Y los Ysann habían sembrado una costumbre sin proponérselo: la de preguntar.
 

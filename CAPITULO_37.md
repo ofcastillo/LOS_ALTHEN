@@ -16,7 +16,7 @@ El silencio no fue triste. El silencio fue el de los que ya no necesitan hablar 
 
 —Las cuatro —dijo Vex—. Las de cada noche. Las que llevamos sembrando toda la vida sin darnos cuenta de que eran de los dos mundos. ¿Os acordáis de cuáles eran?
 
-Los cuatro pensaron, con las estrellas encima, con el río pasando. Y una a una, sin que nadie las dijera en voz alta primero, las cuatro preguntas fueron saliendo en ellos, no de la memoria sino de otra cosa, del cuerpo, de la costumbre, del sitio donde se guardan las cosas que no se aprendieron sino que se vivieron.
+Los cuatro pensaron, con las estrellas encima, con el río pasando. Y una a una, sin que nadie las dijera en voz alta primero, las cuatro preguntas fueron saliendo en ellos, del cuerpo y de la costumbre más que de la memoria, del sitio donde se guardan las cosas que se vivieron antes de aprenderse.
 
 —¿Quién soy? —dijo Aldor, en voz baja, como quien reconoce a un viejo amigo.
 
@@ -64,7 +64,7 @@ La segunda pregunta fue la de Veda.
 
 La respuesta, de nuevo, fue de todos.
 
-—De dónde vienes —dijo Lyra, y se le hizo canción—, es una pregunta que me habría devuelto a la tristeza, si no hubiera aprendido lo que aprendí. Porque yo no vengo de ningún sitio: nací en la nave, entre dos mundos. Y sin embargo, Veda, tú me enseñaste que se puede venir de un sitio sin haberlo pisado. Tú venías de Vaelen con el recuerdo, y me lo contabas con tal exactitud que yo, que no la vi, la sentí como si la hubiera visto. De dónde vienes, para mí, es el sitio de donde vienen no los que lo pisaron, sino los que lo saben tan bien que lo pueden dar. Tú vienes de Vaelen. Y me diste Vaelen a mí, que no la pisé nunca.
+—De dónde vienes —dijo Lyra, y se le hizo canción—, es una pregunta que me habría devuelto a la tristeza, si no hubiera aprendido lo que aprendí. Porque yo no vengo de ningún sitio: nací en la nave, entre dos mundos. Y sin embargo, Veda, tú me enseñaste que se puede venir de un sitio sin haberlo pisado. Tú venías de Vaelen con el recuerdo, y me lo contabas con tal exactitud que yo, que no la vi, la sentí como si la hubiera visto. De dónde vienes, para mí, es el sitio de donde vienen los que lo saben tan bien que lo pueden dar, ya lo hayan pisado o no. Tú vienes de Vaelen. Y me diste Vaelen a mí, que no la pisé nunca.
 
 —De dónde vienes —dijo Aldor—, es menos un lugar que una memoria. Y tu memoria, Veda, no es la de los que recuerdan: es la de los que custodian. Los que recuerdan cuentan. Los que custodian entregan. Y tú has entregado Vaelen toda la vida, sin quedarte con ella más que en la manera de contarla. Vienes de Vaelen, sí. Pero el sitio de donde vienes de verdad, es el sitio donde se aprende a soltar lo que se ama. Y ese sitio lo has hecho tú, aquí, en el valle, al dejar de guardar.
 
@@ -86,7 +86,7 @@ Y la respuesta, como las otras, fue de todos.
 
 —Qué has aprendido —dijo Aldor, con la serenidad de los muy viejos, de quien ha visto crear a la que cantaba—, es una pregunta que te iba a contestar siempre la misma cosa: has aprendido a cantar. Pero no. Con los años, te he visto aprender otra cosa, más difícil que cantar: has aprendido a escuchar. Los que cantan sin escuchar hacen ruido. Los que escuchan antes de cantar, hacen camino. Y tú has cantado toda la vida el camino, Lyra: la canción del mar y la canción del río, juntas, la canción del paso. Has aprendido que se puede nombrar lo que no se puede medir, y que nombrarlo es una manera de hacerlo real. Eso has aprendido.
 
-—Qué has aprendido —dijo Veda, con la que ya no era la de la que medía sino la de la que había aprendido a no medir—, es lo que yo aprendí de ti al revés. Yo aprendí a guardar. Tú aprendiste a dar. Y cuando yo solté la guarda, fue porque te había oído cantar lo que no se puede guardar. Yo aprendí a soltar tarde. Tú aprendiste a soltar de nacimiento, cantando. Has aprendido que lo que se da no se pierde, y que lo que se canta se queda más que lo que se guarda. Y eso, Lyra, es lo más grande que se puede aprender: que lo que sueltas, es lo único que se queda.
+—Qué has aprendido —dijo Veda, con la voz de la que había dejado de medir para aprender a no medir—, es lo que yo aprendí de ti al revés. Yo aprendí a guardar. Tú aprendiste a dar. Y cuando yo solté la guarda, fue porque te había oído cantar lo que no se puede guardar. Yo aprendí a soltar tarde. Tú aprendiste a soltar de nacimiento, cantando. Has aprendido que lo que se da no se pierde, y que lo que se canta se queda más que lo que se guarda. Y eso, Lyra, es lo más grande que se puede aprender: que lo que sueltas, es lo único que se queda.
 
 —Qué has aprendido —dijo Vex, con la garganta apretada—, es lo que me enseñaste a mí en la nave, y en el valle, y en todas partes. Yo llegué cargado de rabia, y tú me cantaste el modo de soltarla sin soltarte tú. Has aprendido que se puede sostener sin tener, acompañar sin llevar, estar sin ocupar. Has aprendido la canción de los dos lados a la vez, y me la cantaste a mí cuando yo solo oía un lado. Y esa canción, Lyra, me hizo bajar la mano. Has aprendido a ser el paso. Y el paso, Lyra, se canta más que se ocupa.
 
@@ -110,7 +110,7 @@ Y la respuesta, la última, fue de los tres primeros, y fue la más grande de to
 
 —¿Y si me equivoco? —dijo Lyra, con la canción con que había contestado toda su vida sin darse cuenta de que contestaba—. Entonces, le canto a la equivocación. Le pongo música. Y la equivocación, que era un peso, se vuelve melodía. He equivocado todo lo que se puede equivocar, Vex: el hogar, la patria, el sitio. Y de todas mis equivocaciones, he sacado una canción. Si te equivocas, no has fallado: has compuesto. Y las mejores canciones, Vex, las han escrito los que se equivocaron cantando.
 
-Vex se llevó las tres respuestas dentro, con el río, con las estrellas, con la noche, con la pregunta que había llevado toda la vida, por fin, no respondida sino acompañada.
+Vex se llevó las tres respuestas dentro, con el río, con las estrellas, con la noche, con la pregunta que había llevado toda la vida, por fin, acompañada, en vez de respondida.
 
 —¿Y si me equivoco? —dijo, al fin, con la garganta cerrada, contestándose a sí misma, sabiendo que la respuesta era de los cuatro—. Entonces, me equivoco, y sigo. Y sigo, y sigo, y el seguir es la única cosa que no he equivocado nunca. He equivocado los comienzos, los medios, los finales. No he equivocado el seguir. Y el seguir, padre, madre, hermana, es lo que nos ha traído hasta esta orilla, esta noche, con las cuatro preguntas hechas y las cuatro contestadas entre los cuatro. He preguntado toda la vida si me equivocaba. Y ahora sé que la respuesta es que sí, que me he equivocado, y que me equivoqué bien, porque equivocarse bien es la manera de aprender, y aprender es el modo de estar, y estar es la manera de ser.
 
@@ -124,7 +124,7 @@ Callaron, los cuatro, a la orilla del río, con las cuatro preguntas contestadas
 
 Los cuatro callaron, con el río pasando, con las estrellas encima, con la pregunta de hoy dicha y vivida, con la noche cerrando sobre la orilla, sobre el valle, sobre la vida.
 
-—Y luego —dijo Aldor, en voz baja, como quien recuerda la parte que nunca se escribe— está la quinta. La que no se dice. La que se hace. Porque las cuatro preguntas solo sirven para acercarse a la orilla: la quinta es arrodillarse, y no se hace con palabras, se hace en silencio, decidir qué se va a ser con lo que se sabe y lo que se siente. El quinto paso no se dice: se hace. Y se hace solo, aunque se esté entre los cuatro, porque ninguno puede hacerlo por otro.
+—Y luego —dijo Aldor, en voz baja, como quien recuerda la parte que nunca se escribe— está la quinta. La que no se dice. La que se hace. Porque las cuatro preguntas solo sirven para acercarse a la orilla: la quinta es arrodillarse, y se hace en silencio, sin palabras, decidir qué se va a ser con lo que se sabe y lo que se siente. El quinto paso se dice, pero de otra manera: se hace. Y se hace solo, aunque se esté entre los cuatro, porque ninguno puede hacerlo por otro.
 
 Nadie respondió. Y en el silencio, cada uno hizo, por fin, la quinta pregunta, la de hoy, la que no se dice, la que se hace a la orilla del río, con las cuatro contestadas dentro y la vida entera por delante.
 

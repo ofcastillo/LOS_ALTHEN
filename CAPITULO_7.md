@@ -182,7 +182,7 @@ Marcos permaneció inmóvil, con la linterna temblándole, mirando a Valeria.
 
 —No puedo —dijo Valeria—. No sé cómo lo he hecho.
 
-—Sí puedes —dijo Marcos, quebrado—. Vuelve a silbarla.
+—Sí puedes —dijo Marcos, y le tomó la mano que tenía caída—. Vuelve a silbarla.
 
 Valeria cerró los ojos. Permaneció en silencio, en la oscuridad, en el frío de la cueva, con el sonido de la melodía dentro de la cabeza.
 

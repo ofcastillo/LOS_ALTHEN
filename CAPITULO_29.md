@@ -46,7 +46,7 @@ Mara miró el río durante mucho tiempo.
 
 —Y esa guarda —dijo Mara—, ¿se hace sola?
 
-—No —dijo Tolina—. Se hace en grupo. Eso es lo primero que aprenden los que guardan: que no se guarda solo. El Archivo no abre para nadie solo. La guarda tampoco. Se guarda entre varios, en círculo, pasándose la custodia de mano en mano, como se pasa un fuego. Y tú, Mara, no eres la que va a guardar sola: eres la que va a pasar la guarda. La que va a enseñar la manera. La que va a hacer que la custodia no se quede en una sola mano, porque si se queda en una sola mano, se vuelve posesión, y la posesión, es la muerte de la guarda.
+—No —dijo Tolina—. Se hace en grupo. Eso es lo primero que aprenden los que guardan: que no se guarda solo. El Archivo no abre para nadie solo. La guarda tampoco. Se guarda entre varios, en círculo, pasándose la custodia de mano en mano, como se pasa un fuego. Y tú, Mara, no eres la que va a guardar sola: eres la que va a pasar la guarda. La que va a enseñar la manera. La que va a hacer que la custodia no quede encerrada en una sola mano: si se queda en una sola, se vuelve posesión, y la posesión, es la muerte de la guarda.
 
 —¿Y quién es la que guarda ahora? —preguntó Mara.
 
@@ -112,7 +112,7 @@ Y desde la puerta de la casa de los registros, con el valle delante, con la here
 
 Al día siguiente, Mara se encontró con el círculo en la explanada del valle, delante de la mano baja. No habían quedado: se encontraron, como se encontraban los que sembraban lo mismo, sin citarse. Amara estaba, y Valeria, y Marcos, y Ivo, y Elías. Y Tolina. Y la joven de la nave, que se llamaba **Elna**, y que ya no miraba el valle como quien lo visita: lo miraba como quien ha llegado.
 
-—Me han dicho —dijo Amara, con la emoción quebrada porque sabía lo que iba a oír—, que te van a nombrar guardiana. Que Tolina te ha escogido.
+—Me han dicho —dijo Amara, y se apretó los labios un instante, porque sabía lo que iba a oír—, que te van a nombrar guardiana. Que Tolina te ha escogido.
 
 —No me han nombrado nada —dijo Mara, tranquila—. La guarda no se nombra. Se presenta, y se acepta, o se deja pasar. Y yo no he aceptado ni he dejado pasar. He comprendido.
 
@@ -136,7 +136,7 @@ Los siete, delante de la mano baja, con la estrella encendida arriba, con la pre
 
 Esa noche, Mara estuvo sola en el valle, junto a la mano baja.
 
-No había luna. El cielo estaba lleno de estrellas, y entre ellas, quieta, blanca, la estrella de la señal, la que los del valle llamaban la Cueva, la que ya no parpadeaba porque no era un faro: era un camino.
+No había luna. El cielo estaba lleno de estrellas, y entre ellas, quieta, blanca, la estrella de la señal, la que los del valle llamaban la Cueva, la que ya no parpadeaba porque ya era un camino, y no un faro.
 
 Mara se sentó en la tierra, delante de la mano, con las manos abiertas sobre las rodillas, y se quedó mirando la espiral mucho tiempo.
 

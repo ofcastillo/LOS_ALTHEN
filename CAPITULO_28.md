@@ -10,7 +10,7 @@ Aldor la resolvió con el tiempo, olvidando; resolvió la pregunta sin saber que
 
 Pero Veda no la resolvió.
 
-Veda, la que guardaba todo, la que registraba cada decisión y cada semilla, la que había pasado la vida midiendo y archivando para que nada se perdiera, esa Veda no podía resolverla. Porque la pregunta de los dos hogares, para ella, no era una pregunta: era un problema. Y los problemas tienen solución, y ella no encontraba la solución, y no encontrar una solución a algo que llevaba planteado desde que la División empezó, era para ella no una tristeza sino una falla: una falla en su método, en su registro, en cómo el mundo debía funcionar.
+Veda, la que guardaba todo, la que registraba cada decisión y cada semilla, la que había pasado la vida midiendo y archivando para que nada se perdiera, esa Veda no podía resolverla. Porque la pregunta de los dos hogares, para ella, no era una pregunta: era un problema. Y los problemas tienen solución, y ella no encontraba la solución, y no encontrar una solución a algo que llevaba planteado desde que la División empezó, era para ella una falla, y no una tristeza: una falla en su método, en su registro, en cómo el mundo debía funcionar.
 
 —No entiendo —le dijo a Aldor, una noche, a la orilla del río, con las manos apretadas sobre las rodillas, con la voz de quien ha estado mucho tiempo sin hablar para poder hablar de una vez—. Los tres lo han resuelto. Tú sin memoria. Lyra con la entrega. Vex con el viaje. Y yo sigo con la pregunta abierta, sin atinar cuál es el hogar, sin poder archivarla, sin poder cerrarla en ninguna parte. ¿Qué me pasa, Aldor? ¿Qué fallo tiene mi manera de guardar, que no me deja guardar esta pregunta?
 
@@ -22,17 +22,17 @@ Aldor miró el río, con la lentitud de los que ya han visto pasar bastante como
 
 Aldor pensó mucho tiempo. Y cuando habló, su voz era la de alguien que había tardado muchas noches en encontrar el modo de decir algo que no se podía decir fácil.
 
-—Los que guardamos mucho —dijo—, acabamos creyendo que lo que no podemos guardar no existe, o que no merece la pena. Pero hay cosas, Veda, que no se pueden guardar porque su manera de ser guardadas es otra. La pregunta de los dos hogares no se guarda en un lugar: se guarda en el tiempo. No se archiva: se vive. Y lo que se vive, no se puede guardar para después. Se vive, y se pierde, y eso que se pierde es precisamente lo que se guarda.
+—Los que guardamos mucho —dijo—, acabamos creyendo que lo que no podemos guardar no existe, o que no merece la pena. Pero hay cosas, Veda, que no se pueden guardar porque su manera de ser guardadas es otra. La pregunta de los dos hogares se guarda en el tiempo, y no en un lugar. No se archiva. Se vive. Y lo que se vive, no se puede guardar para después. Se vive, y se pierde, y eso que se pierde es precisamente lo que se guarda.
 
 —No entiendo —dijo Veda, y la honestidad de la frase le dolía, porque para ella no entender era el fracaso más grande—. No entiendo cómo se guarda algo perdiéndolo.
 
-—Como se guarda el agua —dijo Aldor—. Como se guarda la luz. Como se guarda la tarde de un día: no guardándola, sino estando en ella. Lo que guardas del río no se guarda en un archivo: se guarda en cómo lo miraste. Cuando miras el río, Veda, no lo estás guardando: lo estás viviendo. Y lo vivido, aunque no quede nada escrito, queda. Queda de una manera que no se puede medir, que no se puede archivar, que no se puede abrir en un laboratorio. Y eso, para ti, que mides todo, es lo más difícil de aceptar.
+—Como se guarda el agua —dijo Aldor—. Como se guarda la luz. Como se guarda la tarde de un día: sin guardarla; estando en ella. Lo que guardas del río se guarda en cómo lo miraste, y no en un archivo. Cuando miras el río, Veda, lo estás viviendo, no guardándolo. Y lo vivido, aunque no quede nada escrito, queda. Queda de una manera que no se puede medir, que no se puede archivar, que no se puede abrir en un laboratorio. Y eso, para ti, que mides todo, es lo más difícil de aceptar.
 
-—¿Y si se pierde? —preguntó Veda, con la emoción quebrada—. ¿Y si lo vivido, al no escribirse, se pierde? ¿Y si nadie lo recuerda sin mi registro? ¿Y si todo esto, el valle, la canción, la manera de preguntar, se pierde porque yo no pude guardarlo?
+—¿Y si se pierde? —preguntó Veda, y cerró las manos sobre los registros, como si con cerrarlas pudiera defenderlos—. ¿Y si lo vivido, al no escribirse, se pierde? ¿Y si nadie lo recuerda sin mi registro? ¿Y si todo esto, el valle, la canción, la manera de preguntar, se pierde porque yo no pude guardarlo?
 
 —Entonces —dijo Aldor, con una paz que a Veda le pareció incomprensible—, se habrá guardado en la única manera en que se queda: en las vidas que lo tocaron. Lo que se vive, Veda, no necesita que lo escriban: necesita que lo siga viviendo alguien. El registro sirve para las cosas que se pueden registrar. La semilla, no. La semilla no se archiva: se siembra. Y lo sembrado no se guarda: crece, y creciendo se transforma, y transformándose se aleja de lo que era y se acerca a lo que va a ser. Y eso, tú que mides todo, no lo puedes medir: lo puedes ver.
 
-Veda miró el río durante mucho tiempo. Y por primera vez en su vida, comprendió — no con la cabeza, no con el método, sino con otra cosa, una cosa que nunca había usado porque siempre había creído que no servía para nada — que había cosas que se guardan no midiéndolas sino viéndolas.
+Veda miró el río durante mucho tiempo. Y por primera vez en su vida, comprendió — no con la cabeza, no con el método, sino con otra cosa, una cosa que nunca había usado porque siempre había creído que no servía para nada — que había cosas que se guardan viéndolas, no midiéndolas.
 
 ---
 
@@ -84,7 +84,7 @@ Lyra la miró. Y en sus ojos, Veda vio lo que no se puede medir: la comprensión
 
 —No es tarde —dijo Lyra, suave—. No es tarde, Veda. Lo que se aprende a soltar, se aprende cuando se aprende. Y aprenderlo a destiempo, es aprenderlo con más fuerza, porque llega después de haber guardado, y el que ha guardado y suelta, sabe el valor de lo que suelta mejor que el que suelta porque nunca ha tenido.
 
-—¿Y si me equivoco? —preguntó Veda, con la emoción quebrada, la pregunta de siempre, la del método, la de su vida entera.
+—¿Y si me equivoco? —preguntó Veda, y la mano quedó a media altura sobre la página, quieta—, la pregunta de siempre, la del método, la de su vida entera.
 
 —Entonces —dijo Lyra—, te equivocarás. Y te equivocarás sabiendo que elegiste, que soltaste, que viviste una vez sin archivar. Y eso, Veda, aunque la quieras medir, no entra en la medida: entra en el recuerdo. Y yo lo recordaré. Y eso será un registro. El único que vale.
 
@@ -146,7 +146,7 @@ Veda miró el río, con las palmas abiertas sobre las rodillas, sin guardar nada
 
 Y el río pasó. Y la noche pasó. Y la generación pasó.
 
-Y lo que Veda soltó aquella noche — la guarda, el método, el modo de guardar lo que se mide, la certeza de que lo que no se guarda se pierde — se fue soltando también, de ella a los que la conocieron, de los que la conocieron al valle, del valle a las historias, de las historias a las canciones, de las canciones a los niños que, siglos después, se sentarían delante de la misma mano de piedra y no sabrían que la manera de mirarla, abierta, sin guardar nada, era una manera que una mujer llamada Veda había encontrado, una noche, a la orilla de un río que cantaba sin permiso.
+Y lo que Veda soltó aquella noche — la guarda, el método, el modo de guardar lo que se mide, la certeza de que lo que no se guarda se pierde, esa certeza también se fue soltando de ella, de Veda a los que la conocieron, de los que la conocieron al valle, del valle a las historias, de las historias a las canciones, de las canciones a los niños que, siglos después, se sentarían delante de la misma mano de piedra y no sabrían que la manera de mirarla, abierta, sin guardar nada, era una manera que una mujer llamada Veda había encontrado, una noche, a la orilla de un río que cantaba sin permiso.
 
 Los dos hogares no se guardan.
 

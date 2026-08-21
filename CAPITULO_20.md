@@ -8,7 +8,7 @@ No viajó con una flota. No viajó con un ejército. No viajó con los que se ha
 
 Viajó solo.
 
-Vex viajó solo, en una nave pequeña, como las que usaban los mensajeros de Vaelen, las que no estaban hechas para la guerra ni para la gloria sino para el único viaje que importaba: el de alguien que tiene algo que decirle a alguien. Y Vex tenía algo que decirle a su padre. Lo había tenido durante años. Lo llevaba tan apretado dentro que a veces creía que se le iba a abrir el pecho.
+Vex viajó solo, en una nave pequeña, como las que usaban los mensajeros de Vaelen, las que estaban hechas para un solo viaje: el de alguien que tiene algo que decirle a alguien. Y Vex tenía algo que decirle a su padre. Lo había tenido durante años. Lo llevaba tan apretado dentro que a veces creía que se le iba a abrir el pecho.
 
 El viaje duró lo que duraban los viajes de los mensajeros: el tiempo de pensarlo. Y Vex se lo pensó, entero, mientras la nave cruzaba la distancia que separaba dos mundos que no sabían nada el uno del otro.
 
@@ -110,7 +110,7 @@ Aldor lo reconoció, sí. Lo reconoció como se reconoce a un nombre que está e
 
 Y Vex comprendió que no había promesa. Que nunca había habido una promesa que su padre hubiera sabido que hizo. Que la promesa había existido solo en su cabeza, en el cuenco donde había ido guardando las palabras que nadie le había dicho, en el sitio donde se había construido a un padre que lo iba a esperar.
 
-—Nada —dijo Vex, quebrado—. No hay promesa. No había promesa. La promesa me la hice yo. Me la hice, y te la eché en cara a ti, y era mía. La culpa era mía.
+—Nada —dijo Vex, y soltó el aire de una vez, como quien deja caer un peso que llevaba años—. No hay promesa. No había promesa. La promesa me la hice yo. Me la hice, y te la eché en cara a ti, y era mía. La culpa era mía.
 
 —¿La culpa? —dijo Aldor—. ¿De qué culpa hablas, hijo?
 

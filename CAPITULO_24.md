@@ -52,7 +52,7 @@ Tolina pensó mucho tiempo. Y cuando habló, su voz era la de alguien que ha est
 
 —Yo tampoco tengo sitio de donde venir —dijo—. Nací en la nave. Nunca vi Vaelen. Mi mar es un sueño. Y sin embargo me voy a buscarlo, y me voy con el recuerdo de los que otros me han contado, y ese recuerdo, aunque no sea mío, me da la fuerza para partir. Vex, el sitio de donde vienes se agranda al darlo, y no se queda contigo si te lo quedas. El mar que le des a Tolina, lo lleva Tolina. Pero el mar que te quedes tú, no lo lleva nadie. Se queda contigo, y se muere contigo, y cuando tú mueras, no habrá nadie en la Tierra que recuerde que existió Vaelen.
 
-—¿Y qué prefieres —dijo Vex, quebrado—, que muera el recuerdo conmigo, o que se vaya con vosotros a buscar un mar que nunca he vuelto a ver?
+—¿Y qué prefieres —dijo Vex, y bajó la mano que tenía tendida—, que muera el recuerdo conmigo, o que se vaya con vosotros a buscar un mar que nunca he vuelto a ver?
 
 Tolina no respondió. No hacía falta. La respuesta estaba en los dos lados de la pregunta, y los dos dolían igual.
 
@@ -70,7 +70,7 @@ Vex miró a Tolina. Y por un instante, en sus ojos, vio el mar plateado que hab�
 
 Esa noche, Vex habló durante horas.
 
-Le contó a Tolina el mar. Le contó la plata, el silencio, los campos que susurraban, el peso del aire que no pesaba, las preguntas que se oían de tan claras que eran. Le contó el color del cielo al atardecer, que no era ni rojo ni azul sino el color de la plata caliente. Le contó los nombres de las estrellas de Vaelen, que no eran como las de aquí, que formaban una espiral que giraba lenta, que los viejos de su mundo llamaban *la Peine* porque parecía un peine peinando el cielo. Le contó la manera de saludar de su pueblo, que no era con las manos sino con una inclinación que significaba *te veo y me dejo ver*. Y le contó la canción de su casa, la que cantaba su madre, distinta de la canción del trueno de Lyra, más antigua, más callada, la que se cantaba para que los niños no tuvieran miedo de la oscuridad.
+Le contó a Tolina el mar. Le contó la plata, el silencio, los campos que susurraban, el peso del aire que no pesaba, las preguntas que se oían de tan claras que eran. Le contó el color del cielo al atardecer, el color de la plata caliente, ni rojo ni azul. Le contó los nombres de las estrellas de Vaelen, que no eran como las de aquí, que formaban una espiral que giraba lenta, que los viejos de su mundo llamaban *la Peine* porque parecía un peine peinando el cielo. Le contó la manera de saludar de su pueblo, que no era con las manos sino con una inclinación que significaba *te veo y me dejo ver*. Y le contó la canción de su casa, la que cantaba su madre, distinta de la canción del trueno de Lyra, más antigua, más callada, la que se cantaba para que los niños no tuvieran miedo de la oscuridad.
 
 Tolina no escribió nada. No tenía con qué. Lo guardó en la memoria, con la misma exactitud con que Vex se la había dado, y cuando terminó, le dijo:
 

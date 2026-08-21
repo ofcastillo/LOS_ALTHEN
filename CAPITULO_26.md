@@ -12,7 +12,7 @@ Y los que tenían que venir, la vieron encenderse.
 
 Tolina la vio desde la nave.
 
-Llevaba años de viaje — los viajes de Vaelen no se miden en años de calendario sino en años de vida; se miden en las generaciones que pasan, en los que envejecen a bordo y en los que nacen a bordo, en la memoria que se va pasando de mano en mano como se pasa un fuego. Tolina había partido siendo joven, con el recuerdo del mar que Vex le había contado dos veces, y ahora era vieja, y había visto nacer y envejecer y morir a los que iban con ella, y había transmitido el recuerdo del mar a los que no lo habían oído, y el recuerdo, contado dos veces y muchas veces más, seguía vivo, y seguía exacto, porque el recuerdo, cuando se lo da uno que lo vivió, se custodia, y no se borra con el tiempo.
+Llevaba años de viaje — los viajes de Vaelen no se miden en años de calendario: en años de vida; en las generaciones que pasan, en los que envejecen a bordo y en los que nacen a bordo, en la memoria que se va pasando de mano en mano como se pasa un fuego. Tolina había partido siendo joven, con el recuerdo del mar que Vex le había contado dos veces, y ahora era vieja, y había visto nacer y envejecer y morir a los que iban con ella, y había transmitido el recuerdo del mar a los que no lo habían oído, y el recuerdo, contado dos veces y muchas veces más, seguía vivo, y seguía exacto, porque el recuerdo, cuando se lo da uno que lo vivió, se custodia, y no se borra con el tiempo.
 
 Y una noche, mientras la nave cruzaba la soledad entre los mundos, Tolina vio un punto de luz que no estaba antes.
 
@@ -92,7 +92,7 @@ No por lo que decía. Porque en la voz de la niña, en la manera de decirla, Tol
 
 Tolina miró a la niña, a la que se llamaba Odra como la que llevaba la custodia de la mano, y comprendió que el valle había seguido haciendo lo que los que se quedan siempre hacen: pasar la mano de una a otra, sin guardarla para nadie, sin soltarla, para que estuviera tendida cuando tuviera que estar tendida.
 
-—¿Y me deja tu abuela verla? —preguntó Tolina, con la emoción quebrada.
+—¿Y me deja tu abuela verla? —preguntó Tolina, y apretó las manos una contra otra, como quien no se atreve todavía a pedir.
 
 —No hay que pedir permiso —dijo la niña—. La mano no es de nadie. La mano es de todos los que la esperan. Y tú llevas esperándola mucho tiempo, ¿verdad? Se te nota. Se te nota en el modo de mirar. Los que esperan miran como miras tú: como si estuvieran guardando algo que todavía no han visto.
 
@@ -102,7 +102,7 @@ Odra, la guarda, la que silbaba, estaba sentada en la explanada, junto a la mano
 
 —Has tardado —dijo Odra, con el temple de los muy viejos, de las que ya están de vuelta de todo—. Pero has llegado. Y llegar, cuando se tarda tanto, es lo que importa.
 
-—Me he perdido —dijo Tolina, con un tono extraño—. No, no me he perdido. He hecho el viaje entero sin perderme. Pero al llegar no sé si estoy en el sitio.
+—Me he perdido —dijo Tolina, y se miró las manos abiertas, sin reconocerlas—. No, no me he perdido. He hecho el viaje entero sin perderme. Pero al llegar no sé si estoy en el sitio.
 
 —Estás en el sitio —dijo Odra—. Llevas en el sitio desde que se encendió la señal. Lo que pasa es que no sabes qué sitio es. Y eso es lo primero que se aprende aquí, Tolina: que el sitio no se encuentra. El sitio se reconoce. Y tú, que has esperado toda la vida, eres de las que reconocen.
 
@@ -156,7 +156,7 @@ Palma contra palma, a distancia, el gesto de *te veo y me dejo ver*, el gesto qu
 
 Odra la miró. Y con la lentitud de las viejas, con la paz de las que han esperado, tendió su mano y la puso sobre la de Tolina, palma con palma, y así se quedaron, un momento, las dos, en el centro del valle, delante de la mano de piedra que ya no esperaba a nadie, porque el que esperaba había llegado.
 
-—Bienvenida de vuelta —dijo Odra, con la voz quebrada—. De vuelta a la única casa que no se elige: la que se llega a ser.
+—Bienvenida de vuelta —dijo Odra, y le tendió las dos manos—. De vuelta a la única casa que no se elige: la que se llega a ser.
 
 —No he vuelto —dijo Tolina, con la voz que le temblaba—. Llego. Es la primera vez. No he visto nunca este río. No he pisado nunca esta tierra. No he tocado nunca esta mano.
 
@@ -180,7 +180,7 @@ Esa noche, Tolina no durmió.
 
 Se sentó a la orilla del río, como hacía Vex, como hacía Aldor, como hacían los viejos del valle, y miró el agua que cantaba sin permiso, y contó, una vez más, el recuerdo del mar. Se lo contó al río, en voz baja, como se cuentan las cosas que no se pueden guardar, y el río lo escuchó sin respuesta, como escuchaba el río a los que le contaban sus cosas.
 
-Y cuando terminó, cuando calló, con el recuerdo del mar dormido dentro, ya no en su memoria sino en el río del valle, compartido, entregado, vivo, Tolina comprendió que su viaje había terminado, y que lo que empezaba era otra cosa, una cosa que no tenía nombre y que sin embargo era de los dos lados: del mar que había traído y del río que había encontrado.
+Y cuando terminó, cuando calló, con el recuerdo del mar dormido dentro, ya en el río del valle, compartido, entregado, vivo, Tolina comprendió que su viaje había terminado, y que lo que empezaba era otra cosa, una cosa que no tenía nombre y que sin embargo era de los dos lados: del mar que había traído y del río que había encontrado.
 
 Los viejos del valle decían que el que llega de donde tú vienes y reconoce donde tú estás, es de los dos sitios a la vez.
 

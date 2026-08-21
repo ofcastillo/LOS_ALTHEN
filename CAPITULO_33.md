@@ -42,7 +42,7 @@ Amara la miró. Y comprendió, con una claridad que le dolía como duelen las ve
 
 No había elegido el valle: había llegado, como llega todo el mundo, por unas cosas que llevaban a otras. No había elegido ser lingüista: le había salido, como le salen los dones, sin que ella lo hubiera pedido. No había elegido ser madre de la que oía el Archivo: el Archivo se le había presentado una noche, en la voz dormida de su hija, y ella no había tenido nada que decir en el asunto. No había elegido el círculo, ni la cueva, ni la mano, ni la guarda. Todo lo había recibido. Todo había llegado sin avisar, como llega la luz del día, y ella, como todo el mundo, se había quedado.
 
-—No elegí nada —dijo Amara, quebrada—. No elegí nada, Mara. Y llevaba años sin darme cuenta. Y ahora, que la pregunta de los dos hogares está en el aire, la pregunta que me hacen todos: ¿qué eliges? Y yo descubro que no he elegido nada. Que esta casa me vino, este valle me vino, esta hija me vino, esta vida me vino. Y no sé si eso es una elección o es una rendición.
+—No elegí nada —dijo Amara, y se miró las manos abiertas, como si de pronto no las reconociera—. No elegí nada, Mara. Y llevaba años sin darme cuenta. Y ahora, que la pregunta de los dos hogares está en el aire, la pregunta que me hacen todos: ¿qué eliges? Y yo descubro que no he elegido nada. Que esta casa me vino, este valle me vino, esta hija me vino, esta vida me vino. Y no sé si eso es una elección o es una rendición.
 
 ---
 
@@ -80,7 +80,7 @@ Callaron. El café humeaba. La nave, arriba, brillaba en la luz de la mañana.
 
 —Esa —dijo Valeria, al fin, con la voz con que había escrito los libros, la de quien sabe que está diciendo una verdad importante— es la pregunta que el mundo entero se está haciendo en estos meses sin saber que se la está haciendo. Los que no eligieron su tierra. Los que vivieron siempre en un sitio que no buscaron. Los que se quedaron en el pueblo, en la ciudad, en la casa, en el trabajo, sin haberlo elegido nunca, y que ahora miran la señal y se preguntan: ¿qué elijo yo, si yo no he elegido nunca?
 
-—Yo nunca elegí vivir aquí —dijo Elías, con un tono extraño—. El valle me dio asilo cuando huía de Vertex. Llegué porque no tenía adónde ir. Y me quedó el taller, y los relojes, y el pueblo, y me quedó esto. No lo elegí. Me ocupó.
+—Yo nunca elegí vivir aquí —dijo Elías, y giró un reloj del taller entre los dedos, sin mirarlo—. El valle me dio asilo cuando huía de Vertex. Llegué porque no tenía adónde ir. Y me quedó el taller, y los relojes, y el pueblo, y me quedó esto. No lo elegí. Me ocupó.
 
 —Yo elegí quedarme —dijo Ivo, con el registro de sus tiempos de periodista, de cuando afirmaba sin dudar—. Yo sí. Y elegir, cuando lo haces, te sale caro: te marca, te obliga, te quita el derecho a lamentarte. Elegí quedarme, y he pagado, desde entonces, el precio de haber elegido.
 
@@ -94,7 +94,7 @@ El círculo enmudeció.
 
 ---
 
-En esa cocina, con los cinco alrededor de la mesa, con el café y la vida, ocurrió una de las cosas que ocurren pocas veces y que cambian a la gente para siempre: ocurrió que la pregunta se respondió no con una respuesta, sino con una comprensión.
+En esa cocina, con los cinco alrededor de la mesa, con el café y la vida, ocurrió una de las cosas que ocurren pocas veces y que cambian a la gente para siempre: ocurrió que la pregunta se respondió con una comprensión, no con una respuesta.
 
 La comprendió Amara primero. La tuvo un momento, sin atinar a qué hacer con ella, y luego se la dio a los demás, como se dan las cosas que no se pueden guardar.
 
@@ -150,7 +150,7 @@ Y cuando los abrió, miró la casa. La miró como se mira una casa que no elegis
 
 Que el que no eligió su hogar, lo eligió después, en el gesto de quedarse, en el modo de volver a la misma puerta, en la manera de poner la taza en la misma mesa, en la manera de no irse.
 
-Y que esa elección, la más callada, la más larga, la de todos los días, era la respuesta a la pregunta que la señal había traído desde Vaelen para ella: la respuesta de los que no tienen dos hogares, sino uno solo, el que les tocó, y que sin embargo lo eligen todos los días, con la vida entera, sin decirlo, sin darse cuenta de que lo dicen.
+Y que esa elección, la más callada, la más larga, la de todos los días, era la respuesta a la pregunta que la señal había traído desde Vaelen para ella: la respuesta de los que tienen un solo hogar, el que les tocó, y que sin embargo lo eligen todos los días, con la vida entera, sin decirlo, sin darse cuenta de que lo dicen.
 
 Amara se detuvo un momento en la cocina, con la noche, con la nave, con su casa.
 
