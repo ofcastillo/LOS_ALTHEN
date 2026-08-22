@@ -74,7 +74,7 @@ Y la flor de dos colores, la del jardín del paso, la que había sido sembrada e
 
 Y del gran edificio que el mundo había querido levantar para custodiar todo esto, no quedó nada que contar: quedó vacío, y vacío se fue quedando con los años, porque no había nada que ponerle dentro — la semilla se sembraba, la flor florecía, el Archivo se abría en grupo, la mano servía de asiento, y ninguna de esas cosas cupo jamás en una sala con clima y con guardias. Solo una de aquellas salas llegó a usarse, y no para lo que se había pensado. En una ciudad del norte, en la planta baja de lo que iba a ser bóveda y acabó siendo biblioteca de barrio, trabajó durante años un hombre muy viejo que colocaba libros y no hablaba casi con nadie. Se llamaba Ardal. Había tenido, mucho tiempo atrás, una fundación entera, un abrigo bueno, un pin en la solapa y una certeza; y una mañana, delante de una mano de piedra, una niña le había hecho una pregunta que no supo contestar. Se pasó el resto de la vida haciéndosela cada semana, siempre la misma — *¿quién soy, cuando nadie me mira?* —, y anotando la respuesta al final de un cuaderno que no le enseñó a nadie. Nunca le salió la misma respuesta dos veces. Él lo tomaba por buena señal.
 
-Algunas veces, en las ciudades, se veían aún los planos de aquel edificio, en los ministerios, en los archivos; y los que los miraban, se reían con una risa que ya era de la heredad, porque al fin entendían que el mundo había estado a punto de construir una bóveda para guardar el viento. Y en el edificio vacío hubo, durante años, un solo ocupante: un viejo bibliotecario que entraba cada semana, se sentaba en la sala más grande, y se hacía en voz baja la misma pregunta —¿quién soy cuando nadie me mira?—, y cada semana la respuesta era distinta, porque la pregunta, cuando se hace de verdad, se va haciendo, como se hace una vida. Los guardias, al principio, quisieron echarlo; con los años, dejaron de intentarlo: el viejo, decían, era lo único que cabía en aquella bóveda — una pregunta que no se gastaba, en el edificio que se había construido para guardar el viento. Y la comisión, la de las custodias, terminó haciendo lo que hacía toda la gente con la herencia: terminó sentándose — con Sira, con el círculo, con los que llegaban —, abriendo las manos, callando. Porque la heredad, que no se dejó nombrar, no se dejó tampoco guardar; y se entregó entera a los que renunciaron a custodiarla.
+Algunas veces, en las ciudades, se veían aún los planos de aquel edificio, en los ministerios, en los archivos; y los que los miraban, se reían con una risa que ya era de la heredad, porque al fin entendían que el mundo había estado a punto de construir una bóveda para guardar el viento. Y la comisión, la de las custodias, terminó haciendo lo que hacía toda la gente con la herencia: terminó sentándose — con Sira, con el círculo, con los que llegaban —, abriendo las manos, callando. Porque la heredad, que no se dejó nombrar, no se dejó tampoco guardar; y se entregó entera a los que renunciaron a custodiarla.
 
 Porque así es la heredad final:
 
@@ -102,6 +102,8 @@ Y por eso, hoy, cuando se cierra este libro — el último de la siembra, la her
 *No para que la heredes.*
 *Para que la vivas.*
 *Para que la seas.*
+
+Haz las cuatro preguntas — Memoria, Método, Gesto, Duda — y luego, en silencio, elige.
 
 Y después, el río.
 

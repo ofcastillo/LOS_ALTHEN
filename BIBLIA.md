@@ -144,7 +144,7 @@ Este ritual aparece en los mitos como "el ritual secreto" que los humanos repiti
 - **Línea pasada:** el legado ya sembrado; la memoria de los Ysann se vuelve mito, se distorsiona, se salva en los nombres.
 - **Línea presente:** la humanidad decide. Aceptar la herencia completa (y todo lo que implica) o cerrar el Archivo. Los que partieron regresan — o no.
 - **Eje del volumen:** la comisión nombra a **Sira**, la jardinera más joven, heredera oficial del legado; ella se niega. Su negativa (la herencia que se defiende negándose a ser custodiada) atraviesa C40-C52 y la convierte, al recibir la brasa, en la única heredera real.
-- **Pregunta final (Libro 3 / de la saga):** *"Somos lo que decidimos ser. Ya lo sabes. Ahora responde en silencio: hoy, ¿qué serás?"*
+- **Pregunta final (Libro 3 / de la saga):** el cierre austero entrega el Rito al lector en una sola línea — *"Haz las cuatro preguntas — Memoria, Método, Gesto, Duda — y luego, en silencio, elige."* — y termina en el gesto: *"Y después, el río."* / *Althen.* El quinto paso (Elegir) se convierte en el último gesto del libro, sin explicarse.
 
 ### Libros futuros (saga abierta)
 - "LOS VAELENI" (¿qué encontraron los que partieron?)
@@ -155,14 +155,15 @@ Este ritual aparece en los mitos como "el ritual secreto" que los humanos repiti
 
 ## 8. LA PREGUNTA AL LECTOR (el regalo)
 
-El libro cierra con una sección corta, casi una página, que va dirigida directamente al lector. Borrador:
+**Estado final:** la Pregunta al lector evolucionó hasta su forma más austera. El cierre de la saga ya no predica ni explica la tesis: entrega el Rito al lector en una sola línea, para que lo haga —
 
-> *"Los Althen — los Ysann — aprendieron la única cosa que nos queda cuando lo has perdido todo y aun así eliges amar: que no somos lo que nos hicieron, ni lo que nos quitaron, ni lo que nos contaron.*
-> *Somos lo que decidimos ser.*
-> *Este libro no te ha contado una historia. Te ha dejado una semilla. Ya no tienes excusa para no saber lo que sientes, lo que dudas y de dónde vienes.*
-> *Antes de cerrar esta página, haz el ritual. Es corto.*
-> *Memoria. Método. Gesto. Duda. Y luego: Elige.*
-> *La respuesta no me la des a mí. Dásela a la persona en la que vas a convertirte.*"
+> *"Haz las cuatro preguntas — Memoria, Método, Gesto, Duda — y luego, en silencio, elige."*
+
+— y termina en el gesto: *"Y después, el río."* / *Althen.* El lector que ha recorrido la saga reconoce las cuatro preguntas del Rito (C3, C37) y el quinto paso (Elegir, el que no se dice: se hace), y puede hacerlas de verdad. El ritual sigue saliendo del libro; lo que desapareció es el sermón que lo explicaba.
+
+Borrador original (conservado como referencia del dispositivo):
+
+> *"Los Althen — los Ysann — aprendieron la única cosa que nos queda cuando lo has perdido todo y aun así eliges amar: que no somos lo que nos hicieron, ni lo que nos quitaron, ni lo que nos contaron. Somos lo que decidimos ser. Este libro no te ha contado una historia. Te ha dejado una semilla. Ya no tienes excusa para no saber lo que sientes, lo que dudas y de dónde vienes. Antes de cerrar esta página, haz el ritual. Es corto. Memoria. Método. Gesto. Duda. Y luego: Elige. La respuesta no me la des a mí. Dásela a la persona en la que vas a convertirte."*
 
 ---
 

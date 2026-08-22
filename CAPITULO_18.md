@@ -26,7 +26,7 @@ La citación decía: *«Traed la llave. Y traed la pregunta, si es que de verdad
 
 Ivo la miró. Y luego, con la voz que usaba cuando ya no quedaba más que la verdad, dijo:
 
-—Entonces, habremos hecho lo único que se podía hacer. Y lo que pase después, no lo decidimos nosotros. Lo decide la mano. Y la mano, Amara, lleva doce mil años decidiendo bien.
+—Entonces, habremos hecho lo único que se podía hacer. Y lo que pase después, no lo decidimos nosotros. Lo decide la mano. Y la mano, Amara, lleva milenios decidiendo bien.
 
 —¿Cómo puedes estar tan seguro? —dijo Amara.
 
@@ -254,11 +254,11 @@ Ardal levantó la cabeza. Se le veía que había tardado en entender de quién l
 
 Los focos se apagaron.
 
-No los apagó nadie. Se apagaron solos, como si algo en el valle hubiera decidido que la luz ya no hacía falta. Y en la penumbra del atardecer, delante de la cueva vacía, delante de la mano de piedra, los cinco adultos y la niña se quedaron callados, mirando al hombre que estaba arrodillado en el suelo, que había sido el enemigo, que había sido Vertex, y que acababa de hacer la única cosa que no había hecho nunca.
+No los apagó nadie. Se apagaron solos, como si algo en el valle hubiera decidido que la luz ya no hacía falta. Y en la penumbra del atardecer, delante de la cueva vacía, delante de la mano de piedra, los cuatro adultos y la niña se quedaron callados, mirando al hombre que estaba arrodillado en el suelo, que había sido el enemigo, que había sido Vertex, y que acababa de hacer la única cosa que no había hecho nunca.
 
-Elías apareció desde detrás de la valla. No estaba herido. Estaba libre. Los hombres de Ardal, al ver caer a su jefe, al verlo arrodillado delante de una niña, habían perdido el sentido de lo que estaban haciendo, y Elías simplemente se había levantado y había caminado hacia ellos, y ellos lo habían dejado pasar, porque ya no sabían a quién obedecían.
+Y entonces, desde el borde de la valla, uno de los técnicos se acercó despacio, con el lápiz de memoria en la mano, y se lo dio a Ivo sin decir nada, como quien devuelve lo que ya no le sirve a nadie.
 
-—El lápiz —dijo Elías, entregándole a Ivo el lápiz de memoria—. Lo tenía uno de los técnicos. Cuando vieron lo que pasaba, me lo devolvieron sin que se lo pidiera.
+—Lo tenía uno de los nuestros —dijo, mirando al hombre arrodillado—. Cuando vimos lo que pasaba, decidimos que no había nada que guardar.
 
 Ivo lo tomó. Y miró a Ardal, arrodillado en el valle, con la pregunta dentro, con la mano vacía detrás.
 
