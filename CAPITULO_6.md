@@ -32,7 +32,7 @@ Los años se hicieron siglos. Los siglos se hicieron una niebla donde los nombre
 
 Lyra fue la primera en dejar de recordar que había nacido en una nave.
 
-No fue un olvido. Fue un traspaso. Dejó de soñar en el mar plateado que nunca había visto y empezó a soñar en el río del valle, en los niños que cantaban la canción del trueno, en los campos que cambiaban de color con las estaciones. Una noche, Aldor la encontró sentada a la orilla del agua, mirando las estrellas, y le preguntó si estaba pensando en Vaelen.
+El cambio se le fue haciendo por debajo, sin que ella lo notara. Dejó de soñar en el mar plateado que nunca había visto y empezó a soñar en el río del valle, en los niños que cantaban la canción del trueno, en los campos que cambiaban de color con las estaciones. Una noche, Aldor la encontró sentada a la orilla del agua, mirando las estrellas, y le preguntó si estaba pensando en Vaelen.
 
 —¿Vaelen? —dijo Lyra, y la palabra le sonó extraña, como le suena a uno una canción que ya no se acuerda de dónde la aprendió—. No sé qué es Vaelen. ¿Es un nombre? ¿Es aquí? Todo es aquí, ¿no? El río es aquí. El trueno es aquí. Los niños son aquí. Todo es aquí.
 

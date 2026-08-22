@@ -16,11 +16,11 @@ Fue Valeria quien puso en palabras lo que todos sentían, en voz baja, sin rompe
 
 —Mañana amanece. Y no sé qué va a traer el alba. Y me doy cuenta de que llevo toda la vida esperando albas — la que iba a confirmarme el hallazgo, la que iba a dar la noticia, la que iba a acabar con la incertidumbre, la que iba a traer la respuesta. Y ninguno de esos albas trajo lo que esperaba. Trajeron lo que traían — dijo, con la sabiduría de quien ha aprendido a leer lo que traen las cosas—. Y todo lo que me trajeron lo heredé de otra manera a la que esperaba. Este alba también va a ser así. Y por eso — dijo, sonriendo, con la sonrisa de los que ya no necesitan saber— ya no lo espero. Lo estoy.
 
-—Lo estás —dijo Mara, con la autoridad de la heredera—. Esa es la herencia del alba. No esperar lo que va a venir: estar para lo que viene. Los que vinieron de lejos no nos enseñaron a esperar su regreso: nos enseñaron a estar despiertos. A estar vivos. A estar con las palmas abiertas para lo que llegara, fuera la nave, fuera la flor, fuera el tiempo, fuera la respuesta, fuera una noche más en que no pasa nada y, sin embargo, todo se está heredando. Ellos no dejaron el alba preparado, listo, a la puerta, para cuando llegáramos: dejaron el modo de estar despiertos en el alba. Dejaron el despertar.
+—Lo estás —dijo Mara—. Esa es la herencia del alba: estar para lo que venga, en vez de esperar lo que va a venir. Los que vinieron de lejos no nos enseñaron a esperar su regreso. Nos enseñaron a estar despiertos, aunque sea una noche más en que no pasa nada.
 
 —¿El despertar? —dijo Teresa, la que había oído la señal, la que llevaba años oyendo todo, la que seguía escuchando—
 
-—El despertar —dijo Mara—. Fíjate: la herencia entera es eso. No es una cosa que nos dejaron. Es un estado en el que nos dejaron: el de estar despiertos. No sembraron un tesoro que alguno pudiera guardar: sembraron un despertar que todos pudieran heredar. Sembraron la pregunta, que es el despertar de la mente. Sembraron la duda, que es el despertar de la verdad. Sembraron el silencio, que es el despertar del alma. Sembraron la llegada, que es el despertar del corazón. Y sembraron el alba, que es el despertar de todo: el despertar de los que despiertan a la mañana y heredan, sin saberlo, la vigilia de los que los despertaron.
+—El despertar —dijo Mara—. Fíjate: la herencia entera es eso. No una cosa que nos dejaron, sino un estado en el que nos dejaron. Un tesoro lo guarda uno. Un despertar lo hereda cualquiera que abra los ojos.
 
 ---
 

@@ -142,7 +142,7 @@ Los cuatro callaron.
 
 ---
 
-Cerraron la cueva con una piedra que Veda midió hasta el milímetro, y que encajaba tan bien que parecía que la cueva nunca había tenido boca. Sobre la piedra, Vex pintó con el pigmento rojo un solo símbolo: una espiral que se cerraba sobre sí misma. No era una flecha. No era un mapa. Era, sin que ninguno de los cuatro lo supiera todavía, la forma de la pregunta.
+Cerraron la cueva con una piedra que Veda midió hasta el milímetro, y que encajaba tan bien que parecía que la cueva nunca había tenido boca. Sobre la piedra, Vex pintó con el pigmento rojo un solo símbolo: una espiral que se cerraba sobre sí misma. No señalaba a ninguna parte ni servía para orientarse. Era, sin que ninguno de los cuatro lo supiera todavía, la forma de la pregunta.
 
 —¿Qué significa? —preguntó Lyra.
 

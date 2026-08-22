@@ -34,7 +34,7 @@ Ivo miró el valle, el río, el agujero de la cueva, la línea del horizonte don
 
 En casa de Amara, esa noche, los cuatro se sentaron en el suelo del sótano, entre las cajas de grabaciones, alrededor de una servilleta donde habían dibujado la espiral.
 
-No era un círculo formal. No había piedra. No había cueva. No había nada de lo que habían tenido. Solo estaban ellos, la servilleta, y la melodía que sonaba dentro.
+De lo que habían tenido no les quedaba nada: ni piedra, ni cueva, ni sitio. Solo estaban ellos, la servilleta, y la melodía que sonaba dentro.
 
 —No tenemos nada —dijo Valeria, plana—. Quiero decir, literalmente. Vertex tiene la piedra. Vertex tiene mis datos. Vertex tiene las grabaciones de Amara. Vertex tiene la cueva, la mano, la espiral. Tenemos lo que cabe en esta servilleta y en nuestra memoria. Y ya está.
 

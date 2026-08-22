@@ -6,13 +6,13 @@
 
 La verdad se hizo pública un martes.
 
-No fue un anuncio. No fue una conferencia. No fue un comunicado oficial. Fue, simplemente, que la verdad ya era demasiado grande para seguir siendo de unos pocos, y las cosas que son demasiado grandes acaban desbordándose, sin pedir permiso, como se desborda un río.
+Nadie lo anunció. La verdad se había vuelto demasiado grande para seguir siendo de unos pocos, y las cosas demasiado grandes acaban desbordándose sin pedir permiso, como se desborda un río.
 
 Valeria había publicado su libro hacía dos años. *La mano vacía* se había vendido despacio al principio, como se venden los libros que llegan antes de que el mundo esté listo, y luego se había vendido de prisa, como se venden los libros que llegan justo cuando el mundo empieza a estar listo. No nombraba el valle. No nombraba a nadie. Pero contaba la historia de una mano de piedra que se abría con una melodía, y de una civilización que había llegado a enseñar a preguntar, y de un hombre que había coleccionado respuestas durante cincuenta años hasta que una niña lo arrodilló con una pregunta.
 
 Y el mundo, que había visto el vídeo que nadie sabía quién había subido, y que había oído la melodía en los conciertos, y que había visto las espirales en las camisetas y en los grafitis, empezó a preguntarse si era verdad.
 
-No fue de golpe. Fue como sube el agua: despacio, sin ruido, cubriendo primero lo más bajo. Primero fueron los estudiantes, que hicieron un mitin preguntando si el gobierno sabía algo. Después fueron los científicos, que pidieron ver los datos. Después fueron las iglesias, que pidieron que se aclarara si los dioses habían sido, de verdad, unos visitantes que enseñaron a sembrar. Y después fueron los que habían estado en el valle, los que habían visto la mano de piedra con sus propios ojos, los que se habían sentado delante del espejo de la espiral y se habían hecho una pregunta que los había cambiado.
+Subió como sube el agua: despacio, sin ruido, cubriendo primero lo más bajo. Primero fueron los estudiantes, que hicieron un mitin preguntando si el gobierno sabía algo. Después fueron los científicos, que pidieron ver los datos. Después fueron las iglesias, que pidieron que se aclarara si los dioses habían sido, de verdad, unos visitantes que enseñaron a sembrar. Y después fueron los que habían estado en el valle, los que habían visto la mano de piedra con sus propios ojos, los que se habían sentado delante del espejo de la espiral y se habían hecho una pregunta que los había cambiado.
 
 Y entonces, un martes, el valle dejó de ser un secreto.
 
@@ -26,7 +26,7 @@ El país entero calló. Y después, el país entero habló.
 
 Seis meses después, el valle era otra cosa.
 
-No se había convertido en un santuario. No se había convertido en un parque temático. Se había convertido en el lugar donde la gente iba a pensar, y pensar, en un mundo que no sabe pensar, es lo más revolucionario que hay. Se construyeron caminos, porque la gente llegaba por miles. Se construyó una explanada, porque había que sentarse. No se construyó nada más: no se puso taquilla, no se puso tienda, no se puso valla. El valle seguía abierto, como lo había dejado la vieja Odra, que había muerto con el epitafio *Los que no se van*. Y la mano seguía en su mesa de piedra, con la palma al cielo, con la espiral girando bajo el sol y la lluvia, devolviendo a cada uno lo que llevaba.
+Nadie había puesto allí un santuario ni un parque temático. Se había convertido, por su cuenta, en el lugar donde la gente iba a pensar, y pensar, en un mundo que no sabe pensar, es lo más revolucionario que hay. Se construyeron caminos, porque la gente llegaba por miles. Se construyó una explanada, porque había que sentarse. No se construyó nada más: no se puso taquilla, no se puso tienda, no se puso valla. El valle seguía abierto, como lo había dejado la vieja Odra, que había muerto con el epitafio *Los que no se van*. Y la mano seguía en su mesa de piedra, con la palma al cielo, con la espiral girando bajo el sol y la lluvia, devolviendo a cada uno lo que llevaba.
 
 Los cuatro no se habían vuelto a juntar.
 
@@ -52,7 +52,7 @@ Y las estrellas, en el cielo de la noche, brillaban igual que siempre, como si n
 
 El observatorio se llamaba Vela.
 
-No era grande. Era uno de esos observatorios de segunda fila, de los que nadie recuerda el nombre, que llevan décadas escuchando el cielo con antenas viejas y paciencia vieja. Estaba en mitad de una meseta, lejos de todo, y en el pueblo más cercano nadie sabía muy bien para qué servía, salvo que escuchaba el espacio, y que escucharlo era, según los que trabajaban allí, como escuchar a alguien que no habla, por si algún día habla.
+Era uno de esos observatorios de segunda fila, de los que nadie recuerda el nombre, que llevan décadas escuchando el cielo con antenas viejas y paciencia vieja. Estaba en mitad de una meseta, lejos de todo, y en el pueblo más cercano nadie sabía muy bien para qué servía, salvo que escuchaba el espacio, y que escucharlo era, según los que trabajaban allí, como escuchar a alguien que no habla, por si algún día habla.
 
 La que oyó la voz fue una becaria.
 
@@ -142,7 +142,7 @@ En el valle, la mano de piedra no hizo nada.
 
 Siguió en su mesa, con la palma al cielo, con la espiral girando bajo la luz. No tembló. No brilló. No devolvió ningún mensaje. La mano no había sido nunca un receptor: había sido un espejo, y los espejos no guardan mensajes, devuelven miradas.
 
-Pero esa noche, una niña del valle, nieta de la vieja Odra, que tenía la misma costumbre de su abuela de silbar por cumplir la costumbre, se sentó delante de la mano, como hacía su abuela, y silbó la melodía. Las cinco notas. La dejó sonando un rato, en el silencio del valle, bajo las estrellas.
+Pero esa noche, una niña del valle, de la casa de las Odras — la familia que llevaba silbando delante de la cueva desde mucho antes de que nadie recordara por qué —, se sentó delante de la mano, como se había sentado siempre alguna de las suyas, y silbó la melodía. Las cinco notas. La dejó sonando un rato, en el silencio del valle, bajo las estrellas.
 
 Y al terminar, permaneció un momento con la cabeza levantada, mirando el cielo.
 

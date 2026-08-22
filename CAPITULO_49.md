@@ -52,9 +52,9 @@ Fue la vieja de la fuente la que resolvió la duda. No con un discurso: con una 
 
 —Y los que llegan —dijo la vieja—, ¿son todos?
 
-Se quedaron callados. Y la vieja dijo, con la voz de las que han vivido muchas sequías, la que sabía que la sequía de tres años no era nada junto a la sequía de tres generaciones, la que sabía que el agua de la fuente no se heredaba con escrituras. Se heredaba con el gesto:
+Se quedaron callados. Y la vieja —que había repartido el turno de riego de aquel pueblo durante cuarenta años, y que sabía de memoria qué bancal bebía antes que cuál y por qué— contestó como contestaba siempre: contando lo que había visto:
 
-—Los que llegaron —dijo— nos enseñaron la regla del agua, y la regla dice que el que llega bebe primero. No dice que el que llega sea del pueblo. Dice que el agua es del que llega, del mismo modo que es del que está. El agua, cuando se guarda para quedársela, se vuelve otra cosa: deja de ser agua y se hace cerrojo. El agua de verdad es la que se da. Y si hoy guardamos el agua para quedárnosla, habremos matado la herencia — porque la herencia del agua se llama la manera, y la manera es otra cosa que el agua. Y la manera dice: comparte antes de guardar. Reparte el agua, que la fuente nos dará la que haga falta. El agua que se da se multiplica, donde no se ve — nunca se pierde. El que comparte su agua se queda sin miedo, y eso vale más que quedarse con agua. Y sin miedo —dijo la vieja—, el agua alcanza.
+—Yo he repartido el agua de esta fuente cuarenta años —dijo—. Y el turno nunca ha empezado por el que más tierra tiene. Empieza por el que llega con el cántaro vacío. Eso no lo puse yo: eso venía puesto. La regla dice que el que llega bebe primero, y no dice que el que llega sea del pueblo. El agua, cuando se guarda para quedársela, se vuelve otra cosa: deja de ser agua y se hace cerrojo. El agua de verdad es la que se da. Y si hoy guardamos el agua para quedárnosla, habremos matado la herencia — porque la herencia del agua se llama la manera, y la manera es otra cosa que el agua. Y la manera dice: comparte antes de guardar. Reparte el agua, que la fuente nos dará la que haga falta. El agua que se da se multiplica, donde no se ve — nunca se pierde. El que comparte su agua se queda sin miedo, y eso vale más que quedarse con agua. Y sin miedo —dijo la vieja—, el agua alcanza.
 
 Y ese día, en el pueblo de la fuente, se repartió el agua. Se repartió entre todos — los del pueblo y los que llegaban, los ancianos y los niños, el ganado lo justo — y se repartió con el gesto aprendido: despacio, mirando, agradeciendo, compartiendo antes de guardar. Y al repartirla, se comprendió — en el pueblo de la fuente, en el año tercero de la sequía — lo que la herencia del agua había venido diciendo desde antes de que hubiera memoria: que el agua alcanza cuando se comparte. Que la fuente no dio más agua porque la repartieron — la fuente sigue siendo la misma fuente, la que brota en el fondo de la tierra desentendida de leyes ni de repartos — pero que al repartirla, el que la repartía ya no tenía sed: no tenía miedo. Y el miedo — comprendieron — era la sequía verdadera. El miedo era el que secaba los pozos, el que encerraba el agua, el que mataba los pueblos de fuente en cuanto llegaba el año malo. Y la manera que habían heredado de los primeros — el gesto de compartir antes de guardar — era, simplemente, la forma de no tener miedo.
 
@@ -84,7 +84,7 @@ Y en la fuente, esa noche, un sediento llegó con las manos abiertas, y el agua 
 
 Ivo, que dudaba de todo, hasta de la fuente, contestó con la duda de quien ha aprendido a dudar en círculo:
 
-—Si no se la entregamos, el mundo la encierra igual. No nos va a pedir permiso: pedirá el agua con sus medidores y nosotros le diremos que el agua no se mide, y el mundo contestará que todo se mide, y dentro de diez años la fuente tendrá su llave sin que nadie sepa cómo. Negarse es bonito y no sirve para nada —dijo—. Lo que hay que decidir no es si el mundo la encierra. Es qué hacemos mientras tanto.
+—Si no se la entregamos, el mundo la encierra igual. Un caudal se mide, y ellos saben medirlo. Pedirán el agua con sus aforos y nosotros diremos que el agua no se mide, y el mundo contestará que todo se mide, y dentro de diez años la fuente tendrá su llave sin que nadie sepa cómo. Negarse es bonito y no sirve para nada —dijo—. Lo que hay que decidir no es si el mundo la encierra. Es qué hacemos mientras tanto.
 
 Y Amara, la que sentía antes de entender, la que había leído los archivos de los primeros, se sentó al borde de la fuente y dijo lo que le salía de adentro:
 
@@ -98,6 +98,24 @@ Y por eso, en los años de la custodia, cuando la comisión vino a proponer el e
 
 —El agua encerrada se pudre. Siempre se ha dicho en este pueblo, y se dirá: el agua que se guarda deja de ser agua. Al agua se le deja su paso, y se la comparte antes de guardarla; y el que la encierra para tenerla, se queda con un estanque, y pierde la fuente. Así que no hace falta que la custodien. La fuente ya tiene su custodia, y la tiene desde antes de que hubiera pueblo: la tiene la regla, que no está escrita y que no se pudre. La regla es el agua.
 
-La comisión no entendió. La comisión solo entendía lo que se podía medir, y la regla no se medía. Y la comisión se fue sin el agua, y la fuente siguió brotando, y el pueblo siguió compartiéndola antes de guardarla, y cuando esos visitantes se fueron, contó por los valles que el agua de la fuente no se la pudieron llevar — porque el agua, como la heredad, se da, y no se entrega.
+La comisión escuchó con educación. Tomó nota. Y construyó el embalse.
+
+No en el pueblo, que ahí no habría podido: cuatro kilómetros más arriba, en la garganta, en un terreno que no era de nadie del valle y sobre el que nadie del valle tenía nada que decir. Tardaron dos años. Nadie fue a sentarse delante de las máquinas, porque no había nada delante de lo que sentarse: las máquinas estaban lejos, en un sitio al que no llegaba el camino, trabajando sobre una roca que ningún viejo del pueblo había visto de cerca en su vida.
+
+El primer verano después del cierre, la fuente bajó a menos de la mitad.
+
+No se secó. Eso hay que decirlo, porque el pueblo tuvo miedo de que se secara. Bajó. Bajó de aquel chorro que llenaba un cántaro en lo que se tarda en decir tres frases a un hilo que tardaba lo suyo, y que en agosto se ponía a gotear de madrugada y no se recuperaba hasta el amanecer.
+
+Y ahí, el pueblo de la fuente aprendió lo que la regla del agua nunca les había hecho aprender, porque nunca les había hecho falta: que se puede tener razón y perder de todas formas. Que una manera de estar en el mundo, por vieja y por honda que sea, no detiene a un hombre con un plano a cuatro kilómetros de distancia.
+
+Lo que pasó después es lo que hay que contar.
+
+Podrían haber cerrado la fuente. Era lo razonable, y hubo quien lo dijo en voz alta la primera noche de agosto: turnos, una llave, una lista, los de casa primero. Y la vieja — la misma que años atrás había mandado repartirla toda — escuchó la propuesta hasta el final, con las manos en el regazo, y después dijo que no, y no dio ningún discurso. Dijo:
+
+—Ahora hay menos. Se reparte lo que hay.
+
+Y se repartió lo que había. Con menos agua, con más cuidado, con el cántaro medio, con el que llegaba bebiendo primero igual que cuando sobraba. La regla no cambió porque cambiara el caudal; que era exactamente lo que la regla decía desde el principio, aunque hasta entonces nadie hubiera tenido ocasión de comprobarlo.
+
+Y por eso, cuando en los valles se contó esto, no se contó que el pueblo de la fuente le hubiera ganado a nadie. Se contó otra cosa, que a la larga se recordó más: que les quitaron el agua y no les quitaron la manera de darla. El embalse sigue arriba. Da luz a tres pueblos y riega una vega entera, y no es un mal embalse. Y abajo, en la fuente, con la mitad de agua, el que llega sigue bebiendo primero.
 
 *Continuará en el Capítulo 12 — La herencia del viento y de la brasa.*

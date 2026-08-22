@@ -18,7 +18,7 @@ Los gobiernos se reunieron, discutiendo en voz baja sobre protocolos que no exis
 
 Y el valle, el valle simplemente se preparó.
 
-No se preparó con vallas. No se preparó con armas. Se preparó como se preparan los que esperaban: los del pueblo barrieron la explanada, encendieron fuegos, sacaron sillas, pusieron la mesa de piedra en el centro, y se quedaron ahí, con la mano baja y tendida, esperando a que los que habían prometido volver bajaran por fin de la nave.
+Sin vallas y sin armas: se preparó como se preparan los que esperaban. Los del pueblo barrieron la explanada, encendieron fuegos, sacaron sillas, pusieron la mesa de piedra en el centro, y se quedaron ahí, con la mano baja y tendida, esperando a que los que habían prometido volver bajaran por fin de la nave.
 
 Algo había llegado.
 
@@ -40,11 +40,15 @@ Llamados por la noticia, saltándose las carreteras cerradas, los controles, los
 
 Mara miró el camino, el punto que venía acercándose, la figura que ya dibujaba siluetas entre los fuegos.
 
-—Los que se fueron por el camino de Vaelen —dijo Mara, paciente, como quien explica algo que lleva sabiendo mucho tiempo—, no miden el tiempo como lo medimos nosotros: lo viven. Para ella, Ivo, el viaje ha durado lo que dura una vida. Para nosotros, el viaje ha durado miles de años. La distancia entre Vaelen y la Tierra se cruza viviéndola, y no de un salto, y ella la ha vivido entera, a bordo. Su gente creció, envejeció y murió a bordo. Todos. Ella los vio. Llevaba el recuerdo de Vex, y se lo fue pasando a los que iban naciendo a bordo, porque era lo único que tenían que traer.
+—No sé cómo puede ser —dijo Mara—. Pregúntaselo a ella cuando llegue. Yo de naves no sé nada, Ivo. Yo sé lo que oigo. Y lo que oigo desde esta mañana es una persona sola, muy cansada, que lleva viniendo desde hace muchísimo tiempo y que está a punto de llegar. Cómo se hace eso, no me lo ha explicado nadie nunca.
 
 —¿Y esa mujer —preguntó Marcos, y dejó el cuaderno a medio escribir—, es la misma que Vex conoció? ¿La misma que se llevó el mar?
 
-—Es la misma —dijo Mara—. No ha cambiado. No ha envejecido como envejecen los que se quedan, en años de calendario y de mundo: ha envejecido como envejecen los que viajan, toda de una vez, en una sola vida a bordo. Es vieja ahora, más vieja que nosotros, aunque para ella el viaje no haya sido más largo que una vida. Y ha traído, en la vieja, el recuerdo más antiguo que existe de Vaelen. El que Vex le dio, dos veces.
+Mara tardó en contestar.
+
+—Creo que sí —dijo, y se le notó lo que le costaba decirlo así—. Y llevo toda la tarde con miedo de equivocarme, Marcos. Porque yo lo he dicho en voz alta esta mañana, y a estas horas hay gente andando por carreteras cortadas para venir aquí. Si me equivoco, eso también lo he hecho yo.
+
+Amara le puso la mano en la nuca y no le dijo que no se iba a equivocar, porque no lo sabía.
 
 Los cinco se quedaron mirando la figura que llegaba.
 
@@ -74,7 +78,7 @@ Tolina la miró. Y en su mirada, Amara vio pasar una vida entera: una vida en un
 
 —Están bajando —dijo Tolina—. Están detrás de mí, en la nave, esperando. No bajan todos de golpe. Bajan los que están listos. Los que reconocen que han llegado a un sitio donde los esperaban. Los que no están listos, se quedan a bordo, esperando su señal, esperando su tiempo. Porque hay dos maneras de cruzar la distancia, y una es viajar. La otra es esperar a que la distancia te diga que puedes pasar. Yo he viajado. Ellas están viajando. Algunas, ya han llegado.
 
-—¿Te refieres a nosotras? —preguntó Mara, tranquila.
+—¿Te refieres a nosotras? —preguntó Mara, y le salió más aguda de lo que quería.
 
 Tolina la miró, y por fin, desde que había llegado, sonrió.
 
@@ -106,13 +110,17 @@ Tolina pensó durante mucho tiempo. Y cuando habló, su voz era la de alguien qu
 
 —Por la mano —dijo—. Volví por la mano. No la mano de piedra. La mano de Vex. La que me tendió cuando partí, palma contra palma, el gesto de *te veo y me dejo ver*. Volví porque ese gesto me dijo que había alguien que me esperaba en el sitio de donde no venía. Y he pasado toda la vida averiguando qué significaba: que lo que te espera no está en el lugar de donde vienes. Está en el lugar del que no te vas. Y yo, que no sabía de dónde era, he llegado al único sitio donde he encontrado la respuesta: al sitio donde me tendieron la mano.
 
-—Y la volviste a encontrar —dijo Mara, tranquila—. La tierra te ha tendido la mano. Todos los que vinieron al valle te la tendieron sin saber a quién se la tendían. Y tú has llegado, y has encontrado la mano tendida, y el mito, por fin, tiene cuerpo.
+—Y la volviste a encontrar —dijo Mara, despacio—. La tierra te ha tendido la mano. Todos los que vinieron al valle te la tendieron sin saber a quién se la tendían. Y tú has llegado, y has encontrado la mano tendida, y el mito, por fin, tiene cuerpo.
 
 Tolina la miró, y en sus ojos brilló algo que llevaba mucho tiempo esperando brillar.
 
 —¿Qué mito? —preguntó.
 
-—El que contaban las historias —dijo Mara—. El de los que bajaron del cielo a enseñar a preguntar. El de los que se fueron prometiendo volver. El de los que volverían cuando estuviéramos listos. La ciencia nunca supo si era verdad. Yo sí. Desde que era pequeña sabía que era verdad, porque el Archivo me lo cantaba. Pero ahora ya no hace falta que lo sepa una sola. Ahora lo saben todos. Estás aquí. Eres de verdad. Te has sentado con nosotros y has contado el mar, y el mar coincide con la piedra, y la piedra coincide con la canción, y la canción coincide con la señal. Todo coincide, Tolina. Todo coincide. Y lo que todo coincide, es la verdad.
+—El que contaban las historias —dijo Mara—. Los que bajaron del cielo a enseñar a preguntar, y se fueron prometiendo volver. La ciencia nunca supo si era verdad. Yo sí, desde pequeña, porque el Archivo me lo cantaba. Pero yo era una sola.
+
+Miró a Tolina.
+
+—El mar que has contado coincide con la piedra, y la piedra con la canción, y la canción con la señal. Ya no hace falta que lo sepa yo.
 
 ---
 
@@ -133,6 +141,40 @@ Tolina los miró. Calló un momento. Y respondió, con una calma que desarmó a 
 No hicieron falta más preguntas.
 
 Los científicos, que llevaban toda la vida midiendo el mundo, comprendieron en ese momento, sin que nadie se lo explicara, que lo que tenían delante no se media: se recibía. Y que la única manera correcta de acercarse a quien se ha esperado miles de años, era la que ya estaba haciendo el valle: tender la mano, y dejar que el que llega se quede, o se vaya, o se quede hablando consigo.
+
+Los que habían venido a inventariar no estaban en esa conversación.
+
+No habían preguntado nada en toda la mañana, y no preguntaron tampoco después. Mientras los científicos se quedaban callados delante de Tolina, ellos siguieron con lo suyo. No escuchaban. Medían. Recorrieron la explanada con una cinta métrica y una libreta, fotografiaron la boca de la cueva desde tres ángulos, anotaron la anchura del río, la extensión de la meseta, el número de casas, el nombre del camino. Nadie se lo impidió, porque en el valle no se impedía nada; y porque además no había por dónde: no estaban discutiendo con nadie.
+
+Al mediodía, la que llevaba la carpeta —una mujer de mediana edad, correcta, de las que dan los buenos días y no levantan la voz jamás— se acercó a la mesa de piedra donde estaba la mano.
+
+—¿Puedo? —preguntó, y no esperó respuesta, porque preguntarlo era solamente una cortesía.
+
+Sacó de una caja una placa de aluminio del tamaño de una uña, con un número grabado. La sujetó con un alambre fino a la base de la piedra, por el lado que no se ve, anotó el número en la libreta, y debajo del número escribió la fecha.
+
+—¿Qué es eso? —preguntó Marcos.
+
+—Un número de registro —dijo la mujer, sin dejar de escribir—. Es lo que se hace con los bienes de interés. No cambia nada. Solo quiere decir que ya está anotado.
+
+—Lleva ahí doce mil años —dijo Marcos.
+
+—Existía —dijo ella, y cerró la carpeta—. Ahora consta.
+
+Y se fue a comer con los suyos, en el mismo sitio donde comían todos, y dio las gracias, y recogió su plato.
+
+Ivo se quedó mirando la placa un rato largo. Fue el único que entendió aquella tarde lo que acababa de ocurrir, porque era el único que lo había visto desde dentro: en veinticinco años de oficio había visto reclamar edificios, tierras, cuadros y huesos, y siempre había empezado igual, sin gritos, con una placa pequeña puesta el primer día por alguien amable que después se iba a comer.
+
+—Podemos quitarla —dijo Amara.
+
+—Podemos —dijo Ivo—. Y a partir de mañana, además de todo lo demás, seríamos los que quitaron una placa. Ahí está el truco. No han venido a discutir con nosotros, Amara. Han venido a que desde hoy todo lo que hagamos aquí tenga un nombre en un papel que escribieron ellos.
+
+Tolina, que había cruzado la distancia y que había visto muchas cosas, se acercó a la mano y miró la placa de cerca, con curiosidad, sin enfado.
+
+—En Vaelen no teníamos esto —dijo.
+
+—En Vaelen nadie tenía miedo de perder la tierra —dijo Ivo.
+
+Y la placa se quedó. Nadie la quitó aquella tarde, ni la siguiente. Siguió allí, pequeña, brillante, atada con su alambre a la piedra que llevaba doce mil años sin que nadie le colgara nada encima, con su número y su fecha, esperando. Porque para eso se ponen: para que un día alguien pueda decir que ya estaba anotado.
 
 ---
 

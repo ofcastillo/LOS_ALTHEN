@@ -6,7 +6,7 @@
 
 Pasó la primavera. Pasó el verano. Pasó el otoño, que en el valle olía a barro y a humo, y el invierno, que olía a leña. Y Vex, que había venido a reclamar, se encontró, sin haberse dado cuenta, habitando.
 
-No fue un acto. Fue un descenso. Descubrió que habitar un lugar se parece a esto: dejar que el lugar lo vaya decidiendo a uno. Es aprender el nombre del río sin preguntárselo. Es saber a qué hora volvía el fuego a cada casa. Es reconocer las voces de los niños sin verles las caras. Es, sobre todo, oler la tierra mojada y darse cuenta de que ya no sabe si ese olor le recuerda algo que perdió o si es simplemente el olor de su casa.
+Le llevó su tiempo, y ninguno de los días en que ocurrió le pareció importante mientras ocurría. Descubrió que habitar un lugar se parece a esto: dejar que el lugar lo vaya decidiendo a uno. Es aprender el nombre del río sin preguntárselo. Es saber a qué hora volvía el fuego a cada casa. Es reconocer las voces de los niños sin verles las caras. Es, sobre todo, oler la tierra mojada y darse cuenta de que ya no sabe si ese olor le recuerda algo que perdió o si es simplemente el olor de su casa.
 
 Aldor le enseñó a mirar el agua. Se lo había prometido la noche en que llegó, y lo cumplió con la lentitud de los que ya no tienen prisa: sentados los dos en la orilla, sin hablar, durante horas, mirando cómo el agua pasaba y no se llevaba nada y lo lavaba todo.
 

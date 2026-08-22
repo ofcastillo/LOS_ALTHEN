@@ -6,7 +6,7 @@
 
 El valle no volvió a ser el mismo.
 
-No lo cambió nadie. No se levantó ningún monumento, no se escribió ninguna placa, no se fundó ninguna institución. El valle cambió solo, como cambian los lugares donde ocurre una verdad: sin avisar, sin ruido, dejando que lo que pasó siga pasando dentro de quien lo vio.
+Nadie lo cambió, y nadie levantó allí monumento, placa ni institución alguna. El valle cambió solo, como cambian los lugares donde ocurre una verdad: sin avisar, sin ruido, dejando que lo que pasó siga pasando dentro de quien lo vio.
 
 La cueva quedó abierta. La mano de piedra quedó sobre la mesa de piedra, con la palma al cielo, con la espiral brillando al sol y a la luna, con el viento pasando entre sus dedos como si les hiciera preguntas. Nadie la movió. Nadie la protegió. No hacía falta.
 
@@ -54,6 +54,16 @@ Solo una vez, meses después, recibieron una postal. No tenía remitente. Tenía
 
 *Sembrad.*
 
+A Elías lo soltaron a los tres días.
+
+No le pusieron una mano encima. No le preguntaron casi nada, y lo poco que le preguntaron no le importaba a nadie. Lo tuvieron tres días en una habitación con una mesa, y a la cuarta mañana le devolvieron el reloj y la cartera y le abrieron la puerta sin que nadie le explicara por qué, porque para entonces ya no quedaba arriba quien pudiera firmar la orden de tenerlo dentro ni la de sacarlo. Salió a la calle con la misma ropa del valle y volvió en autobús.
+
+De aquellos tres días no contó nada nunca, salvo una cosa, y se la contó a Amara mucho después, una noche, sin que viniera a cuento.
+
+—Cuando me agarraron —dijo—, yo levanté el brazo. Para que me lo doblaran mejor. Me salió solo. Veinte años haciendo lo que me decían, y el cuerpo se acordaba antes que yo. —Se quedó callado un momento—. Yo creía que cruzar era una cosa que se hace una vez.
+
+Amara no le contestó, porque no había nada que contestar, y porque Elías no lo había dicho para que le contestaran.
+
 Elías se quedó.
 
 No tuvo adónde ir, y lo descubrió con alivio: no tener adónde ir era tener un lugar. Se instaló en el pueblo, cerca del valle, en una casa pequeña con un taller de relojes. Nadie le preguntó qué había hecho antes, y él no lo contó, y a los tres meses la gente del pueblo lo trataba como si hubiera estado toda la vida ahí, porque los pueblos son así: aceptan al que se queda con las herramientas y el silencio.
@@ -96,7 +106,7 @@ Calló un rato, con el viento pasando por el valle, con la mano devolviéndole e
 
 Y entonces, en voz baja, respondió.
 
-No fue una respuesta grande. No fue una revelación. Fue una cosa pequeña, que le salió sin buscar, como le salen las verdades a los que ya no tienen prisa por tenerlas.
+Le salió una respuesta sin ninguna grandeza. Fue una cosa pequeña, que le salió sin buscar, como le salen las verdades a los que ya no tienen prisa por tenerlas.
 
 —Soy el que se arrodilló —dijo.
 

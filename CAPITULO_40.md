@@ -100,7 +100,7 @@ La joven de la comisión salió del valle con las manos vacías, que era lo prim
 
 Y la abuela, que era vieja, que había oído de niña, de su propia abuela, que su familia venía de un valle donde se hacían preguntas todas las noches, la miró, y dijo, sin atinar por qué las decía, con la voz redonda de las cosas que se dicen de noche:
 
-—Dimos —dijo—. Y lo que se da deja de ser del que lo da. Se vuelve del que lo recibe. Tú la has recibido esta noche. No te la han entregado: te has sentado, has abierto las manos, y ha pasado por ti. Y por eso, hija, ya es tuya. Para siempre. Aunque no puedas tomar nada de ella. Porque eso no se toma. Se viene con ella.
+—Dimos —dijo—. Y lo dado no vuelve, hija. Se queda donde cayó. Nadie muerde el pan que ha repartido, y a nadie se le ocurre pedirlo de vuelta cuando ya está comido. Tú la has recibido esta noche. No te la han entregado: te has sentado, has abierto las manos, y ha pasado por ti. Y por eso, hija, ya es tuya. Para siempre. Aunque no puedas tomar nada de ella. Porque eso no se toma. Se viene con ella.
 
 La joven se quedó mirando a su abuela, con las estrellas de la ciudad apagadas por la luz, con las palmas abiertas todavía, con la herencia — se acababa de dar cuenta — recién estrenada.
 

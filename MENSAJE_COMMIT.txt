@@ -1,0 +1,55 @@
+Ronda editorial v5: conflicto, arcos y pulido de voz
+
+Cierre de las 27 recomendaciones del INFORME_AUDITORIA_v5.
+Texto final: 53 capítulos, 163.870 palabras.
+
+CONTINUIDAD (8/8)
+- C4: marcador temporal que sitúa a Iska antes de la fundación del Archivo.
+- C10: Alther deja de ser inmortal y pasa a ser el último de un linaje.
+- C17/C19: Mara ya no va en brazos; su edad cuadra con la universidad.
+- C21/C26/C34: "Odra" pasa a ser un nombre que se hereda con el silbo,
+  y no una cadena directa de abuela a nieta.
+- C53: se paga el hilo de Ardal (bibliotecario en la sala vacía de la custodia).
+- C38: fuera el párrafo del narrador que repetía a Mara palabra por palabra.
+- C39/C40: dos abuelas dejan de decir la misma frase.
+- C39: marcado como prólogo mítico antes del corte a C40.
+
+CONFLICTO DEL LIBRO II (de 2 a 6 capítulos con fricción real)
+- C27: los inventariadores atan una placa de registro numerada a la mano.
+  Primer antagonista al que la manera no le hace nada, porque no discute.
+  De ese número cuelga la reclamación de C38 y la comisión del Libro III.
+- C31: interceptan a Mara en la meseta; su "sí" precipitado funda el culto.
+- C34: la vieja exige respuesta y Adra admite que la semilla puede ser un lazo;
+  la desconfianza se hereda junto con la semilla.
+- C35: el círculo discrepa y Valeria rompe; Berrocal (nombre, oficio y segunda
+  visita) no corta la flor, y le cuesta el puesto.
+- C36: el reportaje de Valeria sale al revés y lo paga una familia del norte.
+- C38: la custodia queda "reclamada y no entregada" — hilo abierto al Libro III.
+- C20: el perdón de Vex falla a la primera; se va cuatro días y vuelve.
+- C28: Ise, alumna de Veda, le exige los registros con su propia enseñanza.
+- C49: la comisión gana. Construye el embalse y la fuente baja a la mitad.
+
+ARCOS
+- Mara: error con consecuencias (C31), derrota ante su madre (C35) y
+  vacilación en la última noche (C53). Nueve discursos podados:
+  de 28 intervenciones largas a 20; media de 49 a 40 palabras.
+- Sira: la noche que estuvo a punto de firmar (C42); rechaza la brasa (C52).
+- Elías: detenido en C18; tres días, y lo que perdió no es físico (C19).
+- C18: clímax coral, con coste real.
+- C53: fuera los imperativos en negrita; cierra con "Althen."
+
+PULIDO DE VOZ
+- Fórmula definitoria: 238 -> 205 (densidad plana: 1,34 / 1,38 / 0,97).
+- Negaciones encadenadas: 40 -> 18.
+- Acotaciones que certifican la certeza de Mara: 13 -> 1.
+- Muletillas de repuesto ("con un tono extraño", "quebrado"...): 66 -> ~10.
+
+CANON
+- BIBLIA: registro de finales reconstruido (57 -> 53 entradas, clasificadas
+  por mecanismo), decisiones abiertas cerradas, y nueva seccion 12 con los
+  umbrales de vigilancia de cada tic.
+- PERSONAJES: seis arcos ampliados (Mara, Elias, Valeria, Sira, el culto del
+  camino, la cadena de la custodia) e hilos abiertos marcados como tales.
+
+Se retiran los documentos de trabajo v4, superados por el informe v5.
+EPUB y PDF regenerados sobre el texto definitivo (351 pags la edicion completa).

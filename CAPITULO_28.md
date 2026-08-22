@@ -88,17 +88,71 @@ Lyra la miró. Y en sus ojos, Veda vio lo que no se puede medir: la comprensión
 
 —Entonces —dijo Lyra—, te equivocarás. Y te equivocarás sabiendo que elegiste, que soltaste, que viviste una vez sin archivar. Y eso, Veda, aunque la quieras medir, no entra en la medida: entra en el recuerdo. Y yo lo recordaré. Y eso será un registro. El único que vale.
 
-Y esa misma primavera, llegó la exigencia. Los que partían — los que se iban con la decisión de la División — mandaron a pedir los registros. Mandaron decir, con un mensajero, que la memoria de Vaelen, la que Veda había guardado toda su vida, les pertenecía: que debía volver con los que volvían, que guardarla en la Tierra era retenerla.
+Y esa misma primavera, llegó la exigencia.
 
-Veda recibió el mensaje en la puerta de la casa de los archivos, con los estantes llenos detrás, con la mañana encima.
+Vino una mañana clara, y vino en persona, que fue lo que la hizo difícil. Los que partían mandaron a **Ise** — una mujer joven, nacida ya en la Tierra, a la que Veda misma había enseñado a escribir sentándola en el suelo de la casa de los archivos cuando no levantaba un palmo del suelo. Llegó con la ropa de viaje puesta y se quedó en el umbral sin entrar, porque entrar sin que la invitaran era una cosa que Veda le había enseñado a no hacer.
 
-—¿Y qué has respondido? —preguntó Lyra.
+—Me manda la nave —dijo—. Vengo a pedirle los registros.
 
-—Que no —dijo Veda, y la palabra le costó más que ninguna otra de su vida—. Que no se llevan nada. Que lo que guardé lo vivieron aquí, y lo que se vivió aquí, aquí se queda. Y que si quieren memoria de Vaelen, que se lleven la que llevan dentro.
+Veda no se apartó de la puerta.
+
+—Los registros no se piden.
+
+—Se los estoy pidiendo bien —dijo Ise—. Podrían haber mandado a alguien que no la conociera.
+
+Detrás de Veda, en la penumbra, los estantes llegaban hasta el techo.
+
+—Nos vamos a Vaelen —dijo Ise—. Y lo que hay ahí dentro es la memoria de Vaelen: los nombres de los que salieron, los mares, las medidas del cielo de allá, las palabras que aquí ya no dice nadie. Eso no salió de este valle. Y nosotros somos los que volvemos.
+
+—Se escribió aquí.
+
+—Se escribió aquí sobre allá.
+
+Veda abrió la boca y no le salió la respuesta a la primera. Y eso fue lo peor de aquella mañana: que no le saliera a la primera.
+
+—Usted me enseñó una cosa —dijo Ise, y bajó la voz, porque sabía perfectamente lo que estaba a punto de hacer—. Me la enseñó ahí dentro, con las manos llenas de tinta. Me dijo que el conocimiento que se guarda para uno solo es conocimiento muerto. ¿Se acuerda?
+
+—Me acuerdo.
+
+—Pues está ahí, cerrado. Lo lee usted, y no lo lee nadie más. En Vaelen lo leerían miles. —Hizo una pausa—. No he venido a quitarle nada. He venido a decirle que lo que está haciendo tiene un nombre, y que el nombre me lo enseñó usted.
+
+Veda estuvo un rato largo mirando el suelo de la puerta, el escalón gastado por sus propios pies.
+
+—Tienes razón en la mitad —dijo, al fin—. Y no estoy segura de cuál de las dos mitades.
+
+Ise esperó, sin moverse.
+
+—Lo que hay ahí dentro no es la memoria de Vaelen, hija. Es la memoria de lo que le pasó a Vaelen aquí. Están los nombres de los que salieron, sí, y al lado, en la misma página, lo que hicieron el primer año, y con quién, y qué aprendieron a comer, y a qué niño de este valle le enseñaron a contar. Si te lo llevas allá, allí lo van a leer como se lee la crónica de un sitio lejano. Aquí lo leen como se lee lo que le pasó a la casa de uno. Es el mismo papel. No es la misma cosa.
+
+—Eso es lo que usted quiere creer.
+
+—Sí —dijo Veda, y no lo negó—. Puede que sea lo que quiero creer.
+
+Y entonces dijo que no, y le costó más que ninguna palabra de su vida, porque la dijo sabiendo que a lo mejor se estaba equivocando y que iba a tener que vivir con ello sin manera de comprobarlo.
+
+—No —dijo—. No os los llevéis.
+
+Ise asintió despacio, dos veces, como asienten los que ya lo habían previsto y vinieron igual.
+
+—Bien. Se lo diré así.
+
+Se echó la bolsa al hombro. Y ya se iba cuando se volvió desde el camino:
+
+—Se va a morir usted con esos estantes cerrados —dijo—. Y no lo digo con rencor. Lo digo porque me da pena. A mí me enseñó, y a mí me sirvió. A los estantes no les va a servir de nada.
+
+Y se fue por la orilla del río, con la ropa de viaje, sin volver la cabeza.
+
+---
+
+Lyra la encontró todavía en la puerta mucho después, con el sol ya alto.
+
+—¿Qué le has dicho?
+
+—Que no —dijo Veda—. Que no se llevan nada. Que lo que guardé lo vivieron aquí, y lo que se vivió aquí, aquí se queda. Y que si quieren memoria de Vaelen, que se lleven la que llevan dentro.
 
 Lyra la miró, y vio en ella, por primera vez, a la que ya no era la guardiana: a la que había elegido, y que por elegir estaba dispuesta a quedarse sola con lo que había elegido.
 
-—Les he dicho que no —repitió Veda, con el temblor de quien dice una cosa que no ha dicho nunca—. Por primera vez en mi vida he dicho que no a entregar lo que guardo. Y duele. Pero duele como duele lo que se elige, no como duele lo que se pierde.
+—Por primera vez en mi vida he dicho que no a entregar lo que guardo —dijo Veda, con el temblor de quien dice una cosa que no ha dicho nunca—. Y duele. Pero duele como duele lo que se elige, no como duele lo que se pierde. —Se quedó callada un momento, mirando el camino por donde se había ido Ise—. Lo que no sé es si tenía razón. Y esa parte, Lyra, no se me va a pasar.
 
 ---
 

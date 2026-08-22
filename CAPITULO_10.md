@@ -20,7 +20,7 @@ Y en la solapa, el pin.
 
 La espiral.
 
-Ivo amplió la imagen hasta que los píxeles se volvieron cuadrados. Y entonces lo vio. El pin no era nuevo. El pin era viejo, gastado, con el metal rayado por el uso. No era una insignia de campaña. No era una condecoración. Era un objeto personal, llevado durante años, como quien lleva una fotografía o un anillo.
+Ivo amplió la imagen hasta que los píxeles se volvieron cuadrados. Y entonces lo vio. El pin no era nuevo. El pin era viejo, gastado, con el metal rayado por el uso. No lo habían repartido en ninguna campaña ni se lo había colgado nadie en un acto. Era un objeto personal, llevado durante años, como quien lleva una fotografía o un anillo.
 
 Alguien llevaba la espiral puesta desde hacía mucho tiempo.
 
@@ -80,7 +80,7 @@ Ivo conocía su historia. Había sido un cine de barrio en los años cuarenta, l
 
 Los cuatro entraron a las siete menos cinco.
 
-La sala de proyecciones era una caja oscura con una silla de cine en el centro y una pantalla blanca al fondo. No había luces. No había nadie. Solo la silla, la pantalla y el silencio, que en aquel edificio se oía como se oye el silencio de los sitios que llevan mucho tiempo vacíos.
+La sala de proyecciones era una caja oscura con una silla de cine en el centro y una pantalla blanca al fondo. Estaba a oscuras y vacía. Solo la silla, la pantalla y el silencio, que en aquel edificio se oía como se oye el silencio de los sitios que llevan mucho tiempo vacíos.
 
 —Aquí no hay nadie —dijo Amara, en un susurro.
 
@@ -168,7 +168,7 @@ No era el hombre del pin. Era otro. Era más viejo, mucho más viejo, con la esp
 
 No llevaba pin. Llevaba, colgada del cuello, una pequeña piedra pulida con una espiral tallada. Y miró a los cuatro uno por uno, con una calma que no parecía de este mundo, y dijo:
 
-—Me llamo Alther. Soy el último guardián de la cueva. Soy de los que se quedaron. Y he esperado doce mil años a que alguien hiciera la pregunta que acabáis de hacer.
+—Me llamo Alther. Soy el último guardián de la cueva. Soy de los que se quedaron. Y llevamos doce mil años esperando, uno detrás de otro, sin conocernos casi, a que alguien hiciera la pregunta que acabáis de hacer. Me ha tocado a mí estar cuando la habéis hecho.
 
 Se detuvo. Y su voz, que ya no era la de la pantalla, que era la de verdad, bajó hasta casi no oírse:
 

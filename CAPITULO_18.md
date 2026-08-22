@@ -54,7 +54,7 @@ Y delante de la mano, sentado en una silla, con las manos juntas sobre las rodil
 
 —Una pregunta —dijo Ivo—. Una pregunta de verdad. Una de esas que se hacen con la vida, no con la boca. Y usted, doctor, no ha hecho ninguna en cincuenta años. Ha hecho miles de respuestas. Ha coleccionado respuestas. Ha construido una vida entera alrededor de respuestas. Y las respuestas, doctor, no abren la mano.
 
-Ardal lo miró. Y en su cara, algo se le movió. No era miedo. No era rabia. Era algo más parecido al asombro de quien descubre que el camino que ha recorrido toda su vida era el camino equivocado.
+Ardal lo miró. Y en su cara, algo se le movió. Lo que se le movió no tenía que ver con el miedo ni con la rabia. Era algo más parecido al asombro de quien descubre que el camino que ha recorrido toda su vida era el camino equivocado.
 
 —¿Y cómo sabe que no he hecho ninguna pregunta? —dijo, bajando el tono hasta casi nada.
 
@@ -108,7 +108,7 @@ Ardal no se movió. La sonrisa se le congeló en la cara. Y por un instante, en 
 
 —¿Vacía? —repitió, y la voz se le quebraba sin que él pudiera controlarlo—. ¿Vacía? ¿Después de doce mil años? ¿Después de todo? ¿Está vacía?
 
-—Vacía —dijo Mara, sin abrir los ojos, con el convencimiento de las cosas que se saben desde siempre—. Porque lo que había dentro ya está fuera. Se entregó hace miles de años. Y se ha estado entregando desde entonces, cada vez que alguien hace la pregunta. La mano no guarda nada. La mano recuerda. Y lo que recuerda, se entrega cada vez que alguien lo recibe. Por eso está vacía. Porque ya lo ha entregado todo. Y lo que entregó, no se puede volver a guardar.
+—Vacía —dijo Mara, sin abrir los ojos—. Porque lo que había dentro ya está fuera. Se entregó hace miles de años. Y se ha estado entregando desde entonces, cada vez que alguien hace la pregunta. La mano no guarda nada. La mano recuerda. Y lo que recuerda, se entrega cada vez que alguien lo recibe. Por eso está vacía. Porque ya lo ha entregado todo. Y lo que entregó, no se puede volver a guardar.
 
 —¡No! —dijo Ardal, y la palabra le salió sin control, y el valle entero se llenó de esa palabra como si la hubieran gritado las piedras—. ¡No puede estar vacía! ¡No después de todo! ¡No después de cincuenta años! ¡No después de todo lo que he hecho! ¡Tiene que haber algo! ¡Tiene que haber un tesoro! ¡Tiene que haber una respuesta! ¡Algo!
 
@@ -146,13 +146,31 @@ Se volvió hacia sus hombres.
 
 —¡Tómenla! —gritó, y por un instante la orden sonó como habían sonado todas las órdenes de su vida—. ¡Llévensela! ¡Llévense a la niña y llévense la mano! ¡Esta noche se termina el circo!
 
-Los hombres con auriculares no se movieron.
+Los hombres con auriculares no se movieron todos a la vez.
 
 El de delante era el que siempre daba el primer paso. Dio un paso. Y se quedó a medio paso, con la mano a media altura, como si la pregunta de la niña le hubiera llegado por debajo de la orden.
 
 —Es una niña —dijo, sin mirar a Ardal, y fue la primera vez en cincuenta años que ese hombre oyó su propia voz delante de su jefe.
 
-Los demás lo miraron. Y no se movieron. La orden, que siempre había sido un muro, se les deshizo en la mano como una hoja.
+Pero siempre hay otro. Lo hubo aquella noche: uno de los de atrás, más joven, que no había oído la pregunta porque estaba pendiente del pinganillo, echó a andar hacia la mesa de piedra con la naturalidad del que cumple.
+
+Y el que se le puso delante fue Elías.
+
+No dijo nada. No abrió los brazos, ni gritó, ni hizo ninguna de las cosas que se hacen en las películas. Se puso delante, sin más, con las manos a los lados, como se ponía delante de un reloj abierto: quieto, atento, esperando a ver qué se movía. El joven lo reconoció. Los reconocían todos. Llevaba veinte años pasando por delante de esos hombres con una carpeta bajo el brazo y una tarjeta colgada del cuello.
+
+—Elías —dijo el joven, y en el nombre había una pregunta.
+
+—Ya lo sé —dijo Elías—. Yo también los llevaba puestos. Y a mí también me decían por ahí lo que había que hacer. Se quitan, ¿sabes? Se quitan con dos dedos. No pesan nada.
+
+Lo que pasó después duró seis segundos y casi nadie lo vio, porque todo el mundo estaba mirando a la niña. Fueron dos, y fueron rápidos, y Elías no se resistió: le doblaron un brazo, lo sacaron del círculo de luz, y se lo llevaron hacia los coches sin que dejara de mirar hacia atrás, hacia la mesa de piedra, hasta que la oscuridad de más allá de los focos se lo tragó.
+
+Se oyó una puerta.
+
+Y fue entonces —no antes— cuando la orden de Ardal se les deshizo en la mano. Porque hasta ese momento la orden había sido una palabra, y ahora era un hombre metido en un coche; y sus propios hombres, que llevaban toda la vida obedeciendo palabras, se quedaron mirando aquel coche con la cara de los que acaban de ver en qué consistía exactamente lo que llevaban años haciendo.
+
+—Es una niña —repitió el de delante. Y esta vez sí miró a Ardal.
+
+Nadie más se movió.
 
 —¡He dicho que tomen a la niña! —repitió Ardal, y la voz se le rompió en la segunda vuelta, en el punto exacto donde cincuenta años de autoridad no tenían más repuesto—. ¡Tómenla!
 
@@ -194,7 +212,7 @@ No delante de la mano. Delante de la niña.
 
 —¿Quién soy? —dijo, roto, con los ojos que se le llenaban de algo que no se había permitido en cincuenta años—. Cuando nadie me mira… ¿quién soy?
 
-Mara lo miró. Y con la seguridad de la que no era de niña, de algo mucho más antiguo, dijo:
+Mara lo miró. Y tardó, porque no la tenía preparada.
 
 —No lo sé. Yo no se lo puedo decir. Nadie se lo puede decir. Esa pregunta, doctor Ardal, es la única que no tiene respuesta. Y es la única que vale la pena hacerse. Y usted acaba de hacérsela.
 
@@ -221,6 +239,16 @@ Mara sonrió. Era una sonrisa que no era de triunfo. Era una sonrisa de reconoci
 —¿Y qué entrego? —dijo Ardal, con la garganta cerrada.
 
 —Nada —dijo Mara—. Solo la pregunta. Se la entrega a todo el que la necesite. Y la pregunta, cuando se entrega, se multiplica.
+
+Se quedó un momento callada. Y entonces le salió lo que llevaba dentro desde hacía un rato, y le salió con la voz que le correspondía por edad, que era la de una niña pidiendo algo:
+
+—¿Me devuelve a Elías?
+
+Ardal levantó la cabeza. Se le veía que había tardado en entender de quién le hablaba, y que al entenderlo le había pasado algo por la cara.
+
+—No sé si puedo —dijo—. Ya no sé qué puedo.
+
+—Inténtelo —dijo Mara.
 
 ---
 
@@ -262,7 +290,9 @@ Ivo lo miró. Y con la serenidad que no era de triunfo, que era de algo más ant
 
 —Él va a hacer lo que hace todo el que se hace la pregunta: va a tardar un tiempo en saber quién es. Y cuando lo sepa, vendrá a decírnoslo. O no. Y las dos cosas estarán bien. Porque las preguntas, Marcos, no se contestan para los demás. Se contestan para uno.
 
-Y los cinco, con la niña de la mano, se alejaron de la cueva vacía, del valle, de la mano de piedra, de los coches negros, del hombre arrodillado que se estaba haciendo la pregunta más importante de su vida.
+Y los cuatro, con la niña de la mano, se alejaron de la cueva vacía, del valle, de la mano de piedra, de los coches negros, del hombre arrodillado que se estaba haciendo la pregunta más importante de su vida.
+
+Cuatro. Porque uno faltaba, y ninguno de ellos dijo su nombre en todo el camino, y el sitio que dejaba iba con ellos como va un diente que falta: sin doler todavía, y sin que la lengua pueda dejarlo en paz.
 
 No miraron atrás. No hacía falta.
 

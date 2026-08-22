@@ -44,7 +44,7 @@ El jardín calló. La flor al sol. La pregunta de los dos hogares, dicha y compa
 
 Se miró alrededor. El sol caía. El jardín estaba lleno.
 
-—Mi gente —dijo—, los que se fueron de Vaelen, hemos vivido milenios de viaje para llegar aquí. Y al llegar hemos comprendido que el viaje no termina: que la respuesta de los dos hogares es seguir viajando, pero de otra manera: viajando en la costumbre, en las preguntas, en el jardín, en el compartir. Los que partieron de Vaelen pensaban que volverían a un pueblo. Y volvieron a un hogar. Y comprendieron, de golpe, que la División no había sido una herida sino una siembra: los que se fueron no habían abandonado a los que se quedaron; los habían sembrado, para que esperaran, y los que se quedaron no habían esperado pasivamente: habían estado creciendo, para estar listos. Y ahora, ustedes y nosotros, los dos colores, somos la flor. Y la flor no es el final: la flor es la semilla.
+—Mi gente —dijo—, los que se fueron de Vaelen, hemos vivido milenios de viaje para llegar aquí. Y al llegar hemos comprendido que el viaje no termina: que la respuesta de los dos hogares es seguir viajando, pero de otra manera: viajando en la costumbre, en las preguntas, en el jardín, en el compartir. Los que partieron de Vaelen pensaban que volverían a un pueblo. Y volvieron a un hogar. Y comprendieron, de golpe, que la División había sido una siembra, y no una herida: los que se fueron no habían abandonado a los que se quedaron; los habían sembrado, para que esperaran, y los que se quedaron no habían esperado pasivamente: habían estado creciendo, para estar listos. Y ahora, ustedes y nosotros, los dos colores, somos la flor. Y la flor no es el final: la flor es la semilla.
 
 —Y la semilla —dijo Sarn, la que había bajado primero, la que ahora trabajaba el jardín con las manos en la tierra, con el modo que había aprendido a ser de aquí—, se vuelve a sembrar. Cada año. Cada generación. Cada vez que alguien llega y se queda, cada vez que alguien se va y deja algo, cada vez que dos personas se sientan a hacer las preguntas juntos. No hay un momento en que la División se acabe. Hay mil momentos en que se comparte.
 
@@ -60,6 +60,22 @@ Y otro.
 
 Y sin que nadie lo pidiera, el jardín dejó de ser un corro de gente alrededor de una flor, y se hizo un círculo de palmas abiertas alrededor de la flor de los dos colores, un círculo de dos hogares, un círculo de los dos lados sentados juntos, un círculo que era la respuesta.
 
+Y entonces llegó el mensajero.
+
+No entró gritando. Entró como entran los que traen papeles donde no caben las maneras: con un sobre en la mano, con el sello de un ministerio, con la voz de los que leen lo que otros decidieron. Venía a decir que la herencia de los que bajaron pertenecía a la humanidad entera, y que la humanidad, por boca de sus instituciones, reclamaba la custodia: la mano, la flor, los registros, el paso. Y en el sobre, entre los papeles, había una hoja con un número y una fecha, la de aquella mañana en que una mujer amable había atado una placa de aluminio a la base de la piedra y se había ido a comer. Todo lo demás que traía el mensajero colgaba de ese número. Marcos, que estaba de pie detrás de Mara, lo reconoció antes que nadie, y no dijo nada, porque no había nada que decir que Ivo no hubiera dicho ya años atrás, delante de la mano, en voz baja. Y venía a decir, además, que los que aún no bajaban, arriba, en la nave, habían mandado a preguntar si Tolina volvía con ellos — que era la última testigo, la única que podía llevar la memoria de vuelta —, y que el mundo no se oponía: que era, incluso, una buena manera de empezar a ordenar las cosas.
+
+El jardín no se movió. Nadie se levantó. Las palmas siguieron abiertas alrededor de la flor.
+
+—¿Firmo? —preguntó Mara, sin volverse, al jardín entero.
+
+—¿Y tú? —preguntó el mensajero, a Tolina—. ¿Vuelves con los tuyos?
+
+Y Tolina miró la flor de dos colores, y miró el círculo, y miró la nave arriba, y comprendió que la habían llamado dos veces en su vida, y que las dos veces había tenido que elegir: la primera eligió partir; esta, entre volver y quedarse, eligió quedarse. No porque hubiera dejado de ser de los dos lados: porque había comprendido, en ese jardín, que el que se queda también elige — y que su elección era la misma que habían hecho los que se quedaron hacía milenios: contestar la pregunta de los dos hogares habitándola.
+
+—No vuelvo —dijo, en voz baja, para el mensajero, para los que partían, para Vaelen—. Los que se quedan también eligieron. Yo me quedo a contarlo desde aquí.
+
+Y el mensajero, que esperaba una firma y una despedida, se encontró con un círculo de palmas abiertas alrededor de una flor, sin nadie que firmara y sin nadie que se fuera, y se fue con el sobre en la mano, con el sello sin estampar, con la custodia reclamada y no entregada. Y el jardín siguió. Y la flor siguió. Y la pregunta de los dos hogares siguió habitándose, de los dos lados, para siempre.
+
 Mara miró el círculo. Y comprendió que no había terminado. Que el círculo nunca se terminaba: que se hacía, cada vez, y que cada vez era la primera.
 
 —Es la última pregunta —dijo, en voz baja, para el círculo, para todos, para los dos hogares—. Y no se contesta. Se comparte. Y compartirla es esto: sentarse juntos, dejarse las palmas abiertas, y saber que el que elige un hogar no deja el otro: que el otro se viene con él, en los silbos, en las preguntas, en el modo, en lo que se aprende y se enseña sin darse cuenta de que se enseña. El que se va se lleva su casa en la manera. El que se queda guarda la casa en la tierra. Y ninguno se equivoca. Y ninguno falta. Y ninguno está solo.
@@ -74,7 +90,7 @@ Dos mundos se abrieron a la misma pregunta.
 
 Y la pregunta, una vez hecha, no se quedó en el jardín. Se fue con los que partieron, y se quedó con los que se quedaron, y desde entonces se hace en todos los lados, en todos los idiomas, en todos los silencios: se hace donde hay dos hogares, porque donde hay dos hogares hay pregunta.
 
-Y donde se hace, se comparte. Porque la pregunta de los dos hogares, la que dividió a un pueblo y la que volvió a unirlos sentados en círculo, no se contesta: se comparte. Y compartirla es esto: sentarse juntos, dejar las palmas abiertas, y saber que el que elige un hogar no deja el otro: que el otro se viene con él.
+Y donde se hace, se comparte.
 
 Y la noche terminó como terminaban las noches en el valle: la flor de los dos colores cerró los pétalos despacio, las últimas palmas se fueron abriendo el camino a casa, el río bajó el sonido, y el jardín quedó a oscuras, con la semilla guardada dentro, esperando el día.
 

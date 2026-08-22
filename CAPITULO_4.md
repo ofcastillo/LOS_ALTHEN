@@ -6,6 +6,8 @@
 
 Lyra aprendió que el trueno no era suyo.
 
+Fue antes de todo aquello. Antes del Archivo, antes de que la idea que se quedó junto al cuerpo de Urok tardara generaciones enteras en volver, en los años en que la aldea todavía miraba a los cuatro de reojo y la niña Iska aún estaba creciendo.
+
 Lo aprendió la mañana en que la aldea entera se despertó con el cielo negro y la niña Iska, que ya no era tan niña, salió corriendo de la choza gritando el nombre de Lyra, porque desde hacía dos estaciones la aldea tenía una fe nueva y tierna: si Lyra cantaba, el trueno respondía, y si el trueno respondía, la lluvia venía, y si la lluvia venía, el valle vivía.
 
 —¡Canta! —gritó Iska, con las manos abiertas hacia el cielo—. ¡Canta, Lyra, que el valle tiene sed!

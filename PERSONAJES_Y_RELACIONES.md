@@ -2,7 +2,7 @@
 ## LOS ALTHEN — "Los que no se van"
 
 > Documento de referencia de la saga completa (3 libros: *La Semilla*, *La División*, *La Herencia*).
-> Basado en BIBLIA.md y en el texto final de los 57 capítulos.
+> Basado en BIBLIA.md y en el texto final de los 53 capítulos (Libro 1: 19 · Libro 2: 19 · Libro 3: 15).
 > El corazón del elenco son dos grupos espejo: **los cuatro Ysann** (que sembraron, hace doce mil años) y **los cinco humanos** (que los redescubren hoy, el círculo: Valeria, Marcos, Amara, Ivo y, desde el cierre del Libro 1, Elías) — más la heredera de la guarda (Mara). Muere personaje importante que lo explique, funciona el espíritu de círculo: nadie es héroe solo, el grupo lo es.
 
 ---
@@ -59,6 +59,14 @@
 - Su pregunta: *¿de qué soy responsable cuando descubro algo que no me pertenece?*
 - Escribe el libro **"La mano vacía"**; más tarde aprende que las mejores noticias no se publican: se viven.
 
+**Su ruptura con el círculo (L2C16-17).** Es la única del grupo que **no acepta** el acuerdo de «invitar» ante la crisis de la flor: *«No estoy en contra. Estoy fuera.»* Se va a hacer lo que sabe hacer — un reportaje con nombres, fechas y documentos numerados al pie sobre quién financia las campañas del miedo. El capítulo ya no cierra con unanimidad, sino **con una silla vacía**.
+
+Y le sale al revés, *precisamente porque la pieza es verdadera*: la lista de los que pagan circula dada la vuelta, convertida en lista de los que se atrevieron a hablar. El precio no lo paga ella. Lo paga una familia de un pueblo del norte que abría su casa los domingos y a la que Valeria citó con nombre y apellido como prueba de que el campo existía: dejan de llegarles encargos, dejan de saludarlos en la plaza, alguien les escribe una palabra en la puerta, y se van. *«La casa de los domingos se quedó cerrada. Nadie volvió a abrirla.»*
+
+Vuelve al valle a contarlo ella misma. **Nadie la reprocha, y eso es lo peor**: Amara le pone una taza delante, Ivo se calla, Mara no tiene la frase. *«Y fue mucho peor que un reproche, porque un reproche se discute, y aquello no.»*
+
+**Pago del arco:** solo después de esto escribe *«El titular no nos cabe»*, donde reconoce el daño por su nombre, y su frase-tesis —*las mejores noticias no se publican, se viven*— deja de ser una postura serena para ser algo que le costó una casa.
+
 ### MARCOS URIARTE — El arqueólogo (espejo de Aldor)
 - Treinta años excavando cuevas con pigmentos y símbolos que nadie sabe leer ("el loco de la cueva").
 - Cree en la memoria de los lugares. Su miedo: haber dedicado la vida a un error.
@@ -82,6 +90,14 @@
 - Recibe de **Tolina** la custodia del paso: "ser la heredera de la guarda no es guardar: es dejar abierto".
 - Sube a la nave (L2C12), recibe a **Sarn** al pisar la Tierra, y se queda a la puerta "sosteniéndola abierta".
 - En el Libro 3 es la voz que interpreta cada herencia (alba, fuego, viento, pan, pregunta final).
+
+**Su error, y lo que le cuesta (arco añadido en la última revisión).** Mara no es infalible, y el libro lo demuestra tres veces:
+
+- **El sí precipitado (L2C12).** Camino de la nave, los que la esperan en la meseta le piden que vuelva el año siguiente a silbar con ellos. Dice que sí *«sin pensarlo, como se dicen las cosas buenas: deprisa, para que no dé tiempo a arrepentirse»*. Tarda dos años en entender lo que hizo: de aquel sí sale el culto entero — los que vuelven, los que traen retratos de sus muertos, los que la llaman de otra manera. *«Había fundado exactamente lo que los suyos llevaban doce mil años intentando no fundar.»* Es un error de generosidad, no de soberbia, y por eso duele.
+- **La derrota ante su madre (L2C16).** Anuncia que sale sola a los pueblos del sur y Amara la corta: *«Sola no. Después de lo de la meseta, no.»* Mara argumenta bien —ir con escolta enseña a tener miedo— y pierde: su madre no le da un argumento, le dice lo que va a pasar. Es la primera vez en la saga que Mara **no tiene la última palabra**, y se calla porque se acuerda de aquel sí. La guarda, ejercida sobre uno, *«se parece bastante a una puerta cerrada por fuera»*.
+- **La vacilación final (L3C15).** En la última noche, ante la objeción de Sira, se le rompe la frase: *«Quien se queda…»* — y se detiene, porque la que iba a decir era la de todas las noches. Es su único momento de incertidumbre explícita y el mejor de su arco.
+
+**Nota de voz (para futuras entregas):** el riesgo permanente de Mara es sonar a oráculo. La regla de escritura es que **el narrador no certifique su certeza**: nada de «tranquila», «sin dudar», «con la seguridad de». Si hace falta acotación, que sea un gesto físico.
 
 ---
 
@@ -138,9 +154,17 @@
 - **Ascenso formal:** en el cierre del Libro 1, tras quedarse en el pueblo, el círculo lo incorpora como quinto miembro (el texto hace explícita la regla no escrita: *el que llega con la pregunta hecha ya es del círculo*). Desde L2 en adelante es miembro fijo — "eran cinco: Amara, Valeria, Marcos, Ivo, Elías" (C21-29).
 - Es el puente que convierte al enemigo en testigo; su función en el grupo es la del que ha visto las dos orillas — la desconfianza sanada, el testigo del cruce.
 
+**Lo que paga en el clímax (L1C18-19).** En el valle, cuando Ardal ordena que se lleven a la niña, uno de los hombres obedece — *«siempre hay otro»* — y el que se le pone delante es Elías. No forcejea: se planta, y les habla desde dentro (*«Yo también los llevaba puestos. Y a mí también me decían por ahí lo que había que hacer. Se quitan, ¿sabes? Se quitan con dos dedos. No pesan nada»*). Se lo llevan en seis segundos. **La desobediencia de los demás hombres llega después**, al ver el coche: la orden deja de ser una palabra y se convierte en un hombre metido en un maletero. Los cuatro se van sin él, *«como va un diente que falta»*.
+
+Lo sueltan a los tres días, sin cargos y sin explicación, porque para entonces ya no queda arriba quien pueda firmar nada. **Lo que perdió no es físico**, y solo se lo cuenta a Amara mucho después: *«Cuando me agarraron, yo levanté el brazo. Para que me lo doblaran mejor. Me salió solo. Veinte años haciendo lo que me decían, y el cuerpo se acordaba antes que yo. […] Yo creía que cruzar era una cosa que se hace una vez.»* Es su tema entero en cuatro frases: el desertor nunca está del todo seguro de haber desertado.
+
 ### SIRA — La que se negó a heredar (la heredera sin acta)
 - Jardinera del paso, la más joven de las jardineras del valle (Libro III; aparece en C42, C45, C46, C47, C51, C52, C53).
 - La comisión internacional la nombra heredera oficial del legado (C42); ella se niega, y sigue negándose durante todo el Libro III (C45-C47): "la heredad que se defiende negándose a ser custodiada".
+- **La noche que estuvo a punto de firmar (C42).** Nadie lo supo hasta mucho después. Baja al pueblo de madrugada, no por el título ni por el dinero, sino porque lleva tres días haciendo la cuenta y le sale siempre igual: si firma, la flor se queda, el valle sale de los periódicos y las jardineras vuelven a trabajar en paz. *«Iba, esa noche, a averiguar si su manera de estar en el mundo era una manera de estar en el mundo o simplemente un lujo que estaban pagando los demás.»* Llega a la puerta y oye hablar dentro — sin rencor, con la voz de lo ya resuelto: *«…y una vez que firme, la ponemos en la foto de la entrega y a partir de ahí ya no hace falta que aparezca.»* Descubre cómo va a llamarse dentro de esa casa: **la foto**. Baja el brazo y vuelve andando.
+- **Efecto en su voz:** desde esa noche sus negativas dejan de ser una recitación. *«No volvió a decir que no como quien recita algo que tiene claro: lo dijo como quien vuelve a decidirlo cada vez.»*
+- **El coste que paga el valle por sus negativas (C44).** No es abstracto: se va el autobús que había puesto la comisión, se va la maestra, cierra el puesto médico. Y una vecina que está de su lado se le planta a la entrada del jardín y no le grita, que hubiera sido más fácil: *«Yo estoy con vosotras. Que quede claro que estoy con vosotras. Solo quiero que sepas que el pequeño tose desde noviembre.»* Aquella fue la única noche en años en que Sira no bajó al jardín.
+- **Cómo recibe la brasa (C52).** No la acepta de buen grado: **retira las manos** delante del valle entero, porque teme que mañana digan que la que se negaba acabó cogiéndola. Mara no le explica nada — se queda con el brazo estirado y espera, y el silencio se hace incómodo. Sira acaba cogiéndola con una razón que es suya y no del libro: *«no la cojo porque me la merezca, ni porque haya cambiado de idea, ni porque sea la heredera de nada. La cojo porque si no la cojo se cae.»*
 - Recibe la brasa de manos de **Mara** en C52: negarse a heredar, cuando la herencia es esta, es la forma más honda de heredar. Es la única heredera real del Libro III.
 - En C53 encabeza al círculo en la orilla y formula la única objeción de la última noche: que el mundo no diga que los que llegaron de lejos se fueron sin que nadie los quisiera guardar.
 - **Eco temático:** la heredad no se guarda, se pasa; el que se niega a quedársela es el único que puede pasarla entera.
@@ -168,6 +192,22 @@
 ### LA GEÓLOGA — La portadora de la cifra
 - Trae al valle las cifras (L3C6): cueva 8.000 años, flor 10.000, señal 12.000.
 - Entiende que el tiempo no se mide: se habita sembrando. Es el arquetipo del científico que la verdad desborda.
+
+### Los que esperan en el camino (Libro II) — el culto de la niña que canta
+- Gente que ha perdido a alguien y cree que **Mara** puede hablar con sus muertos (la niña que oye el Archivo). No son villanos: son el miedo de los que no saben si lo perdido se queda con ellos.
+- En C31 la esperan en el camino de la nave y no la dejan pasar; Mara no pelea: se sienta, les silba la melodía («a los que llevan dentro, no se los devuelve: se los recuerda»). **Y no se van desarmados**: se quedan «sin saber si habían ganado o perdido algo».
+- **Origen del culto: un error de Mara.** Al despedirse, el que lleva la voz le pregunta si volverá el año siguiente, y ella dice que sí sin pensarlo. De ese sí sale todo: al año siguiente vuelven con los suyos, y los suyos con los suyos, y al tercer año hay en el camino gente que no ha perdido a nadie. *«Una vez al año, en aquel paso, una muchacha cantaba con los muertos.»* Nadie lo dijo así al principio: se dijo así solo.
+- **Consecuencia estructural:** el valle deja de dejar salir sola a la guarda — y esa restricción se cobra en C35, cuando Amara le prohíbe ir sola a los pueblos del sur y Mara pierde la discusión. El miedo que representan es el mismo que la facción de C35 y que la comisión de C38-C40.
+- **Uso futuro:** son el único antagonista de la saga que quiere algo *bueno* y que nadie puede darle. Si se retoma la saga, es el conflicto más reutilizable que queda abierto.
+
+### La primera reclamación de custodia (Libro II)
+- Los **inventariadores** llegan la mañana siguiente a la llegada de Tolina (C27), mezclados con los científicos. **No son el mismo tipo de antagonista**: los científicos se rinden ante el discurso de Tolina; los de las carpetas ni siquiera estaban en esa conversación. *«No escuchaban. Medían.»*
+- **La placa (C27) — el objeto que origina todo el conflicto posterior.** Al mediodía, una mujer de mediana edad, correcta, se acerca a la mesa de piedra, pregunta «¿Puedo?» sin esperar respuesta *«porque preguntarlo era solamente una cortesía»*, y ata con un alambre a la base de la mano una placa de aluminio del tamaño de una uña, con un número y una fecha. Marcos protesta que la piedra lleva ahí doce mil años. Ella cierra la carpeta: **«—Existía. Ahora consta.»** Y se va a comer.
+  - Ivo es el único que entiende lo que ha pasado, porque lo vio desde dentro veinticinco años: *«No han venido a discutir con nosotros, Amara. Han venido a que desde hoy todo lo que hagamos aquí tenga un nombre en un papel que escribieron ellos.»* Y la placa se queda, porque quitarla los convertiría en «los que quitaron una placa».
+  - **Es el primer antagonista de la saga al que la manera no le hace nada.** No se le puede desarmar con un discurso porque no está discutiendo.
+- **El cobro (C38).** El mensajero del ministerio llega con un sobre, y entre los papeles hay una hoja con aquel número y aquella fecha: *«Todo lo demás que traía el mensajero colgaba de ese número.»* Marcos lo reconoce antes que nadie y no dice nada.
+- El círculo responde con el método: nadie firma, nadie se va; la respuesta es el círculo de palmas abiertas alrededor de la flor. El mensajero se marcha **«con la custodia reclamada y no entregada»** — hilo deliberadamente abierto.
+- **Pago narrativo:** es el ensayo general de la comisión internacional del Libro III (C40-C47), que vuelve más organizada y con actas. Toda la cadena —placa → hoja → reclamación → comisión— arranca de un gesto cortés de una funcionaria que después se fue a comer y dio las gracias.
 
 ### OTRAS FIGURAS ANÓNIMAS QUE POSEEN LA HERENCIA
 - **El niño** (L3C1): funda el nombre **"Althen"** respondiendo a un viajero. "La palabra torcida que acaba de nacer en su boca: Somos de los Althen."

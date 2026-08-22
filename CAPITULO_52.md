@@ -47,7 +47,27 @@ Y fue entonces — en el momento en que la respuesta estaba diciéndose, en el m
 
 No se la dio a nadie en particular. La pasó — entendió el valle, en el silencio — a los que venían. La pasó a las manos que no estaban todavía, como los primeros la habían pasado a las manos que no estaban todavía; y al pasarla así, al darle la brasa a los que aún no llegaban, Mara comprendió lo que los primeros habían sembrado: que la heredad de la brasa no era la brasa. Era el gesto de pasarla. Y que el gesto de pasarla, como la brasa misma, no se apaga nunca mientras haya una mano que lo repita — que lo repita hacia adelante, hacia los que vienen, sin saber quiénes serán.
 
-Y antes de pasar hacia adelante, del todo, la brasa pasó por las manos de Sira — la que se había negado a heredar, la que la comisión había nombrado y que había dicho que no, mil veces, tranquilamente —. Y al recibir la brasa, Sira no la retuvo un instante más de lo que dura el paso de una mano a otra: la sintió caliente, sí, un momento, y la pasó. Todo el mundo había creído que ella, la nombrada, la heredera oficial que se había negado, estaba fuera de la heredad por haberse negado. Y esa noche, pasándole la brasa, la heredad le dijo lo contrario: la estaba dentro, más dentro que nadie, porque el que se niega a quedarse la heredad es el único que puede pasarla entera. Sira lo comprendió sin que nadie lo dijera, con la brasa cruzándole las palmas un instante: que negarse a heredar, cuando la herencia es esta, es la forma más honda de heredar — la que recibe el mundo entero por las manos del que no se quedó nada.
+Y antes de pasar hacia adelante, del todo, Mara le tendió la brasa a Sira — la que se había negado a heredar, la que la comisión había nombrado y que había dicho que no, mil veces, tranquilamente.
+
+Sira retiró las manos.
+
+Fue un movimiento pequeño y rapidísimo, de los que se hacen antes de pensarlos, y lo vio todo el mundo. Se quedaron las dos así: Mara con la brasa en la palma, quemándose despacio, y Sira con las manos a la espalda como una niña a la que acusan de algo.
+
+—No —dijo Sira—. Yo he dicho que no cien veces delante de esa gente. Si la cojo ahora, delante del valle entero, mañana alguien dirá que al final sí, que era cuestión de esperar, que la que se negaba acabó cogiéndola. Y tendrán razón. Búscate otra mano, Mara. Hay doscientas aquí.
+
+Mara no le contestó. No le explicó nada, no le dijo lo que aquello significaba, no le puso delante ninguna de las frases que llevaba media vida sabiendo antes de tiempo. Se quedó con el brazo estirado y la brasa encima, y esperó.
+
+El silencio se hizo largo. Se hizo incómodo. Alguien tosió al otro lado de la fogata. La brasa seguía bajando de rojo a naranja y de naranja a ese color de ceniza que anuncia que ya queda poco.
+
+—Se te va a apagar —dijo Sira.
+
+—Ya lo sé —dijo Mara.
+
+Y entonces Sira soltó el aire, y dijo una palabrota en voz baja que nadie recogió después en ninguna de las versiones que se contaron de aquella noche, y adelantó las dos manos, y la cogió.
+
+—Que quede claro —dijo, mientras la sostenía— que no la cojo porque me la merezca, ni porque haya cambiado de idea, ni porque sea la heredera de nada. La cojo porque si no la cojo se cae.
+
+Y la pasó inmediatamente, sin retenerla un instante más de lo que dura el paso de una mano a otra: la sintió caliente, sí, un momento, y la pasó. Todo el mundo había creído que ella, la nombrada, la heredera oficial que se había negado, estaba fuera de la heredad por haberse negado. Y esa noche, pasándole la brasa, la heredad le dijo lo contrario: la estaba dentro, más dentro que nadie, porque el que se niega a quedarse la heredad es el único que puede pasarla entera. Sira lo comprendió sin que nadie lo dijera, con la brasa cruzándole las palmas un instante: que negarse a heredar, cuando la herencia es esta, es la forma más honda de heredar — la que recibe el mundo entero por las manos del que no se quedó nada.
 
 Los Althen —dijo la voz que venía de las brasas, la que completaba la palabra— no sembraron una herencia que se terminara. Sembraron una herencia que se completara — sembraron para el día en que la heredad entera estuviera en las manos de todos, y las manos ya no tuvieran que sostenerla, porque sostenerla era vivirla, y vivirla era ser, y ser era la heredad final, la que se pasa de vida en vida, no de mano en mano.
 

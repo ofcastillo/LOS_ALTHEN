@@ -40,7 +40,7 @@ No dijeron nada. Se quedaron mirándose, los cinco, con Mara en el sillón, con 
 
 —¿Y qué hacemos? —dijo Marcos—. ¿Entre las dos, no hay una tercera cosa?
 
-—Sí —dijo Mara, desde el sillón, tranquila, y todos se volvieron a mirarla porque la voz de Mara siempre había sonado así, como si llevara mucho tiempo sabiendo la respuesta sin que nadie se la hubiera preguntado—. La tercera cosa es que la respuesta no sea una sola. Sea un gesto. Y que el gesto lo haga todo el que pueda. No un mensaje: una mano. No una voz: muchas manos tendidas a la vez. Lo que le dijeron desde hace miles de años, no era para que les respondiera una oficina. Era para que le respondiera la gente.
+—Sí —dijo Mara desde el sillón, y todos se volvieron a mirarla, porque lo había dicho como se dicen las cosas que uno lleva días ensayando por dentro—. La tercera cosa es que la respuesta no sea una sola. Sea un gesto. Y que el gesto lo haga todo el que pueda. No un mensaje: una mano. No una voz: muchas manos tendidas a la vez. Lo que le dijeron desde hace miles de años, no era para que les respondiera una oficina. Era para que le respondiera la gente.
 
 —¿El pueblo —dijo Valeria, con un tono que era mitad burla, mitad asombro— va a responder a una civilización entera con una mano tendida?
 
@@ -62,7 +62,7 @@ Llegaron un martes.
 
 Llegaron caminando, en coche, en tren, en furgonetas viejas; llegaron de los pueblos de alrededor y de los países lejanos; llegaron viejos que habían ido al valle cuando la mano todavía era un secreto y jóvenes que habían oído la melodía en los patios; llegaron creyentes y escépticos y los que no sabían qué eran; llegaron los que habían hecho la cuestión delante de la mano y los que nunca se habían atrevido; llegaron, sobre todo, callados.
 
-No fue planeado. Fue lo que pasó: la gente no hablaba de camino al valle. Hablaba bajito, o no hablaba, porque intuía que se dirigía a algo que no se hace con ruido. Y de las estaciones, de los caminos, de las carreteras, del pueblo, salieron y se encaminaron, y fueron llegando, cientos primero, miles después, y al mediodía el valle estaba lleno.
+Nadie lo organizó, y sin embargo pasó lo siguiente: la gente no hablaba de camino al valle. Hablaba bajito, o no hablaba, porque intuía que se dirigía a algo que no se hace con ruido. Y de las estaciones, de los caminos, de las carreteras, del pueblo, salieron y se encaminaron, y fueron llegando, cientos primero, miles después, y al mediodía el valle estaba lleno.
 
 Lleno de brazos. Lleno de manos.
 
@@ -134,7 +134,7 @@ Ivo no respondió. Se quedó mirando la estrella, y después la mano baja, y des
 
 —Mara —dijo Ivo, en voz baja—. Está terminando.
 
-—No —dijo Mara, sin mirarlo, tranquila—. No está terminando. Está empezando.
+—No —dijo Mara, sin mirarlo, con los ojos en la mano de piedra—. No está terminando. Está empezando.
 
 Esa noche, el valle quedó vacío.
 

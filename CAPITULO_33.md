@@ -22,9 +22,15 @@ Amara miró a su hija, y comprendió que su hija ya no era exactamente la que se
 
 —¿Qué viste allá arriba? —preguntó Amara, disimulando, como las madres que quieren saberlo todo y no saben cómo preguntarlo.
 
-—Vi lo que ya sabía —dijo Mara, sentándose en el poyete, con las manos sobre las rodillas—. Vi que los que no bajan no tienen miedo de la Tierra. Tienen miedo de no estar a la altura de la espera. Y que hay una manera de cruzar que se hace subiendo a buscar, para que sepan que el lado de acá no muerde — y que no es ni empujando ni esperando.
+—No lo que esperaba —dijo Mara, sentándose en el poyete, con las manos sobre las rodillas. Y tardó un rato en seguir—. Yo iba convencida de que los que no bajan tenían miedo de la Tierra. Y no es eso. Tienen miedo de no estar a la altura de la espera. De bajar, y que se les note que son gente corriente.
 
-—Y subiste —dijo Amara.
+Se quedó mirando la taza.
+
+—Mamá. ¿Y si eso se lo hemos hecho nosotros? ¿Y si llevamos doce mil años esperándolos tan bien que ya no pueden bajar?
+
+Amara abrió la boca y no le salió nada. Le acercó la taza un poco más, que era lo que hacía siempre que no sabía.
+
+—Y subiste tú a buscarlos —dijo, al fin.
 
 —Y subí —dijo Mara.
 
@@ -36,7 +42,7 @@ Amara no respondió de inmediato. Se quedó mirando a su hija, con la memoria de
 
 —Me acuerdo —dijo, al fin, y la emoción se le llenó—. Me acuerdo, hija. Te lo decía de noche, cuando el miedo era más grande. Te lo decía para que pudiera seguir durmiendo. Perdón.
 
-—No te pido perdón —dijo Mara, tranquila—. Te pregunto otra cosa. Te pregunto si alguna vez elegiste esta casa. Si alguna vez elegiste el valle. Si alguna vez elegiste ser madre de la que oye el Archivo. O si, como yo con la nave, la casa te eligió a ti, y tú solo te quedaste.
+—No te pido perdón —dijo Mara, sin apartar los ojos de la taza—. Te pregunto otra cosa. Te pregunto si alguna vez elegiste esta casa. Si alguna vez elegiste el valle. Si alguna vez elegiste ser madre de la que oye el Archivo. O si, como yo con la nave, la casa te eligió a ti, y tú solo te quedaste.
 
 Amara la miró. Y comprendió, con una claridad que le dolía como duelen las verdades que llevas mucho tiempo sin decir, que nunca había elegido.
 
@@ -72,7 +78,7 @@ Y comprendió, con un sobresalto que la dejó sin aliento, que el quedarse, su q
 
 A la mañana siguiente, había juntado el círculo en la cocina.
 
-No lo había citado. Lo habían sentido. Valeria llegó primero, con el manuscrito del segundo libro bajo el brazo, y después Marcos, y después Ivo, y después Elna. Comieron despacio, hablaron de lo de siempre, y cuando la mesa quedó casi vacía, Amara les contó lo que había descubierto la noche anterior, con la voz con que se cuentan las cosas que no se han dicho nunca.
+No lo había citado. Lo habían sentido. Valeria llegó primero, con el manuscrito del segundo libro bajo el brazo, y después Marcos, y después Ivo, y después Elías. Comieron despacio, hablaron de lo de siempre, y cuando la mesa quedó casi vacía, Amara les contó lo que había descubierto la noche anterior, con la voz con que se cuentan las cosas que no se han dicho nunca.
 
 —Nunca elegí nada —dijo—. Nunca elegí esta vida. Y llevo una semana sin dormir, pensando si eso me condena. Porque la pregunta de los dos hogares, la que nos trajo la señal, la que nos hizo tender la mano, la pregunta que Tolina nos dijo que era la de la División: esa pregunta no es solo para los Vaeleni. Es para los que venimos de todas partes, para los que no sabemos elegir, para los que se quedan porque no se fueron. Y yo estoy en ese lado. Yo soy de los que no eligieron.
 
@@ -126,7 +132,11 @@ Amara se volvió.
 
 —Sí —dijo.
 
-—No se lo cuentes a nadie con muchas palabras —dijo Mara, con la voz del Archivo, la que había nombrado al círculo, la de la respuesta que no admite descuido—. Porque la respuesta a la pregunta de los dos hogares se vive, más que se cuenta. Y lo que acabas de descubrir en esta cocina, mamá, es que el que se queda no elige entre dos hogares. El que se queda elige la casa que no eligió, y la elige con la vida, y esa elección se vive, no se dice. Y vivirla, mamá, es lo que hace todo el que se queda en una casa que no eligió. Todas las mañanas. Toda la vida.
+—No se lo cuentes a nadie con muchas palabras —dijo Mara—. Se estropea.
+
+Amara la miró.
+
+—Lo que acabas de descubrir en esta cocina es que el que se queda no elige entre dos casas. Elige la que no eligió. Y eso se elige todas las mañanas, mamá, no una vez.
 
 Amara miró a su hija, a la niña que había oído el Archivo, que había subido a una nave, que venía de los dos lados, que era más vieja que ella en las cosas que importaban.
 

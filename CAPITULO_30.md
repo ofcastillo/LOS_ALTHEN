@@ -60,7 +60,7 @@ Seguía preguntando a los niños, cada noche, las cuatro preguntas.
 
 Y seguía silbando la melodía.
 
-No se decía que esas dos cosas vinieran de ninguna parte. No había ninguna historia que las explicara. Había, sencillamente, la costumbre: la manera del valle. Y el modo del valle, pasada de mano en mano, era más fuerte que todas las fechas, que todos los nombres, que todas las historias que decían que las cosas habían empezado en otro sitio.
+Nadie decía de dónde venían esas dos cosas, y no quedaba ninguna historia que las explicara. Había, sencillamente, la costumbre: la manera del valle. Y el modo del valle, pasada de mano en mano, era más fuerte que todas las fechas, que todos los nombres, que todas las historias que decían que las cosas habían empezado en otro sitio.
 
 Porque las cosas que se pasan sin nombre, son las que no se pierden.
 

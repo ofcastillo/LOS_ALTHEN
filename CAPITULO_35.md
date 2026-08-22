@@ -40,15 +40,35 @@ El círculo se reunió en la explanada, delante de la planta, delante de la flor
 
 —Y sin embargo —dijo Ivo, con el registro de sus tiempos de prensa—, si no decidimos nosotros, deciden los que gritan más. Y los que gritan más, en estos meses, son los del miedo. Y los del miedo, cuando deciden, cortan. Cortan lo que no entienden. Cortan la flor. Sellan la nave. Cierran el paso. Y cerrar el paso, Valeria, es la única manera segura de matar la semilla de los dos mundos.
 
-—¿Y tenemos derecho a evitarlo? —preguntó Marcos, suave—. ¿Tenemos derecho a decidir por los que tienen miedo, que la flor se quede, cuando ellos tienen miedo de que la flor les quite su tierra?
+—¿Y tenemos derecho a evitarlo? —preguntó Elías, que había tenido miedo del otro lado durante veinte años y sabía cómo se piensa desde ahí—. ¿Tenemos derecho a decidir por los que tienen miedo, que la flor se quede, cuando ellos tienen miedo de que la flor les quite su tierra?
 
-Callaron, los cuatro, con la flor girando, con el valle, con la tarde, con la pregunta de siempre, la de los dos mundos, viva.
+—No se trata de decidir por ellos —dijo Marcos, al fin, con la voz con que había defendido treinta años de excavación—. Se trata de mostrarles. Si les enseñáramos la cueva, los registros, la mano —si les diéramos lo que piden, lo que pueden verificar—, el miedo se quedaría sin argumentos.
 
-—No decidimos cortar ni dejar —dijo Mara, y la voz le salió quedita, y todos se volvieron a mirarla, porque la voz de Mara siempre había sonado así, como si llevara mucho tiempo sabiendo la respuesta sin que nadie se la hubiera preguntado.
+—¿Mostrarles? —dijo Ivo, con la chispa de sus tiempos de prensa—. El miedo no se queda sin argumentos, Marcos: se queda sin argumentos cuando le quitan el altavoz. Y el altavoz lo tienen los que gritan. La única manera de quitárselo es publicar la verdad antes que ellos, con nombres, con datos, con fechas. Eso es lo que sé hacer. Y no lo estoy haciendo.
+
+—Publicar —dijo Valeria, con el cansancio de quien ha visto sus palabras convertirse en otra cosa—. Yo ya publiqué. Publiqué un libro que se vendió de todo, y ahora el libro dice lo que yo no dije, y lo repiten los que no lo leyeron. ¿Publicar otra vez? Para que me lo vuelvan a quitar.
+
+—Y mientras ustedes discuten si mostrar o publicar —dijo Amara, con la voz baja de las madres—, hay quien quiere llevarse a mi hija. No al valle: a su casa, a su fe, a su idea de lo que la niña que canta puede hacer por sus muertos. Yo no quiero mostrar nada. Yo quiero que mi hija pueda salir a un camino sin que la esperen.
+
+Callaron. Y en el silencio, todos miraron a Mara, que no había dicho nada.
+
+—¿Y tú? —preguntó Elías, al fin, girando un reloj entre los dedos sin mirarlo—. ¿Qué dices?
+
+Mara miró la flor, girando bajito, plata y verde, mar y río.
+
+—No digo nada —dijo—. Porque no hay nada que decir que no se diga sembrando. Marcos quiere mostrar; Ivo quiere publicar; Valeria no quiere volver a escribir; mamá quiere protegerme. Todos tienen razón. Y todos se equivocan si creen que la respuesta está en alguna de esas cosas.
+
+Callaron, el círculo, con la flor girando, con el valle, con la tarde, con la pregunta de siempre, la de los dos mundos, viva.
+
+—No decidimos cortar ni dejar —dijo Mara, y la voz le salió quedita, y todos se volvieron a mirarla, porque no era la voz con que se dan las respuestas: era la de quien propone algo y no sabe si va a sostenerse en pie.
 
 —¿Entonces qué decidimos? —preguntó Amara.
 
-—Decidimos no estar en la discusión —dijo Mara—. Decidimos estar en la semilla. Los que discuten si cortar la flor se están preguntando si el miedo debe mandar. Y eso se decide viviendo, y no en una discusión. La semilla se defiende creciendo, y no discutiendo. Y si nosotros, los que estamos de los dos lados, seguimos creciendo, seguimos sembrando, seguimos siendo el paso sin pedir permiso, la flor se multiplica, y no se corta. Y los que la quieran cortar, se encontrarán con que ya no hay una flor: hay un campo.
+—Decidimos no estar en la discusión —dijo Mara—. Decidimos estar en la semilla. Los que discuten si cortar la flor están discutiendo si el miedo manda, y eso no se decide discutiendo.
+
+—¿Y cómo se decide? —dijo Ivo.
+
+—Creciendo. Si seguimos sembrando sin pedir permiso, el que venga a cortar se va a encontrar con que ya no hay una flor: hay un campo.
 
 —¿Un campo? —repitió Elías, y volvió a mirar la flor, como si de pronto fuera otra cosa.
 
@@ -58,13 +78,59 @@ Todos miraron la flor, al borde del río, girando, pequeña, sola, tierna.
 
 —¿Y cómo se hace un campo de una flor? —preguntó Valeria, y se miró la palma, como si la respuesta pudiera caberle en la mano.
 
-—No se hace de una vez —dijo Mara—. Se hace sembrando. Y sembrar, Valeria, es lo que llevamos haciendo toda la vida, sin darnos cuenta de que era siembra: cuando enseñamos la melodía, cuando hacemos las preguntas, cuando tendemos la mano, cuando dejamos el sitio abierto. Cada vez que un niño aprende a silbar en su ciudad, cada vez que alguien hace las cuatro preguntas en su casa, cada vez que una mano se tiende hacia otra que espera, hay una semilla de los dos mundos echando raíces donde no se esperaba. La flor del valle es una. Pero las semillas ya están por todas partes. No nos han pedido permiso para cortarlas. No van a poder cortar un campo que no está en el valle: está en las casas.
+—No se hace de una vez —dijo Mara—. Se hace sembrando. Y llevamos sembrando toda la vida sin darnos cuenta, Valeria: cada vez que enseñamos la melodía, cada vez que alguien hace las cuatro preguntas en su casa.
+
+—Eso no es una flor —dijo Valeria.
+
+—No. Eso ya está en todas partes, y a nadie le han pedido permiso. La flor del valle es una. Y las semillas están en las casas, que es donde no llega ninguna orden.
+
+—Entonces —dijo Elías, despacio, con la voz de quien ha cruzado una vez desde el otro lado—, no mostramos, no publicamos, no cerramos, no protegemos con vallas: invitamos. ¿Es eso?
+
+—Es eso —dijo Mara.
+
+Y se levantó, porque las cosas que se deciden en el valle se deciden de pie, y dijo lo que llevaba pensando desde la mañana:
+
+—Entonces salgo mañana. A los pueblos del sur primero, que son los que más miedo tienen. No a explicar. A sentarme, y a que me vean sentarme.
+
+—Sola no —dijo Amara.
+
+Le salió tan rápido que sonó a golpe. Mara se volvió a mirar a su madre y la encontró de pie también, con las dos manos apoyadas en la mesa, como quien sujeta algo que se le está moviendo.
+
+—Mamá.
+
+—Sola no —repitió Amara—. Después de lo de la meseta, no. Va contigo Marcos, o va contigo Ivo, o no vas.
+
+—Si voy con alguien detrás, no voy a invitar —dijo Mara—. Voy a defenderme. Y lo que la gente va a ver no es a una que se sienta con ellos: es a una que se sienta con ellos protegida de ellos. Eso no siembra, mamá. Eso enseña a tener miedo.
+
+—Puede ser —dijo Amara—. Puede que tengas toda la razón. No estoy discutiendo si tienes razón. Estoy diciendo que sola no.
+
+Y Mara abrió la boca para contestar.
+
+Y no contestó, porque en el momento de hacerlo se acordó de una tarde en la meseta, de un hombre que le había preguntado si volvería el año siguiente, y de lo deprisa que ella había dicho que sí. Todo lo que venía detrás —los que esperaban en los caminos, los que traían retratos de sus muertos, los que la llamaban de otra manera cuando creían que no los oía— salía de aquel sí. Nadie se lo había echado nunca en cara. Su madre, que lo sabía mejor que ninguno, tampoco se lo echó en cara ahora; se quedó esperando con las manos en la mesa, y esa manera de no decirlo pesó más que decirlo.
+
+Además, su madre no le estaba dando un argumento: le estaba diciendo lo que iba a pasar. Y era la primera vez en mucho tiempo que alguien le decía a Mara lo que iba a pasar. Se volvió a sentar, despacio, con las manos quietas en el regazo. Y la heredera de la guarda, la que llevaba media vida sabiendo la respuesta antes de que se la preguntaran, se quedó sin decir la última palabra, y aprendió esa tarde que la guarda, cuando la ejercen sobre uno, se parece bastante a una puerta cerrada por fuera.
+
+Fue Valeria la que rompió el silencio. Y no lo rompió para acompañarlas.
+
+—Yo no voy a sembrar.
+
+Llevaba un rato de pie, un poco fuera del corro, con el cuaderno cerrado contra el pecho, como lo llevaba desde que había dejado el laboratorio.
+
+—No estoy en contra —dijo—. Estoy fuera. Vosotros vais a invitar, y a esperar, y a dejar que el campo crezca, y a lo mejor tenéis razón, y dentro de veinte años esto se cuenta como que tuvisteis razón. Pero yo sé lo que pasa mientras tanto. Mientras el campo crece, los que gritan escriben. Y lo que escriben se queda, y se repite, y al cabo de un año ya no hay manera de decir otra cosa, porque la gente ya se lo sabe de memoria. Eso me lo hicieron con mi libro. Me lo quitaron de las manos, y ahora dice lo que ellos quieren que diga.
+
+—Valeria —dijo Ivo.
+
+—No —dijo ella, y no levantó la voz—. Lo voy a escribir. Con los datos, con las fechas, con el nombre de los que están pagando esto y el nombre de los que se lo están cobrando. Y lo voy a publicar donde se lea, no donde quede bonito. Si me equivoco, me equivoco yo, y no os salpica.
+
+Nadie la convenció. Nadie lo intentó demasiado, tampoco: en el valle no se convence a nadie, y además cada uno de los que estaban allí sabía que si le hubieran hecho a él lo que le habían hecho a Valeria con su libro, habría querido exactamente lo mismo. Valeria recogió el cuaderno, se despidió con la mano abierta, como se despedía todo el mundo, y bajó por el camino del río antes de que se hiciera de noche.
+
+Y el círculo, que no se había puesto de acuerdo, se puso de acuerdo en lo que pudo: en invitar de todas formas, y en dejarla marchar sin cerrarle la puerta. Y esa fue la primera vez, de muchas, en que la respuesta del valle al miedo no fue una idea: fue una invitación. Y fue también la primera vez que la invitación se hizo con una silla vacía.
 
 ---
 
 Y así empezó, sin que nadie lo decretara, la siembra que el miedo no pudo detener.
 
-No fue una campaña. No fue un movimiento. No fue nada que se anunciara. Fue, sencillamente, que la gente que había tendido la mano en el día del coro, la gente que había llorado cuando Tolina bajó, la gente que había visto la flor y no había podido dejar de mirarla, esa gente empezó a sembrar en sus casas, en sus pueblos, en sus ciudades, en sus vidas.
+Nadie la convocó, ni le puso nombre, ni la llamó de ninguna manera mientras ocurría. Sencillamente, la gente que había tendido la mano en el día del coro, la gente que había llorado cuando Tolina bajó, la gente que había visto la flor y no había podido dejar de mirarla, esa gente empezó a sembrar en sus casas, en sus pueblos, en sus ciudades, en sus vidas.
 
 Sembraban de la única manera que sabían: siendo de los dos mundos donde estaban. Enseñaban la melodía a sus hijos, como una manera, más que como una canción. Hacían las cuatro preguntas en las sobremesas, sin que notaran que repetían la costumbre de un valle de otro mundo. Tendían la mano a los que esperaban: a los que esperaban el autobús, a los que esperaban una noticia, a los que esperaban a alguien que no llegaba. Y cada gesto, sin que lo supieran, era una semilla del encuentro, una semilla de dos colores, echando raíces en la tierra que no le pedía permiso a nadie.
 
@@ -74,23 +140,61 @@ Los que querían cortar la flor del valle llegaron una mañana, con orden de arr
 
 Llegaron con sus máquinas, con sus permisos, con su certeza de que iban a cortar. Y al llegar, se encontraron con que la explanada, el borde del río, el valle entero, estaba lleno. No de manifestantes. No de gritos. Lleno de gente sentada, callada, alrededor de la flor: gente que había llegado de todas partes, gente que había venido en la noche, gente que se había sentado en la tierra y se había quedado, sin hablar, sin moverse, custodiando la semilla con la única manera que no se puede combatir: estando delante.
 
-—La vamos a cortar —dijo el que mandaba, con la voz de los que tienen permiso.
+El que llevaba la orden se llamaba Berrocal, y era del pueblo de abajo.
 
-—Nadie se lo impide —dijo una mujer, desde el suelo, sin levantarse, con la voz tranquila—. Corten la flor. Pero tendrán que pasar por encima de nosotros, y tendrán que pasar todas las noches, porque cada noche va a haber alguien aquí. Y no les vamos a hacer nada. Solo vamos a estar. Y ustedes, que tienen permiso para cortar, no tienen permiso para estar. Y eso, al final, es más fuerte que el permiso.
+Eso fue lo primero que supo el valle de él, y lo que más lo complicaba todo: no venía de fuera. Cincuenta y tantos años, una gorra del servicio agrario que llevaba desde hacía quince, y esa manera de ponerse delante de la gente — de lado, sin plantarse — que tienen los que han hecho muchas veces un trabajo que no les gusta. Su padre había sido de allí. Iba a misa con gente que aquella mañana estaba sentada en la hierba.
 
-El que mandaba miró el campo de gente, la flor en el centro, la luz de la mañana.
+—La vamos a cortar —dijo, y lo dijo como se da un parte, sin ninguna gana.
 
-No la cortó.
+—Nadie se lo impide —dijo una mujer, desde el suelo, sin levantarse—. Corten la flor. Pero tendrán que pasar por encima de nosotros, y tendrán que pasar todas las noches, porque cada noche va a haber alguien aquí. Y no les vamos a hacer nada. Solo vamos a estar. Y ustedes, que tienen permiso para cortar, no tienen permiso para estar. Y eso, al final, aguanta más que el permiso.
 
-No la cortó ese día, ni al siguiente, ni nunca.
+Berrocal miró el campo de gente, la flor en el centro, la luz de la mañana. Después se quitó la gorra, se pasó la mano por la cabeza y se la volvió a poner, que era lo que hacía cuando algo no le salía.
 
-¿La cortó la casualidad? No. La cortó la manera: la de los que se quedan, la que los que se quedaron habían pasado de mano en mano durante siglos sin nombre, sin dueño, la que era la herencia de los dos mundos, la que no se podía cortar porque no estaba en la flor: estaba en la gente.
+—Miren —dijo—. Yo esto no lo he escrito. —Levantó el papel sin enseñarlo, como se levanta una cosa que pesa—. Yo lo ejecuto. Y les voy a decir algo que no me toca decir: si no lo hago yo, lo hacen otros. Y los otros no van a ser de aquí, y les va a dar exactamente igual quién esté sentado en la hierba.
+
+—Ya lo sabemos —dijo la mujer.
+
+—Pues no sé si lo saben —dijo él, y le salió por fin algo parecido al enfado—. Porque están ustedes demasiado tranquilos.
+
+Aquel día no la cortó. Pero antes de subirse a la camioneta se volvió, con el papel todavía en la mano:
+
+—Vuelvo el martes. Y el martes vengo con la luz de las seis.
+
+---
+
+El martes vino con la luz de las seis, como había dicho.
+
+A esa hora en la explanada no había ningún campo de gente. Había once personas. Los demás estaban trabajando, o durmiendo, o habían dado por hecho que aquello ya estaba resuelto, que es lo que se da por hecho siempre. Once personas y una flor, seis hombres con máquinas, y luz de sobra.
+
+Berrocal lo vio nada más bajar, y supo que aquel era el día. Cruzó la explanada sin mirar a nadie y se plantó delante de la planta con la orden en la mano.
+
+Y alguien, detrás, silbó.
+
+No lo silbó a propósito. Fue una de las once, una mujer mayor con una manta sobre las rodillas, de las que silban cuando se ponen nerviosas, como silbaba su madre, como silbaba media provincia sin saber por qué. Cinco notas. Bajito.
+
+Berrocal se quedó con la mano a media altura.
+
+Porque esa melodía la conocía. La conocía de su casa. Se la silbaba su madre haciendo la comida, y él se la había silbado a sus hijos sin preguntarse nunca de dónde venía, igual que se le habían quedado el modo de partir el pan y el de dar los buenos días. Y allí, con la orden en la mano y la luz de las seis dándole en la cara, entendió una cosa que no supo decirse con palabras y que le duró el resto de la vida: que llevaba dentro, sin enterarse, lo mismo que había venido a cortar.
+
+No lo dijo. Un hombre así no dice eso.
+
+Dobló el papel, se lo guardó en el bolsillo del pecho y se volvió hacia los suyos.
+
+—Nos vamos.
+
+—¿Y esto? —dijo uno.
+
+—Esto no se puede ejecutar —dijo Berrocal—. Yo firmo que no se puede ejecutar. Y el que quiera venir a cortarla, que venga y la firme él.
+
+Le costó el puesto tres meses más tarde, en una reorganización del servicio en cuyos papeles el valle no aparecía por ninguna parte. No volvió a la explanada. Y no se convirtió en nada: siguió siendo un hombre del pueblo de abajo con una gorra vieja, que si le preguntaban por la flor decía que él de eso no entendía y cambiaba de conversación.
+
+Pero no la cortó. Ni él, ni los que mandaron después — porque para cuando llegaron los de fuera, con otra orden y sin ninguna melodía en la memoria, el campo ya no estaba en la explanada. Estaba en las casas. Y no había orden que alcanzara.
 
 ---
 
 Y fue entonces, con la flor a salvo, con la siembra en marcha, cuando el mundo comprendió, despacio, sin que nadie se lo dijera de golpe, lo que la semilla de los dos mundos significaba.
 
-No significaba que los mundos se fundieran en uno. No significaba que se perdiera el de aquí ni que se perdiera el de allá. Significaba que había llegado el tiempo en que se podía ser de los dos a la vez, y que ser de los dos a la vez no era perderte: era ser más. Significaba que la pregunta de los dos hogares, la que la División había dejado a los Ysann y ahora al mundo entero, no se contestaba eligiendo un lado: se contestaba siendo el campo donde los dos lados siembran.
+No significaba que los mundos se fundieran en uno. No significaba que se perdiera el de aquí ni que se perdiera el de allá. Significaba que había llegado el tiempo en que se podía ser de los dos a la vez, y que ser de los dos a la vez no era perderte: era ser más. Significaba que la pregunta de los dos hogares, la que la División había dejado a los Ysann y ahora al mundo entero, se contestaba siendo el campo donde los dos lados siembran.
 
 Los Vaeleni lo comprendieron viendo a los humanos sentarse delante de la flor. Los humanos lo comprendieron viendo a los Vaeleni sentarse delante de la flor. Y los dos, delante de la flor de dos colores, comprendieron que la flor era la demostración, más que la respuesta. La demostración de algo que los dos llevaban dentro desde el principio, que la División había separado y que la semilla volvía a juntar.
 
@@ -104,7 +208,7 @@ Esa tarde, delante de la flor, con la gente sentada alrededor, con el valle en c
 
 —¿Y ahora qué? —preguntó Tolina, con el tono de quien no da respuestas sino que las pide.
 
-—No lo sé —dijo Mara, tranquila, con la verdad de toda la vida—. Nadie lo sabe. Eso es lo que se ha sembrado hoy, Tolina: no una respuesta. Una manera. Y la manera no dice qué va a pasar: dice qué se hace con lo que pasa. Y lo que hacemos, lo hemos estado haciendo toda la vida: quedarnos en el sitio, abiertos, sembrando, sin pedir permiso, sin imaginar qué va a crecer.
+—No lo sé —dijo Mara, y se le notó que llevaba días dándole vueltas—. Nadie lo sabe. Eso es lo que se ha sembrado hoy, Tolina: no una respuesta. Una manera. Y la manera no dice qué va a pasar: dice qué se hace con lo que pasa. Y lo que hacemos, lo hemos estado haciendo toda la vida: quedarnos en el sitio, abiertos, sembrando, sin pedir permiso, sin imaginar qué va a crecer.
 
 —¿Y no da miedo? —preguntó Tolina—. ¿Sembrar sin saber qué va a crecer?
 

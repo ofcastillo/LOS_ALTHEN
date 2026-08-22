@@ -44,7 +44,7 @@ El niño pensó.
 
 La abuela no se movió. Esta era la parte de la historia que ya no podía contar bien. La sabía de su abuela, que la sabía de la suya, y entre tanto pasarse de boca en boca, los nombres se habían ido quedando como se quedan las letras de una inscripción en una piedra vieja: unas sí, otras no, y la palabra entera ya no se parecía a la palabra nueva.
 
-—Se llamaban —dijo la abuela, en voz baja, buscando en la memoria como se busca una palabra que ya no está entera—: los que… eligieron. Los que vinieron de lejos y eligieron quedarse. Esa era su manera de llamarse. Eso es lo que significaba su nombre: los que eligen.
+—Se llamaban —dijo la abuela, y bajó la voz, y buscó en la memoria como se busca el cabo de un hilo que se ha metido en la tela—: los que… eligieron. Los que vinieron de lejos y eligieron quedarse. Esa era su manera de llamarse. Eso es lo que significaba su nombre: los que eligen.
 
 —¿Los que eligen qué?
 
@@ -64,7 +64,7 @@ Y la abuela, bajando el tono, con las estrellas encima, con el río pasando, se 
 
 Se detuvo. El niño escuchaba, con las estrellas encima, con el río, con la abuela.
 
-—Y al nombre de todos juntos —dijo la abuela, bajando aún más la voz—, mi madre lo decía de una manera, y la madre de mi madre de otra, y la que vino del otro valle de otra más. No hay manera de saber cuál era la buena. Lo único que sabemos es que significaba lo que te he dicho: los que eligen. Hay quien dice ysam, jessan, athan, alte… Hay tantas maneras como bocas, niño. La palabra se fue haciendo de todos los que la dijeron, y ya no se puede decir de una sola manera, porque ya es de todos.
+—Y al nombre de todos juntos —dijo la abuela, y dio dos puntadas antes de seguir, que era su manera de tomarse tiempo—, mi madre lo decía de una manera, y la madre de mi madre de otra, y la que vino del otro valle de otra más. No hay manera de saber cuál era la buena. Lo único que sabemos es que significaba lo que te he dicho: los que eligen. Hay quien dice ysam, jessan, athan, alte… Hay tantas maneras como bocas, niño. La palabra se fue haciendo de todos los que la dijeron, y ya no se puede decir de una sola manera, porque ya es de todos.
 
 El niño guardó silencio. Se le estaba haciendo una idea dentro, una idea que todavía no sabía decir.
 
@@ -106,35 +106,27 @@ Y el hombre tomó la palabra como se toman las palabras que no se conocen, la gu
 
 El nombre exacto se perdió. Y en su lugar quedó la herencia.
 
-* * *
+La palabra se le quedó al niño en la boca, y creció con él, y cuando el niño fue muchacho, la llevaba como se lleva lo que se estrena y no se suelta: en la boca, para decirla, y en las manos, para pasarla. Y un año, en los tiempos de la cosecha, bajó hacia el linde, porque en el linde se hacía la fiesta más grande del año, la del día de la llegada.
 
-El muchacho que había dicho la palabra se fue haciendo hombre, y un año, en los tiempos de la cosecha, bajó hacia el linde, porque en el linde se hacía la fiesta más grande del año, la del día de la llegada.
-
-Era la fiesta en que los del linde celebraban de una manera que ya no se parecía a una llegada. Se ponían las mesas largas, la hoguera, las canciones, y el silbo con que se abría la fiesta. Y después del silbo se hacía lo que se hacía siempre, desde que había pueblo en el linde: se nombraba a los que no estaban y se contaba la vida de los que se habían ido. Primero los que habían partido hacia el otro lado del monte. Luego los que habían bajado al río y no habían vuelto. Luego los que se habían ido hacía generaciones, los que estaban ya en las canciones. Y al final, cuando ya se habían nombrado todos los que se habían ido, se nombraba a los que nunca estuvieron: se contaba la llegada de los Mayores, los que bajaron del cielo, los que vinieron de lejos antes de que hubiera pueblo, los que habían llegado como se llega a una casa que no es tuya todavía — despacio, preguntando, con las palmas tendidas.
-
-El muchacho, que donde llegaba decía de dónde era, y que a veces, cuando se lo pedían, contaba la palabra vieja y su manera nueva — el que decía que él era de los Althen, y que Althen quería decir los que eligen —, se sentó a la hoguera con la noche del linde encima, y oyó la historia de la llegada, contada por los viejos, con el silbo, con las palmas tendidas, con el niño más pequeño preguntando, como preguntaba cada año:
+Allí, después del silbo, se nombraba a los que no estaban: primero los que habían partido hacia el otro lado del monte, luego los que habían bajado al río y no habían vuelto, y al final, cuando ya se habían nombrado todos, a los que nunca estuvieron. Y el niño más pequeño preguntaba lo que preguntaba cada año:
 
 —¿Y por qué llegaron aquí, abuelo? ¿Por qué eligieron este valle, si no era de ellos?
 
-Y la respuesta era siempre la misma, vieja, redonda, gastada como la piedra del río, pero viva, porque lo que se dice todos los años lo es:
+—Porque aquí había gente —decía el abuelo—. Eso es lo que buscaban. No buscaban el valle, ni el río, ni la tierra: la tierra está en todas partes igual. Buscaban gente que se hiciera preguntas. Y aquí la había, y los recibió sin pedirles nada, con la palma abierta, sin preguntarles quiénes eran. Y ellos, que venían de un mundo donde la gente ya no se recibía, se quedaron.
 
-—Porque aquí había gente —decía el abuelo—. Eso es lo que buscaban. No buscaban el valle, ni el río, ni la tierra: la tierra está en todas partes igual. Buscaban gente. Y en este valle había gente que se hacía preguntas. Gente que los recibió sin pedirles nada: los recibió, simplemente, con la palma abierta, sin preguntarles quién eran ni de dónde venían. Los recibieron como se recibe. Y los Mayores, que venían de un mundo donde la gente ya no se recibía, encontraron aquí lo que habían ido a buscar: gente que preguntaba. Y decidieron quedarse. Y sembraron las preguntas.
+El muchacho miró a los del linde abrir las manos alrededor de la hoguera, y se le abrieron a él también, solas, sin darse cuenta.
 
-Y el muchacho, que tenía la palabra nueva en la boca y las manos de su valle, miró a los del linde abrir las manos alrededor de la hoguera, y sintió que las abría él también, sin darse cuenta, como quien hace lo que ha hecho toda la vida sin saber que es una herencia. Y comprendió, con la noche del linde encima, que la llegada de los Mayores no había sido un hecho que ocurrió una vez y se contó siempre. Que era una herencia. Que se recibía recibiendo. Que cada vez que alguien abría las manos a un recién llegado, los Mayores volvían a llegar — no como recuerdo sino como gesto, no como historia sino como manera.
+Los Mayores llegaron una vez. Y desde entonces, llegan siempre.
 
-Toda la vida había creído que la herencia era la palabra. Y era eso y era esto: la palabra nombraba, y la mano recibía. Los que vinieron de lejos sembraron lo que no se podía guardar en piedra: sembraron una manera de nombrar y una manera de recibir. Y las dos se pasaban igual, sin acordarse, sin pensarlo, de mano en mano, de boca en boca.
+Y cuando la fiesta terminó, el muchacho se volvió al valle del río llevándose las dos cosas que el linde le había enseñado sin enseñárselas: la palabra, que ya era suya, y la mano, que se abría sola delante de la hoguera. Y fue el primero de los que volvían.
 
-Los Mayores llegaron una vez. Y desde entonces, llegan siempre. Con las manos abiertas, con la luz de la hoguera, con el silbo que seguía vibrando en la noche del linde como una pregunta.
+Y ese valle no se perdió.
 
-* * *
-
-El muchacho volvió a su valle, el del río, el de la casa que miraba al río. Y ese valle no se perdió.
-
-No era el más grande. No era el más fértil. No tenía nombre en los mapas, porque los mapas, cuando llegaron siglos después, no sabían que valía para algo más que para los pastos y la leña. Era un valle como tantos, con un río, una loma, una cueva en la ladera que los niños no miraban de noche. Y, sin embargo, no se perdió. Los valles se pierden cuando la gente se va y nadie vuelve, cuando la hierba sube por las puertas y ya no hay manos que la aparten. Ese valle se quedó. Se quedó porque hubo quien, generación tras generación, volvió.
+No era el más grande ni el más fértil, y no tenía nombre en los mapas, porque los mapas, cuando llegaron siglos después, no sabían que valía para algo más que para los pastos y la leña. Era un valle como tantos, con un río, una loma, una cueva en la ladera que los niños no miraban de noche. Y, sin embargo, no se perdió. Los valles se pierden cuando la gente se va y nadie vuelve, cuando la hierba sube por las puertas y ya no hay manos que la aparten. Ese valle se quedó. Se quedó porque hubo quien, generación tras generación, volvió.
 
 Y volver no es una cosa que se haga un día. Es una herencia. Se hereda el sitio al que hay que volver, como se hereda un gesto, una canción, una manera. No se hereda el terreno: los terrenos se heredan con papeles, con repartos, con límites. Se hereda el regreso. Hay familias que guardan, en la memoria, el sitio al que se vuelve, como otras guardan el nombre de un abuelo o la receta de un pan. El sitio no es la casa: el sitio es el regreso. Y el regreso se hereda, como se hereda la mano abierta, como se hereda la palabra que nace de una boca y ya es de todos.
 
-El muchacho que había nombrado la palabra fue el primero de los que volvían. Volvía cada primavera, para la siembra, y cada otoño, para la vendimia, y volvía, sobre todo, para la noche en que la familia iba a la cueva de la ladera, la que los niños no miraban de noche, y se sentaba delante, sin entrar, y se hacían las preguntas. No sabían por qué la cueva era el sitio. Sabían que era. La historia decía que ahí, hacía muchísimo, unas gentes habían hecho el sitio, y que el sitio se había quedado, y que la familia, desde entonces, volvía a hacer las preguntas ahí, delante de esa boca de piedra, porque ese era el lugar de las preguntas.
+El que había nombrado la palabra volvía cada primavera, para la siembra, y cada otoño, para la vendimia, y volvía, sobre todo, para la noche en que la familia iba a la cueva de la ladera, la que los niños no miraban de noche, y se sentaba delante, sin entrar, y se hacían las preguntas. No sabían por qué la cueva era el sitio. Sabían que era. La historia decía que ahí, hacía muchísimo, unas gentes habían hecho el sitio, y que el sitio se había quedado, y que la familia, desde entonces, volvía a hacer las preguntas ahí, delante de esa boca de piedra, porque ese era el lugar de las preguntas.
 
 —¿Por qué en la cueva? —preguntó la nieta, la pequeña, la que casi ya no era pequeña, sentada delante de la boca de piedra con las manos sobre las rodillas, con la noche del valle encima, con la familia en círculo.
 
@@ -177,5 +169,7 @@ Porque la herencia no era la palabra que te dan: era la palabra que haces con la
 Y esa noche, delante de la cueva, en el valle que no se había perdido, con las palmas tendidas, con las estrellas, con la nieve, la herencia entera seguía viva, pasándose, multiplicándose en cada regreso, en cada mano que se abría, en cada boca que decía a su manera el nombre que ya era de todos.
 
 Althen.
+
+Todo esto ocurrió mucho antes. Antes de la señal, antes de la nave, antes de que hubiera una flor de dos colores junto a un río y un mundo entero discutiendo qué hacer con ella. Cuando por fin llegó ese tiempo — el de la flor, el de la comisión, el de los que están vivos mientras se cuenta esto —, la herencia del nombre, la de la llegada y la del lugar llevaban ya milenios pasándose de mano en mano, gastadas, torcidas, intactas, esperando sin saber que esperaban.
 
 *Continuará en el Capítulo 2 — La herencia de las manos.*

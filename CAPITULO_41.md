@@ -76,11 +76,15 @@ La que los Mayores habían sembrado sin saber que era una semilla.
 
 La que los que se quedaron habían pasado durante siglos sin saber que era una llave.
 
-Y años después, cuando la nave ya era noticia vieja y el valle ya era sitio, el mundo quiso hacer con la canción lo que hacía con todo lo demás: guardarla. Vinieron a la loma con grabadoras y con papeles pautados y con musicólogos, y dijeron que los nombres estaban torcidos y que había que corregirlos, que Veda habría de decirse Veda y Aldor Aldor, que la historia había que escribirla bien. Y la vieja que guardaba la melodía — nieta de la nieta de Mea — se sentó delante de los que venían a fijarla y dijo:
+Y años después, cuando la nave ya era noticia vieja y el valle ya era sitio, la comisión llegó también a la loma.
+
+No venían por la flor esta vez, ni por la cueva, ni por el Archivo. Venían por la canción. Alguien había subido una grabación hecha con un teléfono en una fiesta de la lluvia, y en el laboratorio habían aislado, dentro de las sílabas sin sentido, cuatro secuencias fonéticas recurrentes que se parecían demasiado a cuatro nombres. Traían grabadoras buenas, papel pautado y dos musicólogos, y traían también — esto lo dijeron con orgullo, porque creían que era un regalo — una propuesta de transcripción corregida: los nombres restituidos a su forma original, Aldor donde el valle decía *alde*, Veda donde decía *veda*, Lyra donde decía *lira*, Vex donde decía *vej*. Doce mil años de desgaste deshechos en una tarde. Querían dejarlo bien.
+
+Y la vieja que guardaba la melodía — nieta de la nieta de Mea — se sentó delante de los que venían a fijarla y dijo:
 
 —Si la transcriben, la matan. Esto que oyen va vivo porque cada boca lo corrompe un poco, y ese corromperse a lo largo de siglos es la vida misma. Ustedes quieren dejarla exacta, firmada. Y lo exacto se fija, y lo fijado se acaba. Los nombres que quieren corregir están torcidos por las bocas que los pasaron; escribirlos bien es borrar a los que los dijeron. Hay cosas, señores, que se guardan justamente porque no se escriben. Y esta es la primera.
 
-Los musicólogos, que entendían de notas y no de bocas, se fueron sin entender del todo. Y la canción siguió pasándose, torcida y viva, como seguía el valle entero: sin dejarse fijar, sin dejarse guardar, extendiéndose en las bocas de los que la cantaban.
+Los musicólogos, que entendían de notas y no de bocas, se fueron sin entender del todo. Publicaron la transcripción de todas formas, porque para eso habían venido, y durante unos años hubo escuelas que la enseñaron corregida, con los cuatro nombres bien puestos, y coros que la cantaron así, afinada y limpia. Al cabo de una generación ya no la cantaba nadie: las canciones enseñadas se olvidan cuando deja de haber quien las mande. Y en la loma, mientras tanto, seguían cantando *alde, veda, lira, vej* la noche de la lluvia, sin saber que estaban ganando nada, porque no sabían que hubiera nada que ganar.
 
 La herencia de la memoria.
 

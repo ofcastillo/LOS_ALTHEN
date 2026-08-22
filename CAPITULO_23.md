@@ -52,7 +52,7 @@ No era una nota. Era una palabra.
 
 No la dijo la señal. La dijo el silencio que venía después de la señal, como si la señal hubiera dejado un hueco y el hueco se hubiera llenado de una palabra que Teresa no había oído nunca y que sin embargo comprendió al oírla.
 
-No era una palabra del valle. No era una palabra de ninguna lengua que Teresa conociera. Era una palabra que sonaba como suena lo que llevas mucho tiempo esperando que te digan, sin darte cuenta de que lo estabas esperando.
+No pertenecía al valle ni a ninguna lengua que Teresa conociera. Era una palabra que sonaba como suena lo que llevas mucho tiempo esperando que te digan, sin darte cuenta de que lo estabas esperando.
 
 Teresa no la repitió. No la anotó. No llamó a nadie. Se quedó sentada, con la palabra dentro, con la señal guardada, con el observatorio callado.
 
@@ -86,7 +86,11 @@ La puerta de la memoria de Amara se abrió de golpe. La vieja cueva. La mano de 
 
 Mara abrió los ojos. No parecía del todo despierta. No parecía del todo dormida. Estaba en el sitio justo entre los dos, el sitio donde, sabía Amara, vivía la verdad que no se puede decir con palabras.
 
-—Porque voy a tener que bajarla yo —dijo Mara, y la voz le sonó como le sonaba siempre que tocaba el Archivo: sin miedo, sin duda, con la seguridad de quien está haciendo algo que lleva hecho muchas veces aunque sea la primera—. La mano lleva subida miles de años, mamá. Todo este tiempo mirando al cielo, esperando. Y ahora que la señal ha llegado, la mano ya no tiene que mirar al cielo: tiene que bajar, para que alguien la tome. Y yo creo que ese alguien tiene que ser la gente. Todos. No uno. Que la mano no baja para que la cace uno: baja para que la tome todo el que pueda. Y todo el que la tome, se lleva algo. Y si nadie la toma, la mano se queda baja, esperando, hasta que alguien se atreva.
+—Porque voy a tener que bajarla yo —dijo Mara, y se agarró el borde de la manta con las dos manos, que era lo que hacía de pequeña antes de las cosas grandes—. Lleva miles de años mirando al cielo, mamá. Y ahora que la señal ha llegado ya no tiene que mirar al cielo: tiene que bajar, para que alguien la tome.
+
+Se quedó callada un momento.
+
+—Y no puede tomarla uno solo. Si la toma uno solo no sirve de nada.
 
 —¿Y quién te ha dicho eso? —preguntó Amara, extrañada.
 
@@ -206,7 +210,7 @@ Eran cinco. Amara. Valeria. Marcos. Ivo. Elías. Y detrás, un poco apartada, co
 
 —¿Y si no baja? —preguntó Elías, en voz baja.
 
-—Bajará —dijo Mara, tranquila, sin dudar—. Bajará cuando estemos listos. Y no sé si estamos listos. Pero sé que estamos aquí. Y estar aquí, para la mano, es lo mismo que estar listo. La mano no pregunta si estás listo: pregunta si has venido. Y hemos venido.
+—Bajará —dijo Mara, y tragó saliva antes de decirlo—. Bajará cuando estemos listos. Y no sé si estamos listos. Pero sé que estamos aquí. Y estar aquí, para la mano, es lo mismo que estar listo. La mano no pregunta si estás listo: pregunta si has venido. Y hemos venido.
 
 El círculo calló, mirando la mano de piedra, con la luna encima, con el río sonando, con la señal, en algún sitio allá arriba, sonando también, como si las dos canciones se estuvieran oyendo.
 

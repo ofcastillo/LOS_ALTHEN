@@ -6,7 +6,7 @@
 
 Al final de todo, cuando ya no quedaba ninguna heredad por heredar, los últimos de los que habían traído la heredad se reunieron una última vez a la orilla del río.
 
-No fue anunciado. No fue convocado. Fue — como habían venido siendo todas las cosas de la heredad — simplemente: se fueron reuniendo. Los que quedaban de los que habían cruzado la distancia, los que guardaban en la sangre la memoria de otro mundo, los que habían sembrado las preguntas y habían visto a la heredad entera volverse vida: los últimos Ysann de la Tierra — los que todavía eran de los dos lados a la vez — se sentaron a la orilla del río, en el sitio de siempre, en el que se sentaban desde antes de que hubiera historia, y se miraron, como se miran los que van a hacer la última cosa juntos. Esta vez no eran sombras ni nombres gastados de canciones: eran rostros, con sus vidas enteras. Estaban Tolina, la que había cruzado la distancia y había vuelto, la que había envejecido viajando una vida que para la Tierra había sido milenios. Estaba Vex, el que había dudado de todo, el que había llegado al valle sin creer y se había quedado creyendo. Estaban Elna y Sarn, las de los dos lados, las que habían bajado de la nave y nunca habían vuelto a subir. Y estaba, sin cuerpo ya, solo memoria viva, Aldor, el que había sido el primero en partir y el que más hondo había sembrado.
+Nadie lo anunció ni lo convocó. Ocurrió como habían venido ocurriendo todas las cosas de la heredad: se fueron reuniendo. Los que quedaban de los que habían cruzado la distancia, los que guardaban en la sangre la memoria de otro mundo, los que habían sembrado las preguntas y habían visto a la heredad entera volverse vida: los últimos Ysann de la Tierra — los que todavía eran de los dos lados a la vez — se sentaron a la orilla del río, en el sitio de siempre, en el que se sentaban desde antes de que hubiera historia, y se miraron, como se miran los que van a hacer la última cosa juntos. Esta vez no eran sombras ni nombres gastados de canciones: eran rostros, con sus vidas enteras. Estaban Tolina, la que había cruzado la distancia y había vuelto, la que había envejecido viajando una vida que para la Tierra había sido milenios. Estaba Vex, el que había dudado de todo, el que había llegado al valle sin creer y se había quedado creyendo. Estaban Elna y Sarn, las de los dos lados, las que habían bajado de la nave y nunca habían vuelto a subir. Y estaba, sin cuerpo ya, solo memoria viva, Aldor, el que había sido el primero en partir y el que más hondo había sembrado.
 
 Sabían que era la última noche. No fue porque se les hubiera anunciado en ninguna parte: las últimas noches se saben — como se sabe cuándo una brasa ha dado todo lo que tenía que dar, y está a punto de ser simplemente ceniza, de la buena, la que se mezcla con la tierra. La heredad entera se había entregado. Ya no quedaba nada que sembrar: la siembra había sido hecha, y estaba creciendo, sola, en todos los valles, en todas las mesas, en todos los silbos, en todas las manos de la tierra. Ellos habían venido a aprender, y habían aprendido; habían venido a sembrar, y habían sembrado; habían venido a dejar la herencia, y la herencia ya era de todos los que la vivían. Y ahora, esa noche, a la orilla del río, les quedaba una sola cosa por hacer, la última, la que solo se puede hacer cuando se ha dado todo.
 
@@ -72,7 +72,9 @@ El Archivo — el que solo se abría en grupo, el que había resistido al elegid
 
 Y la flor de dos colores, la del jardín del paso, la que había sido sembrada en el hueco de milenios de espera: quedó florecida, y siguió floreciendo. No se secó con la entrega. La entrega no la tocó: la heredad entera la había estado regando sin saberlo — con las preguntas, con las rondas, con los nombres dichos — y la flor, que había florecido en la herida, siguió floreciendo en la vida, abriéndose cada alba, cerrada cada noche, sin prisa, sin miedo, sin necesidad de que nadie la protegiera: siendo, que era lo que la siembra entera había venido a enseñar. Los que la veían florecer, los dos colores mezclados en un solo pétalo, no la miraban como un monumento: la miraban como se mira una cosa viva, que florece porque sí, porque es su tiempo, porque el que siembra se hace a un lado y deja que lo sembrado crezca.
 
-Y del gran edificio que el mundo había querido levantar para custodiar todo esto, no quedó nada que contar: quedó vacío, y vacío se fue quedando con los años, porque no había nada que ponerle dentro — la semilla se sembraba, la flor florecía, el Archivo se abría en grupo, la mano servía de asiento, y ninguna de esas cosas cupo jamás en una sala con clima y con guardias. Algunas veces, en las ciudades, se veían aún los planos de aquel edificio, en los ministerios, en los archivos; y los que los miraban, se reían con una risa que ya era de la heredad, porque al fin entendían que el mundo había estado a punto de construir una bóveda para guardar el viento. Y en el edificio vacío hubo, durante años, un solo ocupante: un viejo bibliotecario que entraba cada semana, se sentaba en la sala más grande, y se hacía en voz baja la misma pregunta —¿quién soy cuando nadie me mira?—, y cada semana la respuesta era distinta, porque la pregunta, cuando se hace de verdad, se va haciendo, como se hace una vida. Los guardias, al principio, quisieron echarlo; con los años, dejaron de intentarlo: el viejo, decían, era lo único que cabía en aquella bóveda — una pregunta que no se gastaba, en el edificio que se había construido para guardar el viento. Y la comisión, la de las custodias, terminó haciendo lo que hacía toda la gente con la herencia: terminó sentándose — con Sira, con el círculo, con los que llegaban —, abriendo las manos, callando. Porque la heredad, que no se dejó nombrar, no se dejó tampoco guardar; y se entregó entera a los que renunciaron a custodiarla.
+Y del gran edificio que el mundo había querido levantar para custodiar todo esto, no quedó nada que contar: quedó vacío, y vacío se fue quedando con los años, porque no había nada que ponerle dentro — la semilla se sembraba, la flor florecía, el Archivo se abría en grupo, la mano servía de asiento, y ninguna de esas cosas cupo jamás en una sala con clima y con guardias. Solo una de aquellas salas llegó a usarse, y no para lo que se había pensado. En una ciudad del norte, en la planta baja de lo que iba a ser bóveda y acabó siendo biblioteca de barrio, trabajó durante años un hombre muy viejo que colocaba libros y no hablaba casi con nadie. Se llamaba Ardal. Había tenido, mucho tiempo atrás, una fundación entera, un abrigo bueno, un pin en la solapa y una certeza; y una mañana, delante de una mano de piedra, una niña le había hecho una pregunta que no supo contestar. Se pasó el resto de la vida haciéndosela cada semana, siempre la misma — *¿quién soy, cuando nadie me mira?* —, y anotando la respuesta al final de un cuaderno que no le enseñó a nadie. Nunca le salió la misma respuesta dos veces. Él lo tomaba por buena señal.
+
+Algunas veces, en las ciudades, se veían aún los planos de aquel edificio, en los ministerios, en los archivos; y los que los miraban, se reían con una risa que ya era de la heredad, porque al fin entendían que el mundo había estado a punto de construir una bóveda para guardar el viento. Y en el edificio vacío hubo, durante años, un solo ocupante: un viejo bibliotecario que entraba cada semana, se sentaba en la sala más grande, y se hacía en voz baja la misma pregunta —¿quién soy cuando nadie me mira?—, y cada semana la respuesta era distinta, porque la pregunta, cuando se hace de verdad, se va haciendo, como se hace una vida. Los guardias, al principio, quisieron echarlo; con los años, dejaron de intentarlo: el viejo, decían, era lo único que cabía en aquella bóveda — una pregunta que no se gastaba, en el edificio que se había construido para guardar el viento. Y la comisión, la de las custodias, terminó haciendo lo que hacía toda la gente con la herencia: terminó sentándose — con Sira, con el círculo, con los que llegaban —, abriendo las manos, callando. Porque la heredad, que no se dejó nombrar, no se dejó tampoco guardar; y se entregó entera a los que renunciaron a custodiarla.
 
 Porque así es la heredad final:
 
@@ -101,31 +103,7 @@ Y por eso, hoy, cuando se cierra este libro — el último de la siembra, la her
 *Para que la vivas.*
 *Para que la seas.*
 
-**Tú, que has llegado hasta el final — el final de la siembra, la orilla del río, el momento en que los sembradores se hacen a un lado para que lo sembrado crezca — tienes ahora la heredad entera en las manos. No para guardarla. Para vivirla. Porque las heredades se acaban, y la manera no: la manera se vive, y al vivirla se pasa, de vida en vida, sin heredarla, porque ya no hace falta: los que la viven, la son.**
-
-**Somos lo que decidimos ser.**
-**Ya lo sabes.**
-**Lo has visto en los que llegaron, que decidieron partir y quedarse, que decidieron olvidar y recordar, que decidieron sembrar y hacerse a un lado — que decidieron, y al decidir, se volvieron lo que decidieron ser.**
-
-**Y ahora — en silencio, en esta orilla del río, con la heredad entera en las manos, sin necesidad de decirlo en voz alta, sin necesidad de que nadie lo oiga — responde:**
-
-**Hoy, ¿qué vas a ser?**
-
-**No me des la respuesta a mí.**
-**Dásela a la persona en la que vas a convertirte.**
-
-**Hazlo con las manos abiertas.**
-**Siéntate, si hace falta.**
-**Haz las cuatro preguntas — Memoria, Método, Gesto, Duda.**
-**Y luego, en silencio, elige: ¿qué voy a ser hoy, con lo que sé y con lo que siento?**
-
-**Porque la heredad final de los que llegaron no se hereda.**
-**Se vive.**
-**Y la vives tú, ahora, aquí, en esta página, con la pregunta en la mano abierta, con la semilla sembrada, con el campo creciendo — con los sembradores ya a un lado, esperándote, no para que heredes, sino para que seas.**
-
-**Tú.**
-**Hoy.**
-**¿Qué vas a ser?**
+Y después, el río.
 
 *Althen.*
 

@@ -108,7 +108,59 @@ Aldor lo reconoció, sí. Lo reconoció como se reconoce a un nombre que está e
 
 —¿Qué promesa? —preguntó Aldor, con la inocencia de los que preguntan de verdad, sin memoria.
 
-Y Vex comprendió que no había promesa. Que nunca había habido una promesa que su padre hubiera sabido que hizo. Que la promesa había existido solo en su cabeza, en el cuenco donde había ido guardando las palabras que nadie le había dicho, en el sitio donde se había construido a un padre que lo iba a esperar.
+Y Vex se levantó.
+
+No lo pensó. Se levantó de golpe, y la piedra en la que estaba sentado se movió con el ruido de las piedras, y el gesto le salió tan brusco que Aldor se echó atrás un poco, como se echan atrás los viejos.
+
+—No —dijo Vex.
+
+—¿Hijo?
+
+—No me llames hijo. —Le temblaba la voz, y no era de pena—. Yo venía preparado para muchas cosas. Venía preparado para que me gritaras. Para que me dijeras que fue culpa mía por no subir a la nave. Para que me pidieras perdón, si te daba por ahí. Todo eso lo traía pensado desde hace… —se le fue la cuenta— desde hace toda la vida. Pero esto no. Esto no lo traía pensado.
+
+—No sé de qué me hablas —dijo Aldor, y era verdad, y por eso fue peor.
+
+—De que no te acuerdas —dijo Vex—. De que yo llevo media vida masticando una cosa que a ti se te cayó por el camino y ni la oíste caer. Yo no he venido a que me perdones, padre. He venido a que te acuerdes. Y resulta que lo único que no me puedes dar es lo único que vine a buscar.
+
+Aldor lo miró con la cara de los que quieren ayudar y no tienen con qué.
+
+—Puedo intentar acordarme —dijo.
+
+Y eso fue lo que lo rompió del todo: que su padre se ofreciera a hacer el esfuerzo. Como el que revuelve un cajón buscando una cosa que sabe que no está, para no dejar en mal lugar a la visita.
+
+Vex se fue esa misma noche.
+
+---
+
+Subió a la meseta, a la nave, y se sentó dentro con la escotilla abierta, mirando el valle desde arriba. Estuvo así cuatro días.
+
+No bajó. Comió lo que le quedaba a bordo. Programó dos veces el regreso a Vaelen y las dos veces lo canceló, y la segunda vez se quedó mirando la consola un buen rato, con vergüenza, porque hasta él sabía que un hombre que cancela dos veces la misma cosa ya ha decidido.
+
+Al cuarto día bajó, pero no hasta el valle: hasta la ladera, donde empieza el pinar, desde donde se ve la orilla y a uno no lo ven. Iba a mirar una vez más y marcharse. Eso se dijo.
+
+Y desde allí lo vio.
+
+Aldor estaba en la orilla, como siempre, y con él había un niño del valle, uno de seis o siete años, en cuclillas. Y Aldor le estaba enseñando a mirar el agua. No se oía lo que decía; no hacía falta, porque Vex conocía el gesto: se lo habían hecho a él. La mano abierta sobre la corriente, quieta, hasta que el agua se acostumbra. Después esperar. Después señalar sin señalar, con la barbilla.
+
+Su padre había olvidado Vaelen, y su nombre, y la partida, y la promesa que nunca hizo. No había olvidado cómo se enseña a mirar el agua.
+
+Y Vex, en la ladera, con los pinos detrás, entendió una cosa que le costó aceptar más que todo lo anterior: que lo que su padre le había dado no estaba guardado en la memoria de su padre. Estaba en él. Llevaba media vida cruzando la distancia para reclamarle a un hombre una cosa que ya llevaba puesta.
+
+---
+
+Bajó al valle al caer la tarde del día siguiente.
+
+Aldor estaba donde había estado siempre. No le preguntó dónde se había metido, porque no se había enterado de que se hubiera ido.
+
+Vex se sentó a su lado. Estuvieron un rato largo callados, con el río, mientras se iba la luz.
+
+—Padre. La otra noche te pregunté por una promesa.
+
+—No me acuerdo —dijo Aldor.
+
+—Ya —dijo Vex—. Ya lo sé. Escúchame igual.
+
+Y al decirlo en voz alta, por fin, Vex comprendió que no había promesa. Que nunca había habido una promesa que su padre hubiera sabido que hizo. Que la promesa había existido solo en su cabeza, en el cuenco donde había ido guardando las palabras que nadie le había dicho, en el sitio donde se había construido a un padre que lo iba a esperar.
 
 —Nada —dijo Vex, y soltó el aire de una vez, como quien deja caer un peso que llevaba años—. No hay promesa. No había promesa. La promesa me la hice yo. Me la hice, y te la eché en cara a ti, y era mía. La culpa era mía.
 

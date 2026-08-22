@@ -10,7 +10,7 @@ El mundo no era el mismo, y a la vez era el mismo, y esa era la parte más extra
 
 Tolina no se escondió.
 
-No fue a ningún laboratorio. No se presentó ante ningún congreso. Se quedó en el valle, en una casa del pueblo que le dieron los que lo vieron llegar, y vivió de la forma más simple que pudo: cultivando, paseando a la orilla del río, contando historias a los niños de la plaza, enseñando a quien le preguntaba la lengua de los que saludaban con el gesto de *te veo y me dejo ver*. Vivió como había aprendido a vivir en el viaje: despacio, sin coleccionar, sin guardar, abierta.
+Podría haber ido a un laboratorio o haberse presentado ante un congreso, y no hizo ni lo uno ni lo otro. Se quedó en el valle, en una casa del pueblo que le dieron los que lo vieron llegar, y vivió de la forma más simple que pudo: cultivando, paseando a la orilla del río, contando historias a los niños de la plaza, enseñando a quien le preguntaba la lengua de los que saludaban con el gesto de *te veo y me dejo ver*. Vivió como había aprendido a vivir en el viaje: despacio, sin coleccionar, sin guardar, abierta.
 
 Y de la nave bajaron, con el tiempo, los que estaban listos.
 
@@ -30,11 +30,11 @@ Y lo entendió del todo, una tarde de otoño, cuando Tolina la llamó aparte, a 
 
 —Mara —dijo Tolina—. Ha llegado el momento de que te cuente lo que nadie me pidió que contara. Y lo que nadie me pidió que contara es esto: que no vine a la Tierra a buscar un tesoro. Vine a buscar a alguien que lo cuidara. Y lo he encontrado.
 
-—¿A quién? —preguntó Mara, aunque ya sabía, aunque lo llevaba sabiendo desde que era pequeña.
+—¿A quién? —preguntó Mara, que creía saberlo y quería que se lo dijeran igual.
 
 —A ti —dijo Tolina—. A la que oye el Archivo. A la que supo bajar la mano cuando los demás dudaban. A la que nombró a los que se quedan. Yo no traje el Archivo: el Archivo estaba aquí, dormido, esperando. Yo traje algo más difícil de traer. Traje la guarda. Traje la custodia del paso entre los dos hogares. Y la custodia del paso, Mara, no se hereda por la sangre: se hereda por la escucha. Y tú escuchas.
 
-—Yo no he pedido ser guardiana —dijo Mara, quieta, con la serenidad de quien dice una verdad sin exigir nada.
+—Yo no he pedido ser guardiana —dijo Mara, quieta, sin levantar la vista del suelo.
 
 —Nadie la pide —dijo Tolina—. La guarda se presenta. Se presenta, y se escoge, y se mira a los ojos, y se pregunta si se quiere. Y hay que responder, Mara. Porque la guarda, cuando se presenta, no espera.
 
@@ -114,7 +114,7 @@ Al día siguiente, Mara se encontró con el círculo en la explanada del valle, 
 
 —Me han dicho —dijo Amara, y se apretó los labios un instante, porque sabía lo que iba a oír—, que te van a nombrar guardiana. Que Tolina te ha escogido.
 
-—No me han nombrado nada —dijo Mara, tranquila—. La guarda no se nombra. Se presenta, y se acepta, o se deja pasar. Y yo no he aceptado ni he dejado pasar. He comprendido.
+—No me han nombrado nada —dijo Mara, con las manos en los bolsillos—. La guarda no se nombra. Se presenta, y se acepta, o se deja pasar. Y yo no he aceptado ni he dejado pasar. He comprendido.
 
 —¿Y qué has comprendido? —preguntó Ivo.
 
@@ -124,7 +124,11 @@ Mara miró la mano baja, la espiral, la estrella, el valle.
 
 —¿Y tú —preguntó Valeria—, vas a quedarte en el valle? ¿Vas a guardar aquí?
 
-—No sé si en el valle —dijo Mara—. No sé si en un sitio. Creo que la guarda no se queda en un sitio. Se queda en el paso. Y el paso, Valeria, no está en ningún mapa: está entre. Está entre los que vienen y los que se quedan, entre el mar y el río, entre la señal y la mano. Y yo, que soy de los dos lados, voy a estar en el entre. No sé cómo se hará. Pero llevo toda la vida estando en el entre, sin saber cómo se llamaba. Ahora sé cómo se llama: se llama la guarda.
+—No sé si en el valle —dijo Mara—. Ni si en un sitio. Creo que la guarda no está en ningún sitio: está en el paso, y el paso no sale en los mapas.
+
+—¿Y eso dónde te deja? —dijo Valeria.
+
+—En medio. No sé cómo se hace. Llevo toda la vida ahí sin saber cómo se llamaba.
 
 Los cinco la miraron. Y Tolina, que estaba detrás, con Elna a su lado, sonrió con la sonrisa de los que han esperado tanto que ya no les importa esperar.
 

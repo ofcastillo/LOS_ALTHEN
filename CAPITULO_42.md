@@ -46,6 +46,20 @@ Y en ese punto, cuando la duda era ya la respuesta del mundo, llegó la exigenci
 
 La plaza se quedó en silencio. La comisión también. Nunca habían visto negarse a alguien a quien le ofrecían un título, un edificio, un salario, un nombre que pasaría a la historia de la investigación. Y la negativa — comprendió la plaza, al verla a ella, al ver a las otras jardineras asintiendo a su lado — era la heredad misma hecha persona: la de los que reciben para pasar, y que no quieren tener, porque tener obliga a guardar, y lo que se guarda se encierra, y lo que se encierra se muere. La dejaron nombrada y sin heredera a la vez, con el acta firmada que ella no había firmado, con el edificio que no se iba a llenar, con la cerradura sin llave. Y esa noche, al sentarse en el jardín, las manos se abrieron como siempre, sin título, sin acta, sin guardián: se abrieron y pasaron.
 
+Lo que no supo nadie, y ella no contó hasta mucho después, es que aquella misma noche Sira estuvo a punto de firmar.
+
+Se levantó a las dos, se vistió a oscuras para no despertar a nadie, y bajó al pueblo, a la casa donde se alojaba la comisión. No iba por el título, ni por el edificio, ni por el sueldo, que no le hacían ninguna falta. Iba porque llevaba tres días haciendo la cuenta y la cuenta le salía siempre igual: si firmaba, la flor se quedaba; si firmaba, el valle dejaba de estar en los periódicos; si firmaba, las jardineras podían volver a trabajar sin que les preguntaran nada, y la gente del pueblo dejaba de tener miedo a que llegara un día alguien con una máquina. Todo eso lo compraba una firma suya. Y lo único que costaba era una idea que tenía ella sobre sí misma. Iba, esa noche, a averiguar si su manera de estar en el mundo era una manera de estar en el mundo o simplemente un lujo que estaban pagando los demás.
+
+Llegó hasta la puerta. Levantó la mano para llamar. Y no llamó, porque desde dentro se oía hablar, y lo que se oía tampoco tenía nada de particular: gente cansada organizando el día siguiente. Estaban hablando de ella. Sin rencor, sin desprecio, con la voz que se usa para lo que ya está resuelto.
+
+—…y una vez que firme, la ponemos en la foto de la entrega y a partir de ahí ya no hace falta que aparezca. Con que salga en la foto vale.
+
+Sira se quedó en el escalón mucho rato, con la mano todavía a media altura. No sintió indignación. Sintió, sobre todo, una especie de vergüenza rara, como la de haber estado a punto de vender algo sin saber lo que valía. Porque hasta ese momento había creído que la discusión era sobre la flor, y acababa de descubrir cómo iba a llamarse ella dentro de aquella casa a partir de la firma: iba a llamarse *la foto*.
+
+Bajó el brazo. Volvió al valle andando, despacio, y llegó cuando ya clareaba. No se lo dijo a Mara, ni a las otras jardineras, ni a nadie. Se lavó la cara, se ató el pelo, y a las siete estaba en el jardín, de rodillas, quitando hierba, como todos los días.
+
+Pero a partir de aquella noche, cuando le preguntaban por qué se negaba, contestaba más despacio. Y las veces siguientes, que fueron muchas, no volvió a decir que no como quien recita algo que tiene claro: lo dijo como quien vuelve a decidirlo cada vez.
+
 ---
 
 Y esa noche, en el jardín, el mundo — que había venido a pedir pruebas — hizo lo que hacían los que recibían la herencia: se sentó. Las manos se abrieron. Las preguntas se hicieron. Y en las preguntas, la humanidad entera, por fin, dejó de buscar que le dieran la verdad para empezar a habitar la que tenía, dudosa, viva, sembrada.

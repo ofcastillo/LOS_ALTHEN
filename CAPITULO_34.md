@@ -6,7 +6,7 @@
 
 Volvieron a los años siguientes.
 
-No fue una invasión. No fue una flota. Fue, y esto los humanos del valle tardaron generaciones en comprenderlo, una costumbre: la costumbre de los que parten de volver a ver a los que se quedaron. Volvieron como habían partido, sin ruido, en naves pequeñas, de mensajero, de las que estaban hechas para el único viaje que importaba, no para la guerra: el de alguien que tiene algo que decirle a alguien.
+Nadie bajó en flota, y nada de aquello se pareció a una invasión. Fue, y esto los humanos del valle tardaron generaciones en comprenderlo, una costumbre: la costumbre de los que parten de volver a ver a los que se quedaron. Volvieron como habían partido, sin ruido, en naves pequeñas, de mensajero, de las que estaban hechas para el único viaje que importaba, no para la guerra: el de alguien que tiene algo que decirle a alguien.
 
 La primera vuelta fue una mujer que se llamaba **Adra**.
 
@@ -104,7 +104,29 @@ Y entonces, desde la puerta, sonó un silbo. Un silbo de niño, de los que cruza
 
 —Espere —dijo.
 
-Y la semilla quedó en su palma, y la guardó, con la desconfianza de las que guardan lo que no entienden.
+Adra se detuvo. Pero la vieja no alargó la mano.
+
+—No he dicho que me la quede. He dicho que espere. Le he hecho una pregunta y usted no me la ha contestado. Me ha contestado otra, que es lo que hacen todos los que vienen de lejos: contestan la que saben. Se lo pregunto otra vez, y míreme a la cara mientras me contesta. ¿Esto es un lazo?
+
+Adra la miró a la cara. Y tardó en responder, porque lo que iba a decir no lo había dicho nunca en voz alta, ni siquiera entre los suyos.
+
+—Sí —dijo—. En parte, sí.
+
+La vieja no se movió.
+
+—Los que partimos queremos que nos esperen —dijo Adra—. No lo decimos con esas palabras, porque suenan mal, y porque nos hemos contado a nosotros mismos una historia más bonita. Pero es verdad. Dejar algo detrás es una manera de obligar a que la puerta siga abierta. Yo no le puedo prometer que esta semilla no sea también eso. No sé separar las dos cosas. Puede que no sepa nadie.
+
+—Bien —dijo la vieja.
+
+Y entonces sí cerró la mano sobre la semilla. Pero no la cerró como se cierra la mano sobre un regalo.
+
+—Me la quedo —dijo—. Y no porque me haya convencido, que no me ha convencido nada. Me la quedo porque me ha dicho la verdad cuando le convenía mentirme, y eso, aquí, vale más que tener razón. Pero le voy a decir lo que voy a hacer con ella, para que se vaya sabiéndolo. La voy a guardar. Y a la que se la dé, le voy a decir lo mismo que usted me ha dicho a mí: que puede que sea un regalo y puede que sea una cuerda, y que no hay manera de saberlo. Y ella se lo dirá a la siguiente. Y así, el día que alguien la plante, la plantará sabiendo lo que planta. Y si aun así la planta, será porque quiso, y no porque nadie la avisó.
+
+Adra estuvo un momento callada.
+
+—Es más de lo que venía a pedir —dijo.
+
+—Es lo justo —dijo la vieja—. Ustedes nos dejaron la costumbre de preguntar. No se quejen ahora de que la usemos con ustedes.
 
 —¿Y si me equivoco al elegir al heredero? —preguntó.
 
@@ -116,13 +138,17 @@ Adra partió al atardecer, con la nave subiendo despacio, sin ruido, como había
 
 La vieja permaneció en la explanada, con la semilla en la mano, mirando la nave que se hacía pequeña, mirando el cielo donde se perdía, mirando el punto donde ya no estaba.
 
-No supo qué hacer con la semilla. No se la dio a nadie. La guardó, con la desconfianza de las que guardan lo que no entienden, y se la pasó, antes de morir, a la hija de su hija, con una sola instrucción:
+No supo qué hacer con la semilla. No se la dio a nadie. La guardó, con la desconfianza de las que guardan lo que no entienden, y se la pasó, antes de morir, a la hija de su hija, con dos instrucciones. La primera fue esta:
 
 —Guárdala. No la plantes. Todavía no. Cuando haya que plantarla, la planta. No sé cuándo será. Lo sabrás tú sin que nadie te lo diga. Porque eso es lo que pasa con las semillas de los dos mundos: llega el día en que sabes, y ese día la plantas, y ese día algo se junta.
 
+Y la segunda, que dijo mirándola a los ojos, fue la que la vieja había prometido en la explanada:
+
+—Y cuando se la des a la que venga detrás, dile lo que te digo yo a ti, palabra por palabra: que puede que sea un regalo y puede que sea una cuerda, y que nadie sabe cuál de las dos. Que la plante quien quiera plantarla. Pero que la plante sabiéndolo.
+
 Y la semilla pasó de mano en mano, de generación en generación, en el valle, como pasaba el silbo, como pasaban las preguntas: sin nombre, sin dueño, sin que nadie supiera lo que era. Pasó por las manos de los que se quedaron, de los que heredaron, de los que cuidaron la heredad, que era la herencia de los dos mundos.
 
-Y un día, por fin, tras muchas manos y muchos años de espera, la semilla llegó a las manos de una mujer que llevaba el nombre de la guarda de las historias, la que las canciones recuerdan por el epitafio *Los que no se van*, y que era precisamente su nieta: la heredera de la guarda sin nombre, la que había mantenido el silbo y las preguntas como se mantiene un fuego, la que guardaba la casa de los registros, la que se sentaba delante de la cueva donde dormía la llave del mundo.
+Y un día, por fin, tras muchas manos y muchos años de espera, la semilla llegó a las manos de una mujer que llevaba el nombre de la guarda de las historias, la que las canciones recuerdan por el epitafio *Los que no se van*, y que ocupaba su sitio muchas guardas después, porque en aquella casa el nombre se heredaba con el silbo y nadie llevaba ya la cuenta de cuántas lo habían llevado: la heredera de la guarda sin nombre, la que había mantenido el silbo y las preguntas como se mantiene un fuego, la que guardaba la casa de los registros, la que se sentaba delante de la cueva donde dormía la llave del mundo.
 
 Odra la tuvo un momento, en la palma, con la luz del valle encima, y la guardó, con la desconfianza de las que guardan lo que no entienden, y siguió silbando, y siguió guardando, y siguió siendo de aquí entero, con la semilla de Vaelen al cuello sin conocerla, la que los que partieron habían devuelto, la que se plantaría el día en que los dos mundos se juntaran de verdad.
 
@@ -132,7 +158,7 @@ Llegó, mucho después, en el valle, cuando la señal se encendió, cuando las m
 
 Ese día, la semilla de Vaelen se plantó en la Tierra.
 
-La plantó Odra, la nieta de la vieja Odra, la que había heredado el silbo sin preguntarse por qué, como se hereda un fuego, la que había mantenido el silbo y las preguntas, la que era la heredera de la guarda sin nombre.
+La plantó Odra, la que llevaba el nombre en aquel tiempo, la que había heredado el silbo sin preguntarse por qué, como se hereda un fuego, la que había mantenido el silbo y las preguntas, la que era la heredera de la guarda sin nombre. Y la plantó sabiendo lo que le habían dicho que dijeran las que la habían tenido antes, palabra por palabra, sin que se hubiera gastado en el camino: que podía ser un regalo y podía ser una cuerda, y que nadie sabía cuál de las dos. La plantó igual. Pero la plantó sabiéndolo, que era lo único que había pedido, hacía milenios, una vieja desconfiada en una explanada, delante de una mujer que se iba.
 
 La plantó al borde del valle, junto al río, donde la tierra era buena y el agua cantaba sin permiso.
 
@@ -152,13 +178,13 @@ Es de los dos.
 
 ---
 
-Esa noche, Odra, la nieta, se quedó mirando la flor, al borde del río, con la noche encima, con la nave allá arriba, con la señal encendida.
+Esa noche, Odra, la guarda, se quedó mirando la flor, al borde del río, con la noche encima, con la nave allá arriba, con la señal encendida.
 
 —No lo entiendo del todo —dijo, en voz baja, a la flor—. Pero lo sé de otra manera. Lo sé de cómo se saben las cosas que se guardan a oscuras. Lo sé de cómo se saben las cosas que pasan de mano en mano, sin nombre, sin dueño, y que un día, cuando llega su momento, aparecen, y florecen, y no piden permiso.
 
 Miró la flor durante mucho rato. La flor brillaba bajito, plata y verde, con la luz de la noche, con la luz de los dos mundos, con la luz del paso.
 
-—Los que partieron —dijo— no volvieron para llevarse nada. Volvieron para devolver lo que se llevaron. Volvieron a devolver la semilla, para que los dos mundos echaran raíces en los dos, para que el paso fuera, no una puerta que se cruza, sino una tierra que se habita. Y esa tierra, esa tierra de en medio, es la que estamos empezando a habitar, sin darnos cuenta, cuando dejamos que lo que partió vuelva, y que lo que volvió se quede, y que lo que es de dos lados a la vez crezca en la Tierra como crece esta flor.
+—Los que partieron —dijo— no volvieron para llevarse nada. Volvieron para devolver lo que se llevaron. Volvieron a devolver la semilla, para que los dos mundos echaran raíces en los dos, para que el paso dejara de ser una puerta que se cruza y se volviera una tierra que se habita. Y esa tierra, esa tierra de en medio, es la que estamos empezando a habitar, sin darnos cuenta, cuando dejamos que lo que partió vuelva, y que lo que volvió se quede, y que lo que es de dos lados a la vez crezca en la Tierra como crece esta flor.
 
 Y Odra permaneció ahí, de noche, mirando la flor de los dos colores, con el río cantando, con la semilla de Vaelen hecha planta, con la herencia de los que partieron hecha raíz, con el regreso de los dos lados hecho, por fin, de la única manera en que los regresos se cumplen de verdad:
 

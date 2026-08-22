@@ -10,7 +10,7 @@ No de golpe — para el momento del valle, fue casi de golpe. Pasó después de 
 
 Y el valle se calló.
 
-No fue una decisión. No había en el valle una asamblea que hubiera votado callarse. Fue algo más viejo y más simple: en el valle, cuando el mundo habla mucho, el valle se calla, como se cuentan las palabras para que no se gasten, como se guardan las semillas de la boca para la siembra. El círculo, la gente del valle, los jardineros del paso, los que habían llegado y se habían quedado: todos se callaron. No por orgullo. No por despecho. Se callaron porque el ruido del mundo no les cabía, porque la herencia — lo sabían desde siempre, desde antes de la cifra, desde antes de la flor — no cabía en las palabras, y porque seguir hablando cuando el mundo hablaba era añadir una palabra más a una pila de palabras que ya no se podía sostener.
+Nadie lo decidió, y en el valle no había asamblea que pudiera votar una cosa así. Fue algo más viejo y más simple: en el valle, cuando el mundo habla mucho, el valle se calla, como se cuentan las palabras para que no se gasten, como se guardan las semillas de la boca para la siembra. El círculo, la gente del valle, los jardineros del paso, los que habían llegado y se habían quedado: todos se callaron. No por orgullo. No por despecho. Se callaron porque el ruido del mundo no les cabía, porque la herencia — lo sabían desde siempre, desde antes de la cifra, desde antes de la flor — no cabía en las palabras, y porque seguir hablando cuando el mundo hablaba era añadir una palabra más a una pila de palabras que ya no se podía sostener.
 
 Valeria, la que había escrito que las mejores noticias no se publican, se viven, fue la que primero lo puso en palabras — con la ironía de los que saben que están contando con palabras justamente lo que no cabe en las palabras —: lo dijo un día, mirando las pantallas que no paraban de decir Althen, Althen, Althen.
 
@@ -23,6 +23,18 @@ Amara, la que traducía las canciones, la que sentía antes de entender, asinti�
 En el valle se calló más todavía. Y el mundo, desde fuera, no lo entendía. El mundo enviaba enviados y micrófonos y preguntas: ¿qué opinan? ¿qué sienten? ¿qué recomiendan? ¿nos dicen cómo se hereda? Y el valle recibía a los enviados, sí, como recibía a todo el mundo — con agua, con asiento, con la sombra de los árboles — pero no contestaba con ruido: contestaba con presencia. Se sentaban. Abrían las manos. Se callaban. Y los enviados, que llegaban con las preguntas preparadas, se encontraban con que ahí no se respondía: ahí se estaba. Y algunos, al principio, se impacientaban, y otros se burlaban, y otros escribían crónicas diciendo que el valle se había vuelto mudo, que ya no decía nada, que habían perdido lo que tenían. Y otros — pocos, cada vez menos — se quedaban. Se sentaban. Abrían las manos. Y descubrían, en el silencio que no pedía nada, que había ocurrido algo que no ocurría en ninguna pantalla: que la palabra Althen, por fin, había dejado de sonar dentro de ellos, y que en el silencio, por fin, cabía la herencia.
 
 Y el coste de ese callarse se pagó fuera del valle, y se pagó entero, como se pagan los costes: la comisión que había venido a custodiar sintió la negativa del silencio, y la nombró con el nombre que le dictaba el mundo: dijo que el valle escondía la herencia, que callaba porque temía que le quitaran lo que guardaba, que le negaba al mundo el derecho de conocer. Y el mundo, que había estado a punto de creer, se retiró: retiró los planes de custodia, retiró los equipos, retiró los nombres de la lista de los que lo estudiaban; el valle se quedó, con su flor y sus gestos, sin título, sin registro, sin lugar en los papeles de nadie. Y aun así, callado, siguió haciendo lo que hacía: crecer — porque ese era el modo de no perder nada, el que el ruido nunca iba a entender: lo que se calla de verdad no se esconde, se custodia viviéndolo, y la custodia que no se puede escribir, esa, no la puede quitar ningún papel.
+
+Y eso, contado desde fuera, suena a poco: unos papeles, unos nombres tachados de una lista. En el valle se notó de otra manera.
+
+Lo primero que se fue fue el autobús. La línea que subía tres veces por semana la había puesto la comisión el segundo año, para los suyos, y el valle se había acostumbrado a ella sin darse cuenta, como se acostumbra uno a lo que le regalan. Dejó de subir en octubre. Después dejó de venir la maestra que había llegado con el programa del paso, y no mandaron otra; los niños volvieron a bajar andando al pueblo, cincuenta minutos, y en invierno a oscuras. Y en enero cerró el puesto médico, que tampoco había sido nunca del valle: era de un convenio, y el convenio se había quedado sin firmar.
+
+Nadie del círculo dijo en voz alta que aquello fuera culpa suya, y probablemente no lo era del todo. Pero una mañana, a la entrada del jardín, la madre de dos de los que bajaban andando se paró delante de Sira. No le gritó, que hubiera sido mucho más fácil.
+
+—Yo estoy con vosotras —dijo—. Que quede claro que estoy con vosotras. Solo quiero que sepas que el pequeño tose desde noviembre.
+
+Y se fue a trabajar.
+
+Sira pasó el resto del día de rodillas, quitando hierba, sin hablar con nadie. Aquella fue la única noche en muchos años en que no bajó al jardín.
 
 Porque la herencia no cabe en las palabras: cabe en el silencio.
 

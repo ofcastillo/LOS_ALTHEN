@@ -118,7 +118,7 @@ Los cuatro escaparon.
 
 No fue un escape limpio. Fue un escape a pedazos.
 
-Amara corrió con Mara en brazos por calles que no conocía, calles con nombres que no había leído nunca, calles que olían a fritanga y a humedad. Corría sin mirar atrás, porque mirar atrás era devolverse, y llevaba a la niña apretada contra el pecho, y la niña no lloraba, no gritaba, llevaba la mejilla pegada al cuello de su madre y el papel de la espiral aplastado entre las dos, sin decir nada.
+Amara corrió con Mara de la mano por calles que no conocía, calles con nombres que no había leído nunca, calles que olían a fritanga y a humedad. Corría sin mirar atrás, porque mirar atrás era devolverse, y apretaba la muñeca de su hija como se aprieta lo único que no se puede perder, y Mara no lloraba, no gritaba, corría a su lado con el paso largo de los que ya han dado el estirón y el papel de la espiral aplastado en el puño, sin decir nada.
 
 —No mires atrás, cariño —dijo Amara, sin aliento.
 

@@ -30,7 +30,7 @@ Tolina la miró, con la mirada de los que han esperado mucho para poder decir un
 
 Mara no dijo que no.
 
-No se sorprendió. No se asustó. Se quedó un momento mirando la nave, que se recortaba en el cielo de la meseta, y comprendió que llevaba preparándose para ese viaje toda la vida, aunque no lo supiera. Había oído el Archivo desde niña. Había estado de los dos lados desde antes de tener palabras para eso. Subir a la nave no era irse de la Tierra: era ir a un sitio que ya estaba en ella.
+No le sorprendió, y tampoco le dio miedo. Se quedó un momento mirando la nave, que se recortaba en el cielo de la meseta, y comprendió que llevaba preparándose para ese viaje toda la vida, aunque no lo supiera. Había oído el Archivo desde niña. Había estado de los dos lados desde antes de tener palabras para eso. Subir a la nave no era irse de la Tierra: era ir a un sitio que ya estaba en ella.
 
 No se lo dijo al círculo antes de ir. ¿Se lo dijo después? No. No le dijo nada a casi nadie. Se lo dijo a su madre, la noche antes, en la cocina, con las tazas de café humeando entre las dos, con el silencio de las madrugadas que preceden a las cosas grandes.
 
@@ -55,6 +55,34 @@ Mara miró a su madre durante mucho rato.
 Subió al día siguiente, al amanecer.
 
 Fue sola. No quiso escoltas, no quiso cámaras, no quiso que nadie la viera ir. Caminó desde el valle hasta la meseta, con la luz baja, con la hierba mojada, con el silbo del valle, su silbo, el de todos, pasándole por dentro como le pasaba desde que tenía memoria.
+
+Y a mitad del camino, en el paso de la meseta, se encontró con los que la esperaban.
+
+No eran muchos. Eran cuatro, cinco, gente que había venido de lejos, que llevaba días esperándola en el camino, con la mirada de los que han perdido algo y creen que alguien puede devolvérselo. No la rodearon con violencia. La rodearon con esperanza: se pusieron delante, en fila, y uno de ellos, el que llevaba la voz, le dijo que no la iban a dejar pasar.
+
+—Cante para nuestros muertos —dijo—. Usted oye lo que los demás no oyen. Cante la melodía para los que se fueron, y que les llegue. Es lo único que le pedimos. Después puede seguir su camino.
+
+Y uno de ellos, sin fuerza, como quien sujeta lo que cree que se le va, le puso la mano en el brazo.
+
+Mara se detuvo en el camino, con la luz baja, con la mano en el brazo, con la nave allá arriba, y no se soltó. No la necesitaba: se quedó.
+
+—No canto para los muertos —dijo—. No sé. La melodía no la canto yo: se canta sola, y va donde tiene que ir, y yo no la mando. Si se la canto, se la cantaré a ustedes, que es a quien la melodía busca: a los vivos que llevan a sus muertos dentro.
+
+—¿Y nuestros muertos? —preguntó el que llevaba la voz, y se le rompió la voz—. ¿No los oye?
+
+Mara los miró, uno a uno, a los que habían venido de lejos a pedirle que hablara con sus muertos, y comprendió que no eran peligro: eran el mismo miedo que el valle conocía, el de los que no saben si lo que perdieron se queda con ellos. Y se sentó en la tierra, en mitad del camino, y silbó la melodía, la de todos, la de siempre, despacio, una vez, y después otra, hasta que los que la rodeaban se fueron sentando también, y el silbo se pasó de boca en boca, y cuando terminó, nadie recordaba ya por qué la había detenido.
+
+—¿Se queda con nosotros? —preguntó el que llevaba la voz, con otra voz.
+
+—No —dijo Mara, levantándose—. Voy a la nave. Pero ustedes ya tienen la melodía. Y la melodía, a los que llevan dentro, no se los devuelve: se los recuerda. Y recordarlos, es la manera de no perderlos.
+
+—¿Y el año que viene? —dijo el hombre—. El año que viene, por estas fechas, ¿vuelve a silbarla con nosotros?
+
+—Sí —dijo Mara.
+
+Lo dijo sin pensarlo, como se dicen las cosas buenas: deprisa, para que no dé tiempo a arrepentirse. Y siguió caminando, y nadie la detuvo, y los que la habían esperado se quedaron en el camino, silbando bajito la melodía que se llevaban, sin saber si habían ganado o perdido algo, con los suyos, de pronto, un poco más cerca. Y el valle, que la había visto salir sola al amanecer, supo esa noche lo que había pasado en el camino, y desde entonces nadie la dejó salir sola.
+
+Tardó dos años en entender lo que había hecho aquella tarde. Porque los cuatro o cinco que la habían esperado en la meseta volvieron al año siguiente, y no volvieron solos: volvieron con los suyos, y los suyos con los suyos, y para el tercer año había en el camino gente que no había perdido a nadie y que iba de todas formas, porque se había corrido la voz de que una vez al año, en aquel paso, una muchacha cantaba con los muertos. Nadie lo dijo así al principio. Se dijo así solo. Y Mara, que se había sentado en la tierra para que unos cuantos dejaran de tener miedo, descubrió con los años que aquella tarde, sin querer, con la mejor intención del mundo y en menos de una hora, había fundado exactamente lo que los suyos llevaban doce mil años intentando no fundar.
 
 La puerta de la nave no se abrió hasta que estuvo delante.
 
@@ -140,11 +168,11 @@ No fue una caída. Fue un descenso: despacio, por la rampa de la nave, con los p
 
 Y cuando Sarn puso el pie en la tierra de la meseta, cuando sintió por primera vez el peso del mundo debajo del pie, el suelo respondiendo, el mundo entero sosteniéndola, se quedó inmóvil, con los pies en la tierra, con la cabeza baja, con cómo el cuerpo recibe lo que llevaba toda la vida esperando sin nombrarlo.
 
-—Es firme —dijo, con la emoción quebrada—. Es firme. Más firme de como oí decir. Es como si el mundo estuviera de acuerdo con que yo esté aquí.
+—Es firme —dijo, y apretó los pies contra la tierra—. Es firme. Más firme de como oí decir. Es como si el mundo estuviera de acuerdo con que yo esté aquí.
 
 Mara la miró, sin moverse, con la guarda entera dentro, con el valle abajo, con la nave detrás, con los otros a bordo asomados a las ventanas, mirando a la primera de los suyos pisar el suelo que ellos todavía no podían pisar.
 
-—Bienvenida —dijo Mara, tranquila—. Bienvenida a este lado. Es el mismo lado del tuyo, visto desde abajo. Y aquí, Sarn, la espera de tu madre se ha cumplido, no por ella: por ti. Y las dos han ganado, porque las dos estaban esperando lo mismo: que llegara alguien que pisara por las dos.
+—Bienvenida —dijo Mara, y le costó—. Bienvenida a este lado. Es el mismo lado del tuyo, visto desde abajo. Y aquí, Sarn, la espera de tu madre se ha cumplido, no por ella: por ti. Y las dos han ganado, porque las dos estaban esperando lo mismo: que llegara alguien que pisara por las dos.
 
 Sarn se puso de pie en la tierra, con los pies firmes, con las lágrimas que le bajaban sin que le diera vergüenza, con el mundo entero sosteniéndola.
 
